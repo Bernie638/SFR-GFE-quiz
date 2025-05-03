@@ -4,10 +4,33 @@ let currentIndex = 0;
 let score = 0;
 
 async function loadTopics() {
-  const response = await fetch('topics/');
-  const text = await response.text();
-  const matches = [...text.matchAll(/href="(.*?)\.json"/g)];
-  const topicList = matches.map(m => m[1]);
+  const topicList = [
+    
+	"Basic Energy Concepts".
+	"Bkrs, Rlys, and Disconnects",
+	"Control Rods",
+	"Controllers and Positioners",
+	"Core Thermal Limits",
+	"Demins and Ion Exchange",
+	"Fluid Statics and Dynamics",
+	"Heat Exchangers",
+	"Heat Transfer",
+	"Motors and Generators",
+	"Neutron Life Cycle",
+	"Neutrons",
+	"Pumps",
+	"Reactivity Coefficients",
+	"Reactor Kinetics and Neutron Sources",
+	"Reactor Operational Physics",
+	"Sensors and Detectors",
+	"Thermal Hydraulics",
+	"Thermodynamic Cycles",
+	"Thermodynamic Processes",
+	"Thermodynamic Units and Properties",
+	"Valves"
+	
+    // Add more topics here (filenames without .json)
+  ];
 
   const container = document.getElementById('topic-selectors');
   container.innerHTML = '';
@@ -18,6 +41,7 @@ async function loadTopics() {
     container.appendChild(document.createElement('br'));
   });
 }
+
 
 function selectAll(state) {
   document.querySelectorAll('#topic-selectors input[type=checkbox]').forEach(cb => cb.checked = state);
