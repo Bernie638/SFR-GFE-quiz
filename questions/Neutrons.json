@@ -1,0 +1,262 @@
+[
+  {
+    "id": "NEU887",
+    "topic": "Neutrons",
+    "question": "Delayed neutrons are fission neutrons that...",
+    "image": "",
+    "choices": [
+      "A. are released at the instant of fission.",
+      "B. are responsible for the majority of U-235 fissions.",
+      "C. have reached thermal equilibrium with the surrounding medium.",
+      "D. are expelled at a lower average kinetic energy than most other fission neutrons."
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "NEU888",
+    "topic": "Neutrons",
+    "question": "Delayed neutrons are neutrons that...\n-656-\nPWR Test Items",
+    "image": "",
+    "choices": [
+      "A. are responsible for the majority of U-235 fissions.",
+      "B. are expelled within 1.0 x 10-14 seconds of the fission event.",
+      "C. have reached thermal equilibrium with the surrounding medium.",
+      "D. are produced from the radioactive decay of certain fission fragments."
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "NEU889",
+    "topic": "Neutrons",
+    "question": "Which one of the following is a characteristic of a prompt neutron?",
+    "image": "",
+    "choices": [
+      "A. Expelled with an average kinetic energy of 0.5 MeV.",
+      "B. Usually emitted by the excited nucleus of a fission product.",
+      "C. Accounts for more than 99 percent of fission neutrons.",
+      "D. Released an average of 13 seconds after the fission event."
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "NEU890",
+    "topic": "Neutrons",
+    "question": "A neutron that is expelled 1.0 x 10-2 seconds after the associated fission event is a __________\nneutron.\n-657-\nPWR Test Items",
+    "image": "",
+    "choices": [
+      "A. thermal",
+      "B. delayed",
+      "C. prompt",
+      "D. capture"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "NEU891",
+    "topic": "Neutrons",
+    "question": "A neutron that is expelled 1.0 x 10-6 seconds after the associated fission event is a __________\nneutron.",
+    "image": "",
+    "choices": [
+      "A. thermal",
+      "B. prompt",
+      "C. delayed",
+      "D. capture"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "NEU892",
+    "topic": "Neutrons",
+    "question": "Which one of the following types of neutrons has an average neutron generation lifetime of 12.5\nseconds?\n-658-\nPWR Test Items",
+    "image": "",
+    "choices": [
+      "A. Prompt",
+      "B. Delayed",
+      "C. Fast",
+      "D. Thermal"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "NEU893",
+    "topic": "Neutrons",
+    "question": "In a comparison between a delayed neutron and a prompt neutron produced from the same fission\nevent, the prompt neutron is more likely to... (Assume that both neutrons remain in the core.)",
+    "image": "",
+    "choices": [
+      "A. require a greater number of collisions to become a thermal neutron.",
+      "B. be captured by U-238 at a resonance energy peak between 1 eV and 1000 eV.",
+      "C. be expelled with a lower kinetic energy.",
+      "D. cause thermal fission of a U-235 nucleus."
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "NEU894",
+    "topic": "Neutrons",
+    "question": "In a comparison between a delayed neutron and a prompt neutron produced from the same fission\nevent, the prompt neutron is more likely to... (Assume that both neutrons remain in the core.)\n-659-\nPWR Test Items",
+    "image": "",
+    "choices": [
+      "A. cause fast fission of a U-238 nucleus.",
+      "B. be captured by a U-238 nucleus at a resonance energy between 1 eV and 1000 eV.",
+      "C. be captured by a Xe-135 nucleus.",
+      "D. cause thermal fission of a U-235 nucleus."
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "NEU895",
+    "topic": "Neutrons",
+    "question": "A neutron that is released 1.0 x 10-10 seconds after the associated fission event is classified as a\n__________ fission neutron.",
+    "image": "",
+    "choices": [
+      "A. delayed",
+      "B. prompt",
+      "C. thermal",
+      "D. spontaneous"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "NEU896",
+    "topic": "Neutrons",
+    "question": "In a comparison between a prompt neutron and a delayed neutron produced from the same fission\nevent, the delayed neutron requires __________ collisions in the moderator to become thermal; and\nis __________ likely to cause fission of a U-238 nucleus. (Assume that both neutrons remain in the\ncore.)\n-660-\nPWR Test Items",
+    "image": "",
+    "choices": [
+      "A. more; more",
+      "B. more; less",
+      "C. fewer; more",
+      "D. fewer; less"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "NEU897",
+    "topic": "Neutrons",
+    "question": "In a comparison between a delayed neutron and a prompt neutron produced from the same fission\nevent, the prompt neutron is more likely to...",
+    "image": "",
+    "choices": [
+      "A. be captured by a Xe-135 nucleus.",
+      "B. cause thermal fission of a U-235 nucleus.",
+      "C. leak out of the core while slowing down.",
+      "D. be captured by a U-238 nucleus at a resonance energy."
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "NEU898",
+    "topic": "Neutrons",
+    "question": "In a comparison between a delayed neutron and a prompt neutron produced from the same fission\nevent, the delayed neutron is more likely to...\n-661-\nPWR Test Items",
+    "image": "",
+    "choices": [
+      "A. leak out of the core.",
+      "B. cause fission of a U-238 nucleus.",
+      "C. become a thermal neutron.",
+      "D. cause fission of a Pu-240 nucleus."
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "NEU899",
+    "topic": "Neutrons",
+    "question": "During a brief time interval in a typical reactor operating steady-state near the beginning of a fuel\ncycle, 1.0 x 103 delayed neutrons were emitted.\nApproximately how many prompt neutrons were emitted during this same time interval?",
+    "image": "",
+    "choices": [
+      "A. 1.5 x 105",
+      "B. 6.5 x 106",
+      "C. 1.5 x 107",
+      "D. 6.5 x 108"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "NEU900",
+    "topic": "Neutrons",
+    "question": "Which one of the following types of neutrons in a reactor is more likely to cause fission of a U-238\nnucleus in the reactor fuel? (Assume that each type of neutron remains in the reactor until it\ninteracts with a U-238 nucleus.)\n-662-\nPWR Test Items",
+    "image": "",
+    "choices": [
+      "A. A thermal neutron.",
+      "B. A prompt fission neutron beginning to slow down.",
+      "C. A delayed fission neutron beginning to slow down.",
+      "D. A fission neutron at a U-238 resonance energy."
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "NEU901",
+    "topic": "Neutrons",
+    "question": "A neutron that appears 1.0 x 10-16 seconds after the associated fission event is classified as a\n__________ fission neutron.\n-663-\nPWR Test Items",
+    "image": "",
+    "choices": [
+      "A. delayed",
+      "B. prompt",
+      "C. thermal",
+      "D. spontaneous"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "NEU902",
+    "topic": "Neutrons",
+    "question": "In a comparison between a delayed neutron and a prompt neutron produced from the same fission\nevent, the delayed neutron is more likely to... (Assume that each neutron remains in the core unless\notherwise stated.)",
+    "image": "",
+    "choices": [
+      "A. cause fission of a U-238 nucleus.",
+      "B. travel to an adjacent fuel assembly.",
+      "C. be absorbed in a B-10 nucleus.",
+      "D. leak out of the core."
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "NEU903",
+    "topic": "Neutrons",
+    "question": "Which one of the following is the process that produces the majority of delayed neutrons in an\noperating nuclear power plant reactor?\nreleases a delayed neutron.\nprocess of the fission products, a delayed neutron is emitted.\nreleases a delayed neutron.\nprocess of the fission products, a delayed neutron is emitted.\n-664-\nPWR Test Items",
+    "image": "",
+    "choices": [
+      "A. A thermal neutron is absorbed by a fuel nucleus. After a period of time, the nucleus fissions and",
+      "B. A thermal neutron is absorbed by a fuel nucleus. The fuel nucleus fissions. During the decay",
+      "C. A fast neutron is absorbed by a fuel nucleus. After a period of time, the nucleus fissions and",
+      "D. A fast neutron is absorbed by a fuel nucleus. The fuel nucleus fissions. During the decay"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "NEU904",
+    "topic": "Neutrons",
+    "question": "Which one of the following is the process that produces the majority of prompt neutrons in an\noperating nuclear power plant reactor?\nemits one or more prompt neutrons.\nand produces fission products. During the decay of the fission products, one or more prompt\nneutrons are emitted.\nemits one or more prompt neutrons.\nproduces fission products. During the decay of the fission products, one or more prompt\nneutrons are emitted.",
+    "image": "",
+    "choices": [
+      "A. A thermal neutron is absorbed by a fuel nucleus. Almost immediately, the nucleus fissions and",
+      "B. A thermal neutron is absorbed by a fuel nucleus. Almost immediately, the fuel nucleus fissions",
+      "C. A fast neutron is absorbed by a fuel nucleus. Almost immediately, the nucleus fissions and",
+      "D. A fast neutron is absorbed by a fuel nucleus. Almost immediately, the fuel nucleus fissions and"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "NEU905",
+    "topic": "Neutrons",
+    "question": "Which one of the following nuclei will cause the greater loss of kinetic energy from a 2.1 MeV fission\nneutron during a head-on collision? (Assume that each nucleus is stationary just prior to the collision\nand the neutron is elastically scattered in all cases.)\n-665-\nPWR Test Items",
+    "image": "",
+    "choices": [
+      "A. A helium-4 nucleus in the fuel rod fill gas.",
+      "B. An oxygen-16 nucleus in the reactor coolant.",
+      "C. A zirconium-90 nucleus in the fuel cladding.",
+      "D. A uranium-235 nucleus in a fuel pellet."
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "NEU906",
+    "topic": "Neutrons",
+    "question": "Delayed neutrons are fission neutrons that...\n-666-\nPWR Test Items",
+    "image": "",
+    "choices": [
+      "A. have an average lifetime of about 80 seconds.",
+      "B. have an average kinetic energy of about 2 MeV.",
+      "C. are responsible for less than one percent of all fissions.",
+      "D. are in thermal equilibrium with the surrounding medium."
+    ],
+    "answer": "C"
+  }
+]

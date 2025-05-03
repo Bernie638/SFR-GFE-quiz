@@ -1,0 +1,28 @@
+[
+  {
+    "id": "BAS1185",
+    "topic": "Basic Energy Concepts",
+    "question": "Refer to the drawing of a section of 6-inch diameter pipe containing subcooled water flowing from\nleft to right at 100 gpm (see figure below).\nThe pipe is frictionless and no heat transfer is occurring. Point B is 10 feet higher in elevation than\npoint A.\nHow does the enthalpy of the water at point A compare to point B?\nconverted to enthalpy as it flows to point B.\nconverted to potential energy as it flows to point B.\nheat transfer is occurring.\ndoes not change from point A to point B.\n-839-\nPWR Test Items",
+    "image": "page839_img1.jpeg",
+    "choices": [
+      "A. The enthalpy of the water at point A is smaller, because some of the water\u2019s kinetic energy is",
+      "B. The enthalpy of the water at point A is greater, because some of the water\u2019s enthalpy is",
+      "C. The enthalpy of the water at points A and B is the same, because the pipe is frictionless and no",
+      "D. The enthalpy of the water at points A and B is the same, because the total energy of the water"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "BAS1186",
+    "topic": "Basic Energy Concepts",
+    "question": "For which of the following ideal processes, if any, is the fluid outlet enthalpy greater than the fluid\ninlet enthalpy? (Assume horizontal fluid flow in each process.)\n(A) Cooling water flowing through a fixed convergent nozzle.\n(B) Cooling water flowing through an operating lube oil heat exchanger.\n-840-\nPWR Test Items",
+    "image": "",
+    "choices": [
+      "A. (A) only",
+      "B. (B) only",
+      "C. Both (A) and (B)",
+      "D. Neither (A) nor (B)"
+    ],
+    "answer": "B"
+  }
+]

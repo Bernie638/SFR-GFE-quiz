@@ -1,0 +1,1470 @@
+[
+  {
+    "id": "CON275",
+    "topic": "Controllers and Positioners",
+    "question": "The difference between the setpoint in an automatic controller and the steady-state value of the\ncontrolled parameter is called...",
+    "image": "",
+    "choices": [
+      "A. offset.",
+      "B. gain.",
+      "C. deadband.",
+      "D. feedback."
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "CON276",
+    "topic": "Controllers and Positioners",
+    "question": "The range of values around the setpoint of a measured variable where no action occurs in an\nautomatic flow controller is called...\n-197-\nPWR Test Items",
+    "image": "",
+    "choices": [
+      "A. deviation.",
+      "B. error.",
+      "C. deadband.",
+      "D. bias."
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "CON277",
+    "topic": "Controllers and Positioners",
+    "question": "An automatic flow controller is being used to position a valve in a cooling water system. The\ncontroller develops a flow error signal and then increases the magnitude of the signal to drive the\nvalve operator.\nThe factor by which the magnitude of the flow error signal is increased is referred to as...",
+    "image": "",
+    "choices": [
+      "A. bias.",
+      "B. gain.",
+      "C. feedback.",
+      "D. offset."
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "CON278",
+    "topic": "Controllers and Positioners",
+    "question": "A typical flow controller uses a/an __________ method of control.\n-198-\nPWR Test Items",
+    "image": "",
+    "choices": [
+      "A. open-loop",
+      "B. on-off",
+      "C. closed-loop",
+      "D. external regulating"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "CON279",
+    "topic": "Controllers and Positioners",
+    "question": "Which one of the following terms is used to describe the delay between a process parameter change\nand the sensing of that change by the process controller?",
+    "image": "",
+    "choices": [
+      "A. Offset",
+      "B. Gain",
+      "C. Dead time",
+      "D. Time constant"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "CON280",
+    "topic": "Controllers and Positioners",
+    "question": "An automatic flow controller is being used to position a valve in a cooling water system. A signal\nthat is proportional to valve position is received by the controller. This signal is referred to as...\n-199-\nPWR Test Items",
+    "image": "",
+    "choices": [
+      "A. gain.",
+      "B. bias.",
+      "C. feedback.",
+      "D. error."
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "CON281",
+    "topic": "Controllers and Positioners",
+    "question": "A flow controller has proportional, integral, and derivative control features. Which one of the\nfollowing lists the effect on the control features when the controller is switched from the automatic\nmode to the manual mode?",
+    "image": "",
+    "choices": [
+      "A. Only the derivative feature will be lost.",
+      "B. Only the integral and derivative features will be lost.",
+      "C. All proportional, integral, and derivative features will be lost.",
+      "D. All control features will continue to influence the controller output."
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "CON282",
+    "topic": "Controllers and Positioners",
+    "question": "Consider a direct-acting proportional flow controller that is maintaining flow rate at a value that is\noffset from the controller setpoint. If the controllers gain is increased, the controller\u2019s offset will\n__________; and the controller\u2019s proportional band will __________.\n-200-\nPWR Test Items",
+    "image": "",
+    "choices": [
+      "A. decrease; decrease",
+      "B. decrease; increase",
+      "C. increase; decrease",
+      "D. increase; increase"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "CON283",
+    "topic": "Controllers and Positioners",
+    "question": "An emergency diesel generator (DG) is operating as the only power source connected to an\nemergency bus. The governor of the DG is directly sensing DG __________ and will directly\nadjust DG __________ flow to maintain a relatively constant DG frequency.",
+    "image": "",
+    "choices": [
+      "A. speed; air",
+      "B. speed; fuel",
+      "C. load; air",
+      "D. load; fuel"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "CON284",
+    "topic": "Controllers and Positioners",
+    "question": "If the turbine shaft speed signal received by a typical turbine governor control system fails low during\nturbine startup, the turbine governor will cause turbine speed to...\n-201-\nPWR Test Items",
+    "image": "",
+    "choices": [
+      "A. decrease to a minimum speed setpoint.",
+      "B. decrease until the mismatch with demanded turbine speed is nulled.",
+      "C. increase until the mismatch with demanded turbine speed is nulled.",
+      "D. increase until an upper limit is reached or the turbine trips on overspeed."
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "CON285",
+    "topic": "Controllers and Positioners",
+    "question": "A diesel generator (DG) is the only power source connected to an emergency bus. In this\nalignment, the governor of the DG directly senses DG __________ and adjusts DG fuel flow to\nmaintain a relatively constant DG __________.",
+    "image": "",
+    "choices": [
+      "A. voltage; voltage",
+      "B. voltage; frequency",
+      "C. speed; voltage",
+      "D. speed; frequency"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "CON286",
+    "topic": "Controllers and Positioners",
+    "question": "If the turbine shaft speed signal received by a typical turbine governor control system fails high\nduring turbine startup, the turbine governor will cause turbine speed to...\n-202-\nPWR Test Items",
+    "image": "",
+    "choices": [
+      "A. increase until an upper limit is reached or the turbine trips on overspeed.",
+      "B. increase until the mismatch with the turbine speed demand signal is nulled.",
+      "C. decrease until a lower limit is reached or turbine steam flow is isolated.",
+      "D. decrease until the mismatch with the turbine speed demand signal is nulled."
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "CON287",
+    "topic": "Controllers and Positioners",
+    "question": "Refer to the drawing of a water storage tank and level control system (see figure below) that have\njust been returned to service following replacement of the drain valve actuator. Unfortunately, the\noriginal direct-acting actuator was mistakenly replaced with a reverse-acting actuator.\nGiven:\n\uf0b7 The drain valve will now fail open if operating air pressure is lost.\n\uf0b7 The level control system uses a direct-acting proportional-integral level controller with a\nsetpoint of 15 feet.\n\uf0b7 The level controller receives input from a direct-acting level sensor.\n\uf0b7 The level controller is currently in manual control, with an operator maintaining the tank\nwater level at 14 feet.\n\uf0b7 Tank inlet and outlet flow rates are currently equal with the drain valve 50 percent open.\nIf the level controller is shifted to automatic control, the tank water level will\u2026\n-203-\nPWR Test Items",
+    "image": "page203_img1.jpeg",
+    "choices": [
+      "A. increase and stabilize at 15 feet.",
+      "B. increase and stabilize slightly higher than 15 feet.",
+      "C. decrease until the tank nearly empties.",
+      "D. increase until the tank overflows."
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "CON288",
+    "topic": "Controllers and Positioners",
+    "question": "Refer to the drawing of a 30-foot water storage tank and its level control system (see figure below).\nThe level control system has just been returned to service following replacement of the drain valve\nactuator. Unfortunately, the original direct-acting actuator was mistakenly replaced with a reverse-\nacting actuator.\nGiven:\n\uf0b7 The drain valve will now fail open if air pressure is lost to its actuator.\n\uf0b7 The level control system uses a direct-acting level sensor and a direct-acting proportional-\nintegral level controller with a setpoint of 15 feet.\n\uf0b7 The tank water level is stable at 16 feet with the drain valve 50 percent open.\n\uf0b7 The level controller is in Manual control.\nIf the level controller is shifted to Automatic control, the tank water level will\u2026\n-204-\nPWR Test Items",
+    "image": "page204_img1.jpeg",
+    "choices": [
+      "A. increase until the tank overflows.",
+      "B. decrease until the tank almost completely empties.",
+      "C. initially increase, and then decrease and stabilize at 15 feet.",
+      "D. initially decrease, and then increase and stabilize at 15 feet."
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "CON289",
+    "topic": "Controllers and Positioners",
+    "question": "Refer to the drawing of a water storage tank with an automatic level control system (see figure\nbelow). The makeup valve will fail closed if its actuator loses air pressure.\nGiven the following possible combinations of characteristics for the level sensor and controller:\nLevel Sensor Controller\n1. Direct-Acting Direct-Acting\n2. Direct-Acting Reverse-Acting\n3. Reverse-Acting Direct-Acting\n4. Reverse-Acting Reverse-Acting\nWhich of the above combinations will work effectively with the makeup valve in the level control\nsystem to maintain the desired tank water level?\n-205-\nPWR Test Items",
+    "image": "page205_img1.jpeg",
+    "choices": [
+      "A. 1 only",
+      "B. 1 and 4",
+      "C. 2 only",
+      "D. 2 and 3"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "CON290",
+    "topic": "Controllers and Positioners",
+    "question": "Refer to the drawing of a lube oil temperature control system (see figure below).\nIf the temperature transmitter fails high (high temperature output signal), the temperature controller\nwill position the temperature control valve more __________, causing the actual heat exchanger lube\noil outlet temperature to __________.\n-206-\nPWR Test Items",
+    "image": "page206_img1.png",
+    "choices": [
+      "A. open; decrease",
+      "B. open; increase",
+      "C. closed; decrease",
+      "D. closed; increase"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "CON291",
+    "topic": "Controllers and Positioners",
+    "question": "If a typical flow controller is in manual control, the output of the flow controller is determined by\nthe...\n-207-\nPWR Test Items",
+    "image": "",
+    "choices": [
+      "A. operator.",
+      "B. system feedback.",
+      "C. plant computer.",
+      "D. flow error signal."
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "CON292",
+    "topic": "Controllers and Positioners",
+    "question": "Refer to the drawing of a lube oil temperature control system (see figure below).\nIf the temperature transmitter fails low (low temperature output signal), the temperature controller\nwill position the temperature control valve in the __________ direction, which causes the actual heat\nexchanger lube oil outlet temperature to __________.\n-208-\nPWR Test Items",
+    "image": "page208_img1.png",
+    "choices": [
+      "A. close; increase",
+      "B. close; decrease",
+      "C. open; increase",
+      "D. open; decrease"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "CON293",
+    "topic": "Controllers and Positioners",
+    "question": "Refer to the drawing of a lube oil temperature control system (see figure below).\nWhich one of the following describes the type of control used in the lube oil temperature control\nsystem?\nlube oil temperature transmitter.\nin a separate system.\nlube oil temperature transmitter.\nin a separate system.\n-209-\nPWR Test Items",
+    "image": "page209_img1.png",
+    "choices": [
+      "A. Open loop, because lube oil temperature feedback is being provided to the controller from the",
+      "B. Open loop, because lube oil temperature is being controlled by positioning a flow control valve",
+      "C. Closed loop, because lube oil temperature feedback is being provided to the controller from the",
+      "D. Closed loop, because lube oil temperature is being controlled by positioning a flow control valve"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "CON294",
+    "topic": "Controllers and Positioners",
+    "question": "Refer to the drawing of a lube oil temperature control system (see figure below). The temperature\ncontrol valve is currently 50 percent open.\nIf the cooling water inlet temperature decreases, the temperature controller will position the\ntemperature control valve more __________, causing cooling water differential temperature through\nthe heat exchanger to __________.\n-210-\nPWR Test Items",
+    "image": "page210_img1.png",
+    "choices": [
+      "A. closed; increase",
+      "B. closed; decrease",
+      "C. open; increase",
+      "D. open; decrease"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "CON295",
+    "topic": "Controllers and Positioners",
+    "question": "Refer to the drawing of a pressure alarm circuit (see figure below). The orientation of the bistable\nsymbol indicates the characteristics of the bistable, as is normal for a control circuit diagram.\nThe bistable turns on to actuate an alarm at a system pressure of 100 psig. The bistable has a 5 psig\ndeadband, or neutral zone.\nIf current system pressure is 90 psig, which one of the following describes the alarm circuit response\nas system pressure slowly increases to 110 psig?\n-211-\nPWR Test Items",
+    "image": "page211_img1.jpeg",
+    "choices": [
+      "A. The alarm is currently actuated and will turn off at 95 psig.",
+      "B. The alarm will actuate at 100 psig and will not turn off.",
+      "C. The alarm is currently actuated and will turn off at 105 psig.",
+      "D. The alarm will actuate at 100 psig and will turn off at 105 psig."
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "CON296",
+    "topic": "Controllers and Positioners",
+    "question": "Refer to the drawing of a pressure alarm circuit (see figure below). The orientation of the bistable\nsymbol indicates the characteristics of the bistable, as is normal for a control circuit diagram.\nThe bistable turns on to actuate an alarm at a system pressure of 100 psig. The bistable has a 5 psig\ndeadband, or neutral zone.\nIf system pressure is currently 90 psig, which one of the following describes the alarm circuit\nresponse as system pressure slowly increases to 110 psig?\n-212-\nPWR Test Items",
+    "image": "page212_img1.jpeg",
+    "choices": [
+      "A. The alarm is currently actuated and will turn off at 95 psig.",
+      "B. The alarm will actuate at 100 psig and will not turn off.",
+      "C. The alarm is currently actuated and will turn off at 105 psig.",
+      "D. The alarm will actuate at 100 psig and will turn off at 105 psig."
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "CON297",
+    "topic": "Controllers and Positioners",
+    "question": "Refer to the drawing of a pressure alarm circuit (see figure below). The orientation of the bistable\nsymbol indicates the characteristics of the bistable, as is normal for a control circuit diagram.\nThe bistable turns on to actuate an alarm at a system pressure of 100 psig. The bistable has a 5 psig\ndeadband, or neutral zone.\nIf system pressure is currently 110 psig, which one of the following describes the alarm circuit\nresponse as system pressure slowly decreases to 90 psig?\n-213-\nPWR Test Items",
+    "image": "page213_img1.jpeg",
+    "choices": [
+      "A. The alarm will actuate at 100 psig and will not turn off.",
+      "B. The alarm will actuate at 100 psig and will turn off at 95 psig.",
+      "C. The alarm is currently actuated and will not turn off.",
+      "D. The alarm is currently actuated and will turn off at 95 psig."
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "CON298",
+    "topic": "Controllers and Positioners",
+    "question": "Refer to the drawing of four bistable symbols (see figure below).\nA temperature controller uses a bistable that turns on to actuate a warning light when the controlled\ntemperature reaches a low setpoint. The warning light extinguishes immediately after the\ntemperature increases above the low setpoint.\nWhich one of the following bistable symbols indicates the characteristics of the bistable?\n-214-\nPWR Test Items",
+    "image": "page214_img1.jpeg",
+    "choices": [
+      "A. 1.",
+      "B. 2.",
+      "C. 3.",
+      "D. 4."
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "CON299",
+    "topic": "Controllers and Positioners",
+    "question": "Refer to the drawing of four bistable symbols (see figure below).\nA temperature controller uses a bistable that turns on to actuate a warning light when the controlled\ntemperature reaches a high setpoint. The bistable turns off to extinguish the warning light when the\ntemperature decreases to 5\u00b0F below the high setpoint.\nWhich one of the following bistable symbols indicates the characteristics of the bistable?\n-215-\nPWR Test Items",
+    "image": "page215_img1.jpeg",
+    "choices": [
+      "A. 1.",
+      "B. 2.",
+      "C. 3.",
+      "D. 4."
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "CON300",
+    "topic": "Controllers and Positioners",
+    "question": "Refer to the drawing of a temperature alarm circuit (see figure below). The orientation of the\nbistable symbol indicates the characteristics of the bistable, as is normal for a control circuit\ndiagram.\nThe bistable turns on to actuate an alarm at a temperature of 130\u00b0F. The bistable has a 5\u00b0F\ndeadband, or neutral zone.\nIf the current temperature is 150\u00b0F, which one of the following describes the alarm circuit response\nas temperature slowly decreases to 110\u00b0F?\n-216-\nPWR Test Items",
+    "image": "page216_img1.jpeg",
+    "choices": [
+      "A. The alarm is currently actuated and will not turn off.",
+      "B. The alarm will actuate at 130\u00b0F and will not turn off.",
+      "C. The alarm is currently actuated and will turn off at 125\u00b0F.",
+      "D. The alarm will actuate at 130\u00b0F and will turn off at 125\u00b0F."
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "CON301",
+    "topic": "Controllers and Positioners",
+    "question": "Refer to the drawing of a lube oil temperature control system (see figure below).\nThe temperature controller is a direct-acting proportional controller with a gain of 1.0. Which one\nof the following describes the effect of changing the gain to 2.0?\n-217-\nPWR Test Items",
+    "image": "page217_img1.png",
+    "choices": [
+      "A. Half the temperature deviation from setpoint will produce a given controller output.",
+      "B. Twice the temperature deviation from setpoint will produce a given controller output.",
+      "C. The temperature control valve will move half as far for a given change in controller output.",
+      "D. The temperature control valve will move twice as far for a given change in controller output."
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "CON302",
+    "topic": "Controllers and Positioners",
+    "question": "A direct-acting proportional controller is being used with a direct-acting transmitter to control the\ntemperature of lube oil exiting a heat exchanger. The controller\u2019s proportional band is 70\u00b0F to\n120\u00b0F.\nWhich one of the following will be the controller\u2019s output percentage when the measured lube oil\ntemperature is 83\u00b0F?\nSOLUTION:",
+    "image": "",
+    "choices": [
+      "A. 13 percent",
+      "B. 26 percent",
+      "C. 37 percent",
+      "D. 74 percent"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "CON303",
+    "topic": "Controllers and Positioners",
+    "question": "A reverse-acting proportional controller is being used with a direct-acting transmitter to control the\ntemperature of lube oil exiting a heat exchanger. The controller\u2019s proportional band is 70\u00b0F to\n120\u00b0F.\nWhich one of the following will be the controller\u2019s output percentage when the measured lube oil\ntemperature is 83\u00b0F?\n-218-\nPWR Test Items",
+    "image": "",
+    "choices": [
+      "A. 13 percent",
+      "B. 26 percent",
+      "C. 74 percent",
+      "D. 87 percent"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "CON304",
+    "topic": "Controllers and Positioners",
+    "question": "The temperature of the water in a storage tank is monitored by a bistable alarm circuit. If water\ntemperature decreases to 50\u00b0F, a bistable turns on to actuate an alarm indicator. As soon as the\nwater temperature exceeds 50\u00b0F, the bistable turns off to clear the alarm.\nWhich one of the following bistable symbols indicates the characteristics of the bistable used in the\nalarm circuit?\n-219-\nPWR Test Items",
+    "image": "page219_img1.jpeg",
+    "choices": [
+      "A. 1.",
+      "B. 2.",
+      "C. 3.",
+      "D. 4."
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "CON305",
+    "topic": "Controllers and Positioners",
+    "question": "Refer to the drawing of a lube oil temperature control system (see figure below).\nThe temperature controller is a direct-acting proportional controller with a gain of 1.0. Which one\nof the following describes the effect of changing the gain to 2.0?\nstate conditions.\noutput.\n-220-\nPWR Test Items",
+    "image": "page220_img1.png",
+    "choices": [
+      "A. Increases the range of lube oil temperatures that produces a proportional controller response.",
+      "B. Increases the change in valve position resulting from a given change in lube oil temperature.",
+      "C. Increases the difference between the controller setpoint and the lube oil temperature at steady-",
+      "D. Increases the lube oil temperature deviation from setpoint required to produce a given controller"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "CON306",
+    "topic": "Controllers and Positioners",
+    "question": "Refer to the drawing of a lube oil temperature control system (see figure below).\nThe temperature controller is a direct-acting proportional controller. Which one of the following\ndescribes the effect of changing the controller\u2019s gain from 1.0 to 2.0?\n-221-\nPWR Test Items",
+    "image": "page221_img1.png",
+    "choices": [
+      "A. Half the change in measured temperature will produce the same change in controller input.",
+      "B. Twice the change in measured temperature will produce the same change in controller input.",
+      "C. The temperature control valve will move half as far for the same change in controller input.",
+      "D. The temperature control valve will move twice as far for the same change in controller input."
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "CON307",
+    "topic": "Controllers and Positioners",
+    "question": "Refer to the drawing of a lube oil temperature control system (see figure below).\nThe temperature controller is a direct-acting proportional-integral controller with a gain of 1.0. A\nstep increase in lube oil temperature results in an initial controller demand for the temperature\ncontrol valve (TCV) to open an additional 10 percent. After the lube oil temperature stabilizes, the\nfinal TCV position is 60 percent open.\nIf the controller\u2019s gain was 2.0 rather than 1.0, the initial controller demand for the above\ntemperature transient would be for the TCV to open an additional __________ percent; and the final\nTCV position would be __________ percent open.\n-222-\nPWR Test Items",
+    "image": "page222_img1.png",
+    "choices": [
+      "A. 5; 60",
+      "B. 5; less than 60",
+      "C. 20; 60",
+      "D. 20; more than 60"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "CON308",
+    "topic": "Controllers and Positioners",
+    "question": "Refer to the drawing of a lube oil temperature control system (see figure below).\nThe temperature controller is a direct-acting proportional-integral controller with a gain of 1.0. All\nsystem temperatures are initially stable.\nAn increase in lube oil temperature causes the controller to open the temperature control valve\n(TCV) farther. What would be the effect on the TCV response if the controller gain was 2.0 rather\nthan 1.0?\nin response to the lube oil temperature change.\nin response to the lube oil temperature change.\n-223-\nPWR Test Items",
+    "image": "page223_img1.png",
+    "choices": [
+      "A. The final TCV position would be half as far from its initial position.",
+      "B. The final TCV position would be twice as far from its initial position.",
+      "C. The final TCV position would be the same, but the TCV initially would travel a greater distance",
+      "D. The final TCV position would be the same, but the TCV initially would travel a shorter distance"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "CON309",
+    "topic": "Controllers and Positioners",
+    "question": "Refer to the drawing of four bistable symbols (see figure below).\nA temperature controller uses a bistable that turns on to actuate a warning light when the controlled\ntemperature reaches a low setpoint. The bistable turns off to extinguish the warning light when the\ntemperature increases to 5\u00b0F above the low setpoint.\nWhich one of the following bistable symbols indicates the characteristics of the bistable?\n-224-\nPWR Test Items",
+    "image": "page224_img1.jpeg",
+    "choices": [
+      "A. 1.",
+      "B. 2.",
+      "C. 3.",
+      "D. 4."
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "CON310",
+    "topic": "Controllers and Positioners",
+    "question": "A direct-acting proportional controller is being used with a direct-acting transmitter to control the\ntemperature of lube oil exiting a heat exchanger. The controller\u2019s proportional band is 80\u00b0F to\n130\u00b0F.\nWhich one of the following will be the controller\u2019s output percentage when the measured lube oil\ntemperature is 92\u00b0F?\n-225-\nPWR Test Items",
+    "image": "",
+    "choices": [
+      "A. 12 percent",
+      "B. 24 percent",
+      "C. 38 percent",
+      "D. 76 percent"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "CON311",
+    "topic": "Controllers and Positioners",
+    "question": "Refer to the drawing of a temperature alarm circuit (see figure below). The orientation of the\nbistable symbol indicates the characteristics of the bistable, as is normal for a control circuit\ndiagram.\nThe bistable turns on to actuate an alarm at a temperature of 130\u00b0F. The bistable has a 5\u00b0F\ndeadband, or neutral zone.\nIf the current temperature is 150\u00b0F, which one of the following describes the alarm circuit response\nas temperature slowly decreases to 110\u00b0F?\n-226-\nPWR Test Items",
+    "image": "page226_img1.jpeg",
+    "choices": [
+      "A. The alarm is currently actuated and will not turn off.",
+      "B. The alarm will actuate at 130\u00b0F and will not turn off.",
+      "C. The alarm is currently actuated and will turn off at 125\u00b0F.",
+      "D. The alarm will actuate at 130\u00b0F and will turn off at 125\u00b0F."
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "CON312",
+    "topic": "Controllers and Positioners",
+    "question": "Refer to the drawing of a pressure alarm circuit (see figure below). The orientation of the bistable\nsymbol indicates the characteristics of the bistable, as is normal for a control circuit diagram.\nThe bistable turns on to actuate an alarm at a system pressure of 100 psig. The bistable has a 5 psig\ndeadband, or neutral zone.\nIf system pressure increases to 105 psig, and subsequently decreases to __________; the status of the\nalarm will be __________.\n-227-\nPWR Test Items",
+    "image": "page227_img1.jpeg",
+    "choices": [
+      "A. 100 psig; off",
+      "B. 98 psig; off",
+      "C. 94 psig; on",
+      "D. 92 psig; off"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "CON313",
+    "topic": "Controllers and Positioners",
+    "question": "Refer to the drawing of a pressure alarm circuit (see figure below). The orientation of the bistable\nsymbol indicates the characteristics of the bistable, as is normal for a control circuit diagram.\nThe bistable will turn on at a system pressure of 100 psig. The bistable has a 5 psig deadband, or\nneutral zone.\nIf system pressure is currently 98 psig, which one of the following describes the status of the alarm?\n-228-\nPWR Test Items",
+    "image": "page228_img1.jpeg",
+    "choices": [
+      "A. The alarm is not actuated.",
+      "B. The alarm is actuated and will turn off at 95 psig.",
+      "C. The alarm is actuated and will turn off at 105 psig.",
+      "D. Additional information is needed to determine the status of the alarm."
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "CON314",
+    "topic": "Controllers and Positioners",
+    "question": "Refer to the drawing of a lube oil temperature control system (see figure below).\nThe temperature control system uses a direct-acting controller and transmitter. The temperature of\nthe lube oil leaving the heat exchanger is currently stable at 93oF.\nTo be compatible with the controller, the temperature control valve must fail __________ on a loss\nof control air pressure; and for the temperature control system to return the lube oil heat exchanger\noutlet temperature to 93\u00b0F after a large change in lube oil heat loads, the controller must have a/an\n__________ characteristic.\n-229-\nPWR Test Items",
+    "image": "page229_img1.png",
+    "choices": [
+      "A. closed; integral",
+      "B. closed; derivative",
+      "C. open; integral",
+      "D. open; derivative"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "CON315",
+    "topic": "Controllers and Positioners",
+    "question": "Refer to the drawing of a lube oil temperature control system (see figure below).\nThe temperature controller is a direct-acting proportional-only controller with a gain of 2.0. All\nsystem temperatures are initially stable with the temperature control valve (TCV) 40 percent open.\nA sudden increase in the lube oil heat load causes the controller to open the TCV farther.\nEventually, all system temperatures stabilize with the final TCV position at 50 percent open.\nIf the controller\u2019s gain was 1.5 rather than 2.0 when the increase in lube oil heat load occurred, the\nfinal TCV position would be __________; and the TCV would require __________ time to reach its\nfinal position.\n-230-\nPWR Test Items",
+    "image": "page230_img1.png",
+    "choices": [
+      "A. the same; less",
+      "B. the same; more",
+      "C. less than 50 percent open; less",
+      "D. more than 50 percent open; more"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "CON316",
+    "topic": "Controllers and Positioners",
+    "question": "Refer to the drawing of a lube oil temperature control system (see figure below). The temperature\ncontrol system uses a direct-acting transmitter and a direct-acting proportional controller with a 20\u00b0F\nproportional band.\nGiven:\n\uf0b7 The lube oil temperature controller setpoint is 90\uf045F.\n\uf0b7 The heat exchanger lube oil outlet temperature is stable at 93\uf045F.\n\uf0b7 The temperature control valve is 60 percent open.\nIf the controller\u2019s proportional band is changed to 30\u00b0F, the heat exchanger lube oil outlet\ntemperature will stabilize __________ than 93\u00b0F; and the controller output needed to position the\ntemperature control valve to 60 percent open will be __________.\n-231-\nPWR Test Items",
+    "image": "page231_img1.png",
+    "choices": [
+      "A. lower; the same",
+      "B. lower; greater",
+      "C. higher; the same",
+      "D. higher; greater"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "CON317",
+    "topic": "Controllers and Positioners",
+    "question": "An air-operated valve requires 3,600 pounds-force from its diaphragm actuator for proper valve\noperation. The diameter of the diaphragm is 12 inches.\nWhich one of the following is the minimum actuator air pressure needed for proper valve operation?\n-232-\nPWR Test Items",
+    "image": "",
+    "choices": [
+      "A. 32 psig",
+      "B. 47 psig",
+      "C. 81 psig",
+      "D. 96 psig"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "CON318",
+    "topic": "Controllers and Positioners",
+    "question": "Refer to the drawing of a lube oil temperature control system (see figure below).\nThe temperature control system uses a reverse-acting proportional controller and a direct-acting\ntransmitter. The controller\u2019s proportional band is 80\u00b0F to 130\u00b0F.\nWhich one of the following will be the controller\u2019s output percentage when the measured lube oil\ntemperature is 98\u00b0F?\n-233-\nPWR Test Items",
+    "image": "page233_img1.png",
+    "choices": [
+      "A. 18 percent",
+      "B. 32 percent",
+      "C. 36 percent",
+      "D. 64 percent"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "CON319",
+    "topic": "Controllers and Positioners",
+    "question": "The output pressure of a pneumatic controller is typically insufficient to drive a valve actuator\naccurately. To overcome this problem, a pneumatic control system will normally employ a...\n-234-\nPWR Test Items",
+    "image": "",
+    "choices": [
+      "A. valve actuating lead/lag unit.",
+      "B. pressure regulator.",
+      "C. valve positioner.",
+      "D. pressure modulator."
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "CON320",
+    "topic": "Controllers and Positioners",
+    "question": "Which one of the following describes a characteristic of pneumatic valve positioners?\nposition.\nvalve travel.\nvalve actuator diaphragm.",
+    "image": "",
+    "choices": [
+      "A. They provide auto and manual demand signals to valve controllers and valve actuators.",
+      "B. They supply air pressure to valve actuators in response to a control signal to regulate valve",
+      "C. They can either receive or supply air to/from valve controllers, depending on the direction of",
+      "D. They act independently of the valve controller, in order to prevent pressure transients on the"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "CON321",
+    "topic": "Controllers and Positioners",
+    "question": "An air-operated isolation valve requires 4,800 pounds-force from its diaphragm actuator and 4\ninches of stem travel for proper operation. The valve positioner can supply up to 80 psig of air\npressure to the actuator.\nWhat is the minimum surface area of the actuator diaphragm required for proper valve operation?\n-235-\nPWR Test Items",
+    "image": "",
+    "choices": [
+      "A. 15 square inches",
+      "B. 60 square inches",
+      "C. 120 square inches",
+      "D. 240 square inches"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "CON322",
+    "topic": "Controllers and Positioners",
+    "question": "What is the purpose of a valve positioner in a typical pneumatic valve control system?\nvalve.\nvalve.\nactuator air supply pressure to position the valve.\nactuator air supply pressure to position the valve.",
+    "image": "",
+    "choices": [
+      "A. Convert the valve controller pneumatic output signal into a mechanical force to position the",
+      "B. Convert the valve controller pneumatic output signal into an electrical output to position the",
+      "C. Compare the valve controller pneumatic output signal to the valve position, and adjust the valve",
+      "D. Compare the valve controller pneumatic output signal to the setpoint error, and adjust the valve"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "CON323",
+    "topic": "Controllers and Positioners",
+    "question": "An air-operated isolation valve requires 3,200 pounds-force from its diaphragm actuator and 4\ninches of stem travel for proper operation. The area of the actuator diaphragm is 80 square inches.\nWhat is the approximate air pressure required for proper valve operation?\n-236-\nPWR Test Items",
+    "image": "",
+    "choices": [
+      "A. 10 psig",
+      "B. 25 psig",
+      "C. 40 psig",
+      "D. 55 psig"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "CON324",
+    "topic": "Controllers and Positioners",
+    "question": "An air-operated isolation valve requires 3,600 pounds-force from its diaphragm actuator and 4\ninches of stem travel for proper operation. The valve positioner can supply up to 120 psig of air\npressure to the actuator.\nWhat is the minimum surface area of the actuator diaphragm required for proper valve operation?",
+    "image": "",
+    "choices": [
+      "A. 30 square inches",
+      "B. 60 square inches",
+      "C. 90 square inches",
+      "D. 120 square inches"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "CON325",
+    "topic": "Controllers and Positioners",
+    "question": "An air-operated isolation valve requires 2,400 pounds-force applied to the top of the actuator\ndiaphragm to open. The actuator diaphragm has a surface area of 60 square inches and the valve\nstem travels 2 inches from fully open to fully closed.\nIf control air pressure to the valve actuator begins to increase from 0 psig, which one of the\nfollowing is the approximate air pressure required to open the valve?\n-237-\nPWR Test Items",
+    "image": "",
+    "choices": [
+      "A. 10 psig",
+      "B. 20 psig",
+      "C. 30 psig",
+      "D. 40 psig"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "CON326",
+    "topic": "Controllers and Positioners",
+    "question": "An air-operated isolation valve requires 3,200 pounds-force from its diaphragm actuator and 4\ninches of stem travel for proper operation. The area of the actuator diaphragm is 160 square inches.\nWhat is the approximate air pressure required for proper valve operation?",
+    "image": "",
+    "choices": [
+      "A. 20 psig",
+      "B. 40 psig",
+      "C. 60 psig",
+      "D. 80 psig"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "CON327",
+    "topic": "Controllers and Positioners",
+    "question": "An air-operated isolation valve requires 2,800 pounds-force (lbf) from its diaphragm actuator and 4\ninches of stem travel for proper operation. The valve positioner can supply up to 117 psig of air\npressure to the actuator.\nWhat is the minimum surface area of the actuator diaphragm required for proper valve operation?\n-238-\nPWR Test Items",
+    "image": "",
+    "choices": [
+      "A. 24 square inches",
+      "B. 48 square inches",
+      "C. 94 square inches",
+      "D. 138 square inches"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "CON328",
+    "topic": "Controllers and Positioners",
+    "question": "Which one of the following describes the operation of a typical pneumatic valve positioner?\nto the valve controller for adjustment of the demand signal.\nvalve controller to ensure the manual demand signal is tracking the automatic demand signal.\nnecessary to null the valve position error signal.\nthe valve actuator to move the valve to the demanded position.",
+    "image": "",
+    "choices": [
+      "A. Compares the valve controller demand signal with actual valve position and sends an error signal",
+      "B. Compares the valve controller automatic and manual setpoints and sends an error signal to the",
+      "C. Receives a valve position error signal from the valve controller and positions the valve as",
+      "D. Receives a demand signal from the valve controller and supplies the appropriate air pressure to"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "CON329",
+    "topic": "Controllers and Positioners",
+    "question": "An air-operated isolation valve requires 3,600 pounds-force applied to the top of the actuator\ndiaphragm to open. The actuator diaphragm has a diameter of 9 inches and the valve stem travels 3\ninches from fully open to fully closed.\nIf control air pressure to the valve actuator begins to increase from 0 psig, which one of the\nfollowing is the approximate air pressure at which the valve will begin to open?\n-239-\nPWR Test Items",
+    "image": "",
+    "choices": [
+      "A. 14 psig",
+      "B. 57 psig",
+      "C. 81 psig",
+      "D. 127 psig"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "CON330",
+    "topic": "Controllers and Positioners",
+    "question": "An air-operated isolation valve requires 2,400 pounds-force applied to the top of the actuator\ndiaphragm to open. The actuator diaphragm has a diameter of 12 inches.\nIf control air pressure to the valve actuator begins to increase from 0 psig, which one of the\nfollowing is the approximate air pressure at which the valve will begin to open?",
+    "image": "",
+    "choices": [
+      "A. 21 psig",
+      "B. 34 psig",
+      "C. 43 psig",
+      "D. 64 psig"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "CON331",
+    "topic": "Controllers and Positioners",
+    "question": "Which one of the following describes a characteristic of pneumatic valve positioners?\nactuators.\nof valve travel.\n-240-\nPWR Test Items",
+    "image": "",
+    "choices": [
+      "A. They can provide automatic and manual demand signals to pneumatic controllers and valve",
+      "B. They can increase or decrease air pressure to valve actuators to obtain the proper valve response.",
+      "C. They can either supply or receive air to/from pneumatic controllers, depending on the direction",
+      "D. They can increase air pressure to valve actuators above existing main air header pressure."
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "CON332",
+    "topic": "Controllers and Positioners",
+    "question": "An air-operated isolation valve requires 3,600 pounds-force applied to the top of the actuator\ndiaphragm to open. The actuator diaphragm has a diameter of 8 inches.\nIf control air pressure to the valve actuator begins to increase from 0 psig, which one of the\nfollowing is the approximate air pressure at which the valve will begin to open?",
+    "image": "",
+    "choices": [
+      "A. 32 psig",
+      "B. 45 psig",
+      "C. 56 psig",
+      "D. 72 psig"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "CON333",
+    "topic": "Controllers and Positioners",
+    "question": "An air-operated isolation valve requires 2,400 pounds-force applied to the top of the actuator\ndiaphragm to open against spring pressure. The actuator diaphragm has a diameter of 12 inches.\nIf control air pressure to the valve actuator begins to decrease from 100 psig, which one of the\nfollowing is the approximate air pressure at which the valve will begin to close?\n-241-\nPWR Test Items",
+    "image": "",
+    "choices": [
+      "A. 5 psig",
+      "B. 17 psig",
+      "C. 21 psig",
+      "D. 66 psig"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "CON334",
+    "topic": "Controllers and Positioners",
+    "question": "Refer to the drawing of a flyball-weight mechanical speed governor (see figure below).\nIn the figure below, the purpose of the spring on the flyball mechanism is to __________ centrifugal\nforce by driving the flyballs __________.\n-242-\nPWR Test Items",
+    "image": "page242_img1.jpeg",
+    "choices": [
+      "A. counteract; outward",
+      "B. aid; inward",
+      "C. counteract; inward",
+      "D. aid; outward"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "CON335",
+    "topic": "Controllers and Positioners",
+    "question": "A diesel generator is supplying an isolated electrical bus with the governor operating in the\nisochronous mode. If a large electrical load is started on the bus, generator frequency will...",
+    "image": "",
+    "choices": [
+      "A. initially decrease, then increase and stabilize below the initial value.",
+      "B. initially decrease, then increase and stabilize at the initial value.",
+      "C. initially decrease, then increase and stabilize above the initial value.",
+      "D. remain constant during and after the load start."
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "CON336",
+    "topic": "Controllers and Positioners",
+    "question": "A diesel generator is supplying an isolated electrical bus with the governor operating in the\nisochronous mode. If a large electrical bus load trips, generator frequency will...\n-243-\nPWR Test Items",
+    "image": "",
+    "choices": [
+      "A. initially increase, then decrease and stabilize below the initial value.",
+      "B. initially increase, then decrease and stabilize at the initial value.",
+      "C. initially increase, then decrease and stabilize above the initial value.",
+      "D. remain constant during and after the load trip."
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "CON337",
+    "topic": "Controllers and Positioners",
+    "question": "A diesel generator (DG) is supplying an isolated electrical bus with the DG governor operating in the\nspeed droop mode. Assuming the DG does not trip, if a large electrical bus load trips, bus\nfrequency will initially...",
+    "image": "",
+    "choices": [
+      "A. increase, and then decrease and stabilize below the initial value.",
+      "B. increase, and then decrease and stabilize above the initial value.",
+      "C. decrease, and then increase and stabilize below the initial value.",
+      "D. decrease, and then increase and stabilize above the initial value."
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "CON338",
+    "topic": "Controllers and Positioners",
+    "question": "Which one of the following refers to the transfer of controller modes from Automatic to Manual or\nManual to Automatic without causing a system perturbation?\n-244-\nPWR Test Items",
+    "image": "",
+    "choices": [
+      "A. A direct transfer",
+      "B. A deadband transfer",
+      "C. A bumpless transfer",
+      "D. An analog-to-digital transfer"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "CON339",
+    "topic": "Controllers and Positioners",
+    "question": "Refer to the drawing of a water storage tank with an automatic level control system (see figure\nbelow).\nGiven:\n\uf0b7 The drain valve fails open on loss of controller output signal.\n\uf0b7 The level sensor is direct-acting.\nFor proper automatic control of tank water level, the controller must be __________; and the control\nloop must be __________.\n-245-\nPWR Test Items",
+    "image": "page245_img1.jpeg",
+    "choices": [
+      "A. direct-acting; open",
+      "B. direct-acting; closed",
+      "C. reverse-acting; open",
+      "D. reverse-acting; closed"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "CON340",
+    "topic": "Controllers and Positioners",
+    "question": "Refer to the drawing of a water storage tank with an automatic level control system (see figure\nbelow).\nGiven:\n\uf0b7 The drain valve fails closed on loss of controller output signal.\n\uf0b7 The level sensor is direct-acting.\nFor proper automatic control of tank water level, the controller must be __________; and the control\nloop must be __________.\n-246-\nPWR Test Items",
+    "image": "page246_img1.jpeg",
+    "choices": [
+      "A. direct-acting; open",
+      "B. direct-acting; closed",
+      "C. reverse-acting; open",
+      "D. reverse-acting; closed"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "CON341",
+    "topic": "Controllers and Positioners",
+    "question": "The water level in a water storage tank is being controlled by an automatic bistable level controller.\nIf water level increases to 70 percent, the controller bistable turns on to open a tank drain valve.\nWhen water level decreases to 60 percent, the controller bistable turns off to close the drain valve.\nWhich one of the following bistable symbols indicates the characteristics of the bistable used in the\nlevel controller?\n-247-\nPWR Test Items",
+    "image": "page247_img1.jpeg",
+    "choices": [
+      "A. 1.",
+      "B. 2.",
+      "C. 3.",
+      "D. 4."
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "CON342",
+    "topic": "Controllers and Positioners",
+    "question": "Refer to the valve controller logic diagram (see figure below).\nWhich one of the following combinations of inputs will result in the valve receiving an OPEN\nsignal?\nINPUTS\n1. 2. 3. 4.\n-248-\nPWR Test Items",
+    "image": "page248_img1.png",
+    "choices": [
+      "A. On Off Off On",
+      "B. Off On On Off",
+      "C. On Off On Off",
+      "D. Off On Off On"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "CON343",
+    "topic": "Controllers and Positioners",
+    "question": "The water level in a water storage tank is being controlled by an automatic bistable level controller.\nIf water level increases to 70 percent, the controller bistable turns off to open a tank drain valve.\nWhen water level decreases to 60 percent, the controller bistable turns on to close the drain valve.\nWhich one of the following bistable symbols indicates the characteristics of the bistable used in the\nlevel controller?\n-249-\nPWR Test Items",
+    "image": "page249_img1.jpeg",
+    "choices": [
+      "A. 1.",
+      "B. 2.",
+      "C. 3.",
+      "D. 4."
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "CON344",
+    "topic": "Controllers and Positioners",
+    "question": "Refer to the valve controller logic diagram (see figure below).\nWhich one of the following combinations of inputs will result in the valve receiving a CLOSE\nsignal?\nINPUTS\n1. 2. 3. 4.\n-250-\nPWR Test Items",
+    "image": "page250_img1.png",
+    "choices": [
+      "A. On On Off Off",
+      "B. Off Off On Off",
+      "C. On Off Off On",
+      "D. On On On Off"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "CON345",
+    "topic": "Controllers and Positioners",
+    "question": "A direct-acting proportional-integral controller receives input from a direct-acting transmitter.\nWhich one of the following describes the response of the controller, operating in automatic mode, to\nan increase in the controlled parameter above the controller setpoint?\nparameter equals the controller setpoint, at which time the output signal stops increasing.\ndifference between the controlled parameter and the controller setpoint.\nparameter equals the controller setpoint, at which time the output signal becomes zero.\nchange of the controlled parameter.\n-251-\nPWR Test Items",
+    "image": "",
+    "choices": [
+      "A. The controller will develop an output signal that continues to increase until the controlled",
+      "B. The controller will develop an output signal that will remain directly proportional to the",
+      "C. The controller will develop an output signal that continues to increase until the controlled",
+      "D. The controller will develop an output signal that will remain directly proportional to the rate of"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "CON346",
+    "topic": "Controllers and Positioners",
+    "question": "Refer to the valve controller logic diagram (see figure below).\nWhich one of the following combinations of inputs will result in the valve receiving an OPEN\nsignal?\nINPUTS\n1. 2. 3. 4.\n-252-\nPWR Test Items",
+    "image": "page252_img1.png",
+    "choices": [
+      "A. On Off On On",
+      "B. Off On Off Off",
+      "C. On Off Off On",
+      "D. Off On On Off"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "CON347",
+    "topic": "Controllers and Positioners",
+    "question": "Consider a direct-acting proportional flow controller that is maintaining flow rate at a value that is\noffset from the controller\u2019s setpoint. If the controller\u2019s gain is decreased, the controller\u2019s offset will\n__________; and the controller\u2019s proportional band will __________.\n-253-\nPWR Test Items",
+    "image": "",
+    "choices": [
+      "A. decrease; decrease",
+      "B. decrease; increase",
+      "C. increase; decrease",
+      "D. increase; increase"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "CON348",
+    "topic": "Controllers and Positioners",
+    "question": "Refer to the logic diagram for a valve controller (see figure below).\nWhich one of the following combinations of inputs will result in the valve receiving a CLOSE\nsignal?\nINPUTS\n1 2 3 4\n-254-\nPWR Test Items",
+    "image": "page254_img1.png",
+    "choices": [
+      "A. On On On On",
+      "B. Off On On On",
+      "C. On Off Off Off",
+      "D. Off On On Off"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "CON349",
+    "topic": "Controllers and Positioners",
+    "question": "Refer to the drawing of a lube oil temperature control system (see figure below).\nA direct-acting proportional temperature controller is being used to control the heat exchanger lube\noil outlet temperature. When the lube oil outlet temperature matches the controller setpoint of 90\u00b0F,\nthe controller output signal is 50 percent.\nCurrent lube oil outlet temperature is stable at 100\u00b0F with the controller output signal at 70 percent.\nWhat is the temperature proportional band for this controller?\n-255-\nPWR Test Items",
+    "image": "page255_img1.png",
+    "choices": [
+      "A. 90\u00b0F to 140\u00b0F",
+      "B. 90\u00b0F to 115\u00b0F",
+      "C. 65\u00b0F to 140\u00b0F",
+      "D. 65\u00b0F to 115\u00b0F"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "CON350",
+    "topic": "Controllers and Positioners",
+    "question": "The level in a fluid collection tank is being controlled by an automatic level controller using\nproportional-only control. Initially the tank level is stable, but then the flow into the tank increases\nand stabilizes at a higher flow rate.\nAs tank level increases, the controller positions a drain valve more open than necessary to stabilize\nthe level. As tank level decreases, the controller positions the drain valve more closed than\nnecessary to stabilize the level. This cycle is repeated continuously, never reaching a stable tank\nlevel or drain valve position.\nThe excessive valve positioning described above could be caused by the controller\u2019s gain being too\n__________; or by the controller\u2019s proportional band being too __________.\n-256-\nPWR Test Items",
+    "image": "",
+    "choices": [
+      "A. low; wide",
+      "B. low; narrow",
+      "C. high; wide",
+      "D. high; narrow"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "CON351",
+    "topic": "Controllers and Positioners",
+    "question": "A proportional controller is being used to control the water level in a tank. When the tank water\nlevel matches the controller setpoint of 50 percent, the controller output signal is 50 percent.\nTank water level begins to rise and the controller stabilizes the water level at 60 percent, at which\ntime the controller output signal is 90 percent.\nWhat is the offset for this controller at the 60 percent tank water level?\n-257-\nPWR Test Items",
+    "image": "",
+    "choices": [
+      "A. 10 percent",
+      "B. 30 percent",
+      "C. 40 percent",
+      "D. 67 percent"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "CON352",
+    "topic": "Controllers and Positioners",
+    "question": "Refer to the logic diagram for a valve controller (see figure below).\nWhich one of the following combinations of inputs will result in the valve receiving an OPEN\nsignal?\nINPUTS\n1 2 3 4\n-258-\nPWR Test Items",
+    "image": "page258_img1.png",
+    "choices": [
+      "A. Off On Off Off",
+      "B. Off On On Off",
+      "C. On Off Off On",
+      "D. On Off On On"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "CON353",
+    "topic": "Controllers and Positioners",
+    "question": "The water level in a tank is being controlled by an automatic level controller using proportional-only\ncontrol as shown in the figure below. Initially the tank level is stable at 50 percent, but then the\nflow into the tank increases and stabilizes at a higher flow rate.\nAs tank level increases, the controller positions the drain valve more open than necessary to stabilize\nthe level. As tank level decreases, the controller positions the drain valve more closed than\nnecessary to stabilize the level. This cycle is repeated continuously, never reaching a stable tank\nlevel or drain valve position.\nThe excessive valve cycling described above can be reduced if the controller\u2019s gain is\n____________ or if the controller\u2019s proportional band is ____________.\n-259-\nPWR Test Items",
+    "image": "page259_img1.jpeg",
+    "choices": [
+      "A. increased; widened",
+      "B. increased; narrowed",
+      "C. decreased; widened",
+      "D. decreased; narrowed"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "CON354",
+    "topic": "Controllers and Positioners",
+    "question": "A proportional controller is being used to control the water level in a tank. When the tank water\nlevel matches the controller setpoint of 20 feet, the controller output is 50 percent.\nTank water level is currently stable at 25 feet with the controller output at 75 percent.\nWhat is the tank water level proportional band for this controller?",
+    "image": "",
+    "choices": [
+      "A. 10 to 30 feet",
+      "B. 10 to 40 feet",
+      "C. 20 to 30 feet",
+      "D. 20 to 40 feet"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "CON355",
+    "topic": "Controllers and Positioners",
+    "question": "A proportional controller is being used to control the water level in a tank. Initially, the controller\ninput and output signals are both stable at 50 percent of their full range. If the controller input\nsignal increases to 60 percent, the controller output signal will increase to 90 percent.\nWhat is the gain for this controller?\n-260-\nPWR Test Items",
+    "image": "",
+    "choices": [
+      "A. 0.25",
+      "B. 0.5",
+      "C. 2.0",
+      "D. 4.0"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "CON356",
+    "topic": "Controllers and Positioners",
+    "question": "Which one of the following is a characteristic that applies to a proportional-only controller, but not\nto a proportional-integral controller?\n-261-\nPWR Test Items",
+    "image": "",
+    "choices": [
+      "A. Gain",
+      "B. Offset",
+      "C. Rate component",
+      "D. Bistable component"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "CON357",
+    "topic": "Controllers and Positioners",
+    "question": "Refer to the logic diagram for a valve controller (see figure below).\nWhich one of the following combinations of flow rate (F), level (L), pressure (P), and temperature\n(T) inputs will result in the valve receiving a CLOSE signal? (The options below indicate whether\nthe parameters are higher or lower than the associated bistable setpoints.)\nINPUTS\nF L P T\n-262-\nPWR Test Items",
+    "image": "page262_img1.jpeg",
+    "choices": [
+      "A. Higher Higher Lower Higher",
+      "B. Lower Lower Higher Lower",
+      "C. Higher Lower Lower Higher",
+      "D. Lower Higher Higher Lower"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "CON358",
+    "topic": "Controllers and Positioners",
+    "question": "Refer to the logic diagram for a valve controller (see figure below).\nWhich one of the following combinations of flow rate (F), level (L), pressure (P), and temperature (T)\ninput conditions will result in the valve receiving a CLOSE signal? (The options below indicate\nwhether the input values are higher or lower than the associated bistable setpoints.)\nINPUT CONDITIONS\nF L P T\n-263-\nPWR Test Items",
+    "image": "page263_img1.jpeg",
+    "choices": [
+      "A. Higher Higher Lower Higher",
+      "B. Lower Lower Higher Lower",
+      "C. Higher Lower Lower Higher",
+      "D. Lower Higher Higher Lower"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "CON359",
+    "topic": "Controllers and Positioners",
+    "question": "Refer to the drawing of a water storage tank with an automatic level control system (see figure\nbelow). The level control system uses a reverse-acting level sensor and a direct-acting controller.\nThe flow rate of water entering the tank is constant, and within the capacity of the drain valve.\nFor the level control system to maintain a stable water level in the tank at a value up to 10 percent\nabove or below the controller\u2019s setpoint, the controller must have a __________ characteristic; and\nthe drain valve must fail __________ on a loss of air pressure to its actuator.\nC proportional-integral; closed\n-264-\nPWR Test Items",
+    "image": "page264_img1.jpeg",
+    "choices": [
+      "A. proportional-only; closed",
+      "B. proportional-only; open",
+      "D. proportional-integral; open"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "CON360",
+    "topic": "Controllers and Positioners",
+    "question": "Refer to the drawing of a water storage tank with an automatic level control system (see figure\nbelow).\nThe level control system has the following characteristics:\n\uf0b7 The level sensor is direct-acting.\n\uf0b7 The controller is reverse-acting.\n\uf0b7 The controller uses proportional control.\n\uf0b7 The controller\u2019s setpoint is 12 feet.\n\uf0b7 The controller\u2019s proportional band is 6 feet to 18 feet.\n\uf0b7 The drain valve will fail open if the actuator loses air pressure.\nWhen the tank water level is 15 feet, the controller\u2019s output will be _____ percent; and the drain\nvalve will be _____ percent open.\n-265-\nPWR Test Items",
+    "image": "page265_img1.jpeg",
+    "choices": [
+      "A. 25; 25",
+      "B. 25; 75",
+      "C. 75; 25",
+      "D. 75; 75"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "CON361",
+    "topic": "Controllers and Positioners",
+    "question": "The water level in a tank is being controlled by an automatic level controller and is initially at the\ncontroller setpoint. A drain valve is then opened, causing tank level to decrease. The decreasing\nlevel causes the controller to begin to open a makeup water supply valve. After a few minutes, a\nnew steady-state tank level below the original level is established, with the supply rate equal to the\ndrain rate.\nThe controller in this system uses __________ control.",
+    "image": "",
+    "choices": [
+      "A. proportional, integral, and derivative",
+      "B. proportional and integral only",
+      "C. proportional only",
+      "D. bistable"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "CON362",
+    "topic": "Controllers and Positioners",
+    "question": "A proportional-derivative controller senses an increase in the controlled parameter above the\ncontroller setpoint. The derivative function causes the controller output signal to...\nsignal becomes constant.\nsetpoint.\nsignal becomes zero.\n-266-\nPWR Test Items",
+    "image": "",
+    "choices": [
+      "A. increase until the controlled parameter equals the controller setpoint, at which time the output",
+      "B. remain directly proportional to the difference between the controlled parameter and the controller",
+      "C. increase until the controlled parameter equals the controller setpoint, at which time the output",
+      "D. change at a rate that is directly proportional to the rate of change of the controlled parameter."
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "CON363",
+    "topic": "Controllers and Positioners",
+    "question": "In a proportional controller, the term \"offset\" refers to the difference between the...",
+    "image": "",
+    "choices": [
+      "A. control point and setpoint.",
+      "B. control point and proportional band.",
+      "C. deadband and setpoint.",
+      "D. deadband and proportional band."
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "CON364",
+    "topic": "Controllers and Positioners",
+    "question": "The level in a tank is controlled by an automatic control system. Level is initially at its setpoint. A\ndrain valve is then opened, causing tank level to begin to decrease. The decreasing level causes the\ncontroller to begin to open a makeup supply valve. After a few minutes, with the drain valve still\nopen, level is again constant at the setpoint.\nThe controller in this system uses primarily __________ control.\n-267-\nPWR Test Items",
+    "image": "",
+    "choices": [
+      "A. integral",
+      "B. on-off",
+      "C. derivative",
+      "D. proportional"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "CON365",
+    "topic": "Controllers and Positioners",
+    "question": "The level in a tank is controlled by an automatic level controller. Level is initially at 50 percent\nwhen the tank develops a leak. When level decreases to 45 percent the level controller opens a\nmakeup supply valve. After a few minutes, level is 55 percent and the makeup valve closes. With\nthe leak still in progress, level continuously oscillates between 45 percent and 55 percent as the\nmakeup valve opens and closes.\nThe controller in this system uses primarily __________ control.",
+    "image": "",
+    "choices": [
+      "A. bistable",
+      "B. proportional",
+      "C. integral",
+      "D. derivative"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "CON366",
+    "topic": "Controllers and Positioners",
+    "question": "Which one of the following controller types is designed to control the measured parameter at the\ncontroller setpoint?\n-268-\nPWR Test Items",
+    "image": "",
+    "choices": [
+      "A. Integral",
+      "B. Proportional",
+      "C. On-Off",
+      "D. Derivative"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "CON367",
+    "topic": "Controllers and Positioners",
+    "question": "The level in a drain collection tank is being controlled by an automatic level controller and is\ninitially stable at the controller setpoint. Flow rate into the tank increases, causing tank level to\nincrease. The increasing level causes the controller to throttle open a tank drain valve. After a few\nminutes, a new stable tank level above the original level is established, with the drain flow rate equal\nto the supply flow rate.\nThe controller in this system uses __________ control.",
+    "image": "",
+    "choices": [
+      "A. on-off",
+      "B. proportional",
+      "C. proportional plus integral",
+      "D. proportional plus integral plus derivative"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "CON368",
+    "topic": "Controllers and Positioners",
+    "question": "The level in a drain collection tank is being controlled by an automatic level controller and level is\ninitially at the controller setpoint. Flow rate into the tank causes tank level to increase. The\nincreasing level causes the controller to fully open a tank drain valve. When level decreases below\nthe setpoint, the controller closes the drain valve. Tank level continues to be controlled in this\nmanner within a narrow band above and below the setpoint.\nThe controller in this system uses __________ control.\n-269-\nPWR Test Items",
+    "image": "",
+    "choices": [
+      "A. on-off",
+      "B. proportional",
+      "C. proportional plus integral",
+      "D. proportional plus integral plus derivative"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "CON369",
+    "topic": "Controllers and Positioners",
+    "question": "The temperature of the water in a small outside storage tank is controlled by a set of heaters\nsubmerged in the tank. The heaters will energize at a water temperature of 40\u00b0F and deenergize at\n48\u00b0F. When energized, the heaters produce a constant thermal output.\nWhich one of the following types of control is used in the heater control circuit to produce these\ncharacteristics?",
+    "image": "",
+    "choices": [
+      "A. Bistable",
+      "B. Proportional",
+      "C. Proportional plus integral",
+      "D. Proportional plus derivative"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "CON370",
+    "topic": "Controllers and Positioners",
+    "question": "The level in a water collection tank is being controlled by an automatic level controller that positions\na tank drain valve. Tank level is initially stable at the controller setpoint. Then, flow rate into the\ntank increases, slowly at first, and then faster until a stable flow rate is attained.\nWhen tank level increases, the controller begins to open the tank drain valve farther. The level\ncontroller output signal increases both as the tank level increases and as the rate of the tank level\nchange quickens. After a few minutes, a new stable tank level above the original level is\nestablished, with the drain flow rate equal to the supply flow rate.\nThe controller in this system uses __________ control.\n-270-\nPWR Test Items",
+    "image": "",
+    "choices": [
+      "A. proportional only",
+      "B. proportional plus integral",
+      "C. proportional plus derivative",
+      "D. proportional plus integral plus derivative"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "CON371",
+    "topic": "Controllers and Positioners",
+    "question": "The level in a drain collection tank is being controlled by an automatic level controller, and is\ninitially stable at the controller setpoint. Flow rate into the tank increases, slowly at first, and then\nfaster until a stable higher flow rate is attained.\nAs tank level begins to increase, the level controller slowly opens a tank drain valve. The level\ncontroller output signal increases both as the tank level increases and as the rate of tank level change\nquickens. After a few minutes, tank level returns to, and remains at, the original level with the drain\nflow rate equal to the supply flow rate.\nThe controller in this system uses __________ control.\n-271-\nPWR Test Items",
+    "image": "",
+    "choices": [
+      "A. proportional only",
+      "B. proportional plus derivative only",
+      "C. proportional plus integral only",
+      "D. proportional plus integral plus derivative"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "CON372",
+    "topic": "Controllers and Positioners",
+    "question": "Refer to the drawing of a water storage tank with a level control system (see figure below). The\ntank water level is being automatically controlled at 50 percent by a proportional-integral (PI)\ncontroller that positions the drain valve. Tank water level is currently stable with 500 gpm entering\nthe tank and the drain valve is 50 percent open.\nTank inlet flow rate suddenly increases to 700 gpm and remains constant. When tank water level\nstabilizes, level will be __________; and the drain valve position will be __________.\n-272-\nPWR Test Items",
+    "image": "page272_img1.jpeg",
+    "choices": [
+      "A. higher than 50 percent; more open",
+      "B. higher than 50 percent; the same",
+      "C. 50 percent; more open",
+      "D. 50 percent; the same"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "CON373",
+    "topic": "Controllers and Positioners",
+    "question": "Refer to the drawing of a water storage tank with a level control system (see figure below). The\ntank water level is being automatically controlled at 50 percent by a proportional-integral (PI)\ncontroller that positions the drain valve. Tank water level is currently stable with 500 gpm entering\nthe tank and the drain valve is 50 percent open.\nThe tank suddenly develops a constant 200 gpm leak, while the input flow rate remains constant at\n500 gpm. When tank water level stabilizes, level will be __________; and the drain valve position\nwill be __________.\n-273-\nPWR Test Items",
+    "image": "page273_img1.jpeg",
+    "choices": [
+      "A. 50 percent; more open",
+      "B. 50 percent; more closed",
+      "C. lower than 50 percent; more open",
+      "D. lower than 50 percent; more closed"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "CON374",
+    "topic": "Controllers and Positioners",
+    "question": "Refer to the drawing of a water storage tank with a level control system (see figure below).\nThe tank water level is being automatically controlled by a proportional-only controller with a\nsetpoint of 50 percent. Tank water level is currently stable at 50 percent with 500 gpm entering the\ntank and the drain valve is 50 percent open.\nThe tank suddenly develops a 200 gpm leak, while the input flow rate remains constant at 500 gpm.\nAfter the tank water level stabilizes, level will be __________; and the drain valve position will be\n__________.\n-274-\nPWR Test Items",
+    "image": "page274_img1.jpeg",
+    "choices": [
+      "A. 50 percent; more than 50 percent open",
+      "B. 50 percent; less than 50 percent open",
+      "C. below 50 percent; more than 50 percent open",
+      "D. below 50 percent; less than 50 percent open"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "CON375",
+    "topic": "Controllers and Positioners",
+    "question": "Refer to the drawing of a water storage tank with a level control system (see figure below).\nThe tank water level is being automatically controlled by a proportional-only controller with a level\nsetpoint of 50 percent. Tank water level is currently stable at 50 percent with 500 gpm entering the\ntank and the drain valve 50 percent open.\nIf the tank input flow rate suddenly increases to 700 gpm, then after the tank water level stabilizes,\nthe water level will be __________ 50 percent; and the drain valve position will be __________\nopen.\n-275-\nPWR Test Items",
+    "image": "page275_img1.jpeg",
+    "choices": [
+      "A. equal to; more than 50 percent",
+      "B. equal to; 50 percent",
+      "C. greater than; more than 50 percent",
+      "D. greater than; 50 percent"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "CON376",
+    "topic": "Controllers and Positioners",
+    "question": "A system pressure controller has the following features:\n\uf0b7 The controller output signal is 50 percent when the differential pressure (\u0394P) between the\npressure setpoint and the actual system pressure is zero.\n\uf0b7 The controller output signal increases linearly with the \u0394P.\n\uf0b7 The controller output signal is not affected by the rate of change of the \u0394P.\n\uf0b7 The controller output signal is not affected by the length of time the \u0394P exists.\nWhich one of the following lists the type(s) of control used by the controller described above?",
+    "image": "",
+    "choices": [
+      "A. Bistable only",
+      "B. Proportional only",
+      "C. Proportional plus integral",
+      "D. Proportional plus derivative"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "CON377",
+    "topic": "Controllers and Positioners",
+    "question": "An outside water storage tank is equipped with submerged heaters. The heaters energize at\nminimum power when water temperature decreases to 48\u00b0F. If water temperature continues to\ndecrease, heater power will increase directly with the temperature deviation from 48\u00b0F until\nmaximum power is reached at 40\u00b0F. If water temperature decreases faster than 1\u00b0F/min, the heaters\nwill reach maximum power at a higher water temperature.\nWhich one of the following types of control is used in the heater control circuit to produce these\ncharacteristics?\n-276-\nPWR Test Items",
+    "image": "",
+    "choices": [
+      "A. Proportional only",
+      "B. Proportional plus integral",
+      "C. Proportional plus derivative",
+      "D. Proportional plus integral plus derivative"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "CON378",
+    "topic": "Controllers and Positioners",
+    "question": "Refer to the drawing of a flow control valve (see figure below) that is located in the makeup water\nsupply line to a water storage tank.\nThe flow control valve is positioned by a level controller that can maintain a stable tank water level\nanywhere between 10 percent above and 10 percent below the controller setpoint. The level\ncontroller receives input from a direct-acting level detector.\nWhich one of the following describes the characteristics of the tank level controller?\n-277-\nPWR Test Items",
+    "image": "page277_img1.jpeg",
+    "choices": [
+      "A. Direct-acting with proportional only control.",
+      "B. Direct-acting with proportional-integral control.",
+      "C. Reverse-acting with proportional only control.",
+      "D. Reverse-acting with proportional-integral control."
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "CON379",
+    "topic": "Controllers and Positioners",
+    "question": "An outside water storage tank is equipped with submerged heaters. The heaters energize at\nminimum power when water temperature decreases to 48\u00b0F. If water temperature continues to\ndecrease, heater power will increase directly with the temperature deviation from 48\u00b0F, regardless of\ncooldown rate, until maximum power is reached at 40\u00b0F. Different cooldown rates have the same\neffect on heater operation. On cold days, the tank water temperature is usually maintained at about\n44\u00b0F with the heaters energized at half power.\nWhich one of the following types of control is used in the heater control circuit to produce these\ncharacteristics?\n-278-\nPWR Test Items",
+    "image": "",
+    "choices": [
+      "A. Proportional only",
+      "B. Proportional plus integral only",
+      "C. Proportional plus derivative only",
+      "D. Proportional plus integral plus derivative"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "CON380",
+    "topic": "Controllers and Positioners",
+    "question": "Refer to the drawing of a flow control valve (see figure below) that is located in the drain line from a\nwater storage tank.\nThe flow control valve is positioned by a level controller that can maintain a stable tank water level\nanywhere between 10 percent above and 10 percent below the controller setpoint. The level\ncontroller receives input from a direct-acting level detector.\nWhich one of the following describes the characteristics of the tank level controller?\n-279-\nPWR Test Items",
+    "image": "page279_img1.jpeg",
+    "choices": [
+      "A. Direct-acting with proportional only control.",
+      "B. Direct-acting with proportional plus integral control.",
+      "C. Reverse-acting with proportional only control.",
+      "D. Reverse-acting with proportional plus integral control."
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "CON381",
+    "topic": "Controllers and Positioners",
+    "question": "Refer to the drawing of a flow control valve (see figure below) located in the makeup water supply\nline to a water storage tank.\nThe flow control valve is positioned by a tank level controller that can maintain a stable water level\nanywhere between 10 percent above and 10 percent below the controller setpoint. The tank level\ncontroller receives input from a direct-acting tank level detector.\nWhich one of the following describes the characteristics of the tank level controller?\n-280-\nPWR Test Items",
+    "image": "page280_img1.jpeg",
+    "choices": [
+      "A. Direct-acting with proportional only control.",
+      "B. Direct-acting with proportional-integral control.",
+      "C. Reverse-acting with proportional only control.",
+      "D. Reverse-acting with proportional-integral control."
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "CON382",
+    "topic": "Controllers and Positioners",
+    "question": "A reverse-acting proportional controller will be used to maintain level in a water storage tank by\npositioning an air-operated makeup water flow control valve. The level controller receives input\nfrom a direct-acting level detector.\nWhich pair of flow control valves shown below will be compatible with the level controller in the\nabove application?\n-281-\nPWR Test Items",
+    "image": "page281_img1.jpeg",
+    "choices": [
+      "A. A and B",
+      "B. B and C",
+      "C. C and D",
+      "D. D and A"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "CON383",
+    "topic": "Controllers and Positioners",
+    "question": "Given:\n\uf0b7 A direct-acting proportional pneumatic controller will be used to maintain level in a\ncondensate collection tank by positioning an air-operated flow control valve in the tank\u2019s\ndrain line.\n\uf0b7 The controller\u2019s input will vary directly with tank condensate level.\nWhich pair of flow control valves shown below will be compatible with the controller in the above\napplication?\n-282-\nPWR Test Items",
+    "image": "page282_img1.jpeg",
+    "choices": [
+      "A. A and B",
+      "B. B and C",
+      "C. C and D",
+      "D. D and A"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "CON384",
+    "topic": "Controllers and Positioners",
+    "question": "Given:\n\uf0b7 A direct-acting proportional pneumatic controller will be used to maintain level in a water\nstorage tank by positioning an air-operated flow control valve in the tank\u2019s makeup water\nsupply line.\n\uf0b7 The controller\u2019s input will vary directly with tank level.\nWhich pair of flow control valves shown below will be compatible with the controller in the above\napplication?\n-283-\nPWR Test Items",
+    "image": "page283_img1.jpeg",
+    "choices": [
+      "A. A and B",
+      "B. B and C",
+      "C. C and D",
+      "D. D and A"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "CON385",
+    "topic": "Controllers and Positioners",
+    "question": "Given:\n\uf0b7 A reverse-acting proportional pneumatic controller will be used to maintain level in a water\nstorage tank by positioning an air-operated flow control valve in the tank\u2019s drain line.\n\uf0b7 The controller\u2019s input will vary directly with tank level.\nWhich pair of flow control valves shown below will be compatible with the controller in the above\napplication?\n-284-\nPWR Test Items",
+    "image": "page284_img1.jpeg",
+    "choices": [
+      "A. A and B",
+      "B. B and C",
+      "C. C and D",
+      "D. D and A"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "CON386",
+    "topic": "Controllers and Positioners",
+    "question": "What precaution must be observed before transferring a valve controller from the automatic mode to\nthe manual mode of control?\nvalve controller outputs.\nmode of control.\nmode of control.",
+    "image": "",
+    "choices": [
+      "A. Ensure that a substantial steady-state deviation is established between the automatic and manual",
+      "B. Ensure that the automatic and manual valve controller outputs are matched.",
+      "C. Ensure that the automatic valve controller output is increasing before transferring to the manual",
+      "D. Ensure that the automatic valve controller output is decreasing before transferring to the manual"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "CON387",
+    "topic": "Controllers and Positioners",
+    "question": "Prior to shifting a valve controller from automatic to manual control, why should the automatic and\nmanual controller output signals be matched?\n-285-\nPWR Test Items",
+    "image": "",
+    "choices": [
+      "A. To ensure the valve will operate in manual control upon demand.",
+      "B. To ensure valve position indication is accurate in manual control.",
+      "C. To move the valve to the new position prior to the transfer.",
+      "D. To prevent a sudden valve repositioning during the transfer."
+    ],
+    "answer": "D"
+  }
+]

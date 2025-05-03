@@ -1,0 +1,483 @@
+[
+  {
+    "id": "CON1027",
+    "topic": "Control Rods",
+    "question": "A reactor is initially critical well below the point of adding heat (POAH) during a reactor startup.\nControl rods are withdrawn for 20 seconds to establish a 0.5 DPM startup rate.\nIn response to the control rod withdrawal, reactor power will initially increase, and then...\n-739-\nPWR Test Items",
+    "image": "",
+    "choices": [
+      "A. continue increasing until the control rods are reinserted.",
+      "B. stabilize at a value slightly below the POAH.",
+      "C. stabilize at the POAH.",
+      "D. stabilize at a value slightly above the POAH."
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "CON1028",
+    "topic": "Control Rods",
+    "question": "A reactor is initially critical below the point of adding heat during a reactor startup. If control rods\nare manually inserted for 5 seconds, reactor power will decrease...\nlevel.",
+    "image": "",
+    "choices": [
+      "A. to a lower power level determined by subcritical multiplication.",
+      "B. temporarily, then return to the original power level due to subcritical multiplication.",
+      "C. temporarily, then return to the original power level due to a decrease in moderator temperature.",
+      "D. until inherent positive reactivity feedback causes the reactor to become critical at a lower power"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "CON1029",
+    "topic": "Control Rods",
+    "question": "A reactor is initially critical below the point of adding heat (POAH) during a reactor startup. If\ncontrol rods are manually withdrawn for 5 seconds, reactor power will initially increase and then...\n-740-\nPWR Test Items",
+    "image": "",
+    "choices": [
+      "A. stabilize at a critical power level below the POAH.",
+      "B. decrease and stabilize at the original value.",
+      "C. stabilize at a critical power level at the POAH.",
+      "D. decrease and stabilize below the original value."
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "CON1030",
+    "topic": "Control Rods",
+    "question": "A reactor has been shut down for three weeks with all control rods fully inserted. If a single control\nrod is fully withdrawn from the core, neutron flux level will\u2026 (Assume the reactor remains\nsubcritical.)",
+    "image": "",
+    "choices": [
+      "A. increase and stabilize above the original level.",
+      "B. increase, then decrease and stabilize at the original level.",
+      "C. increase, then decrease and stabilize above the original level.",
+      "D. remain the same during and after the withdrawal."
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "CON1031",
+    "topic": "Control Rods",
+    "question": "A reactor has been shut down for three weeks with all control rods fully inserted. If a center control\nrod is fully withdrawn from the core, neutron flux level will\u2026 (Assume the reactor remains\nsubcritical.)\n-741-\nPWR Test Items",
+    "image": "",
+    "choices": [
+      "A. remain the same.",
+      "B. increase and stabilize at a new higher level.",
+      "C. increase temporarily then return to the original level.",
+      "D. increase exponentially until the operator reinserts the center control rod."
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "CON1032",
+    "topic": "Control Rods",
+    "question": "Criticality has been achieved during a reactor startup. The core neutron flux level is low in the\nintermediate range with a stable 0.5 DPM startup rate (SUR). The operator begins inserting control\nrods in an effort to stabilize the core neutron flux level near its current value. The operator stops\ninserting control rods when the SUR indicates exactly 0.0 DPM.\nImmediately after the operator stops inserting the control rods, the SUR will become __________;\nand the core neutron flux level will __________.",
+    "image": "",
+    "choices": [
+      "A. positive; increase exponentially",
+      "B. positive; increase linearly",
+      "C. negative; decrease exponentially",
+      "D. negative; decrease linearly"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "CON1033",
+    "topic": "Control Rods",
+    "question": "The total amount of reactivity added by a control rod position change from a reference height to any\nother rod height is called...\n-742-\nPWR Test Items",
+    "image": "",
+    "choices": [
+      "A. differential rod worth.",
+      "B. excess reactivity.",
+      "C. integral rod worth.",
+      "D. reference reactivity."
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "CON1034",
+    "topic": "Control Rods",
+    "question": "Integral control rod worth can be described as the change in __________ for a __________ change\nin rod position.",
+    "image": "",
+    "choices": [
+      "A. reactor power; total",
+      "B. reactivity; unit",
+      "C. reactor power; unit",
+      "D. reactivity; total"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "CON1035",
+    "topic": "Control Rods",
+    "question": "Integral rod worth is the...\n-743-\nPWR Test Items",
+    "image": "",
+    "choices": [
+      "A. change in reactivity per unit change in control rod position.",
+      "B. rod worth associated with the most reactive control rod.",
+      "C. change in worth of a control rod per unit change in reactor power.",
+      "D. reactivity added by moving a control rod from one position to another position."
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "CON1036",
+    "topic": "Control Rods",
+    "question": "Which one of the following expresses the relationship between differential rod worth (DRW) and\nintegral rod worth (IRW)?",
+    "image": "",
+    "choices": [
+      "A. DRW is the area under the IRW curve at a given rod position.",
+      "B. DRW is the slope of the IRW curve at a given rod position.",
+      "C. DRW is the IRW at a given rod position.",
+      "D. DRW is the square root of the IRW at a given rod position."
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "CON1037",
+    "topic": "Control Rods",
+    "question": "Which one of the following parameters typically has the greatest influence on the shape of a\ndifferential rod worth curve?\n-744-\nPWR Test Items",
+    "image": "",
+    "choices": [
+      "A. Core radial neutron flux distribution",
+      "B. Core axial neutron flux distribution",
+      "C. Core xenon distribution",
+      "D. Burnable poison distribution"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "CON1038",
+    "topic": "Control Rods",
+    "question": "During normal full power operation, the differential control rod worth is less negative at the top and\nbottom of the core compared to the center regions due to the effects of...",
+    "image": "",
+    "choices": [
+      "A. reactor coolant boron concentration.",
+      "B. neutron flux distribution.",
+      "C. xenon concentration.",
+      "D. fuel temperature distribution."
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "CON1039",
+    "topic": "Control Rods",
+    "question": "Which one of the following expresses the relationship between differential rod worth (DRW) and\nintegral rod worth (IRW)?\n-745-\nPWR Test Items",
+    "image": "",
+    "choices": [
+      "A. IRW is the slope of the DRW curve.",
+      "B. IRW is the inverse of the DRW curve.",
+      "C. IRW is the sum of the DRWs between the initial and final control rod positions.",
+      "D. IRW is the sum of the DRWs of all control rods at a specific control rod position."
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "CON1040",
+    "topic": "Control Rods",
+    "question": "As moderator temperature increases, the differential rod worth becomes more negative because...\nneutrons.",
+    "image": "",
+    "choices": [
+      "A. moderator density decreases, which causes more neutron leakage out of the core.",
+      "B. the moderator temperature coefficient decreases, which causes decreased competition for",
+      "C. fuel temperature also increases, which decreases the rate of neutron absorption in the fuel.",
+      "D. moderator density decreases, which increases the neutron migration length."
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "CON1041",
+    "topic": "Control Rods",
+    "question": "A nuclear power plant is operating at 50 percent power with one group of control rods partially\ninserted into the core. If the moderator temperature decreases by 5\u00b0F, the group differential control\nrod worth will become...\n-746-\nPWR Test Items",
+    "image": "",
+    "choices": [
+      "A. more negative, due to better moderation of neutrons.",
+      "B. less negative, due to shorter neutron migration lengths.",
+      "C. more negative, due to increased moderator absorption of neutrons.",
+      "D. less negative, due to increased resonance absorption of neutrons."
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "CON1042",
+    "topic": "Control Rods",
+    "question": "As moderator temperature increases, the differential rod worth becomes...",
+    "image": "",
+    "choices": [
+      "A. more negative due to longer neutron diffusion lengths.",
+      "B. more negative due to decreased resonance absorption of neutrons.",
+      "C. less negative due to reduced moderation of neutrons.",
+      "D. less negative due to decreased moderator absorption of neutrons."
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "CON1043",
+    "topic": "Control Rods",
+    "question": "A reactor startup is in progress from a cold shutdown condition. During the reactor coolant heatup\nphase of the startup, the differential control rod worth will become __________ negative; and during\nthe complete withdrawal of the initial bank of control rods, the differential control rod worth will\nbecome __________.\n-747-\nPWR Test Items",
+    "image": "",
+    "choices": [
+      "A. more; more negative initially and then less negative",
+      "B. more; less negative initially and then more negative",
+      "C. less; more negative during the entire withdrawal",
+      "D. less; less negative during the entire withdrawal"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "CON1044",
+    "topic": "Control Rods",
+    "question": "The main reason for designing and operating a reactor with a flattened neutron flux distribution is\nto...",
+    "image": "",
+    "choices": [
+      "A. provide even burnup of control rods.",
+      "B. reduce neutron leakage from the core.",
+      "C. achieve a higher average power density.",
+      "D. provide more accurate nuclear power indication."
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "CON1045",
+    "topic": "Control Rods",
+    "question": "Which one of the following is a reason for neutron flux shaping in a reactor core?\ncore.\ntrip.\nreactor core.\n-748-\nPWR Test Items",
+    "image": "",
+    "choices": [
+      "A. To minimize local power peaking by more evenly distributing the core thermal neutron flux.",
+      "B. To reduce thermal neutron leakage by decreasing the neutron flux at the periphery of the reactor",
+      "C. To reduce the size and number of control rods needed to shut down the reactor during a reactor",
+      "D. To increase differential control rod worth by peaking the thermal neutron flux at the top of the"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "CON1046",
+    "topic": "Control Rods",
+    "question": "Which one of the following includes two reasons for control rod bank/group overlap?\nflux oscillations.\nindicators and their group counters, and ensures rod insertion limits are not exceeded.\nindicators and their group counters, and provides a more uniform axial flux distribution.",
+    "image": "",
+    "choices": [
+      "A. Provides a more uniform differential rod worth, and minimizes axial neutron flux peaking.",
+      "B. Provides a more uniform differential rod worth, and allows dampening of xenon-induced neutron",
+      "C. Ensures that all rods remain within the allowable tolerance between their individual position",
+      "D. Ensures that all rods remain within their allowable tolerance between individual position"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "CON1047",
+    "topic": "Control Rods",
+    "question": "Which one of the following includes two reasons for control rod bank/group overlap?\nworth.\ndistribution.\nindicators within allowable tolerances.\nmore uniform axial power distribution.\n-749-\nPWR Test Items",
+    "image": "",
+    "choices": [
+      "A. Provide a more uniform axial power distribution and provide a more uniform differential rod",
+      "B. Provide a more uniform differential rod worth and provide a more uniform radial power",
+      "C. Provide a more uniform radial power distribution and maintain individual and group rod position",
+      "D. Maintain individual and group rod position indicators within allowable tolerances and provide a"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "CON1048",
+    "topic": "Control Rods",
+    "question": "One purpose of using control rod bank/group overlap is to...",
+    "image": "",
+    "choices": [
+      "A. ensure adequate shutdown margin.",
+      "B. provide a more uniform differential rod worth.",
+      "C. allow dampening of xenon-induced neutron flux oscillations.",
+      "D. ensure control rod insertion limits are not exceeded."
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "CON1049",
+    "topic": "Control Rods",
+    "question": "A reactor was restarted following a refueling outage and is currently at the point of adding heat.\nWhich one of the following describes the change in axial power distribution as reactor power is\nincreased to 5 percent by control rod withdrawal?\n-750-\nPWR Test Items",
+    "image": "",
+    "choices": [
+      "A. Shifts toward the bottom of the core.",
+      "B. Shifts toward the top of the core.",
+      "C. Shifts from the center of the core toward the top and bottom of the core.",
+      "D. Shifts from the top and bottom of the core toward the center of the core."
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "CON1050",
+    "topic": "Control Rods",
+    "question": "By maintaining the radial and axial core power distributions within their prescribed limits, the\noperator is assured that __________ will remain within acceptable limits.",
+    "image": "",
+    "choices": [
+      "A. power density (kW/foot)",
+      "B. shutdown margin",
+      "C. core delta-T",
+      "D. rod insertion limits"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "CON1051",
+    "topic": "Control Rods",
+    "question": "Consider a reactor core with four quadrants: A, B, C, and D. The reactor is operating at steady-state\n90 percent power when a fully withdrawn control rod in quadrant C drops to the bottom of the core.\nAssume that no operator actions are taken and reactor power stabilizes at 88 percent.\nHow are the maximum upper and lower core power tilt values (sometimes called quadrant power tilt\nratio or azimuthal power tilt) affected by the dropped rod?\n-751-\nPWR Test Items",
+    "image": "",
+    "choices": [
+      "A. Upper core value decreases while lower core value increases.",
+      "B. Upper core value increases while lower core value decreases.",
+      "C. Both upper and lower core values decrease.",
+      "D. Both upper and lower core values increase."
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "CON1052",
+    "topic": "Control Rods",
+    "question": "After a control rod is fully inserted (from the fully withdrawn position), the effect on the axial flux\nshape is minimal. This is because...\n-752-\nPWR Test Items",
+    "image": "",
+    "choices": [
+      "A. the differential rod worth is constant along the length of the control rod.",
+      "B. the fully inserted control rod is an axially uniform poison.",
+      "C. a control rod only has reactivity worth if it is moving.",
+      "D. a variable poison distribution exists throughout the length of the control rod."
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "CON1053",
+    "topic": "Control Rods",
+    "question": "The control rod insertion limits generally rise as reactor power increases because\u2026",
+    "image": "",
+    "choices": [
+      "A. the power defect becomes more negative as power increases.",
+      "B. the control rod worth becomes more negative as power increases.",
+      "C. the fuel temperature coefficient becomes more negative as power increases.",
+      "D. the equilibrium xenon-135 reactivity becomes more negative as power increases."
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "CON1054",
+    "topic": "Control Rods",
+    "question": "KNOWLEDGE: K1.15 [3.4/3.9]\nQID: P1055\nControl rod insertion limits are established for power operation for all the following reasons\nexcept\u2026\n-753-\nPWR Test Items",
+    "image": "",
+    "choices": [
+      "A. adversely affect core power distribution.",
+      "B. provide adequate shutdown margin.",
+      "C. cause reduced control rod lifetime.",
+      "D. minimize the consequences of an uncontrolled rod withdrawal."
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "CON1055",
+    "topic": "Control Rods",
+    "question": "Control rod insertion limits ensure that control rods will be more withdrawn as reactor power\n__________ to compensate for the change in __________.",
+    "image": "",
+    "choices": [
+      "A. increases; xenon reactivity",
+      "B. decreases; xenon reactivity",
+      "C. increases; power defect",
+      "D. decreases; power defect"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "CON1056",
+    "topic": "Control Rods",
+    "question": "Why are control rod insertion limits established for power operation?\n-754-\nPWR Test Items",
+    "image": "",
+    "choices": [
+      "A. To minimize the worth of a dropped control rod.",
+      "B. To maintain a negative moderator temperature coefficient.",
+      "C. To provide adequate shutdown margin after a reactor trip.",
+      "D. To ensure sufficient positive reactivity is available to compensate for the existing power defect."
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "CON1057",
+    "topic": "Control Rods",
+    "question": "A reactor has been operating at 80 percent power for four weeks with the secondary control rods\ninserted 10 percent from the fully withdrawn position.\nWhich one of the following will be most affected by inserting the secondary control rods an\nadditional 5 percent? (Assume steady-state reactor power does not change.)",
+    "image": "",
+    "choices": [
+      "A. Rod insertion limits",
+      "B. Radial power distribution",
+      "C. Quadrant (azimuthal) power distribution",
+      "D. Axial power distribution"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "CON1058",
+    "topic": "Control Rods",
+    "question": "A reactor is operating at steady-state 75 percent power. Assuming the reactor does not trip, which\none of the following compares the effects of dropping (full insertion) a center control rod to the\neffects of partially inserting (50 percent) the same control rod?\n-755-\nPWR Test Items",
+    "image": "",
+    "choices": [
+      "A. A dropped rod causes a greater change in shutdown margin.",
+      "B. A dropped rod causes a smaller change in shutdown margin.",
+      "C. A dropped rod causes a greater change in axial power distribution.",
+      "D. A dropped rod causes a greater change in radial power distribution."
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "CON1059",
+    "topic": "Control Rods",
+    "question": "A reactor is operating at steady-state 75 percent power. Assuming the reactor does not trip, which\none of the following compares the effects of dropping (full insertion) a center control rod to the\neffects of partially inserting (50 percent) the same control rod?",
+    "image": "",
+    "choices": [
+      "A. A partially inserted rod causes a greater change in axial power distribution.",
+      "B. A partially inserted rod causes a greater change in radial power distribution.",
+      "C. A partially inserted rod causes a greater change in shutdown margin.",
+      "D. A partially inserted rod causes a smaller change in shutdown margin."
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "CON1060",
+    "topic": "Control Rods",
+    "question": "A reactor is operating at steady-state 75 percent power. Assuming the reactor power does not trip,\nwhich one of the following compares the effects of dropping (full insertion) a center control rod to\nthe effects of partially inserting (50 percent) the same control rod?\n-756-\nPWR Test Items",
+    "image": "",
+    "choices": [
+      "A. A dropped rod causes a smaller change in axial power distribution.",
+      "B. A dropped rod causes a smaller change in radial power distribution.",
+      "C. A dropped rod causes a smaller change in shutdown margin.",
+      "D. A dropped rod causes a greater change in shutdown margin."
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "CON1061",
+    "topic": "Control Rods",
+    "question": "A reactor is operating at steady-state 85 percent power. Assuming the reactor does not trip, which\none of the following compares the effects of partially inserting (50 percent) a center control rod to\nthe effects of dropping (full insertion) the same control rod?",
+    "image": "",
+    "choices": [
+      "A. A partially inserted rod causes a smaller change in axial power distribution.",
+      "B. A partially inserted rod causes a smaller change in radial power distribution.",
+      "C. A partially inserted rod causes a greater change in shutdown margin.",
+      "D. A partially inserted rod causes a smaller change in shutdown margin."
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "CON1062",
+    "topic": "Control Rods",
+    "question": "A reactor is operating at steady-state 100 percent power at the beginning of a fuel cycle. Assuming\nthe reactor does not trip, which one of the following compares the effects of dropping a control rod\nin the center of the core to dropping an identical control rod at the periphery of the core?\n-757-\nPWR Test Items",
+    "image": "",
+    "choices": [
+      "A. Dropping a center control rod causes a greater change in shutdown margin.",
+      "B. Dropping a center control rod causes a smaller change in shutdown margin.",
+      "C. Dropping a center control rod causes a greater change in axial power distribution.",
+      "D. Dropping a center control rod causes a greater change in radial power distribution."
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "CON1063",
+    "topic": "Control Rods",
+    "question": "A reactor is operating at steady-state 100 percent power when one control rod at the core periphery\nfalls completely into the core. Assuming no reactor trip and no operator action, which one of the\nfollowing will change significantly as a result of the dropped rod?\n-758-\nPWR Test Items",
+    "image": "",
+    "choices": [
+      "A. Axial power distribution only.",
+      "B. Axial power distribution and shutdown margin.",
+      "C. Radial power distribution only.",
+      "D. Radial power distribution and shutdown margin."
+    ],
+    "answer": "C"
+  }
+]

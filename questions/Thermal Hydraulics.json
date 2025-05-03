@@ -1,0 +1,366 @@
+[
+  {
+    "id": "THE1277",
+    "topic": "Thermal Hydraulics",
+    "question": "Subcooled water enters the bottom of an operating reactor core. As the water flows upward past the\nfuel assemblies, steam bubbles form on the surface of a few fuel rods and are swept away.\nIf the coolant at the surface of the affected fuel rods had remained subcooled, average fuel\ntemperature in the affected fuel rods would have been __________ because single-phase convection\nis a __________ efficient method of heat transfer than boiling.\n-900-\nPWR Test Items",
+    "image": "",
+    "choices": [
+      "A. higher; more",
+      "B. higher; less",
+      "C. lower; more",
+      "D. lower; less"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "THE1278",
+    "topic": "Thermal Hydraulics",
+    "question": "The heat transfer coefficient for the core will be directly increased if: (Assume bulk coolant\nsubcooling.)",
+    "image": "",
+    "choices": [
+      "A. the coolant temperature is decreased.",
+      "B. the coolant flow rate is decreased.",
+      "C. nucleate boiling occurs in the coolant.",
+      "D. the coolant flow is laminar instead of turbulent."
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "THE1279",
+    "topic": "Thermal Hydraulics",
+    "question": "Increasing the coolant flow rate through a reactor core affects the heat transfer rate from the fuel,\nbecause a higher coolant flow rate results in a __________ laminar film thickness and a __________\ncoolant temperature adjacent to the fuel.\n-901-\nPWR Test Items",
+    "image": "",
+    "choices": [
+      "A. greater; higher",
+      "B. greater; lower",
+      "C. smaller; higher",
+      "D. smaller; lower"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "THE1280",
+    "topic": "Thermal Hydraulics",
+    "question": "Which one of the following will minimize core heat transfer?\n-902-\nPWR Test Items",
+    "image": "",
+    "choices": [
+      "A. Laminar flow with no nucleate boiling.",
+      "B. Turbulent flow with no nucleate boiling.",
+      "C. Laminar flow with nucleate boiling.",
+      "D. Turbulent flow with nucleate boiling."
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "THE1281",
+    "topic": "Thermal Hydraulics",
+    "question": "Refer to the drawing of a fuel rod and adjacent coolant flow channel (see figure below).\nWith a nuclear power plant operating at steady-state 100 percent reactor power at the beginning of a\nfuel cycle, which one of the following has the greater temperature difference?\n-903-\nPWR Test Items",
+    "image": "page903_img1.jpeg",
+    "choices": [
+      "A. Fuel slug centerline-to-pellet surface",
+      "B. Fuel slug surface-to-cladding gap",
+      "C. Fuel cladding",
+      "D. Coolant laminar layer"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "THE1282",
+    "topic": "Thermal Hydraulics",
+    "question": "Refer to the drawing of a section of pipe that contains flowing subcooled water (see figure below).\nGiven:\n\uf0b7 Pressure at P is 24 psig.\n1\n\uf0b7 Pressure at P is 16 psig.\n2\n\uf0b7 Pressure change due to change in velocity is 2 psig.\n\uf0b7 Pressure change due to change in elevation is 10 psig.\nThe pressure decrease due to friction head loss between P and P is __________; and the direction\n1 2\nof flow is from __________.\n-904-\nPWR Test Items",
+    "image": "page904_img1.jpeg",
+    "choices": [
+      "A. 2 psig; left to right",
+      "B. 2 psig; right to left",
+      "C. 4 psig; left to right",
+      "D. 4 psig; right to left"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "THE1283",
+    "topic": "Thermal Hydraulics",
+    "question": "Refer to the drawing of a section of pipe that contains flowing subcooled water (see figure below).\nGiven:\n\uf0b7 Pressure at P is 26 psig.\n1\n\uf0b7 Pressure at P is 34 psig.\n2\n\uf0b7 Pressure change due to change in velocity is 2 psig.\n\uf0b7 Pressure change due to change in elevation is 8 psig.\nThe pressure decrease due to friction head loss between P and P is __________; and the direction\n1 2\nof flow is from __________.\n-905-\nPWR Test Items",
+    "image": "page905_img1.jpeg",
+    "choices": [
+      "A. 2 psig; left to right",
+      "B. 2 psig; right to left",
+      "C. 4 psig; left to right",
+      "D. 4 psig; right to left"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "THE1284",
+    "topic": "Thermal Hydraulics",
+    "question": "Refer to the drawing of a section of pipe that contains flowing subcooled water. (See figure below).\nGiven:\n\uf0b7 Pressure at P is 30 psig.\n1\n\uf0b7 Pressure at P is 32 psig.\n2\n\uf0b7 Pressure change due to change in velocity is 2 psig.\n\uf0b7 Pressure change due to change in elevation is 2 psig.\nThe pressure decrease due to friction head loss between P and P is __________; and the direction\n1 2\nof flow is from __________.\n-906-\nPWR Test Items",
+    "image": "page906_img1.jpeg",
+    "choices": [
+      "A. 2 psig; left to right",
+      "B. 2 psig; right to left",
+      "C. 6 psig; left to right",
+      "D. 6 psig; right to left"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "THE1285",
+    "topic": "Thermal Hydraulics",
+    "question": "Refer to the drawing of a section of pipe that contains flowing subcooled water (see figure below).\nGiven:\n\uf0b7 Pressure at P is 34 psig.\n1\n\uf0b7 Pressure at P is 20 psig.\n2\n\uf0b7 Pressure change due to change in velocity is 2 psig.\n\uf0b7 Pressure change due to change in elevation is 8 psig.\nThe pressure decrease due to friction head loss between P and P is __________; and the direction\n1 2\nof flow is from __________.\n-907-\nPWR Test Items",
+    "image": "page907_img1.jpeg",
+    "choices": [
+      "A. 2 psig; left to right",
+      "B. 2 psig; right to left",
+      "C. 4 psig; left to right",
+      "D. 4 psig; right to left"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "THE1286",
+    "topic": "Thermal Hydraulics",
+    "question": "Refer to the drawing of a section of pipe that contains flowing subcooled water (see figure below).\nGiven:\n\uf0b7 The pressure at P is 20 psig.\n1\n\uf0b7 The pressure at P is 20 psig.\n2\n\uf0b7 The pressure change caused by the change in velocity is 2 psig.\n\uf0b7 The pressure change caused by the change in elevation is 8 psig.\nThe pressure decrease due to friction head loss between P and P is __________; and the direction\n1 2\nof flow is from __________.\n-908-\nPWR Test Items",
+    "image": "page908_img1.jpeg",
+    "choices": [
+      "A. 6 psig; left to right",
+      "B. 6 psig; right to left",
+      "C. 10 psig; left to right",
+      "D. 10 psig; right to left"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "THE1287",
+    "topic": "Thermal Hydraulics",
+    "question": "A reactor is producing 3,400 MW of thermal output with a reactor vessel differential temperature\n(\u0394T) of 60\u00b0F and a reactor vessel mass flow rate of 1.4 x 108 lbm/hr. If core \u0394T is 63.6\u00b0F, what is\ncore bypass mass flow rate? (Assume bypass flow \u0394T equals 0\u00b0F.)",
+    "image": "",
+    "choices": [
+      "A. 7.92 x 106 lbm/hr",
+      "B. 8.40 x 106 lbm/hr",
+      "C. 1.26 x 108 lbm/hr",
+      "D. 1.32 x 108 lbm/hr"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "THE1288",
+    "topic": "Thermal Hydraulics",
+    "question": "A reactor is producing 3,400 MW of thermal output with a reactor vessel differential temperature\n(\u0394T) of 60\u00b0F and a reactor vessel mass flow rate of 1.0 x 108 lbm/hr. If core \u0394T is 63.6\u00b0F, what is\ncore bypass mass flow rate? (Assume bypass flow \u0394T equals 0\u00b0F.)\n-909-\nPWR Test Items",
+    "image": "",
+    "choices": [
+      "A. 5.66 x 106 lbm/hr",
+      "B. 8.40 x 106 lbm/hr",
+      "C. 3.60 x 107 lbm/hr",
+      "D. 9.43 x 107 lbm/hr"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "THE1289",
+    "topic": "Thermal Hydraulics",
+    "question": "A reactor is producing 3,400 MW of thermal output with a reactor vessel differential temperature\n(\u0394T) of 60\u00b0F and a reactor vessel mass flow rate of 1.1 x 108 lbm/hr. If core \u0394T is 63.6\u00b0F, what is\ncore bypass mass flow rate? (Assume bypass flow \u0394T equals 0\u00b0F.)",
+    "image": "",
+    "choices": [
+      "A. 5.66 x 106 lbm/hr",
+      "B. 6.23 x 106 lbm/hr",
+      "C. 5.66 x 107 lbm/hr",
+      "D. 6.23 x 107 lbm/hr"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "THE1290",
+    "topic": "Thermal Hydraulics",
+    "question": "Adequate core bypass flow is needed to...\n-910-\nPWR Test Items",
+    "image": "",
+    "choices": [
+      "A. cool the excore nuclear instrument detectors.",
+      "B. provide cooling to core structural components.",
+      "C. provide primary sodium pump minimum flow requirements.",
+      "D. prevent stratification of coolant below the cover gas."
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "THE1291",
+    "topic": "Thermal Hydraulics",
+    "question": "Which one of the following describes a function of core bypass flow?",
+    "image": "",
+    "choices": [
+      "A. Provides a means of measuring core flow rate.",
+      "B. Provide primary sodium pump minimum flow requirements.",
+      "C. Prevents excessive reactor vessel wall differential temperature.",
+      "D. Provides cooling to various reactor vessel internal components."
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "THE1292",
+    "topic": "Thermal Hydraulics",
+    "question": "Which one of the following is a function of core bypass flow?\n-911-\nPWR Test Items",
+    "image": "",
+    "choices": [
+      "A. Provides cooling to core structural components.",
+      "B. Provides even coolant flow distribution through the fuel.",
+      "C. Ensures natural circulation will be initiated when forced circulation is lost.",
+      "D. Ensures core exit thermocouple readings represent average fuel temperatures."
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "THE1293",
+    "topic": "Thermal Hydraulics",
+    "question": "Which one of the following must exist for natural circulation flow to occur?",
+    "image": "",
+    "choices": [
+      "A. The heat source must be larger than the heat sink.",
+      "B. The heat source must be located higher than the heat sink.",
+      "C. The heat sink must be larger than the heat source.",
+      "D. The heat sink must be located higher than the heat source."
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "THE1294",
+    "topic": "Thermal Hydraulics",
+    "question": "The driving head for natural circulation flow through the core is developed by differences in\n__________ between the heat sink and the heat source.\n-912-\nPWR Test Items",
+    "image": "",
+    "choices": [
+      "A. fluid density",
+      "B. fluid volume",
+      "C. pipe diameter",
+      "D. pipe length"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "THE1295",
+    "topic": "Thermal Hydraulics",
+    "question": "A reactor is shut down with natural circulation core cooling. Decay heat generation is equivalent to\n1.0 percent of rated thermal power. Stable natural circulation mass flow rate is 1,000 gpm.\nWhen decay heat generation decreases to 0.5 percent of rated thermal power, stable natural\ncirculation flow rate will be approximately...",
+    "image": "",
+    "choices": [
+      "A. 125 gpm.",
+      "B. 250 gpm.",
+      "C. 707 gpm.",
+      "D. 794 gpm."
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "THE1296",
+    "topic": "Thermal Hydraulics",
+    "question": "A reactor is shut down with natural circulation core cooling. Decay heat generation is equivalent to\n1.0 percent of rated thermal power. Core differential temperature (\u0394T) has stabilized at 16\u00b0F.\nWhen decay heat generation decreases to 0.5 percent of rated thermal power, core \u0394T will be\napproximately...\n-913-\nPWR Test Items",
+    "image": "",
+    "choices": [
+      "A. 2\u00b0F.",
+      "B. 4\u00b0F.",
+      "C. 8\u00b0F.",
+      "D. 10\u00b0F."
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "THE1297",
+    "topic": "Thermal Hydraulics",
+    "question": "Sustained natural circulation requires that the heat sink is __________ in elevation than the heat\nsource and that there is a __________ difference between the heat sink and the heat source.",
+    "image": "",
+    "choices": [
+      "A. lower; pressure",
+      "B. lower; temperature",
+      "C. higher; pressure",
+      "D. higher; temperature"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "THE1298",
+    "topic": "Thermal Hydraulics",
+    "question": "Which one of the following conditions must occur to sustain natural convection in a fluid system?\n-914-\nPWR Test Items",
+    "image": "",
+    "choices": [
+      "A. Subcooling of the fluid.",
+      "B. A phase change in the fluid.",
+      "C. A density change in the fluid.",
+      "D. Radiative heat transfer to the fluid."
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "THE1299",
+    "topic": "Thermal Hydraulics",
+    "question": "A reactor is shut down with natural circulation core cooling. Decay heat generation is equivalent to\n1.0 percent of rated thermal power. Core differential temperature (\u0394T) has stabilized at 16\u00b0F.\nWhen decay heat generation decreases to 0.333 percent of rated thermal power, core \u0394T will be\napproximately...",
+    "image": "",
+    "choices": [
+      "A. 2\u00b0F.",
+      "B. 4\u00b0F.",
+      "C. 8\u00b0F.",
+      "D. 10\u00b0F."
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "THE1300",
+    "topic": "Thermal Hydraulics",
+    "question": "A reactor is shut down with natural circulation core cooling. Decay heat generation is equivalent to\n1.0 percent of rated thermal power. Core differential temperature (\u0394T) has stabilized at 13\u00b0F.\nWhen decay heat generation decreases to 0.5 percent of rated thermal power, core \u0394T will be\napproximately...\n-915-\nPWR Test Items",
+    "image": "",
+    "choices": [
+      "A. 4\u00b0F.",
+      "B. 6\u00b0F.",
+      "C. 8\u00b0F.",
+      "D. 10\u00b0F."
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "THE1301",
+    "topic": "Thermal Hydraulics",
+    "question": "A reactor is shut down with natural circulation core cooling. Decay heat generation is equivalent to\n1.0 percent of rated thermal power. Stable natural circulation flow rate is 800 gpm.\nWhen decay heat generation decreases to 0.5 percent of rated thermal power, stable natural\ncirculation flow rate will be approximately...",
+    "image": "",
+    "choices": [
+      "A. 400 gpm.",
+      "B. 565 gpm.",
+      "C. 635 gpm.",
+      "D. 696 gpm."
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "THE1302",
+    "topic": "Thermal Hydraulics",
+    "question": "Sustained natural circulation requires that the heat source is __________ in elevation than the heat\nsink; and that there is a __________ difference between the heat source and the heat sink.\n-916-\nPWR Test Items",
+    "image": "",
+    "choices": [
+      "A. lower; phase",
+      "B. lower; temperature",
+      "C. higher; phase",
+      "D. higher; temperature"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "THE1303",
+    "topic": "Thermal Hydraulics",
+    "question": "A reactor had been operating at 100 percent power for 3 months when a loss of offsite power\noccurred, causing a reactor trip and a loss of forced reactor coolant flow. If forced reactor coolant\nflow is not restored, which one of the following describes the relationship between reactor coolant\nhot leg and cold leg temperatures one hour after the reactor trip?\nflow occurs in the same direction as forced reactor coolant flow.\nflow occurs in the opposite direction as forced reactor coolant flow.\ndensity of the reactor coolant changes during natural circulation cooling.\ndoes not produce a significant amount of heat one hour after a reactor trip.",
+    "image": "",
+    "choices": [
+      "A. Hot leg temperature will be greater than cold leg temperature because natural circulation cooling",
+      "B. Hot leg temperature will be less than cold leg temperature because natural circulation cooling",
+      "C. Hot leg temperature will be approximately the same as cold leg temperature because only the",
+      "D. Hot leg temperature will be approximately the same as cold leg temperature because the reactor"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "THE1304",
+    "topic": "Thermal Hydraulics",
+    "question": "Natural circulation flow can be enhanced by...\n-917-\nPWR Test Items",
+    "image": "",
+    "choices": [
+      "A. increasing the elevation of the heat source to equal that of the heat sink.",
+      "B. increasing the temperature difference between the heat source and the heat sink.",
+      "C. decreasing the temperature difference between the heat source and the heat sink.",
+      "D. decreasing the elevation difference between the heat source and the heat sink."
+    ],
+    "answer": "B"
+  }
+]
