@@ -2,18 +2,35 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>GFE Question Viewer</title>
+  <title>SFR GFE Quiz</title>
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <div id="quiz-container">
+  <div id="selector-container">
+    <h2>Select Topics</h2>
+    <div id="topic-selectors"></div>
+    <button onclick="selectAll(true)">Select All</button>
+    <button onclick="selectAll(false)">Deselect All</button>
+
+    <h2>Select Number of Questions</h2>
+    <input type="number" id="question-count" placeholder="Enter number (e.g. 50)">
+    <button onclick="setQuestionCount(50)">50 Questions</button>
+    <button onclick="setQuestionCount('all')">All Available</button>
+
+    <br><br>
+    <button onclick="startQuiz()">Start Quiz</button>
+  </div>
+
+  <div id="quiz-container" style="display:none;">
     <h2 id="topic"></h2>
     <p id="question"></p>
     <img id="question-image" src="" alt="" style="max-width: 100%; display: none;">
     <div id="choices"></div>
     <p id="feedback"></p>
     <button id="next-btn" style="display:none;">Next Question</button>
+    <div id="result" style="display:none;"></div>
   </div>
+
   <script src="app.js"></script>
 </body>
 </html>
