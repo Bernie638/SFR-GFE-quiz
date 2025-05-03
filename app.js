@@ -1,3 +1,4 @@
+
 let allQuestions = [];
 let selectedQuestions = [];
 let currentIndex = 0;
@@ -5,30 +6,29 @@ let score = 0;
 
 async function loadTopics() {
   const topicList = [
-  "Basic Energy Concepts",
-  "Bkrs, Rlys, and Disconnects",
-  "Control Rods",
-  "Controllers and Positioners",
-  "Core Thermal Limits",
-  "Demins and Ion Exchange",
-  "Fluid Statics and Dynamics",
-  "Heat Exchangers",
-  "Heat Transfer",
-  "Motors and Generators",
-  "Neutron Life Cycle",
-  "Neutrons",
-  "Pumps",
-  "Reactivity Coefficients",
-  "Reactor Kinetics and Neutron Sources",
-  "Reactor Operational Physics",
-  "Sensors and Detectors",
-  "Thermal Hydraulics",
-  "Thermodynamic Cycles",
-  "Thermodynamic Processes",
-  "Thermodynamic Units and Properties",
-  "Valves"
-];
-
+    "Basic Energy Concepts",
+    "Bkrs, Rlys, and Disconnects",
+    "Control Rods",
+    "Controllers and Positioners",
+    "Core Thermal Limits",
+    "Demins and Ion Exchange",
+    "Fluid Statics and Dynamics",
+    "Heat Exchangers",
+    "Heat Transfer",
+    "Motors and Generators",
+    "Neutron Life Cycle",
+    "Neutrons",
+    "Pumps",
+    "Reactivity Coefficients",
+    "Reactor Kinetics and Neutron Sources",
+    "Reactor Operational Physics",
+    "Sensors and Detectors",
+    "Thermal Hydraulics",
+    "Thermodynamic Cycles",
+    "Thermodynamic Processes",
+    "Thermodynamic Units and Properties",
+    "Valves"
+  ];
 
   const container = document.getElementById('topic-selectors');
   container.innerHTML = '';
@@ -39,7 +39,6 @@ async function loadTopics() {
     container.appendChild(document.createElement('br'));
   });
 }
-
 
 function selectAll(state) {
   document.querySelectorAll('#topic-selectors input[type=checkbox]').forEach(cb => cb.checked = state);
@@ -57,17 +56,16 @@ async function startQuiz() {
   allQuestions = [];
 
   for (const topic of selectedTopics) {
-  try {
-    const res = await fetch(`topics/${topic}.json`);
-    if (!res.ok) throw new Error(`Failed to load ${topic}`);
-    const questions = await res.json();
-    allQuestions.push(...questions);
-  } catch (err) {
-    alert(`Error loading topic: ${topic}`);
-    console.error(err);
+    try {
+      const res = await fetch(`questions/${topic}.json`);
+      if (!res.ok) throw new Error(`Failed to load ${topic}`);
+      const questions = await res.json();
+      allQuestions.push(...questions);
+    } catch (err) {
+      alert(`Error loading topic: ${topic}`);
+      console.error(err);
+    }
   }
-}
-
 
   allQuestions = allQuestions.sort(() => Math.random() - 0.5);
   selectedQuestions = count && count < allQuestions.length ? allQuestions.slice(0, count) : allQuestions;
