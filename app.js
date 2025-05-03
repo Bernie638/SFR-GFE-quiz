@@ -5,32 +5,30 @@ let score = 0;
 
 async function loadTopics() {
   const topicList = [
-    
-	"Basic Energy Concepts".
-	"Bkrs, Rlys, and Disconnects",
-	"Control Rods",
-	"Controllers and Positioners",
-	"Core Thermal Limits",
-	"Demins and Ion Exchange",
-	"Fluid Statics and Dynamics",
-	"Heat Exchangers",
-	"Heat Transfer",
-	"Motors and Generators",
-	"Neutron Life Cycle",
-	"Neutrons",
-	"Pumps",
-	"Reactivity Coefficients",
-	"Reactor Kinetics and Neutron Sources",
-	"Reactor Operational Physics",
-	"Sensors and Detectors",
-	"Thermal Hydraulics",
-	"Thermodynamic Cycles",
-	"Thermodynamic Processes",
-	"Thermodynamic Units and Properties",
-	"Valves"
-	
-    // Add more topics here (filenames without .json)
-  ];
+  "Basic Energy Concepts",
+  "Bkrs, Rlys, and Disconnects",
+  "Control Rods",
+  "Controllers and Positioners",
+  "Core Thermal Limits",
+  "Demins and Ion Exchange",
+  "Fluid Statics and Dynamics",
+  "Heat Exchangers",
+  "Heat Transfer",
+  "Motors and Generators",
+  "Neutron Life Cycle",
+  "Neutrons",
+  "Pumps",
+  "Reactivity Coefficients",
+  "Reactor Kinetics and Neutron Sources",
+  "Reactor Operational Physics",
+  "Sensors and Detectors",
+  "Thermal Hydraulics",
+  "Thermodynamic Cycles",
+  "Thermodynamic Processes",
+  "Thermodynamic Units and Properties",
+  "Valves"
+];
+
 
   const container = document.getElementById('topic-selectors');
   container.innerHTML = '';
