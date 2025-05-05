@@ -59,12 +59,17 @@ async function startQuiz() {
     try {
       const res = await fetch(`questions/${topic}.json`);
       if (!res.ok) throw new Error(`Failed to load ${topic}`);
-      const questions = await res.json();
-      allQuestions.push(...questions);
-    } catch (err) {
-      alert(`Error loading topic: ${topic}`);
-      console.error(err);
-    }
+     try {
+  const questions = await res.json();
+  if (Array.isArray(questions) && questions.length > 0) {
+    allQuestions.push(...questions);
+  } else {
+    console.warn(`Skipped empty or invalid file: ${topic}.json`);
+  }
+} catch (err) {
+  alert(`Error loading topic: ${topic}`);
+  console.error(err);
+}
   }
 
   allQuestions = allQuestions.sort(() => Math.random() - 0.5);
