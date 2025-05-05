@@ -1,4 +1,3 @@
-
 let allQuestions = [];
 let selectedQuestions = [];
 let currentIndex = 0;
@@ -41,50 +40,52 @@ async function loadTopics() {
 }
 
 function selectAll(state) {
-  document.querySelectorAll('#topic-selectors input[type=checkbox]').forEach(cb => cb.checked = state);
+  const checkboxes = document.querySelectorAll('#topic-selectors input[type="checkbox"]');
+  checkboxes.forEach(cb => cb.checked = state);
 }
 
-function setQuestionCount(count) {
-  document.getElementById('question-count').value = count === 'all' ? '' : count;
-}
-
-async function startQuiz() {
-  const selectedTopics = [...document.querySelectorAll('#topic-selectors input[type=checkbox]:checked')].map(cb => cb.value);
-  const countInput = document.getElementById('question-count').value;
-  const count = countInput === '' ? null : parseInt(countInput);
-
+async function startQuiz(num = 50) {
+  const checkboxes = document.querySelectorAll('#topic-selectors input[type="checkbox"]:checked');
+  const selectedTopics = Array.from(checkboxes).map(cb => cb.value);
   allQuestions = [];
 
- for (const topic of selectedTopics) {
-  try {
-    const res = await fetch(`questions/${topic}.json`);
-    if (!res.ok) throw new Error(`Failed to load ${topic}`);
-    
-    const questions = await res.json();
-    if (Array.isArray(questions) && questions.length > 0) {
+  for (const topic of selectedTopics) {
+    try {
+      const response = await fetch(`questions/${topic}.json`);
+      if (!response.ok) throw new Error(`Failed to load ${topic}`);
+      const questions = await response.json();
       allQuestions.push(...questions);
-    } else {
-      console.warn(`Skipped empty or invalid file: ${topic}.json`);
+    } catch (error) {
+      console.error(`Error loading topic ${topic}:`, error);
     }
-  } catch (err) {
-    alert(`Error loading topic: ${topic}`);
-    console.error(err);
   }
-}
 
+  allQuestions = allQuestions.filter(q => q.choices && typeof q.choices === 'object');
+  if (allQuestions.length === 0) {
+    alert("No valid questions found for the selected topics.");
+    return;
+  }
 
-  allQuestions = allQuestions.sort(() => Math.random() - 0.5);
-  selectedQuestions = count && count < allQuestions.length ? allQuestions.slice(0, count) : allQuestions;
-
-  document.getElementById('selector-container').style.display = 'none';
+  selectedQuestions = shuffleArray(allQuestions).slice(0, Math.min(num, allQuestions.length));
+  currentIndex = 0;
+  score = 0;
+  document.getElementById('quiz-setup').style.display = 'none';
   document.getElementById('quiz-container').style.display = 'block';
   showQuestion();
+}
+
+function shuffleArray(array) {
+  for (let i = array.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [array[i], array[j]] = [array[j], array[i]];
+  }
+  return array;
 }
 
 function showQuestion() {
   const q = selectedQuestions[currentIndex];
   document.getElementById('topic').textContent = `Topic: ${q.topic}`;
- document.getElementById('question').textContent = q.stem;
+  document.getElementById('question').textContent = q.stem || q.question || '';
 
   const img = document.getElementById('question-image');
   if (q.image) {
@@ -95,27 +96,14 @@ function showQuestion() {
   }
 
   const choicesDiv = document.getElementById('choices');
- choicesDiv.innerHTML = '';
-
-if (Array.isArray(q.choices)) {
-    q.choices.forEach((choice, idx) => {
-        const btn = document.createElement('button');
-        btn.textContent = choice.replace(/\s*-\s*\d+\s*-\s*PWR Test Items/, '');
-btn.onclick = () => handleAnswer(choice.charAt(0));
-
-        choicesDiv.appendChild(btn);
-    });
-} else if (typeof q.choices === 'object' && q.choices !== null) {
-    for (const [key, value] of Object.entries(q.choices)) {
-        const btn = document.createElement('button');
-        btn.textContent = value;
-        btn.onclick = () => handleAnswer(key);
-        choicesDiv.appendChild(btn);
-    }
-} else {
-    choicesDiv.innerHTML = '<div style="color: red;">Invalid choices format</div>';
-}
-
+  choicesDiv.innerHTML = '';
+  Object.entries(q.choices).forEach(([key, value]) => {
+    const cleaned = value.replace(/\s*-?\d{3,}-?\s*PWR Test Items/i, '').trim();
+    const btn = document.createElement('button');
+    btn.textContent = cleaned;
+    btn.onclick = () => handleAnswer(key);
+    choicesDiv.appendChild(btn);
+  });
 
   document.getElementById('feedback').textContent = '';
   document.getElementById('next-btn').style.display = 'none';
@@ -125,28 +113,29 @@ function handleAnswer(selected) {
   const correct = selectedQuestions[currentIndex].answer;
   const feedback = document.getElementById('feedback');
   if (selected === correct) {
-    feedback.textContent = '✅ Correct!';
-    feedback.style.color = 'green';
+    feedback.textContent = "Correct!";
     score++;
   } else {
-    feedback.textContent = `❌ Incorrect. Correct answer: ${correct}`;
-    feedback.style.color = 'red';
+    feedback.textContent = `Incorrect. Correct answer: ${correct}`;
   }
-
-  document.querySelectorAll('#choices button').forEach(btn => btn.disabled = true);
   document.getElementById('next-btn').style.display = 'inline-block';
 }
 
-document.getElementById('next-btn').addEventListener('click', () => {
+function nextQuestion() {
   currentIndex++;
   if (currentIndex < selectedQuestions.length) {
     showQuestion();
   } else {
-    const result = document.getElementById('result');
-    result.style.display = 'block';
-    result.innerHTML = `<h3>Quiz Complete!</h3><p>Your score: ${score} / ${selectedQuestions.length}</p>`;
-    document.getElementById('next-btn').style.display = 'none';
+    document.getElementById('quiz-container').style.display = 'none';
+    const summary = `You answered ${score} out of ${selectedQuestions.length} questions correctly.`;
+    document.getElementById('result').textContent = summary;
+    document.getElementById('result-container').style.display = 'block';
   }
-});
+}
+
+function restartQuiz() {
+  document.getElementById('result-container').style.display = 'none';
+  document.getElementById('quiz-setup').style.display = 'block';
+}
 
 window.onload = loadTopics;
