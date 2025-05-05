@@ -84,7 +84,7 @@ async function startQuiz() {
 function showQuestion() {
   const q = selectedQuestions[currentIndex];
   document.getElementById('topic').textContent = `Topic: ${q.topic}`;
-  document.getElementById('question').textContent = q.question;
+ document.getElementById('question').textContent = q.stem;
 
   const img = document.getElementById('question-image');
   if (q.image) {
@@ -100,8 +100,9 @@ function showQuestion() {
 if (Array.isArray(q.choices)) {
     q.choices.forEach((choice, idx) => {
         const btn = document.createElement('button');
-        btn.textContent = choice;
-        btn.onclick = () => handleAnswer(String.fromCharCode(65 + idx)); // A, B, C...
+        btn.textContent = choice.replace(/\s*-\s*\d+\s*-\s*PWR Test Items/, '');
+btn.onclick = () => handleAnswer(choice.charAt(0));
+
         choicesDiv.appendChild(btn);
     });
 } else if (typeof q.choices === 'object' && q.choices !== null) {
