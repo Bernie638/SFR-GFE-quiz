@@ -37,6 +37,10 @@ async function loadTopics() {
     container.appendChild(label);
     container.appendChild(document.createElement('br'));
   });
+
+  document.getElementById('start-btn').onclick = () => startQuiz();
+  document.getElementById('fifty-btn').onclick = () => setQuestionCount(50);
+  document.getElementById('all-btn').onclick = () => setQuestionCount('all');
 }
 
 function selectAll(state) {
@@ -44,9 +48,14 @@ function selectAll(state) {
   checkboxes.forEach(cb => cb.checked = state);
 }
 
-async function startQuiz(num = 50) {
+function setQuestionCount(num) {
+  document.getElementById('question-count').value = num === 'all' ? allQuestions.length : num;
+}
+
+async function startQuiz() {
   const checkboxes = document.querySelectorAll('#topic-selectors input[type="checkbox"]:checked');
   const selectedTopics = Array.from(checkboxes).map(cb => cb.value);
+  const num = parseInt(document.getElementById('question-count').value);
   allQuestions = [];
 
   for (const topic of selectedTopics) {
@@ -97,13 +106,24 @@ function showQuestion() {
 
   const choicesDiv = document.getElementById('choices');
   choicesDiv.innerHTML = '';
-  Object.entries(q.choices).forEach(([key, value]) => {
-    const cleaned = value.replace(/\s*-?\d{3,}-?\s*PWR Test Items/i, '').trim();
-    const btn = document.createElement('button');
-    btn.textContent = cleaned;
-    btn.onclick = () => handleAnswer(key);
-    choicesDiv.appendChild(btn);
-  });
+
+  if (Array.isArray(q.choices)) {
+    q.choices.forEach((choice, idx) => {
+      const cleaned = choice.replace(/\s*-?\d{3,}-?\s*PWR Test Items/i, '').trim();
+      const btn = document.createElement('button');
+      btn.textContent = cleaned;
+      btn.onclick = () => handleAnswer(String.fromCharCode(65 + idx));
+      choicesDiv.appendChild(btn);
+    });
+  } else {
+    Object.entries(q.choices).forEach(([key, value]) => {
+      const cleaned = value.replace(/\s*-?\d{3,}-?\s*PWR Test Items/i, '').trim();
+      const btn = document.createElement('button');
+      btn.textContent = cleaned;
+      btn.onclick = () => handleAnswer(key);
+      choicesDiv.appendChild(btn);
+    });
+  }
 
   document.getElementById('feedback').textContent = '';
   document.getElementById('next-btn').style.display = 'none';
