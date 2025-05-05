@@ -95,13 +95,26 @@ function showQuestion() {
   }
 
   const choicesDiv = document.getElementById('choices');
-  choicesDiv.innerHTML = '';
-  q.choices.forEach(choice => {
-    const btn = document.createElement('button');
-    btn.textContent = choice;
-    btn.onclick = () => handleAnswer(choice.charAt(0));
-    choicesDiv.appendChild(btn);
-  });
+ choicesDiv.innerHTML = '';
+
+if (Array.isArray(q.choices)) {
+    q.choices.forEach((choice, idx) => {
+        const btn = document.createElement('button');
+        btn.textContent = choice;
+        btn.onclick = () => handleAnswer(String.fromCharCode(65 + idx)); // A, B, C...
+        choicesDiv.appendChild(btn);
+    });
+} else if (typeof q.choices === 'object' && q.choices !== null) {
+    for (const [key, value] of Object.entries(q.choices)) {
+        const btn = document.createElement('button');
+        btn.textContent = value;
+        btn.onclick = () => handleAnswer(key);
+        choicesDiv.appendChild(btn);
+    }
+} else {
+    choicesDiv.innerHTML = '<div style="color: red;">Invalid choices format</div>';
+}
+
 
   document.getElementById('feedback').textContent = '';
   document.getElementById('next-btn').style.display = 'none';
