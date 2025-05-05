@@ -1,161 +1,123 @@
+
 let allQuestions = [];
 let selectedQuestions = [];
 let currentIndex = 0;
 let score = 0;
 
 async function loadTopics() {
-  const topicList = [
-    "Basic Energy Concepts",
-    "Bkrs, Rlys, and Disconnects",
-    "Control Rods",
-    "Controllers and Positioners",
-    "Core Thermal Limits",
-    "Demins and Ion Exchange",
-    "Fluid Statics and Dynamics",
-    "Heat Exchangers",
-    "Heat Transfer",
-    "Motors and Generators",
-    "Neutron Life Cycle",
-    "Neutrons",
-    "Pumps",
-    "Reactivity Coefficients",
-    "Reactor Kinetics and Neutron Sources",
-    "Reactor Operational Physics",
-    "Sensors and Detectors",
-    "Thermal Hydraulics",
-    "Thermodynamic Cycles",
-    "Thermodynamic Processes",
-    "Thermodynamic Units and Properties",
-    "Valves"
-  ];
+    const topicList = [
+        "Basic Energy Concepts", "Bkrs, Rlys, and Disconnects", "Control Rods",
+        "Controllers and Positioners", "Core Thermal Limits", "Demins and Ion Exchange",
+        "Fluid Statics and Dynamics", "Heat Exchangers", "Heat Transfer",
+        "Motors and Generators", "Neutron Life Cycle", "Neutrons", "Pumps",
+        "Reactivity Coefficients", "Reactor Kinetics and Neutron Sources",
+        "Reactor Operational Physics", "Sensors and Detectors", "Thermal Hydraulics",
+        "Thermodynamic Cycles", "Thermodynamic Processes", "Thermodynamic Units and Properties",
+        "Valves"
+    ];
 
-  const container = document.getElementById('topic-selectors');
-  container.innerHTML = '';
-  topicList.forEach(topic => {
-    const label = document.createElement('label');
-    label.innerHTML = `<input type="checkbox" value="${topic}" checked> ${topic}`;
-    container.appendChild(label);
-    container.appendChild(document.createElement('br'));
-  });
-
-  document.getElementById('start-btn').onclick = () => startQuiz();
-  document.getElementById('fifty-btn').onclick = () => setQuestionCount(50);
-  document.getElementById('all-btn').onclick = () => setQuestionCount('all');
+    const container = document.getElementById('topic-selectors');
+    container.innerHTML = '';
+    topicList.forEach(topic => {
+        const label = document.createElement('label');
+        label.innerHTML = `<input type="checkbox" value="${topic}" checked> ${topic}`;
+        container.appendChild(label);
+        container.appendChild(document.createElement('br'));
+    });
 }
 
 function selectAll(state) {
-  const checkboxes = document.querySelectorAll('#topic-selectors input[type="checkbox"]');
-  checkboxes.forEach(cb => cb.checked = state);
+    document.querySelectorAll('#topic-selectors input[type=checkbox]')
+        .forEach(cb => cb.checked = state);
 }
 
-function setQuestionCount(num) {
-  document.getElementById('question-count').value = num === 'all' ? allQuestions.length : num;
+function setQuestionCount(count) {
+    const input = document.getElementById('question-count');
+    input.value = count === 'all' ? allQuestions.length : count;
 }
 
 async function startQuiz() {
-  const checkboxes = document.querySelectorAll('#topic-selectors input[type="checkbox"]:checked');
-  const selectedTopics = Array.from(checkboxes).map(cb => cb.value);
-  const num = parseInt(document.getElementById('question-count').value);
-  allQuestions = [];
+    const selectedTopics = Array.from(document.querySelectorAll('#topic-selectors input[type=checkbox]:checked'))
+        .map(cb => cb.value);
 
-  for (const topic of selectedTopics) {
-    try {
-      const response = await fetch(`questions/${topic}.json`);
-      if (!response.ok) throw new Error(`Failed to load ${topic}`);
-      const questions = await response.json();
-      allQuestions.push(...questions);
-    } catch (error) {
-      console.error(`Error loading topic ${topic}:`, error);
+    allQuestions = [];
+
+    for (const topic of selectedTopics) {
+        const filename = topic + '.json';
+        try {
+            const res = await fetch(`questions/${filename}`);
+            const data = await res.json();
+            allQuestions.push(...data);
+        } catch (err) {
+            console.error(`Failed to load ${filename}:`, err);
+        }
     }
-  }
 
-  allQuestions = allQuestions.filter(q => q.choices && typeof q.choices === 'object');
-  if (allQuestions.length === 0) {
-    alert("No valid questions found for the selected topics.");
-    return;
-  }
-
-  selectedQuestions = shuffleArray(allQuestions).slice(0, Math.min(num, allQuestions.length));
-  currentIndex = 0;
-  score = 0;
-  document.getElementById('quiz-setup').style.display = 'none';
-  document.getElementById('quiz-container').style.display = 'block';
-  showQuestion();
-}
-
-function shuffleArray(array) {
-  for (let i = array.length - 1; i > 0; i--) {
-    const j = Math.floor(Math.random() * (i + 1));
-    [array[i], array[j]] = [array[j], array[i]];
-  }
-  return array;
+    const count = document.getElementById('question-count').value;
+    const questionCount = count === 'all' ? allQuestions.length : parseInt(count);
+    selectedQuestions = allQuestions.sort(() => 0.5 - Math.random()).slice(0, questionCount);
+    currentIndex = 0;
+    score = 0;
+    document.getElementById('selector-container').style.display = 'none';
+    document.getElementById('quiz-container').style.display = 'block';
+    showQuestion();
 }
 
 function showQuestion() {
-  const q = selectedQuestions[currentIndex];
-  document.getElementById('topic').textContent = `Topic: ${q.topic}`;
-  document.getElementById('question').textContent = q.stem || q.question || '';
+    const q = selectedQuestions[currentIndex];
+    document.getElementById('topic').textContent = `Topic: ${q.topic}`;
+    document.getElementById('question').textContent = q.stem || q.question;
 
-  const img = document.getElementById('question-image');
-  if (q.image) {
-    img.src = `images/${q.image}`;
-    img.style.display = 'block';
-  } else {
-    img.style.display = 'none';
-  }
+    const img = document.getElementById('question-image');
+    if (q.image) {
+        img.src = `images/${q.image}`;
+        img.style.display = 'block';
+    } else {
+        img.style.display = 'none';
+    }
 
-  const choicesDiv = document.getElementById('choices');
-  choicesDiv.innerHTML = '';
-
-  if (Array.isArray(q.choices)) {
-    q.choices.forEach((choice, idx) => {
-      const cleaned = choice.replace(/\s*-?\d{3,}-?\s*PWR Test Items/i, '').trim();
-      const btn = document.createElement('button');
-      btn.textContent = cleaned;
-      btn.onclick = () => handleAnswer(String.fromCharCode(65 + idx));
-      choicesDiv.appendChild(btn);
+    const choicesDiv = document.getElementById('choices');
+    choicesDiv.innerHTML = '';
+    const choices = Array.isArray(q.choices) ? q.choices : Object.values(q.choices);
+    choices.forEach(choice => {
+        const btn = document.createElement('button');
+        btn.textContent = choice;
+        btn.onclick = () => handleAnswer(choice);
+        choicesDiv.appendChild(btn);
     });
-  } else {
-    Object.entries(q.choices).forEach(([key, value]) => {
-      const cleaned = value.replace(/\s*-?\d{3,}-?\s*PWR Test Items/i, '').trim();
-      const btn = document.createElement('button');
-      btn.textContent = cleaned;
-      btn.onclick = () => handleAnswer(key);
-      choicesDiv.appendChild(btn);
-    });
-  }
 
-  document.getElementById('feedback').textContent = '';
-  document.getElementById('next-btn').style.display = 'none';
+    document.getElementById('feedback').textContent = '';
+    document.getElementById('next-btn').style.display = 'none';
 }
 
 function handleAnswer(selected) {
-  const correct = selectedQuestions[currentIndex].answer;
-  const feedback = document.getElementById('feedback');
-  if (selected === correct) {
-    feedback.textContent = "Correct!";
-    score++;
-  } else {
-    feedback.textContent = `Incorrect. Correct answer: ${correct}`;
-  }
-  document.getElementById('next-btn').style.display = 'inline-block';
+    const q = selectedQuestions[currentIndex];
+    const correct = typeof q.answer === 'string' && (
+        q.answer === selected ||
+        (q.choices && typeof q.choices === 'object' && q.answer in q.choices && q.choices[q.answer] === selected)
+    );
+    document.getElementById('feedback').textContent = correct ? 'Correct!' : `Incorrect. Correct answer: ${q.answer}`;
+    if (correct) score++;
+    document.getElementById('next-btn').style.display = 'block';
 }
 
 function nextQuestion() {
-  currentIndex++;
-  if (currentIndex < selectedQuestions.length) {
-    showQuestion();
-  } else {
+    currentIndex++;
+    if (currentIndex < selectedQuestions.length) {
+        showQuestion();
+    } else {
+        showResult();
+    }
+}
+
+function showResult() {
     document.getElementById('quiz-container').style.display = 'none';
-    const summary = `You answered ${score} out of ${selectedQuestions.length} questions correctly.`;
-    document.getElementById('result').textContent = summary;
-    document.getElementById('result-container').style.display = 'block';
-  }
+    const result = document.getElementById('result');
+    result.innerHTML = `<h2>Quiz Completed!</h2><p>Your Score: ${score} / ${selectedQuestions.length}</p>`;
+    result.style.display = 'block';
 }
 
-function restartQuiz() {
-  document.getElementById('result-container').style.display = 'none';
-  document.getElementById('quiz-setup').style.display = 'block';
-}
-
-window.onload = loadTopics;
+window.onload = () => {
+    loadTopics();
+    document.getElementById('next-btn').onclick = nextQuestion;
+};
