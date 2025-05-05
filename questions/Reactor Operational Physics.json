@@ -1,1263 +1,1069 @@
 [
   {
-    "id": "REA1064",
     "topic": "Reactor Operational Physics",
-    "question": "During a reactor startup, the first reactivity addition caused the stable source range count rate to\nincrease from 20 cps to 40 cps. The second reactivity addition caused the stable count rate to\nincrease from 40 cps to 160 cps.\nWhich one of the following statements accurately compares the two reactivity additions?",
-    "image": "",
-    "choices": [
-      "A. The first reactivity addition was larger.",
-      "B. The second reactivity addition was larger.",
-      "C. The first and second reactivity additions were equal.",
-      "D. There is not enough information given to compare the reactivity values."
-    ],
+    "stem": " During a reactor startup, the first reactivity addition caused the stable source range count rate to increase from 20 cps to 40 cps. The second reactivity addition caused the stable count rate to increase from 40 cps to 160 cps. Which one of the following statements accurately compares the two reactivity additions?",
+    "choices": {
+      "A": "The first reactivity addition was larger.",
+      "B": "The second reactivity addition was larger.",
+      "C": "The first and second reactivity additions were equal.",
+      "D": "There is not enough information given to compare the reactivity values."
+    },
     "answer": "A"
   },
   {
-    "id": "REA1065",
     "topic": "Reactor Operational Physics",
-    "question": "During a reactor startup, the first positive reactivity addition caused the stable source range count\nrate to increase from 20 cps to 30 cps. The second positive reactivity addition caused the stable\ncount rate to increase from 30 cps to 60 cps. K was 0.97 prior to the first reactivity addition.\neff\nWhich one of the following statements accurately compares the reactivity additions?\n-759-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. The first and second reactivity additions were approximately equal.",
-      "B. The first reactivity addition was approximately twice as large as the second.",
-      "C. The second reactivity addition was approximately twice as large as the first.",
-      "D. There is not enough information given to compare the reactivity values."
-    ],
+    "stem": " During a reactor startup, the first positive reactivity addition caused the stable source range count rate to increase from 20 cps to 30 cps. The second positive reactivity addition caused the stable count rate to increase from 30 cps to 60 cps. K was 0.97 prior to the first reactivity addition. eff Which one of the following statements accurately compares the reactivity additions? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "The first and second reactivity additions were approximately equal.",
+      "B": "The first reactivity addition was approximately twice as large as the second.",
+      "C": "The second reactivity addition was approximately twice as large as the first.",
+      "D": "There is not enough information given to compare the reactivity values. -759- PWR Test Items"
+    },
     "answer": "A"
   },
   {
-    "id": "REA1066",
     "topic": "Reactor Operational Physics",
-    "question": "While withdrawing control rods during a reactor startup, the stable source range count rate doubled.\nIf the same amount of reactivity that caused the first doubling is added again, the stable count rate\nwill __________; and the reactor will be __________.",
-    "image": "",
-    "choices": [
-      "A. more than double; subcritical",
-      "B. more than double; critical",
-      "C. double; subcritical",
-      "D. double; critical"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "REA1067",
-    "topic": "Reactor Operational Physics",
-    "question": "A reactor startup is in progress and the reactor is subcritical in the source range.\nAssuming the reactor remains subcritical, a short control rod withdrawal will cause the reactor\nstartup rate indication to increase sharply in the positive direction, and then...\n-760-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. rapidly decrease and stabilize at a negative 1/3 DPM.",
-      "B. gradually decrease and stabilize at 0 DPM.",
-      "C. stabilize until the point of adding heat (POAH) is reached; then decrease to 0 DPM.",
-      "D. continue increasing until the POAH is reached; then decrease to 0 DPM."
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "REA1068",
-    "topic": "Reactor Operational Physics",
-    "question": "A subcritical reactor has a stable source range count rate of 150 cps with a shutdown reactivity of\n\u02d72.0 %\u0394K/K. How much positive reactivity must be added to establish a stable count rate of 300\ncps?",
-    "image": "",
-    "choices": [
-      "A. 0.5 %\u0394K/K",
-      "B. 1.0 %\u0394K/K",
-      "C. 1.5 %\u0394K/K",
-      "D. 2.0 %\u0394K/K"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "REA1069",
-    "topic": "Reactor Operational Physics",
-    "question": "A subcritical reactor has an initial K of 0.8 with a stable source range count rate of 100 cps. If\neff\npositive reactivity is added until K equals 0.95, at what value will the count rate stabilize?\neff\n-761-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. 150 cps",
-      "B. 200 cps",
-      "C. 300 cps",
-      "D. 400 cps"
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "REA1070",
-    "topic": "Reactor Operational Physics",
-    "question": "During a reactor startup, equal amounts of positive reactivity are being sequentially added, and the\nsource range count rate is allowed to reach equilibrium after each addition. Which one of the\nfollowing statements applies for each successive reactivity addition?",
-    "image": "",
-    "choices": [
-      "A. The time required to reach equilibrium count rate is the same.",
-      "B. The time required to reach equilibrium count rate is shorter.",
-      "C. The numerical change in equilibrium count rate is greater.",
-      "D. The numerical change in equilibrium count rate is the same."
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "REA1071",
-    "topic": "Reactor Operational Physics",
-    "question": "Which one of the following describes the prompt jump and the change in stable source range count\nrate resulting from a short control rod withdrawal with K at 0.95 as compared to an identical\neff\ncontrol rod withdrawal with K at 0.99? (Assume the reactivity additions are equal, and the reactor\neff\nremains subcritical.)\nsame.\neff\nrate will be the same.\ngreater with K at 0.99.\neff\neff\nrate will be greater with K at 0.99.\neff\n-762-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. The prompt jump in count rate will be the same, and the increase in stable count rate will be the",
-      "B. The prompt jump in count rate will be greater with K at 0.99, but the increase in stable count",
-      "C. The prompt jump in count rate will be the same, but the increase in stable count rate will be",
-      "D. The prompt jump in count rate will be greater with K at 0.99, and the increase in stable count"
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "REA1072",
-    "topic": "Reactor Operational Physics",
-    "question": "A subcritical reactor has a stable source range count rate of 150 cps with a shutdown reactivity of\n\u02d72.0 %\u0394K/K. Approximately how much positive reactivity must be added to establish a stable\ncount rate of 600 cps?",
-    "image": "",
-    "choices": [
-      "A. 0.5 %\u0394K/K",
-      "B. 1.0 %\u0394K/K",
-      "C. 1.5 %\u0394K/K",
-      "D. 2.0 %\u0394K/K"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "REA1073",
-    "topic": "Reactor Operational Physics",
-    "question": "A subcritical reactor has a stable source range count rate of 60 cps with a shutdown reactivity of -2.0\n%\u0394K/K. How much positive reactivity must be added to establish a stable count rate of 300 cps?\n-763-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. 0.4 %\u0394K/K",
-      "B. 0.6 %\u0394K/K",
-      "C. 1.4 %\u0394K/K",
-      "D. 1.6 %\u0394K/K"
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "REA1074",
-    "topic": "Reactor Operational Physics",
-    "question": "A reactor startup is in progress with the reactor currently subcritical.\nWhich one of the following describes the change in source range count rate resulting from a short\ncontrol rod withdrawal with K at 0.95 compared to an identical control rod withdrawal with K at\neff eff\n0.98? (Assume the reactivity additions are equal and the reactor remains subcritical.)\nvalues of K .\neff\neff\nat 0.95.\neff\nrates will be the same.\nsmaller with K at 0.95.\neff",
-    "image": "",
-    "choices": [
-      "A. Both the prompt jump in count rate and the increase in stable count rate will be the same for both",
-      "B. Both the prompt jump in count rate and the increase in stable count rate will be smaller with K",
-      "C. The prompt jump in count rate will be smaller with K at 0.95, but the increase in stable count",
-      "D. The prompt jump in count rates will be the same, but the increase in stable count rate will be"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "REA1075",
-    "topic": "Reactor Operational Physics",
-    "question": "A reactor startup is being performed by adding equal amounts of positive reactivity and waiting for\nsource range count rate to stabilize. As the reactor approaches criticality, the numerical change in\nstable count rate resulting from each reactivity addition will __________; and the time required for\nthe count rate to stabilize after each reactivity addition will __________.\n-764-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. increase; remain the same",
-      "B. increase; increase",
-      "C. remain the same; remain the same",
-      "D. remain the same; increase"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "REA1076",
-    "topic": "Reactor Operational Physics",
-    "question": "A reactor startup is being performed. Control rod withdrawal is stopped when K equals 0.995.\neff\nSource range count rate stabilizes at 1,000 cps. No additional operator actions are taken.\nWhich one of the following describes the count rate 20 minutes after rod withdrawal is stopped?",
-    "image": "",
-    "choices": [
-      "A. Less than 1,000 cps and decreasing toward the prestartup count rate.",
-      "B. Less than 1,000 cps and stable above the prestartup count rate.",
-      "C. Greater than 1,000 cps and increasing toward criticality.",
-      "D. 1,000 cps and constant."
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "REA1077",
-    "topic": "Reactor Operational Physics",
-    "question": "A reactor startup is in progress. The reactor is slightly subcritical with a constant startup rate of\n0.0 DPM. If control rods are inserted for a few seconds, the startup rate will become negative\ninitially, and then...\nthe neutron population, and then return to 0.0 DPM.\nand then return to 0.0 DPM.\npopulation, and then return to 0.0 DPM.\n-765-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. gradually become less negative and return to 0.0 DPM.",
-      "B. gradually become more negative until source neutrons become the only significant contributor to",
-      "C. stabilize until source neutrons become the only significant contributor to the neutron population,",
-      "D. stabilize at -1/3 DPM until fission neutrons are no longer a significant contributor to the neutron"
-    ],
+    "stem": " While withdrawing control rods during a reactor startup, the stable source range count rate doubled. If the same amount of reactivity that caused the first doubling is added again, the stable count rate will __________; and the reactor will be __________.",
+    "choices": {
+      "A": "more than double; subcritical",
+      "B": "more than double; critical",
+      "C": "double; subcritical",
+      "D": "double; critical"
+    },
     "answer": "A"
   },
   {
-    "id": "REA1078",
     "topic": "Reactor Operational Physics",
-    "question": "A reactor startup is being commenced with the initial source range count rate stable at 20 cps. After\na period of control rod withdrawal, count rate stabilizes at 80 cps.\nIf the total reactivity added by the above control rod withdrawal is 4.5 %\u0394K/K, how much additional\npositive reactivity must be inserted to make the reactor critical?",
-    "image": "",
-    "choices": [
-      "A. 1.5 %\u0394K/K",
-      "B. 2.0 %\u0394K/K",
-      "C. 2.5 %\u0394K/K",
-      "D. 3.0 %\u0394K/K"
-    ],
+    "stem": " A reactor startup is in progress and the reactor is subcritical in the source range. Assuming the reactor remains subcritical, a short control rod withdrawal will cause the reactor startup rate indication to increase sharply in the positive direction, and then... NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "rapidly decrease and stabilize at a negative 1/3 DPM.",
+      "B": "gradually decrease and stabilize at 0 DPM.",
+      "C": "stabilize until the point of adding heat (POAH) is reached; then decrease to 0 DPM.",
+      "D": "continue increasing until the POAH is reached; then decrease to 0 DPM. -760- PWR Test Items"
+    },
     "answer": "A"
   },
   {
-    "id": "REA1079",
     "topic": "Reactor Operational Physics",
-    "question": "A reactor is shutdown with a K of 0.96 and a stable source range count rate of 50 cps when a\neff\nreactor startup is commenced. Which one of the following will be the stable count rate when K\neff\nreaches 0.995?\n-766-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. 400 cps",
-      "B. 800 cps",
-      "C. 4,000 cps",
-      "D. 8,000 cps"
-    ],
+    "stem": " A subcritical reactor has a stable source range count rate of 150 cps with a shutdown reactivity of \u02d72.0 %\u0394K/K. How much positive reactivity must be added to establish a stable count rate of 300 cps?",
+    "choices": {
+      "A": "0.5 %\u0394K/K",
+      "B": "1.0 %\u0394K/K",
+      "C": "1.5 %\u0394K/K",
+      "D": "2.0 %\u0394K/K"
+    },
     "answer": "A"
   },
   {
-    "id": "REA1080",
     "topic": "Reactor Operational Physics",
-    "question": "A nuclear power plant is being cooled down from 500\u00b0F to 190\u00b0F. Just prior to commencing the\ncooldown, the source range count rate was stable at 32 cps. After two hours, with reactor coolant\ntemperature at 350\u00b0F, the source range count rate is stable at 64 cps.\nAssume the moderator temperature coefficient remains constant throughout the cooldown and\nreactor power remains below the point of adding heat.\nWithout additional operator action, what will the status of the reactor be when reactor coolant\ntemperature reaches 190\u00b0F?",
-    "image": "",
-    "choices": [
-      "A. Subcritical, with source range count rate below 150 cps.",
-      "B. Subcritical, with source range count rate above 150 cps.",
-      "C. Exactly critical.",
-      "D. Supercritical."
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "REA1081",
-    "topic": "Reactor Operational Physics",
-    "question": "Initially, a nuclear power plant was shut down with a K of 0.92, and a stable source range count\neff\nrate of 200 cps. Then a reactor startup was initiated. All control rod motion was stopped when K\neff\nreached 0.995. The instant that control rod motion stopped, the source range count rate was 1,800\ncps.\nWhen the source range count rate stabilizes, the count rate will be approximately...\n-767-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. 1,800 cps",
-      "B. 3,200 cps",
-      "C. 3,400 cps",
-      "D. 5,000 cps"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "REA1082",
-    "topic": "Reactor Operational Physics",
-    "question": "Initially, a reactor was shut down with a stable source range count rate of 30 cps. Using many small\npositive reactivity additions, a total of 0.1 %\u0394K/K was added to the reactor. Currently, the source\nrange count rate is stable at 60 cps.\nWhat was the stable source range count rate after only 0.05 %\u0394K/K was added to the reactor during\nthe above process?\n-768-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. 40 cps",
-      "B. 45 cps",
-      "C. 50 cps",
-      "D. 55 cps"
-    ],
+    "stem": " A subcritical reactor has an initial K of 0.8 with a stable source range count rate of 100 cps. If eff positive reactivity is added until K equals 0.95, at what value will the count rate stabilize? eff NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "150 cps",
+      "B": "200 cps",
+      "C": "300 cps",
+      "D": "400 cps -761- PWR Test Items"
+    },
     "answer": "A"
   },
   {
-    "id": "REA1083",
     "topic": "Reactor Operational Physics",
-    "question": "Refer to the drawing that shows a graph of fission rate versus time (see figure below). Both axes\nhave linear scales.\nWhich one of the following events, initiated at 0 seconds, could cause the reactor response shown on\nthe graph?\nand remains subcritical for the duration of the 60-second interval shown.\nremains below the point of adding heat for the duration of the 60-second interval shown.\nsubcritical in the source range, and remains subcritical for the duration of the 60-second interval\nshown.\nin the source range, and remains below the point of adding heat for the duration of the 60-second\ninterval shown.\n-769-\nPWR Test Items",
-    "image": "page769_img1.jpeg",
-    "choices": [
-      "A. A step addition of positive reactivity to a reactor that is initially subcritical in the source range,",
-      "B. A step addition of positive reactivity to a reactor that is initially critical in the source range, and",
-      "C. A continuous addition of positive reactivity at a constant rate to a reactor that is initially",
-      "D. A continuous addition of positive reactivity at a constant rate to a reactor that is initially critical"
-    ],
+    "stem": " During a reactor startup, equal amounts of positive reactivity are being sequentially added, and the source range count rate is allowed to reach equilibrium after each addition. Which one of the following statements applies for each successive reactivity addition?",
+    "choices": {
+      "A": "The time required to reach equilibrium count rate is the same.",
+      "B": "The time required to reach equilibrium count rate is shorter.",
+      "C": "The numerical change in equilibrium count rate is greater.",
+      "D": "The numerical change in equilibrium count rate is the same."
+    },
     "answer": "A"
   },
   {
-    "id": "REA1084",
     "topic": "Reactor Operational Physics",
-    "question": "At the beginning of a reactor startup, K was 0.97 and the stable source range count rate was 40 cps.\neff\nAfter several incremental control rod withdrawals, the stable source range count rate was 400 cps.\nThe next incremental control rod withdrawal resulted in a stable source range count rate of 600 cps.\nWhat is the current K ?\neff\neff",
-    "image": "",
-    "choices": [
-      "A. 0.98",
-      "B. 0.988",
-      "C. 0.998",
-      "D. There is not enough information given to calculate the current K ."
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "REA1085",
-    "topic": "Reactor Operational Physics",
-    "question": "During a reactor startup, the operator adds 1.0 %\u0394K/K of positive reactivity by withdrawing control\nrods, thereby increasing the stable source range count rate from 220 cps to 440 cps.\nApproximately how much additional positive reactivity is required to raise the stable count rate to\n880 cps?\n-770-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. 4.0 %\u0394K/K",
-      "B. 2.0 %\u0394K/K",
-      "C. 1.0 %\u0394K/K",
-      "D. 0.5 %\u0394K/K"
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "REA1086",
-    "topic": "Reactor Operational Physics",
-    "question": "Initially, a reactor is subcritical with a K of 0.97 and a stable source range count rate of 500 cps.\neff\nWhich one of the following will be the approximate final steady-state count rate following a rod\nwithdrawal that adds 1.05 %\u0394K/K?",
-    "image": "",
-    "choices": [
-      "A. 750 cps",
-      "B. 1,000 cps",
-      "C. 2,000 cps",
-      "D. 2,250 cps"
-    ],
+    "stem": " Which one of the following describes the prompt jump and the change in stable source range count rate resulting from a short control rod withdrawal with K at 0.95 as compared to an identical eff control rod withdrawal with K at 0.99? (Assume the reactivity additions are equal, and the reactor eff remains subcritical.) NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "The prompt jump in count rate will be the same, and the increase in stable count rate will be the same.",
+      "B": "The prompt jump in count rate will be greater with K at 0.99, but the increase in stable count eff rate will be the same.",
+      "C": "The prompt jump in count rate will be the same, but the increase in stable count rate will be greater with K at 0.99. eff",
+      "D": "The prompt jump in count rate will be greater with K at 0.99, and the increase in stable count eff rate will be greater with K at 0.99. eff -762- PWR Test Items"
+    },
     "answer": "A"
   },
   {
-    "id": "REA1087",
     "topic": "Reactor Operational Physics",
-    "question": "During a reactor startup, control rods are withdrawn such that K increases from 0.98 to 0.99. If\neff\nthe stable source range count rate before the rod withdrawal was 500 cps, which one of the following\nwill be the final stable count rate?\n-771-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. 707 cps",
-      "B. 1,000 cps",
-      "C. 1,500 cps",
-      "D. 2,000 cps"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "REA1088",
-    "topic": "Reactor Operational Physics",
-    "question": "As a reactor approaches criticality during a reactor startup, it takes longer to reach an equilibrium\nsource range count rate after each control rod withdrawal due to the increased...",
-    "image": "",
-    "choices": [
-      "A. length of time required to complete a neutron generation.",
-      "B. number of neutron generations required to reach a stable neutron level.",
-      "C. length of time from neutron birth to absorption.",
-      "D. fraction of delayed fission neutrons being produced."
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "REA1089",
-    "topic": "Reactor Operational Physics",
-    "question": "During a reactor startup, the first reactivity addition caused the stable source range count rate to\nincrease from 20 cps to 40 cps. The second reactivity addition caused the stable count rate to\nincrease from 40 cps to 80 cps. K was 0.92 prior to the first reactivity addition.\neff\nWhich one of the following statements describes the magnitude of the reactivity additions?\n-772-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. The first reactivity addition was approximately twice as large as the second.",
-      "B. The second reactivity addition was approximately twice as large as the first.",
-      "C. The first and second reactivity additions were approximately the same.",
-      "D. There is not enough data given to determine the relationship between reactivity values."
-    ],
+    "stem": " A subcritical reactor has a stable source range count rate of 150 cps with a shutdown reactivity of \u02d72.0 %\u0394K/K. Approximately how much positive reactivity must be added to establish a stable count rate of 600 cps?",
+    "choices": {
+      "A": "0.5 %\u0394K/K",
+      "B": "1.0 %\u0394K/K",
+      "C": "1.5 %\u0394K/K",
+      "D": "2.0 %\u0394K/K"
+    },
     "answer": "A"
   },
   {
-    "id": "REA1090",
     "topic": "Reactor Operational Physics",
-    "question": "With K at 0.92 during a reactor startup, the stable source range count rate is noted to be 780 cps.\neff\nLater in the same startup, the stable count rate is 4,160 cps.\nWhat is the current value of K ?\neff",
-    "image": "",
-    "choices": [
-      "A. 0.945",
-      "B. 0.950",
-      "C. 0.975",
-      "D. 0.985"
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "REA1091",
-    "topic": "Reactor Operational Physics",
-    "question": "Two reactors are currently shut down with reactor startups in progress. The reactors are identical\nexcept that reactor A has a source neutron strength of 100 neutrons per second and reactor B has a\nsource neutron strength of 200 neutrons per second. The control rods are stationary and K is 0.98\neff\nin both reactors. Core neutron levels have stabilized in both reactors.\nWhich one of the following lists the core neutron levels (neutrons per second) in reactors A and B?\nReactor A Reactor B\n(n/sec) (n/sec)\n-773-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. 5,000 10,000",
-      "B. 10,000 20,000",
-      "C. 10,000 40,000",
-      "D. 20,000 40,000"
-    ],
+    "stem": " A subcritical reactor has a stable source range count rate of 60 cps with a shutdown reactivity of -2.0 %\u0394K/K. How much positive reactivity must be added to establish a stable count rate of 300 cps? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "0.4 %\u0394K/K",
+      "B": "0.6 %\u0394K/K",
+      "C": "1.4 %\u0394K/K",
+      "D": "1.6 %\u0394K/K -763- PWR Test Items"
+    },
     "answer": "A"
   },
   {
-    "id": "REA1092",
     "topic": "Reactor Operational Physics",
-    "question": "With K at 0.95 during a reactor startup, source range indication is stable at 100 cps. After a\neff\nnumber of control rods have been withdrawn, source range indication stabilizes at 270 cps. What is\nthe current value of K ?\neff",
-    "image": "",
-    "choices": [
-      "A. 0.963",
-      "B. 0.972",
-      "C. 0.981",
-      "D. 0.990"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "REA1093",
-    "topic": "Reactor Operational Physics",
-    "question": "A reactor startup is in progress with a current K of 0.95 and a stable source range count rate of\neff\n120 cps. Which one of the following stable count rates will occur when K becomes 0.97?\neff\n-774-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. 200 cps",
-      "B. 245 cps",
-      "C. 300 cps",
-      "D. 375 cps"
-    ],
+    "stem": " A reactor startup is in progress with the reactor currently subcritical. Which one of the following describes the change in source range count rate resulting from a short control rod withdrawal with K at 0.95 compared to an identical control rod withdrawal with K at eff eff 0.98? (Assume the reactivity additions are equal and the reactor remains subcritical.)",
+    "choices": {
+      "A": "Both the prompt jump in count rate and the increase in stable count rate will be the same for both values of K . eff",
+      "B": "Both the prompt jump in count rate and the increase in stable count rate will be smaller with K eff at 0.95.",
+      "C": "The prompt jump in count rate will be smaller with K at 0.95, but the increase in stable count eff rates will be the same.",
+      "D": "The prompt jump in count rates will be the same, but the increase in stable count rate will be smaller with K at 0.95. eff"
+    },
     "answer": "A"
   },
   {
-    "id": "REA1094",
     "topic": "Reactor Operational Physics",
-    "question": "A reactor startup is in progress with a current K of 0.95 and a stable source range count rate of\neff\n150 cps. Which one of the following stable count rates will occur when K becomes 0.98?\neff",
-    "image": "",
-    "choices": [
-      "A. 210 cps",
-      "B. 245 cps",
-      "C. 300 cps",
-      "D. 375 cps"
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "REA1095",
-    "topic": "Reactor Operational Physics",
-    "question": "With K at 0.95 during a reactor startup, source range indication is stable at 120 cps. After a\neff\nperiod of control rod withdrawal, source range indication stabilizes at 600 cps.\nWhat is the current value of K ?\neff\n-775-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. 0.96",
-      "B. 0.97",
-      "C. 0.98",
-      "D. 0.99"
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "REA1096",
-    "topic": "Reactor Operational Physics",
-    "question": "During a reactor startup, positive reactivity addition X caused the stable source range count rate to\nincrease from 20 cps to 40 cps. Later in the startup, after several more additions of positive\nreactivity, positive reactivity addition Y caused the stable source range count rate to increase from\n320 cps to 640 cps.\nWhich one of the following statements describes how the magnitudes of the two positive reactivity\nadditions (X and Y) compare?\nadditions.\n-776-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. Reactivity addition X was several times greater in magnitude than reactivity addition Y.",
-      "B. Reactivity addition X was several times smaller in magnitude than reactivity addition Y.",
-      "C. Reactivity additions X and Y were about equal in magnitude.",
-      "D. There is not enough information given to determine the relationship between the reactivity"
-    ],
+    "stem": " A reactor startup is being performed by adding equal amounts of positive reactivity and waiting for source range count rate to stabilize. As the reactor approaches criticality, the numerical change in stable count rate resulting from each reactivity addition will __________; and the time required for the count rate to stabilize after each reactivity addition will __________. NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "increase; remain the same",
+      "B": "increase; increase",
+      "C": "remain the same; remain the same",
+      "D": "remain the same; increase -764- PWR Test Items"
+    },
     "answer": "A"
   },
   {
-    "id": "REA1097",
     "topic": "Reactor Operational Physics",
-    "question": "During a reactor startup, positive reactivity addition X caused the stable source range count rate to\nincrease from 15 cps to 30 cps. Later in the startup, after several more positive reactivity additions,\npositive reactivity addition Y caused the stable source range count rate to increase from 60 cps to\n120 cps.\nWith the reactor still subcritical, which one of the following statements describes how the\nmagnitudes of positive reactivity additions X and Y compare?",
-    "image": "",
-    "choices": [
-      "A. Positive reactivity addition X was smaller than positive reactivity addition Y.",
-      "B. Positive reactivity addition X was greater than positive reactivity addition Y.",
-      "C. Positive reactivity additions X and Y were about equal in magnitude.",
-      "D. There is not enough information given to compare the positive reactivity additions."
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "REA1098",
-    "topic": "Reactor Operational Physics",
-    "question": "As criticality is approached during a reactor startup, equal insertions of positive reactivity result in a\n__________ numerical change in the stable source range count rate and a __________ time to reach\neach new stable count rate.\n-777-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. larger; longer",
-      "B. larger; shorter",
-      "C. smaller; longer",
-      "D. smaller; shorter"
-    ],
+    "stem": " A reactor startup is being performed. Control rod withdrawal is stopped when K equals 0.995. eff Source range count rate stabilizes at 1,000 cps. No additional operator actions are taken. Which one of the following describes the count rate 20 minutes after rod withdrawal is stopped?",
+    "choices": {
+      "A": "Less than 1,000 cps and decreasing toward the prestartup count rate.",
+      "B": "Less than 1,000 cps and stable above the prestartup count rate.",
+      "C": "Greater than 1,000 cps and increasing toward criticality.",
+      "D": "1,000 cps and constant."
+    },
     "answer": "A"
   },
   {
-    "id": "REA1099",
     "topic": "Reactor Operational Physics",
-    "question": "A reactor startup is in progress with a stable source range count rate and the reactor is near\ncriticality. Which one of the following statements describes count rate characteristics during and\nafter a 5-second control rod withdrawal? (Assume the reactor remains subcritical.)\nhigher value.\noriginal value.\n-778-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. There will be no change in count rate until criticality is achieved.",
-      "B. The count rate will rapidly increase (prompt jump) to a stable higher value.",
-      "C. The count rate will rapidly increase (prompt jump), then gradually increase and stabilize at a",
-      "D. The count rate will rapidly increase (prompt jump), then gradually decrease and stabilize at the"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "REA1100",
-    "topic": "Reactor Operational Physics",
-    "question": "Refer to the drawing of three 1/M plots labeled A, B, and C (see figure below). Each axis has linear\nunits.\nThe least conservative approach to criticality is represented by plot __________; which could\npossibly result from recording source range count rates at __________ time intervals after\nincremental fuel loading steps as compared to the conditions represented by the other plots.\n-779-\nPWR Test Items",
-    "image": "page779_img1.jpeg",
-    "choices": [
-      "A. A; shorter",
-      "B. A; longer",
-      "C. C; shorter",
-      "D. C; longer"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "REA1101",
-    "topic": "Reactor Operational Physics",
-    "question": "Refer to the drawing of a 1/M plot with curves A and B (see figure below). Each axis has linear\nunits.\nCurve A would result if each fuel assembly loaded during the early stages of the refueling caused a\nrelatively __________ fractional change in source range count rate compared to the later stages of\nthe refueling; curve B would result if each fuel assembly contained equal __________.\n-780-\nPWR Test Items",
-    "image": "page780_img1.jpeg",
-    "choices": [
-      "A. small; fuel enrichment",
-      "B. small; reactivity",
-      "C. large; fuel enrichment",
-      "D. large; reactivity"
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "REA1102",
-    "topic": "Reactor Operational Physics",
-    "question": "Refer to the drawing of a 1/M plot with curves A and B (see figure below). Each axis has linear\nunits.\nCurve A would result if each fuel assembly loaded during the early stages of core refueling caused a\nrelatively __________ fractional change in stable source range count rate compared to the later\nstages of the refueling; curve B would result if each fuel assembly contained equal __________.\n-781-\nPWR Test Items",
-    "image": "page781_img1.jpeg",
-    "choices": [
-      "A. small; fuel enrichment",
-      "B. small; reactivity",
-      "C. large; fuel enrichment",
-      "D. large; reactivity"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "REA1103",
-    "topic": "Reactor Operational Physics",
-    "question": "During a reactor startup, as K increases toward 1.0 the value of 1/M...\neff\n-782-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. decreases toward zero.",
-      "B. decreases toward 1.0.",
-      "C. increases toward infinity.",
-      "D. increases toward 1.0."
-    ],
+    "stem": " A reactor startup is in progress. The reactor is slightly subcritical with a constant startup rate of 0.0 DPM. If control rods are inserted for a few seconds, the startup rate will become negative initially, and then... NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "gradually become less negative and return to 0.0 DPM.",
+      "B": "gradually become more negative until source neutrons become the only significant contributor to the neutron population, and then return to 0.0 DPM.",
+      "C": "stabilize until source neutrons become the only significant contributor to the neutron population, and then return to 0.0 DPM.",
+      "D": "stabilize at -1/3 DPM until fission neutrons are no longer a significant contributor to the neutron population, and then return to 0.0 DPM. -765- PWR Test Items"
+    },
     "answer": "A"
   },
   {
-    "id": "REA1104",
     "topic": "Reactor Operational Physics",
-    "question": "The following data was obtained under stable conditions during a reactor startup:\nControl Rod Position Source Range\n(units withdrawn) Count Rate (cps)\n0 20\n10 25\n15 28\n20 33\n25 40\n30 50\nAssuming uniform differential rod worth, at what approximate control rod position will criticality\noccur?\n-783-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. 66 to 75 units withdrawn",
-      "B. 56 to 65 units withdrawn",
-      "C. 46 to 55 units withdrawn",
-      "D. 35 to 45 units withdrawn"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "REA1105",
-    "topic": "Reactor Operational Physics",
-    "question": "The following data was obtained under stable conditions during a reactor startup:\nControl Rod Position Source Range\n(units withdrawn) Count Rate (cps)\n0 180\n10 210\n15 250\n20 300\n25 360\n30 420\nAssuming uniform differential rod worth, at what approximate control rod position will criticality\noccur?\n-784-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. 35 to 45 units withdrawn",
-      "B. 46 to 55 units withdrawn",
-      "C. 56 to 65 units withdrawn",
-      "D. 66 to 75 units withdrawn"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "REA1106",
-    "topic": "Reactor Operational Physics",
-    "question": "The following data was obtained under stable conditions during a reactor startup:\nControl Rod Position Source Range\n(units withdrawn) Count Rate (cps)\n0 180\n5 200\n10 225\n15 257\n20 300\n25 360\n30 450\nAssuming uniform differential rod worth, at what approximate control rod position will criticality\noccur?\n-785-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. 40 units withdrawn",
-      "B. 50 units withdrawn",
-      "C. 60 units withdrawn",
-      "D. 70 units withdrawn"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "REA1107",
-    "topic": "Reactor Operational Physics",
-    "question": "The following data was obtained under stable conditions during a reactor startup:\nControl Rod Position Source Range\n(units withdrawn) Count Rate (cps)\n10 360\n15 400\n20 450\n25 514\n30 600\n35 720\n40 900\nAssuming uniform differential rod worth, at what approximate control rod position will criticality\noccur?\n-786-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. 50 units withdrawn",
-      "B. 60 units withdrawn",
-      "C. 70 units withdrawn",
-      "D. 80 units withdrawn"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "REA1108",
-    "topic": "Reactor Operational Physics",
-    "question": "An estimated critical rod position (ECP) has been calculated for criticality to occur 15 hours after a\nreactor trip that ended three months of operation at 100 percent power.\nWhich one of the following will result in criticality occurring at a rod position that is lower than the\ncalculated ECP?",
-    "image": "",
-    "choices": [
-      "A. A malfunction resulting in temperature raising 2oF.",
-      "B. A malfunction resulting in control rod speed being slower than normal speed.",
-      "C. Moving the time of startup from 15 hours to 12 hours following the trip.",
-      "D. Using a pretrip reactor power of 90 percent to determine power defect."
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "REA1109",
-    "topic": "Reactor Operational Physics",
-    "question": "With K at 0.985, how much reactivity must be added to make a reactor exactly critical?\neff\n-787-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. 1.48 %\u0394K/K",
-      "B. 1.50 %\u0394K/K",
-      "C. 1.52 %\u0394K/K",
-      "D. 1.54 %\u0394K/K"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "REA1110",
-    "topic": "Reactor Operational Physics",
-    "question": "When a reactor is critical, reactivity is...",
-    "image": "",
-    "choices": [
-      "A. infinity.",
-      "B. undefined.",
-      "C. 0.0 \u0394K/K.",
-      "D. 1.0 \u0394K/K."
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "REA1111",
-    "topic": "Reactor Operational Physics",
-    "question": "During a reactor startup, if the startup rate is constant and positive without any further reactivity\naddition, then the reactor is...\n-788-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. critical.",
-      "B. supercritical.",
-      "C. subcritical.",
-      "D. prompt critical."
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "REA1112",
-    "topic": "Reactor Operational Physics",
-    "question": "A reactor startup is being performed following a one-month shutdown period. If the reactor is taken\ncritical and then stabilized at 10,000 cps in the source range, over the next 10 minutes the count rate\nwill...",
-    "image": "",
-    "choices": [
-      "A. remain constant.",
-      "B. decrease linearly.",
-      "C. decrease geometrically.",
-      "D. decrease exponentially."
-    ],
+    "stem": " A reactor startup is being commenced with the initial source range count rate stable at 20 cps. After a period of control rod withdrawal, count rate stabilizes at 80 cps. If the total reactivity added by the above control rod withdrawal is 4.5 %\u0394K/K, how much additional positive reactivity must be inserted to make the reactor critical?",
+    "choices": {
+      "A": "1.5 %\u0394K/K",
+      "B": "2.0 %\u0394K/K",
+      "C": "2.5 %\u0394K/K",
+      "D": "3.0 %\u0394K/K"
+    },
     "answer": "A"
   },
   {
-    "id": "REA1113",
     "topic": "Reactor Operational Physics",
-    "question": "A reactor startup is in progress following a one-month shutdown. Upon reaching criticality, the\noperator establishes a positive 0.5 DPM startup rate and stops control rod motion.\nAfter an additional five minutes, reactor power will be __________ and startup rate will be\n__________. (Assume reactor power remains below the point of adding heat.)\n-789-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. constant; constant",
-      "B. constant; increasing",
-      "C. increasing; constant",
-      "D. increasing; increasing"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "REA1114",
-    "topic": "Reactor Operational Physics",
-    "question": "A reactor is critical near the end of a fuel cycle with power level stable at 1.0 x 10-10 percent.\nWhich one of the following is the smallest listed amount of positive reactivity that is capable of\nincreasing reactor power level to the point of adding heat?",
-    "image": "",
-    "choices": [
-      "A. 0.001 %\u0394K/K",
-      "B. 0.003 %\u0394K/K",
-      "C. 0.005 %\u0394K/K",
-      "D. 0.007 %\u0394K/K"
-    ],
+    "stem": " A reactor is shutdown with a K of 0.96 and a stable source range count rate of 50 cps when a eff reactor startup is commenced. Which one of the following will be the stable count rate when K eff reaches 0.995? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "400 cps",
+      "B": "800 cps",
+      "C": "4,000 cps",
+      "D": "8,000 cps -766- PWR Test Items"
+    },
     "answer": "A"
   },
   {
-    "id": "REA1115",
     "topic": "Reactor Operational Physics",
-    "question": "A reactor and plant startup is in progress. Reactor power is currently 5.0 x 10-5 percent and\nincreasing, with a constant startup rate of 0.2 DPM. Reactivity is not changing.\nThe reactor is currently __________, at a power level that is __________ the point of adding heat.\n-790-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. critical; less than",
-      "B. critical; greater than",
-      "C. supercritical; less than",
-      "D. supercritical; greater than"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "REA1116",
-    "topic": "Reactor Operational Physics",
-    "question": "Which one of the following indicates that a reactor has achieved criticality during a normal reactor\nstartup?\n-791-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. Constant positive startup rate during rod withdrawal.",
-      "B. Increasing positive startup rate during rod withdrawal.",
-      "C. Constant positive startup rate with no rod motion.",
-      "D. Increasing positive startup rate with no rod motion."
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "REA1117",
-    "topic": "Reactor Operational Physics",
-    "question": "A reactor startup is in progress. Control rod withdrawal was stopped several minutes ago to assess\ncriticality. Which one of the following is a combination of indications that together support a\ndeclaration that the reactor has reached criticality?",
-    "image": "",
-    "choices": [
-      "A. Startup rate is stable at 0.0 DPM; source range count rate is stable.",
-      "B. Startup rate is stable at 0.2 DPM; source range count rate is stable.",
-      "C. Startup rate is stable at 0.0 DPM; source range count rate is slowly increasing.",
-      "D. Startup rate is stable at 0.2 DPM; source range count rate is slowly increasing."
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "REA1118",
-    "topic": "Reactor Operational Physics",
-    "question": "A reactor startup is in progress following a one-month shutdown. Upon reaching criticality, the\noperator establishes a stable positive 1.0 DPM startup rate and stops rod motion.\nAfter an additional 30 seconds, reactor power will be __________ and startup rate will be\n__________. (Assume reactor power remains below the point of adding heat.)\n-792-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. increasing; increasing",
-      "B. increasing; constant",
-      "C. constant; increasing",
-      "D. constant; constant"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "REA1119",
-    "topic": "Reactor Operational Physics",
-    "question": "A reactor is critical several decades below the point of adding heat (POAH) when a small amount of\npositive reactivity is added to the core. If the exact same amount of negative reactivity is then\nadded prior to reaching the POAH, reactor power will stabilize...",
-    "image": "",
-    "choices": [
-      "A. higher than the initial power level but below the POAH.",
-      "B. lower than the initial power level.",
-      "C. at the initial power level.",
-      "D. at the POAH."
-    ],
+    "stem": " A nuclear power plant is being cooled down from 500\u00b0F to 190\u00b0F. Just prior to commencing the cooldown, the source range count rate was stable at 32 cps. After two hours, with reactor coolant temperature at 350\u00b0F, the source range count rate is stable at 64 cps. Assume the moderator temperature coefficient remains constant throughout the cooldown and reactor power remains below the point of adding heat. Without additional operator action, what will the status of the reactor be when reactor coolant temperature reaches 190\u00b0F?",
+    "choices": {
+      "A": "Subcritical, with source range count rate below 150 cps.",
+      "B": "Subcritical, with source range count rate above 150 cps.",
+      "C": "Exactly critical.",
+      "D": "Supercritical."
+    },
     "answer": "A"
   },
   {
-    "id": "REA1120",
     "topic": "Reactor Operational Physics",
-    "question": "A reactor is exactly critical two decades below the point of adding heat when -0.01 %\u0394K/K of\nreactivity is added. If +0.01 %\u0394K/K is added 2 minutes later, reactor power will stabilize at...\n-793-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. the point of adding heat.",
-      "B. the initial power level.",
-      "C. somewhat lower than the initial power level.",
-      "D. an equilibrium subcritical power level."
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "REA1121",
-    "topic": "Reactor Operational Physics",
-    "question": "A reactor is critical at the point of adding heat (POAH) when a small amount of negative reactivity is\nadded. If the same amount of positive reactivity is added approximately 5 minutes later, reactor\npower will...\nreached.\nreached.",
-    "image": "",
-    "choices": [
-      "A. increase and stabilize at the POAH.",
-      "B. quickly stabilize at a power level below the POAH.",
-      "C. continue to decrease with a -1/3 DPM startup rate until an equilibrium shutdown neutron level is",
-      "D. continue to decrease with an unknown startup rate until an equilibrium shutdown neutron level is"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "REA1122",
-    "topic": "Reactor Operational Physics",
-    "question": "A reactor was operating at 1.0 x 10-3 percent power with a positive 0.6 DPM startup rate when an\namount of negative reactivity was inserted that caused reactor power to decrease with a negative\n0.4 DPM startup rate.\nIf an equal amount of positive reactivity is added 5 minutes later, reactor power will...\nlevel is reached.\nreached.\n-794-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. increase and stabilize at the point of adding heat.",
-      "B. increase and stabilize at 1.0 x 10-3 percent power.",
-      "C. continue to decrease with a negative 0.4 DPM startup rate until an equilibrium shutdown neutron",
-      "D. continue to decrease with an unknown startup rate until an equilibrium shutdown neutron level is"
-    ],
+    "stem": " Initially, a nuclear power plant was shut down with a K of 0.92, and a stable source range count eff rate of 200 cps. Then a reactor startup was initiated. All control rod motion was stopped when K eff reached 0.995. The instant that control rod motion stopped, the source range count rate was 1,800 cps. When the source range count rate stabilizes, the count rate will be approximately... NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "1,800 cps",
+      "B": "3,200 cps",
+      "C": "3,400 cps",
+      "D": "5,000 cps -767- PWR Test Items"
+    },
     "answer": "A"
   },
   {
-    "id": "REA1123",
     "topic": "Reactor Operational Physics",
-    "question": "A reactor is slightly supercritical during a reactor startup. A short control rod withdrawal is\nperformed to establish the desired positive startup rate. Assume that the reactor remains slightly\nsupercritical after the control rod withdrawal, and that reactor power remains well below the point of\nadding heat.\nImmediately after the control rod withdrawal is stopped, the startup rate will initially decrease and\nthen...\n-795-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. stabilize at a positive value.",
-      "B. turn and slowly increase.",
-      "C. stabilize at zero.",
-      "D. continue to slowly decrease."
-    ],
+    "stem": " Initially, a reactor was shut down with a stable source range count rate of 30 cps. Using many small positive reactivity additions, a total of 0.1 %\u0394K/K was added to the reactor. Currently, the source range count rate is stable at 60 cps. What was the stable source range count rate after only 0.05 %\u0394K/K was added to the reactor during the above process? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "40 cps",
+      "B": "45 cps",
+      "C": "50 cps",
+      "D": "55 cps -768- PWR Test Items"
+    },
     "answer": "A"
   },
   {
-    "id": "REA1124",
     "topic": "Reactor Operational Physics",
-    "question": "Refer to the figure below for the following question. The axes on each graph have linear scales.\nInitially, a reactor is critical in the source range. At 0 seconds, a constant rate addition of positive\nreactivity commences. Assume that reactor power remains below the point of adding heat for the\nentire time interval shown.\nThe general response of startup rate to this event is shown on graph _____; and the general response\nof reactor power to this event is shown on graph _____. (Note: Either graph may be chosen once,\ntwice, or not at all.)\n-796-\nPWR Test Items",
-    "image": "page796_img1.jpeg",
-    "choices": [
-      "A. A; A",
-      "B. A; B",
-      "C. B; A",
-      "D. B; B"
-    ],
+    "stem": " Refer to the drawing that shows a graph of fission rate versus time (see figure below). Both axes have linear scales. Which one of the following events, initiated at 0 seconds, could cause the reactor response shown on the graph? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "A step addition of positive reactivity to a reactor that is initially subcritical in the source range, and remains subcritical for the duration of the 60-second interval shown.",
+      "B": "A step addition of positive reactivity to a reactor that is initially critical in the source range, and remains below the point of adding heat for the duration of the 60-second interval shown.",
+      "C": "A continuous addition of positive reactivity at a constant rate to a reactor that is initially subcritical in the source range, and remains subcritical for the duration of the 60-second interval shown.",
+      "D": "A continuous addition of positive reactivity at a constant rate to a reactor that is initially critical in the source range, and remains below the point of adding heat for the duration of the 60-second interval shown. -769- PWR Test Items"
+    },
     "answer": "A"
   },
   {
-    "id": "REA1125",
     "topic": "Reactor Operational Physics",
-    "question": "Refer to the drawing that shows a graph of startup rate versus time (see figure below). Both axes\nhave linear scales.\nWhich one of the following events, initiated at 0 seconds, would cause the reactor response shown\non the graph?\nremains in the power range for the duration of the 120-second interval shown.\nrange and remains in the power range for the duration of the 120-second interval shown.\nremains below the point of adding heat for the duration of the 120-second interval shown.\nrange and remains below the point of adding heat for the duration of the 120-second interval\nshown.\n-797-\nPWR Test Items",
-    "image": "page797_img1.jpeg",
-    "choices": [
-      "A. A step addition of positive reactivity to a reactor that is initially stable in the power range and",
-      "B. A constant rate of positive reactivity addition to a reactor that is initially stable in the power",
-      "C. A step addition of positive reactivity to a reactor that is initially critical in the source range and",
-      "D. A constant rate of positive reactivity addition to a reactor that is initially critical in the source"
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "REA1126",
-    "topic": "Reactor Operational Physics",
-    "question": "Refer to the drawing that shows a graph of fission rate versus time (see figure below). Both axes\nhave linear scales.\nWhich one of the following events, initiated at 0 seconds, would cause the reactor response shown\non the graph?\nand remains subcritical for the duration of the 120-second interval shown.\nremains below the point of adding heat for the duration of the 120-second interval shown.\nremains in the power range for the duration of the 120-second interval shown.\nrange and remains in the power range for the duration of the 120-second interval shown.\n-798-\nPWR Test Items",
-    "image": "page798_img1.jpeg",
-    "choices": [
-      "A. A step addition of positive reactivity to a reactor that is initially subcritical in the source range",
-      "B. A step addition of positive reactivity to a reactor that is initially critical in the source range and",
-      "C. A step addition of positive reactivity to a reactor that is initially critical in the power range and",
-      "D. A constant rate of positive reactivity addition to a reactor that is initially critical in the power"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "REA1127",
-    "topic": "Reactor Operational Physics",
-    "question": "Refer to the drawing that shows a graph of startup rate versus time (see figure below) for a reactor.\nBoth axes have linear scales.\nWhich one of the following events, initiated at 0 seconds, would cause the startup rate response\nshown on the graph?\nReactor power enters the power range at 120 seconds.\nstep addition of negative reactivity is inserted at 120 seconds.\nsource range and remains below the point of adding heat. The positive reactivity addition ends\nat 120 seconds.\npower range and remains in the power range. The positive reactivity addition ends at 120\nseconds.\n-799-\nPWR Test Items",
-    "image": "page799_img1.jpeg",
-    "choices": [
-      "A. A step addition of positive reactivity to a reactor that is initially critical in the source range.",
-      "B. A step addition of positive reactivity to a reactor that is initially stable in the power range. A",
-      "C. A controlled constant rate of positive reactivity addition to a reactor that is initially critical in the",
-      "D. A controlled constant rate of positive reactivity addition to a reactor that is initially stable in the"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "REA1128",
-    "topic": "Reactor Operational Physics",
-    "question": "For a slightly supercritical reactor operating below the point of adding heat (POAH), what reactivity\neffects are associated with reaching the POAH?",
-    "image": "",
-    "choices": [
-      "A. There are no reactivity effects.",
-      "B. An increase in fuel temperature will begin to create a positive reactivity effect.",
-      "C. A decrease in fuel temperature will begin to create a negative reactivity effect.",
-      "D. An increase in fuel temperature will begin to create a negative reactivity effect."
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "REA1129",
-    "topic": "Reactor Operational Physics",
-    "question": "KNOWLEDGE: K1.17 [3.3/3.4]\nQID: P1172\nA reactor startup is in progress near the end of a fuel cycle. Reactor power is 5 x 10-2 percent and\nincreasing slowly with a stable 0.3 DPM startup rate. Assuming no operator action, no reactor trip,\nand no change in temperature, what will reactor power be after 10 minutes?\n-800-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. 100 percent",
-      "B. 50 percent",
-      "C. 10 percent",
-      "D. 1 percent (point of adding heat)"
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "REA1130",
-    "topic": "Reactor Operational Physics",
-    "question": "KNOWLEDGE: K1.17 [3.3/3.4]\nQID: P1367\nA reactor startup is in progress near the end of a fuel cycle. Reactor power is 5 x 10-3 percent and\nincreasing slowly with a stable 0.3 DPM startup rate. Assuming no operator action, no reactor trip,\nand no change in temperature, what will reactor power be after 10 minutes?",
-    "image": "",
-    "choices": [
-      "A. Below the point of adding heat (POAH).",
-      "B. At the POAH.",
-      "C. Above the POAH but less than 50 percent.",
-      "D. Greater than 50 percent."
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "REA1131",
-    "topic": "Reactor Operational Physics",
-    "question": "A reactor is critical at 2.0 x 10-8 percent power. The operator withdraws rods as necessary to\nimmediately establish and maintain a positive 0.1 DPM startup rate. How long will it take the\nreactor to reach 7.0 x 10-8 percent power?\n-801-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. 2.4 minutes",
-      "B. 5.4 minutes",
-      "C. 7.4 minutes",
-      "D. 10.4 minutes"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "REA1132",
-    "topic": "Reactor Operational Physics",
-    "question": "A reactor is critical at 3.0 x 10-8 percent power. The operator withdraws rods as necessary to\nimmediately establish and maintain a positive 0.1 DPM startup rate. How long will it take the\nreactor to reach 7.0 x 10-8 percent power?",
-    "image": "",
-    "choices": [
-      "A. 3.7 minutes",
-      "B. 5.4 minutes",
-      "C. 6.7 minutes",
-      "D. 8.4 minutes"
-    ],
+    "stem": " At the beginning of a reactor startup, K was 0.97 and the stable source range count rate was 40 cps. eff After several incremental control rod withdrawals, the stable source range count rate was 400 cps. The next incremental control rod withdrawal resulted in a stable source range count rate of 600 cps. What is the current K ? eff",
+    "choices": {
+      "A": "0.98",
+      "B": "0.988",
+      "C": "0.998",
+      "D": "There is not enough information given to calculate the current K . eff"
+    },
     "answer": "A"
   },
   {
-    "id": "REA1133",
     "topic": "Reactor Operational Physics",
-    "question": "A reactor startup is in progress and criticality has just been achieved. After recording the critical\nrod heights, the operator withdraws control rods for 20 seconds to establish a stable positive 0.5\nDPM startup rate (SUR). One minute later (prior to reaching the point of adding heat), the operator\ninserts the same control rods for 25 seconds.\nDuring the rod insertion, when will the SUR become negative?\n-802-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. Immediately when the control rod insertion is initiated.",
-      "B. After the control rods pass through the critical rod height.",
-      "C. Just as the control rods pass through the critical rod height.",
-      "D. Prior to the control rods passing through the critical rod height."
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "REA1134",
-    "topic": "Reactor Operational Physics",
-    "question": "Shortly after a reactor trip, reactor power indicates 5.0 x 10-2 percent when a stable negative startup\nrate is attained. Approximately how much additional time is required for reactor power to decrease\nto 5.0 x 10-3 percent?",
-    "image": "",
-    "choices": [
-      "A. 90 seconds",
-      "B. 180 seconds",
-      "C. 270 seconds",
-      "D. 360 seconds"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "REA1135",
-    "topic": "Reactor Operational Physics",
-    "question": "A nuclear power plant has been operating at 100 percent power for several weeks when a reactor trip\noccurs. How much time will be required for core decay heat production to decrease to one percent\npower following the trip?\n-803-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. 1 to 8 seconds",
-      "B. 1 to 8 minutes",
-      "C. 1 to 8 hours",
-      "D. 1 to 8 days"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "REA1136",
-    "topic": "Reactor Operational Physics",
-    "question": "Which one of the following determines the value of the stable negative startup rate observed shortly\nafter a reactor trip?",
-    "image": "",
-    "choices": [
-      "A. The shortest-lived delayed neutron precursors.",
-      "B. The longest-lived delayed neutron precursors.",
-      "C. The shutdown margin just prior to the trip.",
-      "D. The worth of the inserted control rods."
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "REA1137",
-    "topic": "Reactor Operational Physics",
-    "question": "Shortly after a reactor trip, reactor power indicates 1.0 x 10-3 percent when a stable negative startup\nrate is attained. Reactor power will decrease to 1.0 x 10-4 percent in approximately _______\nseconds.\n-804-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. 380",
-      "B. 280",
-      "C. 180",
-      "D. 80"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "REA1138",
-    "topic": "Reactor Operational Physics",
-    "question": "Following a reactor trip, reactor power indicates 0.1 percent when the typical post-trip stable startup\nrate is observed. Approximately how much additional time is required for reactor power to\ndecrease to 0.05 percent?\n-805-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. 24 seconds",
-      "B. 55 seconds",
-      "C. 173 seconds",
-      "D. 240 seconds"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "REA1139",
-    "topic": "Reactor Operational Physics",
-    "question": "Which one of the following approximates the fission product decay heat produced in a reactor at one\nsecond and one hour following a reactor scram from long-term operation at 100 percent power?\nOne Second One Hour",
-    "image": "",
-    "choices": [
-      "A. 7 percent 1 percent",
-      "B. 7 percent 0.1 percent",
-      "C. 3 percent 1 percent",
-      "D. 3 percent 0.1 percent"
-    ],
+    "stem": " During a reactor startup, the operator adds 1.0 %\u0394K/K of positive reactivity by withdrawing control rods, thereby increasing the stable source range count rate from 220 cps to 440 cps. Approximately how much additional positive reactivity is required to raise the stable count rate to 880 cps? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "4.0 %\u0394K/K",
+      "B": "2.0 %\u0394K/K",
+      "C": "1.0 %\u0394K/K",
+      "D": "0.5 %\u0394K/K -770- PWR Test Items"
+    },
     "answer": "A"
   },
   {
-    "id": "REA1140",
     "topic": "Reactor Operational Physics",
-    "question": "Reactors A and B are identical and have operated at 100 percent power for six months when a\nreactor trip occurs simultaneously on both reactors. All control rods fully insert, except for one\nreactor B control rod that remains fully withdrawn.\nWhich reactor, if any, will have the smaller negative startup rate five minutes after the trip, and why?\nlow in the source range.\nprecursors will be releasing fission neutrons.\n-806-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. Reactor A, due to the greater shutdown reactivity.",
-      "B. Reactor B, due to the smaller shutdown reactivity.",
-      "C. Both reactors will have the same startup rate because both reactors will be stable at a power level",
-      "D. Both reactors will have the same startup rate because only the longest-lived delayed neutron"
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "REA1141",
-    "topic": "Reactor Operational Physics",
-    "question": "Reactors A and B are identical and have operated at 100 percent power for six months when a\nreactor trip occurs simultaneously on both reactors. All reactor A control rods fully insert, while\none reactor B control rod sticks fully withdrawn.\nWhich reactor, if any, will have the smaller negative startup rate five minutes after the trip, and why?\nlow in the source range.\nprecursors will be releasing fission neutrons.",
-    "image": "",
-    "choices": [
-      "A. Reactor A, because its delayed neutron fraction will be smaller.",
-      "B. Reactor B, because its delayed neutron fraction will be larger.",
-      "C. Both reactors will have the same startup rate because both reactors will be stable at a power level",
-      "D. Both reactors will have the same startup rate because only the longest-lived delayed neutron"
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "REA1142",
-    "topic": "Reactor Operational Physics",
-    "question": "Reactors A and B are identical and have operated at 100 percent power for six months when a\nreactor trip occurs simultaneously on both reactors. All reactor A control rods fully insert. One\nreactor B control rod sticks fully withdrawn, but all others fully insert.\nFive minutes after the trip, when compared to reactor B the fission rate in reactor A will be\n__________; and the startup rate in reactor A will be __________.\n-807-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. the same; more negative",
-      "B. the same; the same",
-      "C. smaller; more negative",
-      "D. smaller; the same"
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "REA1143",
-    "topic": "Reactor Operational Physics",
-    "question": "A reactor is critical just below the point of adding heat when an inadvertent reactor trip occurs. All\ncontrol rods fully insert except for one rod, which remains fully withdrawn. Five minutes after the\nreactor trip, with reactor startup rate (SUR) stable at approximately -1/3 DPM, the remaining\nwithdrawn control rod suddenly drops (fully inserts).\nWhich one of the following describes the reactor response to the drop of the last control rod?\n-1/3 DPM.\nnegative than -1/3 DPM.\nthan -1/3 DPM.",
-    "image": "",
-    "choices": [
-      "A. SUR will remain stable at approximately -1/3 DPM.",
-      "B. SUR will immediately become more negative, and then return to and stabilize at approximately",
-      "C. SUR will immediately become more negative, and then turn and stabilize at a value more",
-      "D. SUR will immediately become more negative, and then turn and stabilize at a value less negative"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "REA1144",
-    "topic": "Reactor Operational Physics",
-    "question": "A nuclear power plant is operating at steady-state 100 percent power when a reactor trip occurs. As\na result of the trip, the core neutron flux will initially decrease at a startup rate that is much\n__________ negative than -1/3 DPM; the startup rate will become approximately -1/3 DPM about\n__________ minutes after the trip.\n-808-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. less; 3",
-      "B. less; 30",
-      "C. more; 3",
-      "D. more; 30"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "REA1145",
-    "topic": "Reactor Operational Physics",
-    "question": "Refer to the graph of neutron flux versus time (see figure below) for a nuclear power plant reactor\nthat experienced a reactor trip from extended full power operation at 0 seconds.\nWhich section(s) of the curve has/have a slope that is primarily determined by the production rate of\ndelayed neutrons?\n-809-\nPWR Test Items",
-    "image": "page809_img1.jpeg",
-    "choices": [
-      "A. B only",
-      "B. B and C",
-      "C. C only",
-      "D. C and D"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "REA1146",
-    "topic": "Reactor Operational Physics",
-    "question": "Refer to the graph of neutron flux versus time (see figure below) for a nuclear power plant that\nexperienced a reactor trip from extended full power operation at time = 0 seconds.\nIn which section of the curve does the production rate of source neutrons primarily determine the\nslope of the curve?\n-810-\nPWR Test Items",
-    "image": "page810_img1.jpeg",
-    "choices": [
-      "A. A",
-      "B. B",
-      "C. C",
-      "D. D"
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "REA1147",
-    "topic": "Reactor Operational Physics",
-    "question": "A reactor was operating for several months at 100 percent power when a reactor trip occurred.\nWhich one of the following is primarily responsible for the startup rate value 2 minutes after the\ntrip?\neff\n-811-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. The K in the core.",
-      "B. The rate of source neutron production in the core.",
-      "C. The effective delayed neutron fraction in the core.",
-      "D. The decay rates of the delayed neutron precursors in the core."
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "REA1148",
-    "topic": "Reactor Operational Physics",
-    "question": "Refer to the graph of neutron flux versus time (see figure below) for a nuclear power plant that\nexperienced a reactor trip from steady-state 100 percent power at time = 0 seconds.\nThe shape of section A on the graph is primarily determined by a rapid decrease in the production\nrate of\u2026\n-812-\nPWR Test Items",
-    "image": "page812_img1.jpeg",
-    "choices": [
-      "A. intrinsic source neutrons.",
-      "B. prompt fission neutrons.",
-      "C. delayed fission neutrons.",
-      "D. delayed fission neutron precursors."
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "REA1149",
-    "topic": "Reactor Operational Physics",
-    "question": "A reactor was operating for several months at steady-state 100 percent power when a reactor trip\noccurred. Which one of the following lists the two factors most responsible for the value of the core\nneutron flux level 1 hour after the trip?\neff\neff\n-813-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. K and the rate of source neutron production.",
-      "B. K and the effective delayed neutron fraction.",
-      "C. The decay rates of the delayed neutron precursors and the rate of source neutron production.",
-      "D. The decay rates of the delayed neutron precursors and the effective delayed neutron fraction."
-    ],
+    "stem": " Initially, a reactor is subcritical with a K of 0.97 and a stable source range count rate of 500 cps. eff Which one of the following will be the approximate final steady-state count rate following a rod withdrawal that adds 1.05 %\u0394K/K?",
+    "choices": {
+      "A": "750 cps",
+      "B": "1,000 cps",
+      "C": "2,000 cps",
+      "D": "2,250 cps"
+    },
     "answer": "A"
   },
   {
-    "id": "REA1150",
     "topic": "Reactor Operational Physics",
-    "question": "Refer to the graph of neutron flux versus time (see figure below) for a nuclear power plant that\nexperienced a reactor trip from steady-state 100 percent power at time = 0.\nThe shape of section B of the curve is determined primarily by the decreasing production rate of\u2026\n-814-\nPWR Test Items",
-    "image": "page814_img1.jpeg",
-    "choices": [
-      "A. prompt fission neutrons.",
-      "B. delayed fission neutrons.",
-      "C. intrinsic source neutrons.",
-      "D. installed source neutrons."
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "REA1151",
-    "topic": "Reactor Operational Physics",
-    "question": "A reactor is critical below the point of adding heat when a fully withdrawn control rod fully inserts\ninto the core. Assuming no operator or automatic actions, core neutron flux will slowly decrease\nto...",
-    "image": "",
-    "choices": [
-      "A. zero.",
-      "B. an equilibrium value less than the source neutron flux.",
-      "C. an equilibrium value greater than the source neutron flux.",
-      "D. a slightly lower value, then slowly return to the initial value."
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "REA1152",
-    "topic": "Reactor Operational Physics",
-    "question": "A reactor is critical just below the point of adding heat when a single fully withdrawn control rod\ndrops into the core. Assuming no operator or automatic actions occur, when the plant stabilizes\nreactor power will be __________; and average reactor coolant temperature will be __________.\n-815-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. the same; the same",
-      "B. the same; lower",
-      "C. lower; the same",
-      "D. lower; lower"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "REA1153",
-    "topic": "Reactor Operational Physics",
-    "question": "Initially, a reactor is critical in the source range during a reactor startup when the control rods are\ninserted a small amount. Reactor startup rate stabilizes at -0.15 DPM. Assuming startup rate\nremains constant, how long will it take for source range count rate to decrease by one-half?\n-816-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. 0.3 minutes",
-      "B. 2.0 minutes",
-      "C. 3.3 minutes",
-      "D. 5.0 minutes"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "REA1154",
-    "topic": "Reactor Operational Physics",
-    "question": "Which one of the following describes how control rods are inserted during a normal reactor shutdown,\nand why?\naccident.",
-    "image": "",
-    "choices": [
-      "A. One rod at a time, to maintain acceptable power distribution.",
-      "B. One rod at a time, to maintain a rapid shutdown capability from the remainder of the control rods.",
-      "C. In a reverse sequence, to maintain a relatively constant differential control rod worth.",
-      "D. In a reverse sequence, to limit the amount of positive reactivity added during a rod ejection"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "REA1155",
-    "topic": "Reactor Operational Physics",
-    "question": "After one month of operation at 100 percent power, the fraction of rated thermal power being\nproduced from the decay of fission products in a reactor is...\n-817-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. greater than 10 percent.",
-      "B. greater than 5 percent, but less than 10 percent.",
-      "C. greater than 1 percent, but less than 5 percent.",
-      "D. less than 1 percent."
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "REA1156",
-    "topic": "Reactor Operational Physics",
-    "question": "The magnitude of decay heat generation is determined primarily by...",
-    "image": "",
-    "choices": [
-      "A. core burnup.",
-      "B. power history.",
-      "C. final power at shutdown.",
-      "D. control rod worth at shutdown."
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "REA1157",
-    "topic": "Reactor Operational Physics",
-    "question": "Following a reactor shutdown from three months of operation at 100 percent power, the core decay\nheat production rate will depend on the...\neff\n-818-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. amount of fuel that has been depleted.",
-      "B. decay rate of the fission product poisons.",
-      "C. time elapsed since K decreased below 1.0.",
-      "D. decay rate of the photoneutron source."
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "REA1158",
-    "topic": "Reactor Operational Physics",
-    "question": "A nuclear power plant has been operating for one hour at 50 percent power following six months of\noperation at steady-state 100 percent power. What percentage of rated thermal power is currently\nbeing generated by fission product decay?",
-    "image": "",
-    "choices": [
-      "A. 1 percent to 2 percent",
-      "B. 3 percent to 5 percent",
-      "C. 6 percent to 8 percent",
-      "D. 9 percent to 11 percent"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "REA1159",
-    "topic": "Reactor Operational Physics",
-    "question": "A nuclear power plant had been operating at 100 percent power for six months when a reactor trip\noccurred. Which one of the following describes the source(s) of core heat generation 30 minutes\nafter the reactor trip?\nproduce approximately equal rates of core heat generation.\ngenerate core heat at rates that are less than the rate of ambient heat loss from the core.\n-819-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. Fission product decay is the only significant source of core heat generation.",
-      "B. Delayed neutron-induced fission is the only significant source of core heat generation.",
-      "C. Fission product decay and delayed neutron-induced fission are both significant sources and",
-      "D. Fission product decay and delayed neutron-induced fission are both insignificant sources and"
-    ],
+    "stem": " During a reactor startup, control rods are withdrawn such that K increases from 0.98 to 0.99. If eff the stable source range count rate before the rod withdrawal was 500 cps, which one of the following will be the final stable count rate? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "707 cps",
+      "B": "1,000 cps",
+      "C": "1,500 cps",
+      "D": "2,000 cps -771- PWR Test Items"
+    },
     "answer": "A"
   },
   {
-    "id": "REA1160",
     "topic": "Reactor Operational Physics",
-    "question": "A nuclear power plant has been operating at 100 percent power for six months when a reactor trip\noccurs. Which one of the following describes the source(s) of core heat generation 1 minute after\nthe reactor trip?\ntemperature.\ntemperature.\n-820-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. Fission product decay is the only heat source capable of increasing fuel temperature.",
-      "B. Delayed neutron-induced fission is the only heat source capable of increasing fuel temperature.",
-      "C. Both fission product decay and delayed neutron-induced fission are capable of increasing fuel",
-      "D. Neither fission product decay nor delayed neutron-induced fission are capable of increasing fuel"
-    ],
-    "answer": "C"
+    "stem": " As a reactor approaches criticality during a reactor startup, it takes longer to reach an equilibrium source range count rate after each control rod withdrawal due to the increased...",
+    "choices": {
+      "A": "length of time required to complete a neutron generation.",
+      "B": "number of neutron generations required to reach a stable neutron level.",
+      "C": "length of time from neutron birth to absorption.",
+      "D": "fraction of delayed fission neutrons being produced."
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Reactor Operational Physics",
+    "stem": " During a reactor startup, the first reactivity addition caused the stable source range count rate to increase from 20 cps to 40 cps. The second reactivity addition caused the stable count rate to increase from 40 cps to 80 cps. K was 0.92 prior to the first reactivity addition. eff Which one of the following statements describes the magnitude of the reactivity additions? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "The first reactivity addition was approximately twice as large as the second.",
+      "B": "The second reactivity addition was approximately twice as large as the first.",
+      "C": "The first and second reactivity additions were approximately the same.",
+      "D": "There is not enough data given to determine the relationship between reactivity values. -772- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Reactor Operational Physics",
+    "stem": " With K at 0.92 during a reactor startup, the stable source range count rate is noted to be 780 cps. eff Later in the same startup, the stable count rate is 4,160 cps. What is the current value of K ? eff",
+    "choices": {
+      "A": "0.945",
+      "B": "0.950",
+      "C": "0.975",
+      "D": "0.985"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Reactor Operational Physics",
+    "stem": " Two reactors are currently shut down with reactor startups in progress. The reactors are identical except that reactor A has a source neutron strength of 100 neutrons per second and reactor B has a source neutron strength of 200 neutrons per second. The control rods are stationary and K is 0.98 eff in both reactors. Core neutron levels have stabilized in both reactors. Which one of the following lists the core neutron levels (neutrons per second) in reactors A and B? Reactor A Reactor B (n/sec) (n/sec) NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "5,000 10,000",
+      "B": "10,000 20,000",
+      "C": "10,000 40,000",
+      "D": "20,000 40,000 -773- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Reactor Operational Physics",
+    "stem": " With K at 0.95 during a reactor startup, source range indication is stable at 100 cps. After a eff number of control rods have been withdrawn, source range indication stabilizes at 270 cps. What is the current value of K ? eff",
+    "choices": {
+      "A": "0.963",
+      "B": "0.972",
+      "C": "0.981",
+      "D": "0.990"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Reactor Operational Physics",
+    "stem": " A reactor startup is in progress with a current K of 0.95 and a stable source range count rate of eff 120 cps. Which one of the following stable count rates will occur when K becomes 0.97? eff NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "200 cps",
+      "B": "245 cps",
+      "C": "300 cps",
+      "D": "375 cps -774- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Reactor Operational Physics",
+    "stem": " A reactor startup is in progress with a current K of 0.95 and a stable source range count rate of eff 150 cps. Which one of the following stable count rates will occur when K becomes 0.98? eff",
+    "choices": {
+      "A": "210 cps",
+      "B": "245 cps",
+      "C": "300 cps",
+      "D": "375 cps"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Reactor Operational Physics",
+    "stem": " With K at 0.95 during a reactor startup, source range indication is stable at 120 cps. After a eff period of control rod withdrawal, source range indication stabilizes at 600 cps. What is the current value of K ? eff NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "0.96",
+      "B": "0.97",
+      "C": "0.98",
+      "D": "0.99 -775- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Reactor Operational Physics",
+    "stem": " During a reactor startup, positive reactivity addition X caused the stable source range count rate to increase from 20 cps to 40 cps. Later in the startup, after several more additions of positive reactivity, positive reactivity addition Y caused the stable source range count rate to increase from 320 cps to 640 cps. Which one of the following statements describes how the magnitudes of the two positive reactivity additions (X and Y) compare? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "Reactivity addition X was several times greater in magnitude than reactivity addition Y.",
+      "B": "Reactivity addition X was several times smaller in magnitude than reactivity addition Y.",
+      "C": "Reactivity additions X and Y were about equal in magnitude.",
+      "D": "There is not enough information given to determine the relationship between the reactivity additions. -776- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Reactor Operational Physics",
+    "stem": " During a reactor startup, positive reactivity addition X caused the stable source range count rate to increase from 15 cps to 30 cps. Later in the startup, after several more positive reactivity additions, positive reactivity addition Y caused the stable source range count rate to increase from 60 cps to 120 cps. With the reactor still subcritical, which one of the following statements describes how the magnitudes of positive reactivity additions X and Y compare?",
+    "choices": {
+      "A": "Positive reactivity addition X was smaller than positive reactivity addition Y.",
+      "B": "Positive reactivity addition X was greater than positive reactivity addition Y.",
+      "C": "Positive reactivity additions X and Y were about equal in magnitude.",
+      "D": "There is not enough information given to compare the positive reactivity additions."
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Reactor Operational Physics",
+    "stem": " As criticality is approached during a reactor startup, equal insertions of positive reactivity result in a __________ numerical change in the stable source range count rate and a __________ time to reach each new stable count rate. NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "larger; longer",
+      "B": "larger; shorter",
+      "C": "smaller; longer",
+      "D": "smaller; shorter -777- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Reactor Operational Physics",
+    "stem": " A reactor startup is in progress with a stable source range count rate and the reactor is near criticality. Which one of the following statements describes count rate characteristics during and after a 5-second control rod withdrawal? (Assume the reactor remains subcritical.) NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "There will be no change in count rate until criticality is achieved.",
+      "B": "The count rate will rapidly increase (prompt jump) to a stable higher value.",
+      "C": "The count rate will rapidly increase (prompt jump), then gradually increase and stabilize at a higher value.",
+      "D": "The count rate will rapidly increase (prompt jump), then gradually decrease and stabilize at the original value. -778- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Reactor Operational Physics",
+    "stem": " Refer to the drawing of three 1/M plots labeled A, B, and C (see figure below). Each axis has linear units. The least conservative approach to criticality is represented by plot __________; which could possibly result from recording source range count rates at __________ time intervals after incremental fuel loading steps as compared to the conditions represented by the other plots. NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "A; shorter",
+      "B": "A; longer",
+      "C": "C; shorter",
+      "D": "C; longer -779- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Reactor Operational Physics",
+    "stem": " Refer to the drawing of a 1/M plot with curves A and B (see figure below). Each axis has linear units. Curve A would result if each fuel assembly loaded during the early stages of the refueling caused a relatively __________ fractional change in source range count rate compared to the later stages of the refueling; curve B would result if each fuel assembly contained equal __________. NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "small; fuel enrichment",
+      "B": "small; reactivity",
+      "C": "large; fuel enrichment",
+      "D": "large; reactivity -780- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Reactor Operational Physics",
+    "stem": " Refer to the drawing of a 1/M plot with curves A and B (see figure below). Each axis has linear units. Curve A would result if each fuel assembly loaded during the early stages of core refueling caused a relatively __________ fractional change in stable source range count rate compared to the later stages of the refueling; curve B would result if each fuel assembly contained equal __________. NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "small; fuel enrichment",
+      "B": "small; reactivity",
+      "C": "large; fuel enrichment",
+      "D": "large; reactivity -781- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Reactor Operational Physics",
+    "stem": " During a reactor startup, as K increases toward 1.0 the value of 1/M... eff NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "decreases toward zero.",
+      "B": "decreases toward 1.0.",
+      "C": "increases toward infinity.",
+      "D": "increases toward 1.0. -782- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Reactor Operational Physics",
+    "stem": " The following data was obtained under stable conditions during a reactor startup: Control Rod Position Source Range (units withdrawn) Count Rate (cps) 0 20 10 25 15 28 20 33 25 40 30 50 Assuming uniform differential rod worth, at what approximate control rod position will criticality occur? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "66 to 75 units withdrawn",
+      "B": "56 to 65 units withdrawn",
+      "C": "46 to 55 units withdrawn",
+      "D": "35 to 45 units withdrawn -783- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Reactor Operational Physics",
+    "stem": " The following data was obtained under stable conditions during a reactor startup: Control Rod Position Source Range (units withdrawn) Count Rate (cps) 0 180 10 210 15 250 20 300 25 360 30 420 Assuming uniform differential rod worth, at what approximate control rod position will criticality occur? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "35 to 45 units withdrawn",
+      "B": "46 to 55 units withdrawn",
+      "C": "56 to 65 units withdrawn",
+      "D": "66 to 75 units withdrawn -784- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Reactor Operational Physics",
+    "stem": " The following data was obtained under stable conditions during a reactor startup: Control Rod Position Source Range (units withdrawn) Count Rate (cps) 0 180 5 200 10 225 15 257 20 300 25 360 30 450 Assuming uniform differential rod worth, at what approximate control rod position will criticality occur? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "40 units withdrawn",
+      "B": "50 units withdrawn",
+      "C": "60 units withdrawn",
+      "D": "70 units withdrawn -785- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Reactor Operational Physics",
+    "stem": " The following data was obtained under stable conditions during a reactor startup: Control Rod Position Source Range (units withdrawn) Count Rate (cps) 10 360 15 400 20 450 25 514 30 600 35 720 40 900 Assuming uniform differential rod worth, at what approximate control rod position will criticality occur? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "50 units withdrawn",
+      "B": "60 units withdrawn",
+      "C": "70 units withdrawn",
+      "D": "80 units withdrawn -786- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Reactor Operational Physics",
+    "stem": " An estimated critical rod position (ECP) has been calculated for criticality to occur 15 hours after a reactor trip that ended three months of operation at 100 percent power. Which one of the following will result in criticality occurring at a rod position that is lower than the calculated ECP?",
+    "choices": {
+      "A": "A malfunction resulting in temperature raising 2oF.",
+      "B": "A malfunction resulting in control rod speed being slower than normal speed.",
+      "C": "Moving the time of startup from 15 hours to 12 hours following the trip.",
+      "D": "Using a pretrip reactor power of 90 percent to determine power defect."
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Reactor Operational Physics",
+    "stem": " With K at 0.985, how much reactivity must be added to make a reactor exactly critical? eff NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "1.48 %\u0394K/K",
+      "B": "1.50 %\u0394K/K",
+      "C": "1.52 %\u0394K/K",
+      "D": "1.54 %\u0394K/K -787- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Reactor Operational Physics",
+    "stem": " When a reactor is critical, reactivity is...",
+    "choices": {
+      "A": "infinity.",
+      "B": "undefined.",
+      "C": "0.0 \u0394K/K.",
+      "D": "1.0 \u0394K/K."
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Reactor Operational Physics",
+    "stem": " During a reactor startup, if the startup rate is constant and positive without any further reactivity addition, then the reactor is... NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "critical.",
+      "B": "supercritical.",
+      "C": "subcritical.",
+      "D": "prompt critical. -788- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Reactor Operational Physics",
+    "stem": " A reactor startup is being performed following a one-month shutdown period. If the reactor is taken critical and then stabilized at 10,000 cps in the source range, over the next 10 minutes the count rate will...",
+    "choices": {
+      "A": "remain constant.",
+      "B": "decrease linearly.",
+      "C": "decrease geometrically.",
+      "D": "decrease exponentially."
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Reactor Operational Physics",
+    "stem": " A reactor startup is in progress following a one-month shutdown. Upon reaching criticality, the operator establishes a positive 0.5 DPM startup rate and stops control rod motion. After an additional five minutes, reactor power will be __________ and startup rate will be __________. (Assume reactor power remains below the point of adding heat.) NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "constant; constant",
+      "B": "constant; increasing",
+      "C": "increasing; constant",
+      "D": "increasing; increasing -789- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Reactor Operational Physics",
+    "stem": " A reactor is critical near the end of a fuel cycle with power level stable at 1.0 x 10-10 percent. Which one of the following is the smallest listed amount of positive reactivity that is capable of increasing reactor power level to the point of adding heat?",
+    "choices": {
+      "A": "0.001 %\u0394K/K",
+      "B": "0.003 %\u0394K/K",
+      "C": "0.005 %\u0394K/K",
+      "D": "0.007 %\u0394K/K"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Reactor Operational Physics",
+    "stem": " A reactor and plant startup is in progress. Reactor power is currently 5.0 x 10-5 percent and increasing, with a constant startup rate of 0.2 DPM. Reactivity is not changing. The reactor is currently __________, at a power level that is __________ the point of adding heat. NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "critical; less than",
+      "B": "critical; greater than",
+      "C": "supercritical; less than",
+      "D": "supercritical; greater than -790- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Reactor Operational Physics",
+    "stem": " Which one of the following indicates that a reactor has achieved criticality during a normal reactor startup? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "Constant positive startup rate during rod withdrawal.",
+      "B": "Increasing positive startup rate during rod withdrawal.",
+      "C": "Constant positive startup rate with no rod motion.",
+      "D": "Increasing positive startup rate with no rod motion. -791- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Reactor Operational Physics",
+    "stem": " A reactor startup is in progress. Control rod withdrawal was stopped several minutes ago to assess criticality. Which one of the following is a combination of indications that together support a declaration that the reactor has reached criticality?",
+    "choices": {
+      "A": "Startup rate is stable at 0.0 DPM; source range count rate is stable.",
+      "B": "Startup rate is stable at 0.2 DPM; source range count rate is stable.",
+      "C": "Startup rate is stable at 0.0 DPM; source range count rate is slowly increasing.",
+      "D": "Startup rate is stable at 0.2 DPM; source range count rate is slowly increasing."
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Reactor Operational Physics",
+    "stem": " A reactor startup is in progress following a one-month shutdown. Upon reaching criticality, the operator establishes a stable positive 1.0 DPM startup rate and stops rod motion. After an additional 30 seconds, reactor power will be __________ and startup rate will be __________. (Assume reactor power remains below the point of adding heat.) NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "increasing; increasing",
+      "B": "increasing; constant",
+      "C": "constant; increasing",
+      "D": "constant; constant -792- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Reactor Operational Physics",
+    "stem": " A reactor is critical several decades below the point of adding heat (POAH) when a small amount of positive reactivity is added to the core. If the exact same amount of negative reactivity is then added prior to reaching the POAH, reactor power will stabilize...",
+    "choices": {
+      "A": "higher than the initial power level but below the POAH.",
+      "B": "lower than the initial power level.",
+      "C": "at the initial power level.",
+      "D": "at the POAH."
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Reactor Operational Physics",
+    "stem": " A reactor is exactly critical two decades below the point of adding heat when -0.01 %\u0394K/K of reactivity is added. If +0.01 %\u0394K/K is added 2 minutes later, reactor power will stabilize at... NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "the point of adding heat.",
+      "B": "the initial power level.",
+      "C": "somewhat lower than the initial power level.",
+      "D": "an equilibrium subcritical power level. -793- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Reactor Operational Physics",
+    "stem": " A reactor is critical at the point of adding heat (POAH) when a small amount of negative reactivity is added. If the same amount of positive reactivity is added approximately 5 minutes later, reactor power will...",
+    "choices": {
+      "A": "increase and stabilize at the POAH.",
+      "B": "quickly stabilize at a power level below the POAH.",
+      "C": "continue to decrease with a -1/3 DPM startup rate until an equilibrium shutdown neutron level is reached.",
+      "D": "continue to decrease with an unknown startup rate until an equilibrium shutdown neutron level is reached."
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Reactor Operational Physics",
+    "stem": " A reactor was operating at 1.0 x 10-3 percent power with a positive 0.6 DPM startup rate when an amount of negative reactivity was inserted that caused reactor power to decrease with a negative 0.4 DPM startup rate. If an equal amount of positive reactivity is added 5 minutes later, reactor power will... NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "increase and stabilize at the point of adding heat.",
+      "B": "increase and stabilize at 1.0 x 10-3 percent power.",
+      "C": "continue to decrease with a negative 0.4 DPM startup rate until an equilibrium shutdown neutron level is reached.",
+      "D": "continue to decrease with an unknown startup rate until an equilibrium shutdown neutron level is reached. -794- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Reactor Operational Physics",
+    "stem": " A reactor is slightly supercritical during a reactor startup. A short control rod withdrawal is performed to establish the desired positive startup rate. Assume that the reactor remains slightly supercritical after the control rod withdrawal, and that reactor power remains well below the point of adding heat. Immediately after the control rod withdrawal is stopped, the startup rate will initially decrease and then... NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "stabilize at a positive value.",
+      "B": "turn and slowly increase.",
+      "C": "stabilize at zero.",
+      "D": "continue to slowly decrease. -795- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Reactor Operational Physics",
+    "stem": " Refer to the figure below for the following question. The axes on each graph have linear scales. Initially, a reactor is critical in the source range. At 0 seconds, a constant rate addition of positive reactivity commences. Assume that reactor power remains below the point of adding heat for the entire time interval shown. The general response of startup rate to this event is shown on graph _____; and the general response of reactor power to this event is shown on graph _____. (Note: Either graph may be chosen once, twice, or not at all.) NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "A; A",
+      "B": "A; B",
+      "C": "B; A",
+      "D": "B; B -796- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Reactor Operational Physics",
+    "stem": " Refer to the drawing that shows a graph of startup rate versus time (see figure below). Both axes have linear scales. Which one of the following events, initiated at 0 seconds, would cause the reactor response shown on the graph? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "A step addition of positive reactivity to a reactor that is initially stable in the power range and remains in the power range for the duration of the 120-second interval shown.",
+      "B": "A constant rate of positive reactivity addition to a reactor that is initially stable in the power range and remains in the power range for the duration of the 120-second interval shown.",
+      "C": "A step addition of positive reactivity to a reactor that is initially critical in the source range and remains below the point of adding heat for the duration of the 120-second interval shown.",
+      "D": "A constant rate of positive reactivity addition to a reactor that is initially critical in the source range and remains below the point of adding heat for the duration of the 120-second interval shown. -797- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Reactor Operational Physics",
+    "stem": " Refer to the drawing that shows a graph of fission rate versus time (see figure below). Both axes have linear scales. Which one of the following events, initiated at 0 seconds, would cause the reactor response shown on the graph? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "A step addition of positive reactivity to a reactor that is initially subcritical in the source range and remains subcritical for the duration of the 120-second interval shown.",
+      "B": "A step addition of positive reactivity to a reactor that is initially critical in the source range and remains below the point of adding heat for the duration of the 120-second interval shown.",
+      "C": "A step addition of positive reactivity to a reactor that is initially critical in the power range and remains in the power range for the duration of the 120-second interval shown.",
+      "D": "A constant rate of positive reactivity addition to a reactor that is initially critical in the power range and remains in the power range for the duration of the 120-second interval shown. -798- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Reactor Operational Physics",
+    "stem": " Refer to the drawing that shows a graph of startup rate versus time (see figure below) for a reactor. Both axes have linear scales. Which one of the following events, initiated at 0 seconds, would cause the startup rate response shown on the graph? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "A step addition of positive reactivity to a reactor that is initially critical in the source range. Reactor power enters the power range at 120 seconds.",
+      "B": "A step addition of positive reactivity to a reactor that is initially stable in the power range. A step addition of negative reactivity is inserted at 120 seconds.",
+      "C": "A controlled constant rate of positive reactivity addition to a reactor that is initially critical in the source range and remains below the point of adding heat. The positive reactivity addition ends at 120 seconds.",
+      "D": "A controlled constant rate of positive reactivity addition to a reactor that is initially stable in the power range and remains in the power range. The positive reactivity addition ends at 120 seconds. -799- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Reactor Operational Physics",
+    "stem": " For a slightly supercritical reactor operating below the point of adding heat (POAH), what reactivity effects are associated with reaching the POAH?",
+    "choices": {
+      "A": "There are no reactivity effects.",
+      "B": "An increase in fuel temperature will begin to create a positive reactivity effect.",
+      "C": "A decrease in fuel temperature will begin to create a negative reactivity effect.",
+      "D": "An increase in fuel temperature will begin to create a negative reactivity effect."
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Reactor Operational Physics",
+    "stem": " KNOWLEDGE: K1.17 [3.3/3.4] QID: P1172 A reactor startup is in progress near the end of a fuel cycle. Reactor power is 5 x 10-2 percent and increasing slowly with a stable 0.3 DPM startup rate. Assuming no operator action, no reactor trip, and no change in temperature, what will reactor power be after 10 minutes? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "100 percent",
+      "B": "50 percent",
+      "C": "10 percent",
+      "D": "1 percent (point of adding heat) -800- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Reactor Operational Physics",
+    "stem": " KNOWLEDGE: K1.17 [3.3/3.4] QID: P1367 A reactor startup is in progress near the end of a fuel cycle. Reactor power is 5 x 10-3 percent and increasing slowly with a stable 0.3 DPM startup rate. Assuming no operator action, no reactor trip, and no change in temperature, what will reactor power be after 10 minutes?",
+    "choices": {
+      "A": "Below the point of adding heat (POAH).",
+      "B": "At the POAH.",
+      "C": "Above the POAH but less than 50 percent.",
+      "D": "Greater than 50 percent."
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Reactor Operational Physics",
+    "stem": " A reactor is critical at 2.0 x 10-8 percent power. The operator withdraws rods as necessary to immediately establish and maintain a positive 0.1 DPM startup rate. How long will it take the reactor to reach 7.0 x 10-8 percent power? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "2.4 minutes",
+      "B": "5.4 minutes",
+      "C": "7.4 minutes",
+      "D": "10.4 minutes -801- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Reactor Operational Physics",
+    "stem": " A reactor is critical at 3.0 x 10-8 percent power. The operator withdraws rods as necessary to immediately establish and maintain a positive 0.1 DPM startup rate. How long will it take the reactor to reach 7.0 x 10-8 percent power?",
+    "choices": {
+      "A": "3.7 minutes",
+      "B": "5.4 minutes",
+      "C": "6.7 minutes",
+      "D": "8.4 minutes"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Reactor Operational Physics",
+    "stem": " A reactor startup is in progress and criticality has just been achieved. After recording the critical rod heights, the operator withdraws control rods for 20 seconds to establish a stable positive 0.5 DPM startup rate (SUR). One minute later (prior to reaching the point of adding heat), the operator inserts the same control rods for 25 seconds. During the rod insertion, when will the SUR become negative? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "Immediately when the control rod insertion is initiated.",
+      "B": "After the control rods pass through the critical rod height.",
+      "C": "Just as the control rods pass through the critical rod height.",
+      "D": "Prior to the control rods passing through the critical rod height. -802- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Reactor Operational Physics",
+    "stem": " Shortly after a reactor trip, reactor power indicates 5.0 x 10-2 percent when a stable negative startup rate is attained. Approximately how much additional time is required for reactor power to decrease to 5.0 x 10-3 percent?",
+    "choices": {
+      "A": "90 seconds",
+      "B": "180 seconds",
+      "C": "270 seconds",
+      "D": "360 seconds"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Reactor Operational Physics",
+    "stem": " A nuclear power plant has been operating at 100 percent power for several weeks when a reactor trip occurs. How much time will be required for core decay heat production to decrease to one percent power following the trip? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "1 to 8 seconds",
+      "B": "1 to 8 minutes",
+      "C": "1 to 8 hours",
+      "D": "1 to 8 days -803- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Reactor Operational Physics",
+    "stem": " Which one of the following determines the value of the stable negative startup rate observed shortly after a reactor trip?",
+    "choices": {
+      "A": "The shortest-lived delayed neutron precursors.",
+      "B": "The longest-lived delayed neutron precursors.",
+      "C": "The shutdown margin just prior to the trip.",
+      "D": "The worth of the inserted control rods."
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Reactor Operational Physics",
+    "stem": " Shortly after a reactor trip, reactor power indicates 1.0 x 10-3 percent when a stable negative startup rate is attained. Reactor power will decrease to 1.0 x 10-4 percent in approximately _______ seconds. NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "380",
+      "B": "280",
+      "C": "180",
+      "D": "80 -804- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Reactor Operational Physics",
+    "stem": " Following a reactor trip, reactor power indicates 0.1 percent when the typical post-trip stable startup rate is observed. Approximately how much additional time is required for reactor power to decrease to 0.05 percent? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "24 seconds",
+      "B": "55 seconds",
+      "C": "173 seconds",
+      "D": "240 seconds -805- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Reactor Operational Physics",
+    "stem": " Which one of the following approximates the fission product decay heat produced in a reactor at one second and one hour following a reactor scram from long-term operation at 100 percent power? One Second One Hour",
+    "choices": {
+      "A": "7 percent 1 percent",
+      "B": "7 percent 0.1 percent",
+      "C": "3 percent 1 percent",
+      "D": "3 percent 0.1 percent"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Reactor Operational Physics",
+    "stem": " Reactors A and B are identical and have operated at 100 percent power for six months when a reactor trip occurs simultaneously on both reactors. All control rods fully insert, except for one reactor B control rod that remains fully withdrawn. Which reactor, if any, will have the smaller negative startup rate five minutes after the trip, and why? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "Reactor A, due to the greater shutdown reactivity.",
+      "B": "Reactor B, due to the smaller shutdown reactivity.",
+      "C": "Both reactors will have the same startup rate because both reactors will be stable at a power level low in the source range.",
+      "D": "Both reactors will have the same startup rate because only the longest-lived delayed neutron precursors will be releasing fission neutrons. -806- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Reactor Operational Physics",
+    "stem": " Reactors A and B are identical and have operated at 100 percent power for six months when a reactor trip occurs simultaneously on both reactors. All reactor A control rods fully insert, while one reactor B control rod sticks fully withdrawn. Which reactor, if any, will have the smaller negative startup rate five minutes after the trip, and why?",
+    "choices": {
+      "A": "Reactor A, because its delayed neutron fraction will be smaller.",
+      "B": "Reactor B, because its delayed neutron fraction will be larger.",
+      "C": "Both reactors will have the same startup rate because both reactors will be stable at a power level low in the source range.",
+      "D": "Both reactors will have the same startup rate because only the longest-lived delayed neutron precursors will be releasing fission neutrons."
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Reactor Operational Physics",
+    "stem": " Reactors A and B are identical and have operated at 100 percent power for six months when a reactor trip occurs simultaneously on both reactors. All reactor A control rods fully insert. One reactor B control rod sticks fully withdrawn, but all others fully insert. Five minutes after the trip, when compared to reactor B the fission rate in reactor A will be __________; and the startup rate in reactor A will be __________. NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "the same; more negative",
+      "B": "the same; the same",
+      "C": "smaller; more negative",
+      "D": "smaller; the same -807- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Reactor Operational Physics",
+    "stem": " A reactor is critical just below the point of adding heat when an inadvertent reactor trip occurs. All control rods fully insert except for one rod, which remains fully withdrawn. Five minutes after the reactor trip, with reactor startup rate (SUR) stable at approximately -1/3 DPM, the remaining withdrawn control rod suddenly drops (fully inserts). Which one of the following describes the reactor response to the drop of the last control rod?",
+    "choices": {
+      "A": "SUR will remain stable at approximately -1/3 DPM.",
+      "B": "SUR will immediately become more negative, and then return to and stabilize at approximately -1/3 DPM.",
+      "C": "SUR will immediately become more negative, and then turn and stabilize at a value more negative than -1/3 DPM.",
+      "D": "SUR will immediately become more negative, and then turn and stabilize at a value less negative than -1/3 DPM."
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Reactor Operational Physics",
+    "stem": " A nuclear power plant is operating at steady-state 100 percent power when a reactor trip occurs. As a result of the trip, the core neutron flux will initially decrease at a startup rate that is much __________ negative than -1/3 DPM; the startup rate will become approximately -1/3 DPM about __________ minutes after the trip. NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "less; 3",
+      "B": "less; 30",
+      "C": "more; 3",
+      "D": "more; 30 -808- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Reactor Operational Physics",
+    "stem": " Refer to the graph of neutron flux versus time (see figure below) for a nuclear power plant reactor that experienced a reactor trip from extended full power operation at 0 seconds. Which section(s) of the curve has/have a slope that is primarily determined by the production rate of delayed neutrons? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "B only",
+      "B": "B and C",
+      "C": "C only",
+      "D": "C and D -809- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Reactor Operational Physics",
+    "stem": " Refer to the graph of neutron flux versus time (see figure below) for a nuclear power plant that experienced a reactor trip from extended full power operation at time = 0 seconds. In which section of the curve does the production rate of source neutrons primarily determine the slope of the curve? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D -810- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Reactor Operational Physics",
+    "stem": " A reactor was operating for several months at 100 percent power when a reactor trip occurred. Which one of the following is primarily responsible for the startup rate value 2 minutes after the trip? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "The K in the core. eff",
+      "B": "The rate of source neutron production in the core.",
+      "C": "The effective delayed neutron fraction in the core.",
+      "D": "The decay rates of the delayed neutron precursors in the core. -811- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Reactor Operational Physics",
+    "stem": " Refer to the graph of neutron flux versus time (see figure below) for a nuclear power plant that experienced a reactor trip from steady-state 100 percent power at time = 0 seconds. The shape of section A on the graph is primarily determined by a rapid decrease in the production rate of\u2026 NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "intrinsic source neutrons.",
+      "B": "prompt fission neutrons.",
+      "C": "delayed fission neutrons.",
+      "D": "delayed fission neutron precursors. -812- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Reactor Operational Physics",
+    "stem": " A reactor was operating for several months at steady-state 100 percent power when a reactor trip occurred. Which one of the following lists the two factors most responsible for the value of the core neutron flux level 1 hour after the trip? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "K and the rate of source neutron production. eff",
+      "B": "K and the effective delayed neutron fraction. eff",
+      "C": "The decay rates of the delayed neutron precursors and the rate of source neutron production.",
+      "D": "The decay rates of the delayed neutron precursors and the effective delayed neutron fraction. -813- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Reactor Operational Physics",
+    "stem": " Refer to the graph of neutron flux versus time (see figure below) for a nuclear power plant that experienced a reactor trip from steady-state 100 percent power at time = 0. The shape of section B of the curve is determined primarily by the decreasing production rate of\u2026 NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "prompt fission neutrons.",
+      "B": "delayed fission neutrons.",
+      "C": "intrinsic source neutrons.",
+      "D": "installed source neutrons. -814- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Reactor Operational Physics",
+    "stem": " A reactor is critical below the point of adding heat when a fully withdrawn control rod fully inserts into the core. Assuming no operator or automatic actions, core neutron flux will slowly decrease to...",
+    "choices": {
+      "A": "zero.",
+      "B": "an equilibrium value less than the source neutron flux.",
+      "C": "an equilibrium value greater than the source neutron flux.",
+      "D": "a slightly lower value, then slowly return to the initial value."
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Reactor Operational Physics",
+    "stem": " A reactor is critical just below the point of adding heat when a single fully withdrawn control rod drops into the core. Assuming no operator or automatic actions occur, when the plant stabilizes reactor power will be __________; and average reactor coolant temperature will be __________. NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "the same; the same",
+      "B": "the same; lower",
+      "C": "lower; the same",
+      "D": "lower; lower -815- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Reactor Operational Physics",
+    "stem": " Initially, a reactor is critical in the source range during a reactor startup when the control rods are inserted a small amount. Reactor startup rate stabilizes at -0.15 DPM. Assuming startup rate remains constant, how long will it take for source range count rate to decrease by one-half? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "0.3 minutes",
+      "B": "2.0 minutes",
+      "C": "3.3 minutes",
+      "D": "5.0 minutes -816- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Reactor Operational Physics",
+    "stem": " Which one of the following describes how control rods are inserted during a normal reactor shutdown, and why?",
+    "choices": {
+      "A": "One rod at a time, to maintain acceptable power distribution.",
+      "B": "One rod at a time, to maintain a rapid shutdown capability from the remainder of the control rods.",
+      "C": "In a reverse sequence, to maintain a relatively constant differential control rod worth.",
+      "D": "In a reverse sequence, to limit the amount of positive reactivity added during a rod ejection accident."
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Reactor Operational Physics",
+    "stem": " After one month of operation at 100 percent power, the fraction of rated thermal power being produced from the decay of fission products in a reactor is... NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "greater than 10 percent.",
+      "B": "greater than 5 percent, but less than 10 percent.",
+      "C": "greater than 1 percent, but less than 5 percent.",
+      "D": "less than 1 percent. -817- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Reactor Operational Physics",
+    "stem": " The magnitude of decay heat generation is determined primarily by...",
+    "choices": {
+      "A": "core burnup.",
+      "B": "power history.",
+      "C": "final power at shutdown.",
+      "D": "control rod worth at shutdown."
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Reactor Operational Physics",
+    "stem": " Following a reactor shutdown from three months of operation at 100 percent power, the core decay heat production rate will depend on the... NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "amount of fuel that has been depleted.",
+      "B": "decay rate of the fission product poisons.",
+      "C": "time elapsed since K decreased below 1.0. eff",
+      "D": "decay rate of the photoneutron source. -818- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Reactor Operational Physics",
+    "stem": " A nuclear power plant has been operating for one hour at 50 percent power following six months of operation at steady-state 100 percent power. What percentage of rated thermal power is currently being generated by fission product decay?",
+    "choices": {
+      "A": "1 percent to 2 percent",
+      "B": "3 percent to 5 percent",
+      "C": "6 percent to 8 percent",
+      "D": "9 percent to 11 percent"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Reactor Operational Physics",
+    "stem": " A nuclear power plant had been operating at 100 percent power for six months when a reactor trip occurred. Which one of the following describes the source(s) of core heat generation 30 minutes after the reactor trip? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "Fission product decay is the only significant source of core heat generation.",
+      "B": "Delayed neutron-induced fission is the only significant source of core heat generation.",
+      "C": "Fission product decay and delayed neutron-induced fission are both significant sources and produce approximately equal rates of core heat generation.",
+      "D": "Fission product decay and delayed neutron-induced fission are both insignificant sources and generate core heat at rates that are less than the rate of ambient heat loss from the core. -819- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Reactor Operational Physics",
+    "stem": " A nuclear power plant has been operating at 100 percent power for six months when a reactor trip occurs. Which one of the following describes the source(s) of core heat generation 1 minute after the reactor trip? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "Fission product decay is the only heat source capable of increasing fuel temperature.",
+      "B": "Delayed neutron-induced fission is the only heat source capable of increasing fuel temperature.",
+      "C": "Both fission product decay and delayed neutron-induced fission are capable of increasing fuel temperature.",
+      "D": "Neither fission product decay nor delayed neutron-induced fission are capable of increasing fuel temperature. -820- PWR Test Items"
+    },
+    "answer": "A"
   }
 ]

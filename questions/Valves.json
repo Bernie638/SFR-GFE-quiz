@@ -1,1328 +1,1123 @@
 [
   {
-    "id": "VAL001",
     "topic": "Valves",
-    "question": "Which one of the following describes the function of a safety valve?\nlimits.",
-    "image": "",
-    "choices": [
-      "A. Provide overpressure protection to limit the internal pressure in vessels.",
-      "B. Control pressure in a system to maintain optimum operational conditions.",
-      "C. Sound a warning by lifting at a predetermined value slightly higher than operating pressure.",
-      "D. Modulate open as necessary to maintain system pressure and/or temperature within normal"
-    ],
+    "stem": " Which one of the following describes the function of a safety valve?",
+    "choices": {
+      "A": "Provide overpressure protection to limit the internal pressure in vessels.",
+      "B": "Control pressure in a system to maintain optimum operational conditions.",
+      "C": "Sound a warning by lifting at a predetermined value slightly higher than operating pressure.",
+      "D": "Modulate open as necessary to maintain system pressure and/or temperature within normal limits."
+    },
     "answer": "A"
   },
   {
-    "id": "VAL002",
     "topic": "Valves",
-    "question": "A vertical safety valve has a compressed spring assembly that is applying 1,200 lbf to the top of the\nvalve disk in opposition to system pressure. System pressure is being exerted on the underside of\nthe valve disk that is 3 inches in diameter.\nWhich one of the following is the approximate system pressure at which the safety valve will open?\n-1-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. 44 psig",
-      "B. 64 psig",
-      "C. 128 psig",
-      "D. 170 psig"
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "VAL003",
-    "topic": "Valves",
-    "question": "A vertical safety valve with a 3-inch diameter disk has a spring applying 1,000 lbf to the top of the\nvalve disk in opposition to system pressure. Which one of the following is the approximate system\npressure at which the safety valve will begin to open?\n-2-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. 35 psig",
-      "B. 111 psig",
-      "C. 141 psig",
-      "D. 444 psig"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "VAL004",
-    "topic": "Valves",
-    "question": "Refer to the drawing of a typical safety valve (see figure below).\nThe component indicated by the solid arrow is used when necessary to manually...\n-3-\nPWR Test Items",
-    "image": "page3_img1.png",
-    "choices": [
-      "A. ratchet open the safety valve.",
-      "B. pop open the safety valve.",
-      "C. gag shut the safety valve.",
-      "D. determine the position of the safety valve."
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "VAL005",
-    "topic": "Valves",
-    "question": "A vertical safety valve has a compressed spring assembly that is applying 2,500 lbf to the top of the\nvalve disk in opposition to system pressure. System pressure is being exerted on the underside of\nthe valve disk that is 5 inches in diameter.\nWhich one of the following is the approximate system pressure at which the safety valve will open?",
-    "image": "",
-    "choices": [
-      "A. 32 psig",
-      "B. 127 psig",
-      "C. 159 psig",
-      "D. 500 psig"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "VAL006",
-    "topic": "Valves",
-    "question": "A vertical safety valve with a 2-inch diameter disk has a compressed spring applying 2,400 lbf to the\ntop of the valve disk in opposition to system pressure. Which one of the following is the\napproximate system pressure at which the safety valve will open?\n-4-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. 95 psig",
-      "B. 191 psig",
-      "C. 382 psig",
-      "D. 764 psig"
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "VAL007",
-    "topic": "Valves",
-    "question": "A completely full water storage tank is being hydrostatically tested to 100 psig using a positive\ndisplacement pump (PDP) with a smooth and constant discharge flow rate of 10 gpm. The tank is\nprotected by a safety valve and a relief valve; both valves discharge to the atmosphere. Each valve\nhas an opening setpoint of 105 psig and a maximum rated discharge flow rate of 6 gpm. The PDP is\ninadvertently left running when tank pressure reaches 100 psig.\nWith the PDP still running, tank pressure will stabilize __________ 105 psig; and the greater mass\nflow rate will be coming from the __________ valve.",
-    "image": "",
-    "choices": [
-      "A. at; safety",
-      "B. above; safety",
-      "C. at; relief",
-      "D. above; relief"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "VAL008",
-    "topic": "Valves",
-    "question": "Given the following pressure specifications for a safety relief valve (SRV):\nSetpoint pressure (SRV will start to open) = 1,200 psia\nMaximum pressure (SRV will be fully open) = 1,242 psia\nReseat pressure (SRV will be fully closed) = 1,152 psia\nWhich one of the following is the percent accumulation for the SRV?\n-5-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. 2.5 percent",
-      "B. 3.0 percent",
-      "C. 3.5 percent",
-      "D. 4.0 percent"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "VAL009",
-    "topic": "Valves",
-    "question": "A completely full water storage tank is being hydrostatically tested to 200 psig using a positive\ndisplacement pump (PDP) with a smooth and constant discharge flow rate of 8 gpm. The tank is\nprotected by a relief valve and a safety valve; both valves discharge to the atmosphere. Each valve\nhas an opening setpoint of 205 psig and a maximum rated discharge flow rate of 6 gpm. The PDP is\ninadvertently left running when tank pressure reaches 200 psig.\nWhen conditions stabilize with the PDP still running, the relief valve will be __________ open; and\nthe safety valve will be discharging a flow rate of approximately __________ to the atmosphere.\n-6-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. partially; 6 gpm",
-      "B. partially; 2 gpm",
-      "C. fully; 6 gpm",
-      "D. fully; 2 gpm"
-    ],
+    "stem": " A vertical safety valve has a compressed spring assembly that is applying 1,200 lbf to the top of the valve disk in opposition to system pressure. System pressure is being exerted on the underside of the valve disk that is 3 inches in diameter. Which one of the following is the approximate system pressure at which the safety valve will open? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "44 psig",
+      "B": "64 psig",
+      "C": "128 psig",
+      "D": "170 psig -1- PWR Test Items"
+    },
     "answer": "A"
   },
   {
-    "id": "VAL010",
     "topic": "Valves",
-    "question": "Refer to the drawing of two identical water storage tanks (see figure below). Tank A is protected by\na relief valve and Tank B is protected by a safety valve. Each valve has an opening setpoint of 205\npsig and a maximum rated discharge flow rate of 8 gpm.\nThe tanks are being hydrostatically tested to 200 psig. Each tank is being supplied with a smooth\nand constant flow rate of 2 gpm from separate positive displacement pumps (PDPs). Both PDPs are\ninadvertently left running when tank pressures reach 200 psig.\nWith the PDPs running continuously, what will be the resulting status of the relief and safety valves?\nRelief Valve Status Safety Valve Status\nCycling between fully\nopen and fully closed\nCycling between fully\nopen and fully closed\nCycling between fully Cycling between fully\nopen and fully closed open and fully closed\n-7-\nPWR Test Items",
-    "image": "page7_img1.jpeg",
-    "choices": [
-      "A. Partially open Partially open",
-      "B. Partially open",
-      "C. Partially open",
-      "D."
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "VAL011",
-    "topic": "Valves",
-    "question": "A completely full water storage tank is being hydrostatically tested to 200 psig using a positive\ndisplacement pump (PDP) with a smooth and constant discharge flow rate of 8 gpm. The tank is\nprotected by a relief valve and a safety valve that both discharge to the atmosphere. The valves\nhave the following characteristics:\n\uf0b7 The relief valve opening setpoint is 200 psig with an accumulation of 5 percent.\n\uf0b7 The safety valve opening setpoint is 240 psig with a blowdown of 5 percent.\n\uf0b7 Both valves have a maximum discharge flow rate of 6 gpm.\nThe PDP is inadvertently left running when tank pressure reaches 200 psig.\nWhen conditions stabilize with the PDP still running, the relief valve will be __________ open; and\nthe safety valve will be discharging a flow rate of approximately __________ to the atmosphere.\n-8-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. partially; 6 gpm",
-      "B. partially; 2 gpm",
-      "C. fully; 6 gpm",
-      "D. fully; 2 gpm"
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "VAL012",
-    "topic": "Valves",
-    "question": "A completely full water storage tank is being hydrostatically tested to 200 psig using a positive\ndisplacement pump (PDP) with a smooth and constant discharge flow rate of 8 gpm. The tank is\nprotected by a relief valve and a safety valve that both discharge to the atmosphere. The valves\nhave the following characteristics:\n\uf0b7 The relief valve opening setpoint is 220 psig with an accumulation of 5 percent.\n\uf0b7 The safety valve opening setpoint is 260 psig with a blowdown of 5 percent.\n\uf0b7 Both valves have a maximum discharge flow rate of 6 gpm.\nThe PDP is inadvertently left running when tank pressure reaches 200 psig.\nAfter a few minutes with the PDP still running, the relief valve will be discharging a flow rate of\napproximately __________; and the safety valve will be __________.",
-    "image": "",
-    "choices": [
-      "A. 2 gpm; partially open",
-      "B. 6 gpm; partially open",
-      "C. 2 gpm; cycling between fully open and fully closed",
-      "D. 6 gpm; cycling between fully open and fully closed"
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "VAL013",
-    "topic": "Valves",
-    "question": "The primary purpose of a pressure relief valve is to...\n-9-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. reduce system energy.",
-      "B. reduce system pressure.",
-      "C. maintain system integrity.",
-      "D. maintain system mass."
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "VAL014",
-    "topic": "Valves",
-    "question": "The difference between the setpoint pressure at which a safety valve opens and the pressure at which\nit closes is called...",
-    "image": "",
-    "choices": [
-      "A. blowdown.",
-      "B. accumulation.",
-      "C. setpoint tolerance.",
-      "D. setpoint deviation."
-    ],
+    "stem": " A vertical safety valve with a 3-inch diameter disk has a spring applying 1,000 lbf to the top of the valve disk in opposition to system pressure. Which one of the following is the approximate system pressure at which the safety valve will begin to open? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "35 psig",
+      "B": "111 psig",
+      "C": "141 psig",
+      "D": "444 psig -2- PWR Test Items"
+    },
     "answer": "A"
   },
   {
-    "id": "VAL015",
     "topic": "Valves",
-    "question": "The difference between the setpoint pressure at which a relief valve begins to open and the pressure\nat which it is fully open is called...\n-10-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. setpoint deviation.",
-      "B. setpoint tolerance.",
-      "C. accumulation.",
-      "D. blowdown."
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "VAL016",
-    "topic": "Valves",
-    "question": "Which one of the following is a difference between a typical relief valve and a typical safety valve?\nspring on a safety valve acts in tension.\nvalve pops open at the setpoint pressure.\n-11-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. The actuator closing spring on a relief valve is in a compressed state whereas the actuator closing",
-      "B. A relief valve gradually opens as pressure increases above the setpoint pressure whereas a safety",
-      "C. Relief valves are capable of being gagged whereas safety valves are not.",
-      "D. The blowdown of a relief valve is greater than the blowdown of a safety valve."
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "VAL017",
-    "topic": "Valves",
-    "question": "Refer to the drawing of two identical pressure vessels with identical relief valve protection (see\nfigure below).\nBoth vessels have been pressurized to 50 psig and then isolated. Vessel A is completely filled with\nwater at 150\u00b0F. Vessel B is in a saturated condition with one-half steam (100 percent quality) and\none-half water (0 percent quality) by volume.\nIf both relief valves fully open simultaneously, the faster pressure reduction will occur in vessel\n__________; and if both relief valves close at 40 psig, the greater mass loss will have occurred in\nvessel __________.\n-12-\nPWR Test Items",
-    "image": "page12_img1.jpeg",
-    "choices": [
-      "A. A; A",
-      "B. A; B",
-      "C. B; A",
-      "D. B; B"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "VAL018",
-    "topic": "Valves",
-    "question": "Water storage tanks A and B are identical except that tank A receives overpressure protection from a\nrelief valve, whereas tank B uses a safety valve. The relief valve and safety valve have the same\npressure setpoints and design flow rates.\nWater is continuously added to each tank at the same rate (50 percent of the design flow rate of the\nrelief and safety valves). After the tanks are completely full, tank A pressure will __________; and\ntank B pressure will __________.\nsetpoint\npressure setpoint\nsetpoint\n-13-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. fluctuate within a few percent of the pressure setpoint; stabilize slightly above the pressure",
-      "B. fluctuate within a few percent of the pressure setpoint; fluctuate within a few percent of the",
-      "C. stabilize slightly above the pressure setpoint; stabilize slightly above the pressure setpoint",
-      "D. stabilize slightly above the pressure setpoint; fluctuate within a few percent of the pressure"
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "VAL019",
-    "topic": "Valves",
-    "question": "Vessels A and B are identical except that vessel A receives overpressure protection from an installed\nsafety valve. Vessel B has an installed relief valve. The safety and relief valves have the same\npressure setpoint and design flow rate.\nWater is continuously added to each vessel at the same rate (50 percent of the design flow rate of the\nsafety and relief valves). After vessel pressure reaches the setpoint for each valve, vessel A\npressure will __________; and vessel B pressure will __________.\nsetpoint\nsetpoint\npressure setpoint\n-14-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. stabilize slightly above the pressure setpoint; stabilize slightly above the pressure setpoint",
-      "B. stabilize slightly above the pressure setpoint; fluctuate within a few percent of the pressure",
-      "C. fluctuate within a few percent of the pressure setpoint; stabilize slightly above the pressure",
-      "D. fluctuate within a few percent of the pressure setpoint; fluctuate within a few percent of the"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "VAL020",
-    "topic": "Valves",
-    "question": "Refer to the drawing of two identical pressure vessels with identical relief valve protection (see\nfigure below).\nVessel A is completely filled with subcooled water at 80\u00b0F and vessel B is in a saturated, two-phase\ncondition. Both vessels are currently pressurized to 50 psig and isolated.\nIf both relief valves fully open simultaneously, the faster pressure reduction will initially occur in\nvessel _____; and the faster mass loss will initially occur in vessel_____.\n-15-\nPWR Test Items",
-    "image": "page15_img1.jpeg",
-    "choices": [
-      "A. A; A",
-      "B. A; B",
-      "C. B; A",
-      "D. B; B"
-    ],
+    "stem": " Refer to the drawing of a typical safety valve (see figure below). The component indicated by the solid arrow is used when necessary to manually... NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "ratchet open the safety valve.",
+      "B": "pop open the safety valve.",
+      "C": "gag shut the safety valve.",
+      "D": "determine the position of the safety valve. -3- PWR Test Items"
+    },
     "answer": "A"
   },
   {
-    "id": "VAL021",
     "topic": "Valves",
-    "question": "A completely full water storage tank is being hydrostatically tested to 200 psig using a positive\ndisplacement pump (PDP) with a smooth and constant discharge flow rate of 6 gpm. The tank is\nprotected by two relief valves that discharge to the atmosphere. The relief valves have the\nfollowing characteristics:\n\uf0b7 Relief valve A opening setpoint is 200 psig with an accumulation of 1.5 percent.\n\uf0b7 Relief valve B opening setpoint is 200 psig with an accumulation of 3.0 percent.\n\uf0b7 Each valve has linear flow rate characteristics and a maximum discharge flow rate of 6 gpm.\nThe PDP is inadvertently left running when tank pressure reaches 200 psig.\nWith the PDP running continuously, what will be the discharge flow rates of the relief valves when\ntank pressure stabilizes?\nRelief Relief\nValve A Valve B\n-16-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. 1 gpm 5 gpm",
-      "B. 2 gpm 4 gpm",
-      "C. 3 gpm 3 gpm",
-      "D. 4 gpm 2 gpm"
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "VAL022",
-    "topic": "Valves",
-    "question": "A completely full water tank is being hydrostatically tested to 180 psig using a positive displacement\npump (PDP) with a smooth and constant discharge flow rate of 6 gpm. The tank is protected by two\nrelief valves that discharge to the atmosphere. The relief valves have the following characteristics:\n\uf0b7 Relief valve A opening setpoint is 180 psig with an accumulation of 5 percent.\n\uf0b7 Relief valve B opening setpoint is 200 psig with an accumulation of 5 percent.\n\uf0b7 Each relief valve has linear flow rate characteristics and a maximum flow rate of 4 gpm.\nThe PDP is inadvertently left running when tank pressure reaches 180 psig.\nWith the PDP still running, at what pressure will the tank stabilize?\n-17-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. 190 psig",
-      "B. 195 psig",
-      "C. 205 psig",
-      "D. 210 psig"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "VAL023",
-    "topic": "Valves",
-    "question": "A completely full water storage tank is being hydrostatically tested to 200 psig using a positive\ndisplacement pump (PDP) with a smooth and constant discharge flow rate of 4 gpm. The tank is\nprotected by a relief valve that discharges to the atmosphere. The relief valve has the following\ncharacteristics:\n\uf0b7 The opening setpoint is 200 psig with an accumulation of 5 percent.\n\uf0b7 The valve has linear flow characteristics and a maximum rated flow rate of 8 gpm.\nThe PDP is inadvertently left running when tank pressure reaches 200 psig.\nWith the PDP still running, at what pressure will the tank stabilize?\n-18-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. 190 psig",
-      "B. 195 psig",
-      "C. 205 psig",
-      "D. 210 psig"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "VAL024",
-    "topic": "Valves",
-    "question": "A completely full water storage tank is being hydrostatically tested to 300 psig using a positive\ndisplacement pump (PDP) with a smooth and constant discharge flow rate of 4 gpm. The tank is\nprotected by a relief valve that discharges to the atmosphere. The relief valve has the following\ncharacteristics:\n\uf0b7 The relief valve opening setpoint is 300 psig with an accumulation of 5 percent.\n\uf0b7 The relief valve has linear flow characteristics and a maximum rated flow rate of 6 gpm.\nThe PDP is inadvertently left running when tank pressure reaches 300 psig.\nWith the PDP still running, at what pressure will the tank stabilize?",
-    "image": "",
-    "choices": [
-      "A. 305 psig",
-      "B. 310 psig",
-      "C. 315 psig",
-      "D. 320 psig"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "VAL025",
-    "topic": "Valves",
-    "question": "A cooling water system uses a conventional relief valve (not pilot-operated) with a bench-tested\nsetpoint of 60 psig. The relief valve discharges to a collection tank that is maintained at 5 psig. At\nwhat system pressure will the relief valve begin to open?\n-19-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. 55 psig",
-      "B. 60 psig",
-      "C. 65 psig",
-      "D. 80 psig"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "VAL026",
-    "topic": "Valves",
-    "question": "A completely full water storage tank is being hydrostatically tested to 200 psig using a positive\ndisplacement pump (PDP) with a smooth and constant discharge flow rate of 6 gpm. The tank is\nprotected by two relief valves that discharge to the atmosphere. The relief valves have the\nfollowing characteristics:\n\uf0b7 Relief valve A opening setpoint is 200 psig with an accumulation of 3.0 percent.\n\uf0b7 Relief valve B opening setpoint is 200 psig with an accumulation of 1.5 percent.\n\uf0b7 Each valve has linear flow rate characteristics and a maximum discharge flow rate of 9 gpm.\nThe PDP is inadvertently left running when tank pressure reaches 200 psig.\nWith the PDP running continuously, what will be the discharge flow rates of the relief valves when\ntank pressure stabilizes?\nRelief Relief\nValve A Valve B\n-20-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. 2 gpm 4 gpm",
-      "B. 3 gpm 6 gpm",
-      "C. 4 gpm 2 gpm",
-      "D. 6 gpm 3 gpm"
-    ],
+    "stem": " A vertical safety valve has a compressed spring assembly that is applying 2,500 lbf to the top of the valve disk in opposition to system pressure. System pressure is being exerted on the underside of the valve disk that is 5 inches in diameter. Which one of the following is the approximate system pressure at which the safety valve will open?",
+    "choices": {
+      "A": "32 psig",
+      "B": "127 psig",
+      "C": "159 psig",
+      "D": "500 psig"
+    },
     "answer": "A"
   },
   {
-    "id": "VAL027",
     "topic": "Valves",
-    "question": "A cooling water system uses a conventional relief valve (not pilot-operated) with a bench-tested\nsetpoint of 45 psig. The relief valve discharges to a collection tank that is maintained at 5 psi above\natmospheric pressure. At what system pressure will the relief valve begin to open?",
-    "image": "",
-    "choices": [
-      "A. 40 psig",
-      "B. 45 psig",
-      "C. 50 psig",
-      "D. 65 psig"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "VAL028",
-    "topic": "Valves",
-    "question": "In a comparison between a globe valve and a gate valve in the same water system application, the\ngate valve has a __________ pressure drop when fully open and is the __________ choice for\nthrottling.\n-21-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. higher; better",
-      "B. lower; better",
-      "C. higher; poorer",
-      "D. lower; poorer"
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "VAL029",
-    "topic": "Valves",
-    "question": "Refer to the drawing of a lube oil heat exchanger (see figure below).\nIf a cooling water outlet valve is partially closed from the full open position, heat exchanger cooling\nwater pressure upstream of the valve will __________; and the temperature of the lube oil exiting\nthe heat exchanger will __________.\n-22-\nPWR Test Items",
-    "image": "page22_img1.jpeg",
-    "choices": [
-      "A. increase; decrease",
-      "B. increase; increase",
-      "C. decrease; decrease",
-      "D. decrease; increase"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "VAL030",
-    "topic": "Valves",
-    "question": "Consider a 3-inch gate valve and a 3-inch globe valve in separate but identical operating water\nsystems. If both valves are fully open, the gate valve will produce the __________ head loss and\nthe __________ flow rate.",
-    "image": "",
-    "choices": [
-      "A. smaller; larger",
-      "B. larger; smaller",
-      "C. smaller; smaller",
-      "D. larger; larger"
-    ],
+    "stem": " A vertical safety valve with a 2-inch diameter disk has a compressed spring applying 2,400 lbf to the top of the valve disk in opposition to system pressure. Which one of the following is the approximate system pressure at which the safety valve will open? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "95 psig",
+      "B": "191 psig",
+      "C": "382 psig",
+      "D": "764 psig -4- PWR Test Items"
+    },
     "answer": "A"
   },
   {
-    "id": "VAL031",
     "topic": "Valves",
-    "question": "Which one of the following statements describes the flow rate characteristics of a typical gate valve\nin an operating water system?\nflow rate than the last 25 percent of valve disk travel.\nflow rate than the last 25 percent of valve disk travel.\nsame change in flow rate as the last 25 percent of valve disk travel.\n25 percent of full flow rate.\n-23-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. The first 25 percent of valve disk travel in the open direction will produce a smaller change in",
-      "B. The first 25 percent of valve disk travel in the open direction will produce a greater change in",
-      "C. The first 25 percent of valve disk travel in the open direction will produce approximately the",
-      "D. A gate valve that has been opened to 25 percent of valve disk travel will result in approximately"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "VAL032",
-    "topic": "Valves",
-    "question": "Which one of the following statements describes the flow rate characteristics of a typical globe valve\nin an operating water system?\nflow rate than the last 25 percent of valve disk travel.\nflow rate than the last 25 percent of valve disk travel.\nsame increase in flow rate as the last 25 percent of valve disk travel.\n25 percent of full flow rate.",
-    "image": "",
-    "choices": [
-      "A. The first 25 percent of valve disk travel in the open direction will produce a smaller increase in",
-      "B. The first 25 percent of valve disk travel in the open direction will produce a greater increase in",
-      "C. The first 25 percent of valve disk travel in the open direction will produce approximately the",
-      "D. A globe valve that has been opened to 25 percent of valve disk travel will result in approximately"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "VAL033",
-    "topic": "Valves",
-    "question": "A control valve is most likely to experience cavitation when the valve is almost fully __________\nbecause of a relatively __________ pressure drop across the valve seat.\n-24-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. open; large",
-      "B. open; small",
-      "C. closed; large",
-      "D. closed; small"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "VAL034",
-    "topic": "Valves",
-    "question": "Which one of the following statements describes the throttling characteristics of a typical globe\nvalve?\nfull flow rate.\nrate than the last third of valve disk travel.\nrate than the last third of valve disk travel.\nsame increase in flow rate as the last third of valve disk travel.\n-25-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. The first third of valve disk travel in the open direction will result in approximately one-third of",
-      "B. The first third of valve disk travel in the open direction will produce a smaller increase in flow",
-      "C. The first third of valve disk travel in the open direction will produce a greater increase in flow",
-      "D. The first two-thirds of valve disk travel in the open direction will produce approximately the"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "VAL035",
-    "topic": "Valves",
-    "question": "Refer to the drawing of a cooling water system in which both centrifugal pumps A and B are\noperating (see figure below).\nAn operator stops pump B, but the pump B check valve fails to close. In comparison to normal\noperation with only pump A running, operation with the failed pump B check valve will result in\npump A flow rate being __________ than normal; and heat exchanger flow rate being __________\nthan normal.\n-26-\nPWR Test Items",
-    "image": "page26_img1.jpeg",
-    "choices": [
-      "A. higher; higher",
-      "B. higher; lower",
-      "C. lower; higher",
-      "D. lower; lower"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "VAL036",
-    "topic": "Valves",
-    "question": "Which one of the following types of similarly sized valves in an operating water system produces the\nleast frictional head loss when fully open?\n-27-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. Ball",
-      "B. Globe",
-      "C. Butterfly",
-      "D. Swing check"
-    ],
+    "stem": " A completely full water storage tank is being hydrostatically tested to 100 psig using a positive displacement pump (PDP) with a smooth and constant discharge flow rate of 10 gpm. The tank is protected by a safety valve and a relief valve; both valves discharge to the atmosphere. Each valve has an opening setpoint of 105 psig and a maximum rated discharge flow rate of 6 gpm. The PDP is inadvertently left running when tank pressure reaches 100 psig. With the PDP still running, tank pressure will stabilize __________ 105 psig; and the greater mass flow rate will be coming from the __________ valve.",
+    "choices": {
+      "A": "at; safety",
+      "B": "above; safety",
+      "C": "at; relief",
+      "D": "above; relief"
+    },
     "answer": "A"
   },
   {
-    "id": "VAL037",
     "topic": "Valves",
-    "question": "Refer to the centrifugal pump operating curve with two system head loss curves (see figure below).\nThe curves apply to a closed cooling water system using one single-speed centrifugal pump\ndischarging through a typical flow control valve.\nThe system curves are shown for two flow control valve positions--25 percent open and 100 percent\nopen. The pump is currently operating with the flow control valve 25 percent open, resulting in a\npump flow rate of 800 gpm.\nIf the flow control valve is subsequently fully opened, pump flow rate through the valve will be\napproximately...\n-28-\nPWR Test Items",
-    "image": "page28_img1.jpeg",
-    "choices": [
-      "A. 400 gpm.",
-      "B. 1,200 gpm.",
-      "C. 1,600 gpm.",
-      "D. 3,200 gpm."
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "VAL038",
-    "topic": "Valves",
-    "question": "Consider a 6-inch globe valve and a 6-inch gate valve in the same water system application.\nTypically, the valve that requires the most linear disk travel from fully closed to fully open is the\n__________ valve; and the valve that produces the smallest pressure drop when fully open is the\n__________ valve.",
-    "image": "",
-    "choices": [
-      "A. gate; gate",
-      "B. gate; globe",
-      "C. globe; gate",
-      "D. globe; globe"
-    ],
+    "stem": " Given the following pressure specifications for a safety relief valve (SRV): Setpoint pressure (SRV will start to open) = 1,200 psia Maximum pressure (SRV will be fully open) = 1,242 psia Reseat pressure (SRV will be fully closed) = 1,152 psia Which one of the following is the percent accumulation for the SRV? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "2.5 percent",
+      "B": "3.0 percent",
+      "C": "3.5 percent",
+      "D": "4.0 percent -5- PWR Test Items"
+    },
     "answer": "A"
   },
   {
-    "id": "VAL039",
     "topic": "Valves",
-    "question": "Subcooled water was flowing through a throttled valve with the following initial parameters:\nInlet pressure = 60 psia\nOutlet pressure = 50 psia\nFlow rate = 800 gpm\nThe valve was opened fully and the following parameters currently exist:\nInlet pressure = 60 psia\nOutlet pressure = 55 psia\nWhat is the approximate flow rate through the fully open valve?\n-29-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. 400 gpm",
-      "B. 566 gpm",
-      "C. 635 gpm",
-      "D. Cannot be determined without additional information."
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "VAL040",
-    "topic": "Valves",
-    "question": "Subcooled water is flowing through a throttle valve in an open system. The initial steady-state\nconditions for the throttle valve are as follows:\nInlet pressure = 60 psia\nOutlet pressure = 44 psia\nFlow rate = 800 gpm\nFour hours later, the current steady-state conditions for the throttle valve are as follows:\nInlet pressure = 63 psia\nOutlet pressure = 54 psia\nFlow rate = 600 gpm\nWhich one of the following could be responsible for the difference between the initial and current\nconditions for the throttle valve?\n-30-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. The throttle valve was opened more.",
-      "B. The throttle valve was closed more.",
-      "C. Another valve, located upstream of the throttle valve, was partially closed.",
-      "D. Another valve, located downstream of the throttle valve, was partially closed."
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "VAL041",
-    "topic": "Valves",
-    "question": "Subcooled water is flowing through a throttled valve in an open system. The initial steady-state\nconditions for the throttled valve are as follows:\nInlet pressure = 60 psia\nOutlet pressure = 44 psia\nFlow rate = 800 gpm\nAfter four hours, the current steady-state conditions for the throttled valve are as follows:\nInlet pressure = 62 psia\nOutlet pressure = 40 psia\nFlow rate = 600 gpm\nWhich one of the following could be responsible for the difference between the initial and current\nsteady-state conditions for the throttled valve?\n-31-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. The throttled valve was opened more.",
-      "B. The throttled valve was closed more.",
-      "C. Another valve, located upstream of the throttled valve, was partially closed.",
-      "D. Another valve, located downstream of the throttled valve, was partially closed."
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "VAL042",
-    "topic": "Valves",
-    "question": "Refer to the drawing of an operating cooling water system (see figure below) in which valves A and\nB are identical. Valve A is one-half open and valve B is fully open. If valve A is opened fully, the\ndifferential pressure (D/P) across valve B will\u2026\n-32-\nPWR Test Items",
-    "image": "page32_img1.jpeg",
-    "choices": [
-      "A. increase by the same amount as the absolute change in D/P across valve A.",
-      "B. increase by an amount less than the absolute change in D/P across valve A.",
-      "C. decrease by the same amount as the absolute change in D/P across valve A.",
-      "D. decrease by an amount less than the absolute change in D/P across valve A."
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "VAL043",
-    "topic": "Valves",
-    "question": "Consider a 6-inch globe valve and a 6-inch gate valve in the same water system application. The\nvalve that typically requires the least linear travel of the disk from fully closed to fully open is the\n__________ valve; and the valve that produces the greatest pressure drop when fully open is the\n__________ valve.\n-33-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. gate; gate",
-      "B. gate; globe",
-      "C. globe; gate",
-      "D. globe; globe"
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "VAL044",
-    "topic": "Valves",
-    "question": "Subcooled water is flowing through a throttle valve in an open system. The initial steady-state\nconditions for the throttle valve are as follows:\nInlet pressure = 60 psia\nOutlet pressure = 44 psia\nFlow rate = 800 gpm\nFour hours later, the current steady-state conditions for the throttle valve are as follows:\nInlet pressure = 51 psia\nOutlet pressure = 42 psia\nFlow rate = 600 gpm\nWhich one of the following could be responsible for the difference between the initial and current\nconditions for the throttle valve?\n-34-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. The throttle valve was opened more.",
-      "B. The throttle valve was closed more.",
-      "C. Another valve, located upstream of the throttle valve, was partially closed.",
-      "D. Another valve, located downstream of the throttle valve, was partially closed."
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "VAL045",
-    "topic": "Valves",
-    "question": "Subcooled water was initially flowing through a throttled valve with the following parameters:\nInlet pressure = 70 psia\nOutlet pressure = 60 psia\nFlow rate = 600 gpm\nThe valve was then opened fully, and the following parameters currently exist:\nInlet pressure = 60 psia\nOutlet pressure = 55 psia\nWhat is the current flow rate through the fully open valve?\n-35-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. 424 gpm",
-      "B. 848 gpm",
-      "C. 1,200 gpm",
-      "D. Cannot be determined without additional information."
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "VAL046",
-    "topic": "Valves",
-    "question": "Subcooled water is flowing through a throttle valve in an open system. The initial steady-state\nconditions for the throttle valve are as follows:\nInlet pressure = 60 psia\nOutlet pressure = 44 psia\nFlow rate = 800 gpm\nAfter four hours, the current steady-state conditions for the throttle valve are as follows:\nInlet pressure = 58 psia\nOutlet pressure = 46 psia\nFlow rate = 1,000 gpm\nWhich one of the following could be responsible for the difference between the initial and current\nsteady-state conditions for the throttle valve?\n-36-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. The throttle valve was closed more.",
-      "B. The throttle valve was opened more.",
-      "C. Another valve, located upstream of the throttle valve, was opened more.",
-      "D. Another valve, located downstream of the throttle valve, was opened more."
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "VAL047",
-    "topic": "Valves",
-    "question": "Refer to the drawing of an open system with subcooled water flowing through valves A, B, C and D\n(see figure below). All valves are initially 50 percent open. The inlet pressure to valve A is constant\nat 60 psia.\nThe initial steady-state inlet and outlet pressures for valve B are as follows:\nInlet pressure = 50 psia\nOutlet pressure = 35 psia\nAfter a single valve operation, the current steady-state inlet and outlet pressures for valve B are as\nfollows:\nInlet pressure = 48 psia\nOutlet pressure = 36 psia\nWhich one of the following valve operations could be responsible for the difference between the initial\nand current steady-state inlet and outlet pressures for valve B?\n-37-\nPWR Test Items",
-    "image": "page37_img1.jpeg",
-    "choices": [
-      "A. Valve A was opened more.",
-      "B. Valve B was closed more.",
-      "C. Valve C was closed more.",
-      "D. Valve D was opened more."
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "VAL048",
-    "topic": "Valves",
-    "question": "Refer to the drawing of an operating cooling water system (see figure below) in which valve A is\none-half open. Currently, the centrifugal pump is providing a system flow rate of 600 gpm.\nIf valve A is opened further, until system flow rate is 800 gpm, the differential pressure across valve\nA will __________; and the differential pressure across the heat exchanger will __________.\n-38-\nPWR Test Items",
-    "image": "page38_img1.jpeg",
-    "choices": [
-      "A. decrease; decrease",
-      "B. decrease; increase",
-      "C. increase; decrease",
-      "D. increase; increase"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "VAL049",
-    "topic": "Valves",
-    "question": "Refer to the drawing of a spring-loaded air-operated valve (see figure below).\nUpon a loss of air pressure, this valve will...\n-39-\nPWR Test Items",
-    "image": "page39_img1.jpeg",
-    "choices": [
-      "A. go to the fully open position.",
-      "B. remain at the current position.",
-      "C. go to the fully closed position.",
-      "D. go to the midposition."
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "VAL050",
-    "topic": "Valves",
-    "question": "Refer to the drawing of a spring-loaded air-operated valve (see figure below) in which the solenoid\nis shown energized.\nWhich one of the following will be the final valve position following a loss of electrical power to the\nsolenoid?\n-40-\nPWR Test Items",
-    "image": "page40_img1.jpeg",
-    "choices": [
-      "A. Midposition",
-      "B. Closed",
-      "C. As is",
-      "D. Open"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "VAL051",
-    "topic": "Valves",
-    "question": "Refer to the drawing of a hydraulically-operated valve that is shown in a throttled position (see\nfigure below).\nSelect the final position of this valve following a loss of hydraulic system pressure.\n-41-\nPWR Test Items",
-    "image": "page41_img1.png",
-    "choices": [
-      "A. Fully open",
-      "B. As is",
-      "C. Fully closed",
-      "D. Midposition"
-    ],
+    "stem": " A completely full water storage tank is being hydrostatically tested to 200 psig using a positive displacement pump (PDP) with a smooth and constant discharge flow rate of 8 gpm. The tank is protected by a relief valve and a safety valve; both valves discharge to the atmosphere. Each valve has an opening setpoint of 205 psig and a maximum rated discharge flow rate of 6 gpm. The PDP is inadvertently left running when tank pressure reaches 200 psig. When conditions stabilize with the PDP still running, the relief valve will be __________ open; and the safety valve will be discharging a flow rate of approximately __________ to the atmosphere. NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "partially; 6 gpm",
+      "B": "partially; 2 gpm",
+      "C": "fully; 6 gpm",
+      "D": "fully; 2 gpm -6- PWR Test Items"
+    },
     "answer": "A"
   },
   {
-    "id": "VAL052",
     "topic": "Valves",
-    "question": "Refer to the drawing of a spring-loaded air-operated valve shown in a throttled position (see figure\nbelow).\nThe figure currently depicts normal air supply pressure and an energized solenoid. What will be the\nvalve position following a loss of electrical power to the solenoid?\n-42-\nPWR Test Items",
-    "image": "page42_img1.jpeg",
-    "choices": [
-      "A. As is",
-      "B. More open",
-      "C. More closed",
-      "D. Varies with system flow"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "VAL053",
-    "topic": "Valves",
-    "question": "How will a typical motor-operated valve respond to a loss of electrical power to the valve actuator?\n-43-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. Open fully",
-      "B. Close fully",
-      "C. Remain as is",
-      "D. Move to 50 percent open"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "VAL054",
-    "topic": "Valves",
-    "question": "Refer to the drawing of a spring-loaded air-operated valve shown in a throttled position (see figure\nbelow).\nWhich one of the following will be the valve position following a reduction in air pressure to the\nvalve actuator caused by a leaking air connection at the valve?\n-44-\nPWR Test Items",
-    "image": "page44_img1.jpeg",
-    "choices": [
-      "A. Original position",
-      "B. More closed",
-      "C. More open",
-      "D. Varies with system flow"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "VAL055",
-    "topic": "Valves",
-    "question": "Refer to the drawing of a pneumatically-operated valve (see figure below). The valve actuator may\nbe shown with or without air pressure applied to it.\nWhich one of the following describes the type of valve shown, and the fail position on loss of air to\nthe actuator?\nValve Fail\nType Position\n-45-\nPWR Test Items",
-    "image": "page45_img1.jpeg",
-    "choices": [
-      "A. Gate Open",
-      "B. Gate Closed",
-      "C. Globe Open",
-      "D. Globe Closed"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "VAL056",
-    "topic": "Valves",
-    "question": "Refer to the drawing of four air-operated valves (see figure below). Note: The valve actuators may\nbe shown with or without air pressure applied.\nGiven:\n\uf0b7 The direction of system flow is from left to right when the valves are open.\n\uf0b7 The internal components for each valve are identical except for the orientation of the valve disk\nand seat.\n\uf0b7 The valve actuators exert the same force on the attached valve stem for a given applied air\npressure.\nIf each actuator is vented, which valve disk will remain closed with the most force?\n-46-\nPWR Test Items",
-    "image": "page46_img1.jpeg",
-    "choices": [
-      "A. A.",
-      "B. B.",
-      "C. C.",
-      "D. D."
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "VAL057",
-    "topic": "Valves",
-    "question": "Refer to the drawing of four air-operated valves (see figure below). The valve actuators may be\nshown with or without air pressure applied.\nWhich valves are currently shown in their failed (i.e., no air pressure applied to the actuator)\npositions?\n-47-\nPWR Test Items",
-    "image": "page47_img1.jpeg",
-    "choices": [
-      "A. A and B",
-      "B. B and C",
-      "C. C and D",
-      "D. D and A"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "VAL058",
-    "topic": "Valves",
-    "question": "Refer to the drawing of a pneumatically-operated valve (see figure below). The valve actuator may\nbe shown with or without applied air pressure.\nWhich one of the following describes the type of valve shown, and the valve\u2019s fail position on loss\nof air to the actuator?\nValve Fail\nType Position\n-48-\nPWR Test Items",
-    "image": "page48_img1.jpeg",
-    "choices": [
-      "A. Ball Open",
-      "B. Ball Closed",
-      "C. Globe Open",
-      "D. Globe Closed"
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "VAL059",
-    "topic": "Valves",
-    "question": "An operator attempts to close a fully-open upright manual gate valve to isolate a pump in a cooling\nwater system that has been cooled down for maintenance. However, the operator is unable to rotate\nthe handwheel in the close direction.\nWhich one of the following could cause this condition?\ngland.\nthe stem and the bonnet.",
-    "image": "",
-    "choices": [
-      "A. A hydraulic lock has developed under the valve disk.",
-      "B. A hydraulic lock has developed in the valve bonnet between the valve disk and the packing",
-      "C. The two halves of the valve disk have expanded and are jammed against the valve seats.",
-      "D. The valve disk has jammed against its backseat by the difference in the thermal contraction of"
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "VAL060",
-    "topic": "Valves",
-    "question": "When manually positioning a motor-operated valve, why must care be taken to avoid using\nexcessive valve seating/backseating force?\n-49-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. The valve may bind during subsequent operation.",
-      "B. The valve stem limit switch settings may become inaccurate.",
-      "C. The clutch may not reengage the valve motor when required.",
-      "D. The stem position may no longer be an accurate indicator of valve position."
-    ],
+    "stem": " Refer to the drawing of two identical water storage tanks (see figure below). Tank A is protected by a relief valve and Tank B is protected by a safety valve. Each valve has an opening setpoint of 205 psig and a maximum rated discharge flow rate of 8 gpm. The tanks are being hydrostatically tested to 200 psig. Each tank is being supplied with a smooth and constant flow rate of 2 gpm from separate positive displacement pumps (PDPs). Both PDPs are inadvertently left running when tank pressures reach 200 psig. With the PDPs running continuously, what will be the resulting status of the relief and safety valves? Relief Valve Status Safety Valve Status NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "Partially open Partially open Cycling between fully",
+      "B": "Partially open open and fully closed Cycling between fully",
+      "C": "Partially open open and fully closed Cycling between fully Cycling between fully D. open and fully closed open and fully closed -7- PWR Test Items"
+    },
     "answer": "A"
   },
   {
-    "id": "VAL061",
     "topic": "Valves",
-    "question": "After an adjustment of the packing gland on a valve that had a minor packing leak, an operator\nattempts to operate the valve, but finds the valve is stuck. What is the most probable cause?",
-    "image": "",
-    "choices": [
-      "A. The disk separated from the valve stem as a result of overtightening the packing gland.",
-      "B. The operator placed the valve in the wrong position for adjusting the packing gland.",
-      "C. The valve was overtorqued in the closed direction during the packing gland adjustment.",
-      "D. The maintenance technician overtightened the packing gland, causing the stem to bind."
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "VAL062",
-    "topic": "Valves",
-    "question": "An adjustment has just been completed on the packing gland of a motor-operated gate valve to stop a\nminor stem leak. Which one of the following can occur if the technician overtightened the packing\ngland?\n-50-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. Decreased cooling flow to the valve internals.",
-      "B. Separation of the valve disk from the valve stem.",
-      "C. Misalignment of the valve position limit switches.",
-      "D. Increased stroke time from fully open to fully closed."
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "VAL063",
-    "topic": "Valves",
-    "question": "Which one of the following describes the function and use of the backseat on a manual valve?\nfor valve repacking.\npacking leakage.\npersonnel protection.\nprimary seat from leaking excessively.",
-    "image": "",
-    "choices": [
-      "A. Removes pressure from the packing/stuffing box and is typically used to isolate the stuffing box",
-      "B. Removes pressure from the packing/stuffing box and is typically used when needed to isolate",
-      "C. Acts as a backup in case the primary seat leaks and is typically used during system isolation for",
-      "D. Acts as a backup in case the primary seat leaks and is typically used when needed to prevent the"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "VAL064",
-    "topic": "Valves",
-    "question": "When manually closing a motor-operated valve, why must the operator avoid using excessive valve\nseating force?\nindication.\nindication.\n-51-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. The valve may bind and cause the motor to trip on overload during subsequent remote operation.",
-      "B. The valve actuator clutch may be damaged and disable subsequent remote operation.",
-      "C. The valve stem limit switches may be damaged and cause inaccurate remote valve position",
-      "D. The valve actuator position indicator may be damaged and cause inaccurate local valve position"
-    ],
+    "stem": " A completely full water storage tank is being hydrostatically tested to 200 psig using a positive displacement pump (PDP) with a smooth and constant discharge flow rate of 8 gpm. The tank is protected by a relief valve and a safety valve that both discharge to the atmosphere. The valves have the following characteristics: \uf0b7 The relief valve opening setpoint is 200 psig with an accumulation of 5 percent. \uf0b7 The safety valve opening setpoint is 240 psig with a blowdown of 5 percent. \uf0b7 Both valves have a maximum discharge flow rate of 6 gpm. The PDP is inadvertently left running when tank pressure reaches 200 psig. When conditions stabilize with the PDP still running, the relief valve will be __________ open; and the safety valve will be discharging a flow rate of approximately __________ to the atmosphere. NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "partially; 6 gpm",
+      "B": "partially; 2 gpm",
+      "C": "fully; 6 gpm",
+      "D": "fully; 2 gpm -8- PWR Test Items"
+    },
     "answer": "A"
   },
   {
-    "id": "VAL065",
     "topic": "Valves",
-    "question": "Refer to the drawing of a water supply pump with two suction sources (see figure below). All\nmotor-operated valves (MOVs) are currently closed.\nWhich one of the following MOV interlocks will permit the pump to take a suction on either the\nbuilding sump or the water storage tank, while preventing the two sources from being cross-\nconnected?\n-52-\nPWR Test Items",
-    "image": "page52_img1.jpeg",
-    "choices": [
-      "A. Neither MOV-1 nor MOV-2 can be opened unless MOV-3 is fully closed.",
-      "B. None of the MOVs can be opened unless at least one MOV remains fully closed.",
-      "C. None of the MOVs can be opened unless at least two MOVs remain fully closed.",
-      "D. Neither MOV-1 nor MOV-2 can be opened unless the other source MOV is fully closed."
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "VAL066",
-    "topic": "Valves",
-    "question": "Refer to the drawing of two valves used in a high temperature water system (see figure below). Both\nvalves are currently closed, as shown in the figure.\nThe valve that is more likely to become stuck due to mechanical binding as the valve cools down is\nnumber _____; and the valve that is more likely to become stuck due to a pressure lock as the valve\nheats up is number _____.\n-53-\nPWR Test Items",
-    "image": "page53_img1.jpeg",
-    "choices": [
-      "A. 1; 1",
-      "B. 1; 2",
-      "C. 2; 1",
-      "D. 2; 2"
-    ],
+    "stem": " A completely full water storage tank is being hydrostatically tested to 200 psig using a positive displacement pump (PDP) with a smooth and constant discharge flow rate of 8 gpm. The tank is protected by a relief valve and a safety valve that both discharge to the atmosphere. The valves have the following characteristics: \uf0b7 The relief valve opening setpoint is 220 psig with an accumulation of 5 percent. \uf0b7 The safety valve opening setpoint is 260 psig with a blowdown of 5 percent. \uf0b7 Both valves have a maximum discharge flow rate of 6 gpm. The PDP is inadvertently left running when tank pressure reaches 200 psig. After a few minutes with the PDP still running, the relief valve will be discharging a flow rate of approximately __________; and the safety valve will be __________.",
+    "choices": {
+      "A": "2 gpm; partially open",
+      "B": "6 gpm; partially open",
+      "C": "2 gpm; cycling between fully open and fully closed",
+      "D": "6 gpm; cycling between fully open and fully closed"
+    },
     "answer": "A"
   },
   {
-    "id": "VAL067",
     "topic": "Valves",
-    "question": "After manually positioning a typical motor-operated valve, the valve actuator motor is reengaged\nby...",
-    "image": "",
-    "choices": [
-      "A. taking the manual declutch lever to the disengage position.",
-      "B. taking the manual declutch lever to the engage position.",
-      "C. racking in the valve actuator motor breaker.",
-      "D. energizing the valve actuator motor."
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "VAL068",
-    "topic": "Valves",
-    "question": "When the manual declutch lever of a motor-operated valve is moved out of the normal position, it\n__________ the motor and __________ the handwheel.\n-54-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. engages; engages",
-      "B. engages; disengages",
-      "C. disengages; engages",
-      "D. disengages; disengages"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "VAL069",
-    "topic": "Valves",
-    "question": "A typical motor-operated valve with a declutch lever is installed in a system. An actuation signal is\ndesigned to energize the valve motor and open the valve. The valve is currently open, but being\nmanually/locally closed by a technician as required by a surveillance test procedure. The declutch\nlever has been operated and released, and the valve is being closed by operation of the valve\nhandwheel.\nIf an actuation signal is received, how will the valve be affected?",
-    "image": "",
-    "choices": [
-      "A. The handwheel will disengage and the valve will automatically open.",
-      "B. The handwheel will disengage and the valve will remain in the current position.",
-      "C. The handwheel will remain engaged and the valve will automatically open.",
-      "D. The handwheel will remain engaged and the technician can continue to close the valve."
-    ],
+    "stem": " The primary purpose of a pressure relief valve is to... NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "reduce system energy.",
+      "B": "reduce system pressure.",
+      "C": "maintain system integrity.",
+      "D": "maintain system mass. -9- PWR Test Items"
+    },
     "answer": "A"
   },
   {
-    "id": "VAL070",
     "topic": "Valves",
-    "question": "A surveillance test procedure is being performed on a typical motor-operated valve (MOV) with a\ndeclutch lever. The declutch lever has been operated and released, and the valve is being\nmanually/locally opened by a technician. The MOV breaker is closed as required by the\nsurveillance test procedure. During operation of the valve handwheel, an actuation signal is\nreceived that normally energizes the valve motor and closes the valve.\nHow will the valve be affected by the actuation signal?\n-55-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. The handwheel will disengage and the valve will automatically close.",
-      "B. The handwheel will disengage and the valve will remain in the current position.",
-      "C. The handwheel will remain engaged and the valve will automatically close.",
-      "D. The handwheel will remain engaged and the technician can continue to open the valve."
-    ],
+    "stem": " The difference between the setpoint pressure at which a safety valve opens and the pressure at which it closes is called...",
+    "choices": {
+      "A": "blowdown.",
+      "B": "accumulation.",
+      "C": "setpoint tolerance.",
+      "D": "setpoint deviation."
+    },
     "answer": "A"
   },
   {
-    "id": "VAL071",
     "topic": "Valves",
-    "question": "A typical motor-operated valve (MOV) has just been opened from the main control room, and the\nbreaker for the MOV has been opened. A plant operator has been directed to close the MOV locally\nfor a surveillance test.\nIf the operator attempts to turn the MOV handwheel in the clockwise direction without first\noperating the declutch lever, which one of the following will occur?\nclutch is automatically engaged when the handwheel is turned.\nclutch is automatically engaged when the breaker is opened.",
-    "image": "",
-    "choices": [
-      "A. The handwheel will turn, but the valve stem will not move.",
-      "B. The handwheel will not turn, and the valve stem will not move.",
-      "C. The handwheel will turn, and the valve stem will move toward the closed position because the",
-      "D. The handwheel will turn, and the valve stem will move toward the closed position because the"
-    ],
+    "stem": " The difference between the setpoint pressure at which a relief valve begins to open and the pressure at which it is fully open is called... NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "setpoint deviation.",
+      "B": "setpoint tolerance.",
+      "C": "accumulation.",
+      "D": "blowdown. -10- PWR Test Items"
+    },
     "answer": "A"
   },
   {
-    "id": "VAL072",
     "topic": "Valves",
-    "question": "Which one of the following types of similarly sized valves requires the most manual valve stem\nrotation to move the valve from fully open to fully closed? (Assume that each valve has a non-\nrising stem.)\n-56-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. Ball",
-      "B. Gate",
-      "C. Plug",
-      "D. Butterfly"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "VAL073",
-    "topic": "Valves",
-    "question": "A stop check valve is a type of check valve that...",
-    "image": "",
-    "choices": [
-      "A. cannot be shut remotely.",
-      "B. can be used to prevent flow in both directions.",
-      "C. contains both a gate valve disk and a check valve disk.",
-      "D. can be opened manually to allow flow in both directions."
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "VAL074",
-    "topic": "Valves",
-    "question": "Which one of the following valves is used to control the direction of fluid flow and prevent backflow\nin a system?\n-57-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. Safety valve",
-      "B. Relief valve",
-      "C. Divert valve",
-      "D. Check valve"
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "VAL075",
-    "topic": "Valves",
-    "question": "Two common types of check valves used in nuclear power plants are...",
-    "image": "",
-    "choices": [
-      "A. globe and gate.",
-      "B. ball and plug.",
-      "C. swing and lift.",
-      "D. needle and angle."
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "VAL076",
-    "topic": "Valves",
-    "question": "A typical check valve is designed to...\n-58-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. permit flow in only one direction.",
-      "B. prevent system overpressure.",
-      "C. isolate system components.",
-      "D. perform automatic pump venting."
-    ],
+    "stem": " Which one of the following is a difference between a typical relief valve and a typical safety valve? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "The actuator closing spring on a relief valve is in a compressed state whereas the actuator closing spring on a safety valve acts in tension.",
+      "B": "A relief valve gradually opens as pressure increases above the setpoint pressure whereas a safety valve pops open at the setpoint pressure.",
+      "C": "Relief valves are capable of being gagged whereas safety valves are not.",
+      "D": "The blowdown of a relief valve is greater than the blowdown of a safety valve. -11- PWR Test Items"
+    },
     "answer": "A"
   },
   {
-    "id": "VAL077",
     "topic": "Valves",
-    "question": "Check valves are normally used to prevent...",
-    "image": "",
-    "choices": [
-      "A. overpressurization of nonoperating system piping and components.",
-      "B. backflow through nonoperating components or flowpaths.",
-      "C. pump runout by providing a constant backpressure.",
-      "D. pump cavitation by keeping nonoperating systems filled."
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "VAL078",
-    "topic": "Valves",
-    "question": "Which one of the following is the type of valve used to control the direction of fluid flow through a\nsystem and prevent backflow?\n-59-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. Butterfly valve",
-      "B. Gate valve",
-      "C. Globe valve",
-      "D. Check valve"
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "VAL079",
-    "topic": "Valves",
-    "question": "To verify that a manual valve in a pressurized water system is closed, the operator should observe\nvalve position indication and operate the valve handwheel in the...\nadditional force if necessary.\nhandwheel stops moving.\nhandwheel stops moving.",
-    "image": "",
-    "choices": [
-      "A. close direction using normal force, and verify there is no substantial handwheel movement.",
-      "B. close direction using normal force, then turn the handwheel an additional one-half turn using",
-      "C. open direction until flow sounds are heard, then close the valve using normal force until the",
-      "D. open direction until the valve stem moves, then close the valve using normal force until the"
-    ],
+    "stem": " Refer to the drawing of two identical pressure vessels with identical relief valve protection (see figure below). Both vessels have been pressurized to 50 psig and then isolated. Vessel A is completely filled with water at 150\u00b0F. Vessel B is in a saturated condition with one-half steam (100 percent quality) and one-half water (0 percent quality) by volume. If both relief valves fully open simultaneously, the faster pressure reduction will occur in vessel __________; and if both relief valves close at 40 psig, the greater mass loss will have occurred in vessel __________. NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "A; A",
+      "B": "A; B",
+      "C": "B; A",
+      "D": "B; B -12- PWR Test Items"
+    },
     "answer": "A"
   },
   {
-    "id": "VAL080",
     "topic": "Valves",
-    "question": "To verify the position of a fully open manual valve in an operating system, the operator should\noperate the valve handwheel...\n-60-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. in the open direction until the valve is backseated one-half turn.",
-      "B. to fully close the valve, then open the valve to the fully open position.",
-      "C. in the closed direction, then open the valve to its previously open position.",
-      "D. to open the valve until it touches the backseat, then close the valve to the desired position."
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "VAL081",
-    "topic": "Valves",
-    "question": "Consider a typical gate valve and a typical globe valve in the same water system application. The\nglobe valve generally has a __________ pressure drop when fully open; and is __________\ncommonly used for throttling system flow.",
-    "image": "",
-    "choices": [
-      "A. smaller; less",
-      "B. larger; more",
-      "C. smaller; more",
-      "D. larger; less"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "VAL082",
-    "topic": "Valves",
-    "question": "Gate valves should not be used to throttle fluid flow because...\nvalve seat.\n-61-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. the tortuous flow path through a gate valve body makes flow control difficult.",
-      "B. gate valves must be fully opened and backseated to prevent stem leakage.",
-      "C. the turbulent flow created by a partially opened gate valve will cause erosion damage to the",
-      "D. the large size of the gate valve disk requires an oversized actuator to accurately position the disk."
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "VAL083",
-    "topic": "Valves",
-    "question": "Refer to the drawing of a valve (see figure below).\nWhich one of the following describes the type of valve shown?\n-62-\nPWR Test Items",
-    "image": "page62_img1.jpeg",
-    "choices": [
-      "A. Rising-stem globe valve",
-      "B. Nonrising-stem globe valve",
-      "C. Rising-stem gate valve",
-      "D. Nonrising-stem gate valve"
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "VAL084",
-    "topic": "Valves",
-    "question": "Consider a 3-inch gate valve and a 3-inch globe valve in the same flowing water system application.\nIf both valves are fully open, the globe valve produces the __________ head loss and the\n__________ flow rate.",
-    "image": "",
-    "choices": [
-      "A. larger; larger",
-      "B. larger; smaller",
-      "C. smaller; larger",
-      "D. smaller; smaller"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "VAL085",
-    "topic": "Valves",
-    "question": "Which one of the following is a generally accepted method for locally verifying that a manual valve\nis fully closed in a depressurized static piping system?\n-63-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. Check a downstream flow gauge to be indicating zero flow.",
-      "B. Visually observe the valve rising-stem threading to be fully exposed.",
-      "C. Attempt to turn the valve handwheel in the close direction and verify no movement.",
-      "D. Compare an upstream and downstream pressure gauge to ensure zero differential pressure."
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "VAL086",
-    "topic": "Valves",
-    "question": "In a comparison between a typical gate valve and a typical globe valve in the same water system\napplication with both valves fully open, the gate valve has a __________ pressure drop and is\nnormally used in __________ flow applications.",
-    "image": "",
-    "choices": [
-      "A. larger; throttling",
-      "B. larger; on/off",
-      "C. smaller; throttling",
-      "D. smaller; on/off"
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "VAL087",
-    "topic": "Valves",
-    "question": "To verify a manual valve in an operating system is closed, the operator should observe valve\nposition indication and operate the valve handwheel in the...\nturn in the close direction.\n-64-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. open direction at least one full rotation, then close the valve using normal force.",
-      "B. open direction until system flow is observed, then close the valve using normal force.",
-      "C. close direction using normal force and verify there is no substantial handwheel movement.",
-      "D. close direction using normal force, then operate the valve handwheel an additional one-quarter"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "VAL088",
-    "topic": "Valves",
-    "question": "Which one of the following is a disadvantage associated with using a gate valve, versus a globe\nvalve, to throttle flow in a cooling water system?",
-    "image": "",
-    "choices": [
-      "A. The tortuous flow path through a throttled gate valve body makes flow control difficult.",
-      "B. A gate valve will experience stem leakage unless it is fully opened and backseated.",
-      "C. The turbulent flow created by a throttled gate valve will cause erosion damage to the valve seat.",
-      "D. A fully-open gate valve will produce a greater system head loss than a fully-open globe valve."
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "VAL089",
-    "topic": "Valves",
-    "question": "After an adjustment of the packing gland on a valve that had a minor packing leak, the operator\nattempts to operate the valve, but finds that the valve is stuck. What is the most probable cause?\n-65-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. The disk separated from the valve stem as a result of overtightening the packing gland.",
-      "B. The operator placed the valve in the wrong position for adjusting the packing gland.",
-      "C. The valve was overtorqued in the close direction during the packing gland adjustment.",
-      "D. The maintenance technician overtightened the packing gland, causing the stem to bind."
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "VAL090",
-    "topic": "Valves",
-    "question": "Which one of the following is not a generally accepted method for locally verifying that a valve is\nopen?",
-    "image": "",
-    "choices": [
-      "A. Observe local flow rate instrumentation.",
-      "B. Check the local valve position indicator indicates OPEN.",
-      "C. Turn the valve operator in the close direction and verify that some movement occurs.",
-      "D. Attempt to turn the valve operator in the open direction and verify that no movement occurs."
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "VAL091",
-    "topic": "Valves",
-    "question": "Why are gate valves generally not used to throttle water flow?\n-66-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. Rapid changes in flow direction inside the valve cause a large unrecoverable system head loss.",
-      "B. Gate valves experience stem leakage unless they are fully open or fully closed.",
-      "C. The turbulent flow created by a partially opened gate valve causes excessive seat and disk wear.",
-      "D. Flow rate through a gate valve is not proportional to the differential pressure across the valve."
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "VAL092",
-    "topic": "Valves",
-    "question": "In a comparison between globe valves and gate valves in the same water system application, globe\nvalves...",
-    "image": "",
-    "choices": [
-      "A. are less effective at throttling flow.",
-      "B. are less effective as pressure regulating valves.",
-      "C. produce a smaller pressure decrease when fully open.",
-      "D. require less force to open against large differential pressures."
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "VAL093",
-    "topic": "Valves",
-    "question": "In a comparison between gate valves and globe valves in the same water system application, gate\nvalves...\n-67-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. are more effective at throttling flow.",
-      "B. are more effective as pressure regulating valves.",
-      "C. produce a larger pressure decrease when fully open.",
-      "D. require more force to open against large differential pressures."
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "VAL094",
-    "topic": "Valves",
-    "question": "In a comparison between butterfly valves and ball valves, __________ valves are generally more\nleak- tight in high pressure applications; and __________ valves generally exhibit the smaller\npressure decrease when fully open.",
-    "image": "",
-    "choices": [
-      "A. ball; ball",
-      "B. ball; butterfly",
-      "C. butterfly; ball",
-      "D. butterfly; butterfly"
-    ],
+    "stem": " Water storage tanks A and B are identical except that tank A receives overpressure protection from a relief valve, whereas tank B uses a safety valve. The relief valve and safety valve have the same pressure setpoints and design flow rates. Water is continuously added to each tank at the same rate (50 percent of the design flow rate of the relief and safety valves). After the tanks are completely full, tank A pressure will __________; and tank B pressure will __________. NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "fluctuate within a few percent of the pressure setpoint; stabilize slightly above the pressure setpoint",
+      "B": "fluctuate within a few percent of the pressure setpoint; fluctuate within a few percent of the pressure setpoint",
+      "C": "stabilize slightly above the pressure setpoint; stabilize slightly above the pressure setpoint",
+      "D": "stabilize slightly above the pressure setpoint; fluctuate within a few percent of the pressure setpoint -13- PWR Test Items"
+    },
     "answer": "A"
   },
   {
-    "id": "VAL095",
     "topic": "Valves",
-    "question": "A gate valve is generally a poor choice for throttling fluid flow because...\nvalve.\nrate.\n-68-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. the turbulent flow created by a partially opened gate valve can cause extensive damage to the",
-      "B. the tortuous path through a gate valve body can make flow control difficult.",
-      "C. excessive stem leakage will result unless the gate valve is fully open or fully closed.",
-      "D. the head loss from a throttled gate valve will result in an unacceptable reduction in system flow"
-    ],
+    "stem": " Vessels A and B are identical except that vessel A receives overpressure protection from an installed safety valve. Vessel B has an installed relief valve. The safety and relief valves have the same pressure setpoint and design flow rate. Water is continuously added to each vessel at the same rate (50 percent of the design flow rate of the safety and relief valves). After vessel pressure reaches the setpoint for each valve, vessel A pressure will __________; and vessel B pressure will __________. NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "stabilize slightly above the pressure setpoint; stabilize slightly above the pressure setpoint",
+      "B": "stabilize slightly above the pressure setpoint; fluctuate within a few percent of the pressure setpoint",
+      "C": "fluctuate within a few percent of the pressure setpoint; stabilize slightly above the pressure setpoint",
+      "D": "fluctuate within a few percent of the pressure setpoint; fluctuate within a few percent of the pressure setpoint -14- PWR Test Items"
+    },
     "answer": "A"
   },
   {
-    "id": "VAL096",
     "topic": "Valves",
-    "question": "In a comparison between ball valves and butterfly valves in the same water system application, the\nvalve that typically would allow more leakage when fully closed with a high differential pressure is\nthe __________ valve; and the valve that typically would cause the greater pressure loss when fully\nopen is the __________ valve.",
-    "image": "",
-    "choices": [
-      "A. ball; butterfly",
-      "B. ball; ball",
-      "C. butterfly; butterfly",
-      "D. butterfly; ball"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "VAL097",
-    "topic": "Valves",
-    "question": "A typical motor-operated valve has been returned to service following a complete maintenance\noverhaul of the valve and actuator. The valve was remotely opened and closed to verify operability.\nThe measured valve stroke time in each direction was 15 seconds, which is 25 percent longer than\nnormal.\nWhich one of the following could have caused the increased stroke time?\n-69-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. The valve position limit switches were removed and were not reinstalled.",
-      "B. The valve torque limit switches were misadjusted to open at half their normal setpoints.",
-      "C. The valve was packed with improved packing material having a lower friction coefficient.",
-      "D. The valve stem packing gland was overtightened after the packing material was replaced."
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "VAL098",
-    "topic": "Valves",
-    "question": "In a comparison between ball valves and butterfly valves in the same water system application, the\nvalve that would typically be more leak-tight when fully closed with a high differential pressure is\nthe __________ valve; and the valve that typically results in the greater pressure decrease when fully\nopen is the __________ valve.",
-    "image": "",
-    "choices": [
-      "A. ball; butterfly",
-      "B. ball; ball",
-      "C. butterfly; butterfly",
-      "D. butterfly; ball"
-    ],
+    "stem": " Refer to the drawing of two identical pressure vessels with identical relief valve protection (see figure below). Vessel A is completely filled with subcooled water at 80\u00b0F and vessel B is in a saturated, two-phase condition. Both vessels are currently pressurized to 50 psig and isolated. If both relief valves fully open simultaneously, the faster pressure reduction will initially occur in vessel _____; and the faster mass loss will initially occur in vessel_____. NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "A; A",
+      "B": "A; B",
+      "C": "B; A",
+      "D": "B; B -15- PWR Test Items"
+    },
     "answer": "A"
   },
   {
-    "id": "VAL099",
     "topic": "Valves",
-    "question": "In a comparison between ball valves and butterfly valves in the same cooling water system\napplication, the valve that would typically experience the greater seat leakage when fully closed with\na large differential pressure is the __________ valve; and the valve that would typically cause the\nsmaller head loss when fully open is the __________ valve.\n-70-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. ball; butterfly",
-      "B. ball; ball",
-      "C. butterfly; butterfly",
-      "D. butterfly; ball"
-    ],
-    "answer": "D"
+    "stem": " A completely full water storage tank is being hydrostatically tested to 200 psig using a positive displacement pump (PDP) with a smooth and constant discharge flow rate of 6 gpm. The tank is protected by two relief valves that discharge to the atmosphere. The relief valves have the following characteristics: \uf0b7 Relief valve A opening setpoint is 200 psig with an accumulation of 1.5 percent. \uf0b7 Relief valve B opening setpoint is 200 psig with an accumulation of 3.0 percent. \uf0b7 Each valve has linear flow rate characteristics and a maximum discharge flow rate of 6 gpm. The PDP is inadvertently left running when tank pressure reaches 200 psig. With the PDP running continuously, what will be the discharge flow rates of the relief valves when tank pressure stabilizes? Relief Relief Valve A Valve B NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "1 gpm 5 gpm",
+      "B": "2 gpm 4 gpm",
+      "C": "3 gpm 3 gpm",
+      "D": "4 gpm 2 gpm -16- PWR Test Items"
+    },
+    "answer": "A"
   },
   {
-    "id": "VAL100",
     "topic": "Valves",
-    "question": "During a local inspection of a manually-operated 12-inch gate valve, the valve stem is observed to\nextend outward from the valve handwheel by 1 inch. The entire external valve stem is threaded,\nexcept for a 1-inch section that becomes smooth just before the valve stem enters the packing gland.\nWhich one of the following describes the position of the gate valve?",
-    "image": "",
-    "choices": [
-      "A. The valve is fully open, or nearly fully open.",
-      "B. The valve is fully closed, or nearly fully closed.",
-      "C. The valve may be in any position, because it is a rising stem gate valve.",
-      "D. The valve may be in any position, because it is a non-rising stem gate valve."
-    ],
-    "answer": "B"
+    "stem": " A completely full water tank is being hydrostatically tested to 180 psig using a positive displacement pump (PDP) with a smooth and constant discharge flow rate of 6 gpm. The tank is protected by two relief valves that discharge to the atmosphere. The relief valves have the following characteristics: \uf0b7 Relief valve A opening setpoint is 180 psig with an accumulation of 5 percent. \uf0b7 Relief valve B opening setpoint is 200 psig with an accumulation of 5 percent. \uf0b7 Each relief valve has linear flow rate characteristics and a maximum flow rate of 4 gpm. The PDP is inadvertently left running when tank pressure reaches 180 psig. With the PDP still running, at what pressure will the tank stabilize? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "190 psig",
+      "B": "195 psig",
+      "C": "205 psig",
+      "D": "210 psig -17- PWR Test Items"
+    },
+    "answer": "A"
   },
   {
-    "id": "VAL101",
     "topic": "Valves",
-    "question": "A typical motor-operated valve has been returned to service following a complete maintenance\noverhaul of the valve and actuator. When the valve was remotely opened and closed to verify\noperability, the measured valve stroke time in each direction was 15 seconds, which is shorter than\nnormal for this valve.\nWhich one of the following could have caused the shorter stroke time?\n-71-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. The valve position limit switches were removed and were not reinstalled.",
-      "B. The valve torque limit switches were misadjusted to open at twice their normal setpoints.",
-      "C. The valve was packed with improved packing material having a lower friction coefficient.",
-      "D. The valve stem packing gland was overtightened after the packing material was replaced."
-    ],
-    "answer": "C"
+    "stem": " A completely full water storage tank is being hydrostatically tested to 200 psig using a positive displacement pump (PDP) with a smooth and constant discharge flow rate of 4 gpm. The tank is protected by a relief valve that discharges to the atmosphere. The relief valve has the following characteristics: \uf0b7 The opening setpoint is 200 psig with an accumulation of 5 percent. \uf0b7 The valve has linear flow characteristics and a maximum rated flow rate of 8 gpm. The PDP is inadvertently left running when tank pressure reaches 200 psig. With the PDP still running, at what pressure will the tank stabilize? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "190 psig",
+      "B": "195 psig",
+      "C": "205 psig",
+      "D": "210 psig -18- PWR Test Items"
+    },
+    "answer": "A"
   },
   {
-    "id": "VAL102",
     "topic": "Valves",
-    "question": "During a local inspection of a manually operated three-inch gate valve, the valve stem is observed to\nbe flush with the top of the handwheel. Two inches of unthreaded valve stem is visible between the\nhandwheel and the packing gland. The handwheel is mounted to the valve body and valve stem\nsuch that the handwheel can be rotated in either direction, but cannot change its axial position.\nWhich one of the following describes the position of the valve?\n-72-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. The valve is fully open or nearly fully open.",
-      "B. The valve is fully closed or nearly fully closed.",
-      "C. The valve may be in any position because it has a rising stem.",
-      "D. The valve may be in any position because it has a non-rising stem."
-    ],
-    "answer": "D"
+    "stem": " A completely full water storage tank is being hydrostatically tested to 300 psig using a positive displacement pump (PDP) with a smooth and constant discharge flow rate of 4 gpm. The tank is protected by a relief valve that discharges to the atmosphere. The relief valve has the following characteristics: \uf0b7 The relief valve opening setpoint is 300 psig with an accumulation of 5 percent. \uf0b7 The relief valve has linear flow characteristics and a maximum rated flow rate of 6 gpm. The PDP is inadvertently left running when tank pressure reaches 300 psig. With the PDP still running, at what pressure will the tank stabilize?",
+    "choices": {
+      "A": "305 psig",
+      "B": "310 psig",
+      "C": "315 psig",
+      "D": "320 psig"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Valves",
+    "stem": " A cooling water system uses a conventional relief valve (not pilot-operated) with a bench-tested setpoint of 60 psig. The relief valve discharges to a collection tank that is maintained at 5 psig. At what system pressure will the relief valve begin to open? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "55 psig",
+      "B": "60 psig",
+      "C": "65 psig",
+      "D": "80 psig -19- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Valves",
+    "stem": " A completely full water storage tank is being hydrostatically tested to 200 psig using a positive displacement pump (PDP) with a smooth and constant discharge flow rate of 6 gpm. The tank is protected by two relief valves that discharge to the atmosphere. The relief valves have the following characteristics: \uf0b7 Relief valve A opening setpoint is 200 psig with an accumulation of 3.0 percent. \uf0b7 Relief valve B opening setpoint is 200 psig with an accumulation of 1.5 percent. \uf0b7 Each valve has linear flow rate characteristics and a maximum discharge flow rate of 9 gpm. The PDP is inadvertently left running when tank pressure reaches 200 psig. With the PDP running continuously, what will be the discharge flow rates of the relief valves when tank pressure stabilizes? Relief Relief Valve A Valve B NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "2 gpm 4 gpm",
+      "B": "3 gpm 6 gpm",
+      "C": "4 gpm 2 gpm",
+      "D": "6 gpm 3 gpm -20- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Valves",
+    "stem": " A cooling water system uses a conventional relief valve (not pilot-operated) with a bench-tested setpoint of 45 psig. The relief valve discharges to a collection tank that is maintained at 5 psi above atmospheric pressure. At what system pressure will the relief valve begin to open?",
+    "choices": {
+      "A": "40 psig",
+      "B": "45 psig",
+      "C": "50 psig",
+      "D": "65 psig"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Valves",
+    "stem": " In a comparison between a globe valve and a gate valve in the same water system application, the gate valve has a __________ pressure drop when fully open and is the __________ choice for throttling. NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "higher; better",
+      "B": "lower; better",
+      "C": "higher; poorer",
+      "D": "lower; poorer -21- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Valves",
+    "stem": " Refer to the drawing of a lube oil heat exchanger (see figure below). If a cooling water outlet valve is partially closed from the full open position, heat exchanger cooling water pressure upstream of the valve will __________; and the temperature of the lube oil exiting the heat exchanger will __________. NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "increase; decrease",
+      "B": "increase; increase",
+      "C": "decrease; decrease",
+      "D": "decrease; increase -22- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Valves",
+    "stem": " Consider a 3-inch gate valve and a 3-inch globe valve in separate but identical operating water systems. If both valves are fully open, the gate valve will produce the __________ head loss and the __________ flow rate.",
+    "choices": {
+      "A": "smaller; larger",
+      "B": "larger; smaller",
+      "C": "smaller; smaller",
+      "D": "larger; larger"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Valves",
+    "stem": " Which one of the following statements describes the flow rate characteristics of a typical gate valve in an operating water system? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "The first 25 percent of valve disk travel in the open direction will produce a smaller change in flow rate than the last 25 percent of valve disk travel.",
+      "B": "The first 25 percent of valve disk travel in the open direction will produce a greater change in flow rate than the last 25 percent of valve disk travel.",
+      "C": "The first 25 percent of valve disk travel in the open direction will produce approximately the same change in flow rate as the last 25 percent of valve disk travel.",
+      "D": "A gate valve that has been opened to 25 percent of valve disk travel will result in approximately 25 percent of full flow rate. -23- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Valves",
+    "stem": " Which one of the following statements describes the flow rate characteristics of a typical globe valve in an operating water system?",
+    "choices": {
+      "A": "The first 25 percent of valve disk travel in the open direction will produce a smaller increase in flow rate than the last 25 percent of valve disk travel.",
+      "B": "The first 25 percent of valve disk travel in the open direction will produce a greater increase in flow rate than the last 25 percent of valve disk travel.",
+      "C": "The first 25 percent of valve disk travel in the open direction will produce approximately the same increase in flow rate as the last 25 percent of valve disk travel.",
+      "D": "A globe valve that has been opened to 25 percent of valve disk travel will result in approximately 25 percent of full flow rate."
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Valves",
+    "stem": " A control valve is most likely to experience cavitation when the valve is almost fully __________ because of a relatively __________ pressure drop across the valve seat. NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "open; large",
+      "B": "open; small",
+      "C": "closed; large",
+      "D": "closed; small -24- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Valves",
+    "stem": " Which one of the following statements describes the throttling characteristics of a typical globe valve? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "The first third of valve disk travel in the open direction will result in approximately one-third of full flow rate.",
+      "B": "The first third of valve disk travel in the open direction will produce a smaller increase in flow rate than the last third of valve disk travel.",
+      "C": "The first third of valve disk travel in the open direction will produce a greater increase in flow rate than the last third of valve disk travel.",
+      "D": "The first two-thirds of valve disk travel in the open direction will produce approximately the same increase in flow rate as the last third of valve disk travel. -25- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Valves",
+    "stem": " Refer to the drawing of a cooling water system in which both centrifugal pumps A and B are operating (see figure below). An operator stops pump B, but the pump B check valve fails to close. In comparison to normal operation with only pump A running, operation with the failed pump B check valve will result in pump A flow rate being __________ than normal; and heat exchanger flow rate being __________ than normal. NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "higher; higher",
+      "B": "higher; lower",
+      "C": "lower; higher",
+      "D": "lower; lower -26- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Valves",
+    "stem": " Which one of the following types of similarly sized valves in an operating water system produces the least frictional head loss when fully open? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "Ball",
+      "B": "Globe",
+      "C": "Butterfly",
+      "D": "Swing check -27- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Valves",
+    "stem": " Refer to the centrifugal pump operating curve with two system head loss curves (see figure below). The curves apply to a closed cooling water system using one single-speed centrifugal pump discharging through a typical flow control valve. The system curves are shown for two flow control valve positions--25 percent open and 100 percent open. The pump is currently operating with the flow control valve 25 percent open, resulting in a pump flow rate of 800 gpm. If the flow control valve is subsequently fully opened, pump flow rate through the valve will be approximately... NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "400 gpm.",
+      "B": "1,200 gpm.",
+      "C": "1,600 gpm.",
+      "D": "3,200 gpm. -28- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Valves",
+    "stem": " Consider a 6-inch globe valve and a 6-inch gate valve in the same water system application. Typically, the valve that requires the most linear disk travel from fully closed to fully open is the __________ valve; and the valve that produces the smallest pressure drop when fully open is the __________ valve.",
+    "choices": {
+      "A": "gate; gate",
+      "B": "gate; globe",
+      "C": "globe; gate",
+      "D": "globe; globe"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Valves",
+    "stem": " Subcooled water was flowing through a throttled valve with the following initial parameters: Inlet pressure = 60 psia Outlet pressure = 50 psia Flow rate = 800 gpm The valve was opened fully and the following parameters currently exist: Inlet pressure = 60 psia Outlet pressure = 55 psia What is the approximate flow rate through the fully open valve? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "400 gpm",
+      "B": "566 gpm",
+      "C": "635 gpm",
+      "D": "Cannot be determined without additional information. -29- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Valves",
+    "stem": " Subcooled water is flowing through a throttle valve in an open system. The initial steady-state conditions for the throttle valve are as follows: Inlet pressure = 60 psia Outlet pressure = 44 psia Flow rate = 800 gpm Four hours later, the current steady-state conditions for the throttle valve are as follows: Inlet pressure = 63 psia Outlet pressure = 54 psia Flow rate = 600 gpm Which one of the following could be responsible for the difference between the initial and current conditions for the throttle valve? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "The throttle valve was opened more.",
+      "B": "The throttle valve was closed more.",
+      "C": "Another valve, located upstream of the throttle valve, was partially closed.",
+      "D": "Another valve, located downstream of the throttle valve, was partially closed. -30- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Valves",
+    "stem": " Subcooled water is flowing through a throttled valve in an open system. The initial steady-state conditions for the throttled valve are as follows: Inlet pressure = 60 psia Outlet pressure = 44 psia Flow rate = 800 gpm After four hours, the current steady-state conditions for the throttled valve are as follows: Inlet pressure = 62 psia Outlet pressure = 40 psia Flow rate = 600 gpm Which one of the following could be responsible for the difference between the initial and current steady-state conditions for the throttled valve? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "The throttled valve was opened more.",
+      "B": "The throttled valve was closed more.",
+      "C": "Another valve, located upstream of the throttled valve, was partially closed.",
+      "D": "Another valve, located downstream of the throttled valve, was partially closed. -31- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Valves",
+    "stem": " Refer to the drawing of an operating cooling water system (see figure below) in which valves A and B are identical. Valve A is one-half open and valve B is fully open. If valve A is opened fully, the differential pressure (D/P) across valve B will\u2026 NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "increase by the same amount as the absolute change in D/P across valve A.",
+      "B": "increase by an amount less than the absolute change in D/P across valve A.",
+      "C": "decrease by the same amount as the absolute change in D/P across valve A.",
+      "D": "decrease by an amount less than the absolute change in D/P across valve A. -32- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Valves",
+    "stem": " Consider a 6-inch globe valve and a 6-inch gate valve in the same water system application. The valve that typically requires the least linear travel of the disk from fully closed to fully open is the __________ valve; and the valve that produces the greatest pressure drop when fully open is the __________ valve. NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "gate; gate",
+      "B": "gate; globe",
+      "C": "globe; gate",
+      "D": "globe; globe -33- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Valves",
+    "stem": " Subcooled water is flowing through a throttle valve in an open system. The initial steady-state conditions for the throttle valve are as follows: Inlet pressure = 60 psia Outlet pressure = 44 psia Flow rate = 800 gpm Four hours later, the current steady-state conditions for the throttle valve are as follows: Inlet pressure = 51 psia Outlet pressure = 42 psia Flow rate = 600 gpm Which one of the following could be responsible for the difference between the initial and current conditions for the throttle valve? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "The throttle valve was opened more.",
+      "B": "The throttle valve was closed more.",
+      "C": "Another valve, located upstream of the throttle valve, was partially closed.",
+      "D": "Another valve, located downstream of the throttle valve, was partially closed. -34- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Valves",
+    "stem": " Subcooled water was initially flowing through a throttled valve with the following parameters: Inlet pressure = 70 psia Outlet pressure = 60 psia Flow rate = 600 gpm The valve was then opened fully, and the following parameters currently exist: Inlet pressure = 60 psia Outlet pressure = 55 psia What is the current flow rate through the fully open valve? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "424 gpm",
+      "B": "848 gpm",
+      "C": "1,200 gpm",
+      "D": "Cannot be determined without additional information. -35- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Valves",
+    "stem": " Subcooled water is flowing through a throttle valve in an open system. The initial steady-state conditions for the throttle valve are as follows: Inlet pressure = 60 psia Outlet pressure = 44 psia Flow rate = 800 gpm After four hours, the current steady-state conditions for the throttle valve are as follows: Inlet pressure = 58 psia Outlet pressure = 46 psia Flow rate = 1,000 gpm Which one of the following could be responsible for the difference between the initial and current steady-state conditions for the throttle valve? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "The throttle valve was closed more.",
+      "B": "The throttle valve was opened more.",
+      "C": "Another valve, located upstream of the throttle valve, was opened more.",
+      "D": "Another valve, located downstream of the throttle valve, was opened more. -36- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Valves",
+    "stem": " Refer to the drawing of an open system with subcooled water flowing through valves A, B, C and D (see figure below). All valves are initially 50 percent open. The inlet pressure to valve A is constant at 60 psia. The initial steady-state inlet and outlet pressures for valve B are as follows: Inlet pressure = 50 psia Outlet pressure = 35 psia After a single valve operation, the current steady-state inlet and outlet pressures for valve B are as follows: Inlet pressure = 48 psia Outlet pressure = 36 psia Which one of the following valve operations could be responsible for the difference between the initial and current steady-state inlet and outlet pressures for valve B? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "Valve A was opened more.",
+      "B": "Valve B was closed more.",
+      "C": "Valve C was closed more.",
+      "D": "Valve D was opened more. -37- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Valves",
+    "stem": " Refer to the drawing of an operating cooling water system (see figure below) in which valve A is one-half open. Currently, the centrifugal pump is providing a system flow rate of 600 gpm. If valve A is opened further, until system flow rate is 800 gpm, the differential pressure across valve A will __________; and the differential pressure across the heat exchanger will __________. NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "decrease; decrease",
+      "B": "decrease; increase",
+      "C": "increase; decrease",
+      "D": "increase; increase -38- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Valves",
+    "stem": " Refer to the drawing of a spring-loaded air-operated valve (see figure below). Upon a loss of air pressure, this valve will... NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "go to the fully open position.",
+      "B": "remain at the current position.",
+      "C": "go to the fully closed position.",
+      "D": "go to the midposition. -39- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Valves",
+    "stem": " Refer to the drawing of a spring-loaded air-operated valve (see figure below) in which the solenoid is shown energized. Which one of the following will be the final valve position following a loss of electrical power to the solenoid? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "Midposition",
+      "B": "Closed",
+      "C": "As is",
+      "D": "Open -40- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Valves",
+    "stem": " Refer to the drawing of a hydraulically-operated valve that is shown in a throttled position (see figure below). Select the final position of this valve following a loss of hydraulic system pressure. NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "Fully open",
+      "B": "As is",
+      "C": "Fully closed",
+      "D": "Midposition -41- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Valves",
+    "stem": " Refer to the drawing of a spring-loaded air-operated valve shown in a throttled position (see figure below). The figure currently depicts normal air supply pressure and an energized solenoid. What will be the valve position following a loss of electrical power to the solenoid? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "As is",
+      "B": "More open",
+      "C": "More closed",
+      "D": "Varies with system flow -42- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Valves",
+    "stem": " How will a typical motor-operated valve respond to a loss of electrical power to the valve actuator? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "Open fully",
+      "B": "Close fully",
+      "C": "Remain as is",
+      "D": "Move to 50 percent open -43- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Valves",
+    "stem": " Refer to the drawing of a spring-loaded air-operated valve shown in a throttled position (see figure below). Which one of the following will be the valve position following a reduction in air pressure to the valve actuator caused by a leaking air connection at the valve? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "Original position",
+      "B": "More closed",
+      "C": "More open",
+      "D": "Varies with system flow -44- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Valves",
+    "stem": " Refer to the drawing of a pneumatically-operated valve (see figure below). The valve actuator may be shown with or without air pressure applied to it. Which one of the following describes the type of valve shown, and the fail position on loss of air to the actuator? Valve Fail Type Position NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "Gate Open",
+      "B": "Gate Closed",
+      "C": "Globe Open",
+      "D": "Globe Closed -45- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Valves",
+    "stem": " Refer to the drawing of four air-operated valves (see figure below). Note: The valve actuators may be shown with or without air pressure applied. Given: \uf0b7 The direction of system flow is from left to right when the valves are open. \uf0b7 The internal components for each valve are identical except for the orientation of the valve disk and seat. \uf0b7 The valve actuators exert the same force on the attached valve stem for a given applied air pressure. If each actuator is vented, which valve disk will remain closed with the most force? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "A.",
+      "B": "B.",
+      "C": "C.",
+      "D": "D. -46- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Valves",
+    "stem": " Refer to the drawing of four air-operated valves (see figure below). The valve actuators may be shown with or without air pressure applied. Which valves are currently shown in their failed (i.e., no air pressure applied to the actuator) positions? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "A and B",
+      "B": "B and C",
+      "C": "C and D",
+      "D": "D and A -47- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Valves",
+    "stem": " Refer to the drawing of a pneumatically-operated valve (see figure below). The valve actuator may be shown with or without applied air pressure. Which one of the following describes the type of valve shown, and the valve\u2019s fail position on loss of air to the actuator? Valve Fail Type Position NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "Ball Open",
+      "B": "Ball Closed",
+      "C": "Globe Open",
+      "D": "Globe Closed -48- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Valves",
+    "stem": " An operator attempts to close a fully-open upright manual gate valve to isolate a pump in a cooling water system that has been cooled down for maintenance. However, the operator is unable to rotate the handwheel in the close direction. Which one of the following could cause this condition?",
+    "choices": {
+      "A": "A hydraulic lock has developed under the valve disk.",
+      "B": "A hydraulic lock has developed in the valve bonnet between the valve disk and the packing gland.",
+      "C": "The two halves of the valve disk have expanded and are jammed against the valve seats.",
+      "D": "The valve disk has jammed against its backseat by the difference in the thermal contraction of the stem and the bonnet."
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Valves",
+    "stem": " When manually positioning a motor-operated valve, why must care be taken to avoid using excessive valve seating/backseating force? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "The valve may bind during subsequent operation.",
+      "B": "The valve stem limit switch settings may become inaccurate.",
+      "C": "The clutch may not reengage the valve motor when required.",
+      "D": "The stem position may no longer be an accurate indicator of valve position. -49- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Valves",
+    "stem": " After an adjustment of the packing gland on a valve that had a minor packing leak, an operator attempts to operate the valve, but finds the valve is stuck. What is the most probable cause?",
+    "choices": {
+      "A": "The disk separated from the valve stem as a result of overtightening the packing gland.",
+      "B": "The operator placed the valve in the wrong position for adjusting the packing gland.",
+      "C": "The valve was overtorqued in the closed direction during the packing gland adjustment.",
+      "D": "The maintenance technician overtightened the packing gland, causing the stem to bind."
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Valves",
+    "stem": " An adjustment has just been completed on the packing gland of a motor-operated gate valve to stop a minor stem leak. Which one of the following can occur if the technician overtightened the packing gland? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "Decreased cooling flow to the valve internals.",
+      "B": "Separation of the valve disk from the valve stem.",
+      "C": "Misalignment of the valve position limit switches.",
+      "D": "Increased stroke time from fully open to fully closed. -50- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Valves",
+    "stem": " Which one of the following describes the function and use of the backseat on a manual valve?",
+    "choices": {
+      "A": "Removes pressure from the packing/stuffing box and is typically used to isolate the stuffing box for valve repacking.",
+      "B": "Removes pressure from the packing/stuffing box and is typically used when needed to isolate packing leakage.",
+      "C": "Acts as a backup in case the primary seat leaks and is typically used during system isolation for personnel protection.",
+      "D": "Acts as a backup in case the primary seat leaks and is typically used when needed to prevent the primary seat from leaking excessively."
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Valves",
+    "stem": " When manually closing a motor-operated valve, why must the operator avoid using excessive valve seating force? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "The valve may bind and cause the motor to trip on overload during subsequent remote operation.",
+      "B": "The valve actuator clutch may be damaged and disable subsequent remote operation.",
+      "C": "The valve stem limit switches may be damaged and cause inaccurate remote valve position indication.",
+      "D": "The valve actuator position indicator may be damaged and cause inaccurate local valve position indication. -51- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Valves",
+    "stem": " Refer to the drawing of a water supply pump with two suction sources (see figure below). All motor-operated valves (MOVs) are currently closed. Which one of the following MOV interlocks will permit the pump to take a suction on either the building sump or the water storage tank, while preventing the two sources from being cross- connected? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "Neither MOV-1 nor MOV-2 can be opened unless MOV-3 is fully closed.",
+      "B": "None of the MOVs can be opened unless at least one MOV remains fully closed.",
+      "C": "None of the MOVs can be opened unless at least two MOVs remain fully closed.",
+      "D": "Neither MOV-1 nor MOV-2 can be opened unless the other source MOV is fully closed. -52- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Valves",
+    "stem": " Refer to the drawing of two valves used in a high temperature water system (see figure below). Both valves are currently closed, as shown in the figure. The valve that is more likely to become stuck due to mechanical binding as the valve cools down is number _____; and the valve that is more likely to become stuck due to a pressure lock as the valve heats up is number _____. NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "1; 1",
+      "B": "1; 2",
+      "C": "2; 1",
+      "D": "2; 2 -53- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Valves",
+    "stem": " After manually positioning a typical motor-operated valve, the valve actuator motor is reengaged by...",
+    "choices": {
+      "A": "taking the manual declutch lever to the disengage position.",
+      "B": "taking the manual declutch lever to the engage position.",
+      "C": "racking in the valve actuator motor breaker.",
+      "D": "energizing the valve actuator motor."
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Valves",
+    "stem": " When the manual declutch lever of a motor-operated valve is moved out of the normal position, it __________ the motor and __________ the handwheel. NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "engages; engages",
+      "B": "engages; disengages",
+      "C": "disengages; engages",
+      "D": "disengages; disengages -54- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Valves",
+    "stem": " A typical motor-operated valve with a declutch lever is installed in a system. An actuation signal is designed to energize the valve motor and open the valve. The valve is currently open, but being manually/locally closed by a technician as required by a surveillance test procedure. The declutch lever has been operated and released, and the valve is being closed by operation of the valve handwheel. If an actuation signal is received, how will the valve be affected?",
+    "choices": {
+      "A": "The handwheel will disengage and the valve will automatically open.",
+      "B": "The handwheel will disengage and the valve will remain in the current position.",
+      "C": "The handwheel will remain engaged and the valve will automatically open.",
+      "D": "The handwheel will remain engaged and the technician can continue to close the valve."
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Valves",
+    "stem": " A surveillance test procedure is being performed on a typical motor-operated valve (MOV) with a declutch lever. The declutch lever has been operated and released, and the valve is being manually/locally opened by a technician. The MOV breaker is closed as required by the surveillance test procedure. During operation of the valve handwheel, an actuation signal is received that normally energizes the valve motor and closes the valve. How will the valve be affected by the actuation signal? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "The handwheel will disengage and the valve will automatically close.",
+      "B": "The handwheel will disengage and the valve will remain in the current position.",
+      "C": "The handwheel will remain engaged and the valve will automatically close.",
+      "D": "The handwheel will remain engaged and the technician can continue to open the valve. -55- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Valves",
+    "stem": " A typical motor-operated valve (MOV) has just been opened from the main control room, and the breaker for the MOV has been opened. A plant operator has been directed to close the MOV locally for a surveillance test. If the operator attempts to turn the MOV handwheel in the clockwise direction without first operating the declutch lever, which one of the following will occur?",
+    "choices": {
+      "A": "The handwheel will turn, but the valve stem will not move.",
+      "B": "The handwheel will not turn, and the valve stem will not move.",
+      "C": "The handwheel will turn, and the valve stem will move toward the closed position because the clutch is automatically engaged when the handwheel is turned.",
+      "D": "The handwheel will turn, and the valve stem will move toward the closed position because the clutch is automatically engaged when the breaker is opened."
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Valves",
+    "stem": " Which one of the following types of similarly sized valves requires the most manual valve stem rotation to move the valve from fully open to fully closed? (Assume that each valve has a non- rising stem.) NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "Ball",
+      "B": "Gate",
+      "C": "Plug",
+      "D": "Butterfly -56- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Valves",
+    "stem": " A stop check valve is a type of check valve that...",
+    "choices": {
+      "A": "cannot be shut remotely.",
+      "B": "can be used to prevent flow in both directions.",
+      "C": "contains both a gate valve disk and a check valve disk.",
+      "D": "can be opened manually to allow flow in both directions."
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Valves",
+    "stem": " Which one of the following valves is used to control the direction of fluid flow and prevent backflow in a system? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "Safety valve",
+      "B": "Relief valve",
+      "C": "Divert valve",
+      "D": "Check valve -57- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Valves",
+    "stem": " Two common types of check valves used in nuclear power plants are...",
+    "choices": {
+      "A": "globe and gate.",
+      "B": "ball and plug.",
+      "C": "swing and lift.",
+      "D": "needle and angle."
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Valves",
+    "stem": " A typical check valve is designed to... NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "permit flow in only one direction.",
+      "B": "prevent system overpressure.",
+      "C": "isolate system components.",
+      "D": "perform automatic pump venting. -58- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Valves",
+    "stem": " Check valves are normally used to prevent...",
+    "choices": {
+      "A": "overpressurization of nonoperating system piping and components.",
+      "B": "backflow through nonoperating components or flowpaths.",
+      "C": "pump runout by providing a constant backpressure.",
+      "D": "pump cavitation by keeping nonoperating systems filled."
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Valves",
+    "stem": " Which one of the following is the type of valve used to control the direction of fluid flow through a system and prevent backflow? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "Butterfly valve",
+      "B": "Gate valve",
+      "C": "Globe valve",
+      "D": "Check valve -59- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Valves",
+    "stem": " To verify that a manual valve in a pressurized water system is closed, the operator should observe valve position indication and operate the valve handwheel in the...",
+    "choices": {
+      "A": "close direction using normal force, and verify there is no substantial handwheel movement.",
+      "B": "close direction using normal force, then turn the handwheel an additional one-half turn using additional force if necessary.",
+      "C": "open direction until flow sounds are heard, then close the valve using normal force until the handwheel stops moving.",
+      "D": "open direction until the valve stem moves, then close the valve using normal force until the handwheel stops moving."
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Valves",
+    "stem": " To verify the position of a fully open manual valve in an operating system, the operator should operate the valve handwheel... NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "in the open direction until the valve is backseated one-half turn.",
+      "B": "to fully close the valve, then open the valve to the fully open position.",
+      "C": "in the closed direction, then open the valve to its previously open position.",
+      "D": "to open the valve until it touches the backseat, then close the valve to the desired position. -60- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Valves",
+    "stem": " Consider a typical gate valve and a typical globe valve in the same water system application. The globe valve generally has a __________ pressure drop when fully open; and is __________ commonly used for throttling system flow.",
+    "choices": {
+      "A": "smaller; less",
+      "B": "larger; more",
+      "C": "smaller; more",
+      "D": "larger; less"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Valves",
+    "stem": " Gate valves should not be used to throttle fluid flow because... NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "the tortuous flow path through a gate valve body makes flow control difficult.",
+      "B": "gate valves must be fully opened and backseated to prevent stem leakage.",
+      "C": "the turbulent flow created by a partially opened gate valve will cause erosion damage to the valve seat.",
+      "D": "the large size of the gate valve disk requires an oversized actuator to accurately position the disk. -61- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Valves",
+    "stem": " Refer to the drawing of a valve (see figure below). Which one of the following describes the type of valve shown? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "Rising-stem globe valve",
+      "B": "Nonrising-stem globe valve",
+      "C": "Rising-stem gate valve",
+      "D": "Nonrising-stem gate valve -62- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Valves",
+    "stem": " Consider a 3-inch gate valve and a 3-inch globe valve in the same flowing water system application. If both valves are fully open, the globe valve produces the __________ head loss and the __________ flow rate.",
+    "choices": {
+      "A": "larger; larger",
+      "B": "larger; smaller",
+      "C": "smaller; larger",
+      "D": "smaller; smaller"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Valves",
+    "stem": " Which one of the following is a generally accepted method for locally verifying that a manual valve is fully closed in a depressurized static piping system? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "Check a downstream flow gauge to be indicating zero flow.",
+      "B": "Visually observe the valve rising-stem threading to be fully exposed.",
+      "C": "Attempt to turn the valve handwheel in the close direction and verify no movement.",
+      "D": "Compare an upstream and downstream pressure gauge to ensure zero differential pressure. -63- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Valves",
+    "stem": " In a comparison between a typical gate valve and a typical globe valve in the same water system application with both valves fully open, the gate valve has a __________ pressure drop and is normally used in __________ flow applications.",
+    "choices": {
+      "A": "larger; throttling",
+      "B": "larger; on/off",
+      "C": "smaller; throttling",
+      "D": "smaller; on/off"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Valves",
+    "stem": " To verify a manual valve in an operating system is closed, the operator should observe valve position indication and operate the valve handwheel in the... NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "open direction at least one full rotation, then close the valve using normal force.",
+      "B": "open direction until system flow is observed, then close the valve using normal force.",
+      "C": "close direction using normal force and verify there is no substantial handwheel movement.",
+      "D": "close direction using normal force, then operate the valve handwheel an additional one-quarter turn in the close direction. -64- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Valves",
+    "stem": " Which one of the following is a disadvantage associated with using a gate valve, versus a globe valve, to throttle flow in a cooling water system?",
+    "choices": {
+      "A": "The tortuous flow path through a throttled gate valve body makes flow control difficult.",
+      "B": "A gate valve will experience stem leakage unless it is fully opened and backseated.",
+      "C": "The turbulent flow created by a throttled gate valve will cause erosion damage to the valve seat.",
+      "D": "A fully-open gate valve will produce a greater system head loss than a fully-open globe valve."
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Valves",
+    "stem": " After an adjustment of the packing gland on a valve that had a minor packing leak, the operator attempts to operate the valve, but finds that the valve is stuck. What is the most probable cause? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "The disk separated from the valve stem as a result of overtightening the packing gland.",
+      "B": "The operator placed the valve in the wrong position for adjusting the packing gland.",
+      "C": "The valve was overtorqued in the close direction during the packing gland adjustment.",
+      "D": "The maintenance technician overtightened the packing gland, causing the stem to bind. -65- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Valves",
+    "stem": " Which one of the following is not a generally accepted method for locally verifying that a valve is open?",
+    "choices": {
+      "A": "Observe local flow rate instrumentation.",
+      "B": "Check the local valve position indicator indicates OPEN.",
+      "C": "Turn the valve operator in the close direction and verify that some movement occurs.",
+      "D": "Attempt to turn the valve operator in the open direction and verify that no movement occurs."
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Valves",
+    "stem": " Why are gate valves generally not used to throttle water flow? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "Rapid changes in flow direction inside the valve cause a large unrecoverable system head loss.",
+      "B": "Gate valves experience stem leakage unless they are fully open or fully closed.",
+      "C": "The turbulent flow created by a partially opened gate valve causes excessive seat and disk wear.",
+      "D": "Flow rate through a gate valve is not proportional to the differential pressure across the valve. -66- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Valves",
+    "stem": " In a comparison between globe valves and gate valves in the same water system application, globe valves...",
+    "choices": {
+      "A": "are less effective at throttling flow.",
+      "B": "are less effective as pressure regulating valves.",
+      "C": "produce a smaller pressure decrease when fully open.",
+      "D": "require less force to open against large differential pressures."
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Valves",
+    "stem": " In a comparison between gate valves and globe valves in the same water system application, gate valves... NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "are more effective at throttling flow.",
+      "B": "are more effective as pressure regulating valves.",
+      "C": "produce a larger pressure decrease when fully open.",
+      "D": "require more force to open against large differential pressures. -67- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Valves",
+    "stem": " In a comparison between butterfly valves and ball valves, __________ valves are generally more leak- tight in high pressure applications; and __________ valves generally exhibit the smaller pressure decrease when fully open.",
+    "choices": {
+      "A": "ball; ball",
+      "B": "ball; butterfly",
+      "C": "butterfly; ball",
+      "D": "butterfly; butterfly"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Valves",
+    "stem": " A gate valve is generally a poor choice for throttling fluid flow because... NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "the turbulent flow created by a partially opened gate valve can cause extensive damage to the valve.",
+      "B": "the tortuous path through a gate valve body can make flow control difficult.",
+      "C": "excessive stem leakage will result unless the gate valve is fully open or fully closed.",
+      "D": "the head loss from a throttled gate valve will result in an unacceptable reduction in system flow rate. -68- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Valves",
+    "stem": " In a comparison between ball valves and butterfly valves in the same water system application, the valve that typically would allow more leakage when fully closed with a high differential pressure is the __________ valve; and the valve that typically would cause the greater pressure loss when fully open is the __________ valve.",
+    "choices": {
+      "A": "ball; butterfly",
+      "B": "ball; ball",
+      "C": "butterfly; butterfly",
+      "D": "butterfly; ball"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Valves",
+    "stem": " A typical motor-operated valve has been returned to service following a complete maintenance overhaul of the valve and actuator. The valve was remotely opened and closed to verify operability. The measured valve stroke time in each direction was 15 seconds, which is 25 percent longer than normal. Which one of the following could have caused the increased stroke time? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "The valve position limit switches were removed and were not reinstalled.",
+      "B": "The valve torque limit switches were misadjusted to open at half their normal setpoints.",
+      "C": "The valve was packed with improved packing material having a lower friction coefficient.",
+      "D": "The valve stem packing gland was overtightened after the packing material was replaced. -69- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Valves",
+    "stem": " In a comparison between ball valves and butterfly valves in the same water system application, the valve that would typically be more leak-tight when fully closed with a high differential pressure is the __________ valve; and the valve that typically results in the greater pressure decrease when fully open is the __________ valve.",
+    "choices": {
+      "A": "ball; butterfly",
+      "B": "ball; ball",
+      "C": "butterfly; butterfly",
+      "D": "butterfly; ball"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Valves",
+    "stem": " In a comparison between ball valves and butterfly valves in the same cooling water system application, the valve that would typically experience the greater seat leakage when fully closed with a large differential pressure is the __________ valve; and the valve that would typically cause the smaller head loss when fully open is the __________ valve. NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "ball; butterfly",
+      "B": "ball; ball",
+      "C": "butterfly; butterfly",
+      "D": "butterfly; ball -70- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Valves",
+    "stem": " During a local inspection of a manually-operated 12-inch gate valve, the valve stem is observed to extend outward from the valve handwheel by 1 inch. The entire external valve stem is threaded, except for a 1-inch section that becomes smooth just before the valve stem enters the packing gland. Which one of the following describes the position of the gate valve?",
+    "choices": {
+      "A": "The valve is fully open, or nearly fully open.",
+      "B": "The valve is fully closed, or nearly fully closed.",
+      "C": "The valve may be in any position, because it is a rising stem gate valve.",
+      "D": "The valve may be in any position, because it is a non-rising stem gate valve."
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Valves",
+    "stem": " A typical motor-operated valve has been returned to service following a complete maintenance overhaul of the valve and actuator. When the valve was remotely opened and closed to verify operability, the measured valve stroke time in each direction was 15 seconds, which is shorter than normal for this valve. Which one of the following could have caused the shorter stroke time? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "The valve position limit switches were removed and were not reinstalled.",
+      "B": "The valve torque limit switches were misadjusted to open at twice their normal setpoints.",
+      "C": "The valve was packed with improved packing material having a lower friction coefficient.",
+      "D": "The valve stem packing gland was overtightened after the packing material was replaced. -71- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Valves",
+    "stem": " During a local inspection of a manually operated three-inch gate valve, the valve stem is observed to be flush with the top of the handwheel. Two inches of unthreaded valve stem is visible between the handwheel and the packing gland. The handwheel is mounted to the valve body and valve stem such that the handwheel can be rotated in either direction, but cannot change its axial position. Which one of the following describes the position of the valve? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "The valve is fully open or nearly fully open.",
+      "B": "The valve is fully closed or nearly fully closed.",
+      "C": "The valve may be in any position because it has a rising stem.",
+      "D": "The valve may be in any position because it has a non-rising stem. -72- PWR Test Items"
+    },
+    "answer": "A"
   }
 ]

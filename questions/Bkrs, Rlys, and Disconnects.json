@@ -1,1561 +1,1321 @@
 [
   {
-    "id": "BKR767",
     "topic": "Bkrs, Rlys, and Disconnects",
-    "question": "To completely deenergize an electrical component and its associated control and indication circuits,\nthe component breaker should be...",
-    "image": "",
-    "choices": [
-      "A. open with the control switch in Pull-To-Lock.",
-      "B. open with the control switch tagged in the open position.",
-      "C. racked out and tagged in the racked-out position.",
-      "D. racked out with control power fuses removed."
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "BKR768",
-    "topic": "Bkrs, Rlys, and Disconnects",
-    "question": "Which one of the following describes the normal operation of a local breaker overcurrent trip flag\nindicator?\novercurrent condition clears.\nwhen the overcurrent condition clears.\nreset when the overcurrent condition clears.\n-566-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. Actuates when no lockout is present; satisfies an electrical interlock to remotely close a breaker.",
-      "B. Actuates when a breaker overcurrent trip has occurred; can be manually reset when the",
-      "C. Actuates when a breaker has failed to trip on an overcurrent condition; can be manually reset",
-      "D. Actuates to cause a breaker trip when the overcurrent trip setpoint is reached; can be remotely"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "BKR769",
-    "topic": "Bkrs, Rlys, and Disconnects",
-    "question": "Which one of the following describes the local overcurrent trip flag indicators for a breaker?",
-    "image": "",
-    "choices": [
-      "A. They actuate prior to breaker tripping to warn of imminent protective action.",
-      "B. They indicate breaker overcurrent trip actuation during and after breaker trip actuation.",
-      "C. When actuated, they indicate that the associated breaker has failed to trip open.",
-      "D. When actuated, they indicate that the breaker overcurrent trip relay has been reset."
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "BKR770",
-    "topic": "Bkrs, Rlys, and Disconnects",
-    "question": "Loss of breaker control power will cause...\n-567-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. breaker line voltage to indicate zero regardless of actual breaker position.",
-      "B. the remote breaker position to indicate open regardless of actual breaker position.",
-      "C. inability to operate the breaker locally and remotely.",
-      "D. failure of the closing spring to charge following local closing of the breaker."
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "BKR771",
-    "topic": "Bkrs, Rlys, and Disconnects",
-    "question": "Which one of the following will result from a loss of control power to a motor supply breaker?",
-    "image": "",
-    "choices": [
-      "A. The motor ammeter indication will be zero regardless of actual breaker position.",
-      "B. The breaker position will remotely indicate closed regardless of actual position.",
-      "C. The breaker will trip open due to the actuation of its protective trip device.",
-      "D. The charging motor will not recharge the closing spring after the breaker closes."
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "BKR772",
-    "topic": "Bkrs, Rlys, and Disconnects",
-    "question": "Which one of the following will cause a loss of ability to remotely open a breaker and a loss of\nremote breaker position indication?\n-568-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. Failure of the breaker control switch.",
-      "B. Racking the breaker to the TEST position.",
-      "C. Mechanical binding of the breaker tripping bar.",
-      "D. Loss of control power for the breaker."
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "BKR773",
-    "topic": "Bkrs, Rlys, and Disconnects",
-    "question": "Which one of the following will cause a loss of indication from the remote breaker position\nindicating lights associated with a typical 480 VAC load supply breaker?",
-    "image": "",
-    "choices": [
-      "A. Locally opening the breaker.",
-      "B. Loss of breaker line voltage.",
-      "C. Removing the breaker control power fuses.",
-      "D. Burnout of the local breaker position indicating lights."
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "BKR774",
-    "topic": "Bkrs, Rlys, and Disconnects",
-    "question": "How is typical breaker operation affected when the associated breaker control power transfer switch\nis placed in the LOCAL position?\noperated only from the control room.\nelectrically operated only from the control room.\noperated only from the breaker cabinet.\nelectrically operated only from the breaker cabinet.\n-569-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. Control power will be available to provide protective trips, and the breaker can be electrically",
-      "B. Control power will be removed from both the open and close circuits, and the breaker can be",
-      "C. Control power will be available to provide protective trips, and the breaker can be electrically",
-      "D. Control power will be removed from both the open and close circuits, and the breaker can be"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "BKR775",
-    "topic": "Bkrs, Rlys, and Disconnects",
-    "question": "A typical 120 VAC manual circuit breaker tripped due to overload. To close this circuit breaker,\nthe handle must be moved from the...\n-570-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. OFF position directly to the ON position; trip latch reset is not required.",
-      "B. midposition directly to the ON position; trip latch reset is not required.",
-      "C. OFF position to the midposition to reset the trip latch, and then to the ON position.",
-      "D. midposition to the OFF position to reset the trip latch, and then to the ON position."
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "BKR776",
-    "topic": "Bkrs, Rlys, and Disconnects",
-    "question": "Two identical 1,000 MW generators are operating in parallel, supplying the same isolated electrical\nbus. The generator output breakers provide identical protection for the generators. Generator A\nand B output indications are as follows:\nGenerator A Generator B\n22.5 KV 22.5 KV\n60.2 Hertz 60.2 Hertz\n750 MW 750 MW\n25 MVAR (out) 50 MVAR (out)\nA malfunction causes the voltage regulator setpoint for generator B to slowly and continuously\nincrease. If no operator action is taken, which one of the following describes the electrical current\nindications for generator A?\npower.\npower.\novercurrent.\novercurrent.\n-571-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. Current will decrease continuously until the output breaker for generator A trips on reverse",
-      "B. Current will decrease continuously until the output breaker for generator B trips on reverse",
-      "C. Current will initially decrease, and then increase until the output breaker for generator A trips on",
-      "D. Current will initially decrease, and then increase until the output breaker for generator B trips on"
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "BKR777",
-    "topic": "Bkrs, Rlys, and Disconnects",
-    "question": "Two identical 1,000 MW generators are operating in parallel, supplying all the loads on an isolated\nelectrical bus. The generator output breakers provide identical protection for the generators.\nGenerator A and B output indications are as follows:\nGenerator A Generator B\n28 KV 28 KV\n60 Hertz 60 Hertz\n150 MW 100 MW\n25 MVAR (out) 50 MVAR (out)\nA malfunction causes the voltage regulator setpoint for generator B to slowly and continuously\ndecrease. If no operator action is taken, the electrical current indication for generator B will...\n-572-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. initially decrease, and then increase until the output breaker for generator A trips on overcurrent.",
-      "B. initially decrease, and then increase until the output breaker for generator B trips on overcurrent.",
-      "C. decrease continuously until the output breaker for generator A trips on overcurrent.",
-      "D. decrease continuously until the output breaker for generator B trips on reverse power."
-    ],
+    "stem": " To completely deenergize an electrical component and its associated control and indication circuits, the component breaker should be...",
+    "choices": {
+      "A": "open with the control switch in Pull-To-Lock.",
+      "B": "open with the control switch tagged in the open position.",
+      "C": "racked out and tagged in the racked-out position.",
+      "D": "racked out with control power fuses removed."
+    },
     "answer": "A"
   },
   {
-    "id": "BKR778",
     "topic": "Bkrs, Rlys, and Disconnects",
-    "question": "Two identical 1,000 MW generators are operating in parallel supplying the same isolated electrical\nbus. The generator output breakers also provide identical protection for the generators. Generator\nA and B output indications are as follows:\nGenerator A Generator B\n22 KV 22 KV\n60.2 Hertz 60.2 Hertz\n200 MW 200 MW\n25 MVAR (out) 50 MVAR (out)\nA malfunction causes the voltage regulator setpoint for generator A to slowly and continuously\nincrease. If no operator action is taken, generator B output current will...\n-573-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. initially decrease, and then increase until the output breaker for generator A trips on overcurrent.",
-      "B. initially decrease, and then increase until the output breaker for generator B trips on overcurrent.",
-      "C. increase continuously until the output breaker for generator A trips on overcurrent.",
-      "D. increase continuously until the output breaker for generator B trips on overcurrent."
-    ],
+    "stem": " Which one of the following describes the normal operation of a local breaker overcurrent trip flag indicator? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "Actuates when no lockout is present; satisfies an electrical interlock to remotely close a breaker.",
+      "B": "Actuates when a breaker overcurrent trip has occurred; can be manually reset when the overcurrent condition clears.",
+      "C": "Actuates when a breaker has failed to trip on an overcurrent condition; can be manually reset when the overcurrent condition clears.",
+      "D": "Actuates to cause a breaker trip when the overcurrent trip setpoint is reached; can be remotely reset when the overcurrent condition clears. -566- PWR Test Items"
+    },
     "answer": "A"
   },
   {
-    "id": "BKR779",
     "topic": "Bkrs, Rlys, and Disconnects",
-    "question": "Two identical 1,000 MW electrical generators are operating in parallel supplying the same isolated\nelectrical bus. The generator output breakers provide identical protection for the generators.\nGenerator A and B output indications are as follows:\nGenerator A Generator B\n22 KV 22 KV\n60.2 Hertz 60.2 Hertz\n200 MW 200 MW\n25 MVAR (out) 50 MVAR (out)\nA malfunction causes the voltage regulator setpoint for generator A to slowly and continuously\ndecrease. If no operator action is taken, generator B output current will increase until...\n-574-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. the output breaker for generator A trips on overcurrent.",
-      "B. the output breaker for generator B trips on overcurrent.",
-      "C. the output breaker for generator A trips on reverse power.",
-      "D. the output breaker for generator B trips on reverse power."
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "BKR780",
-    "topic": "Bkrs, Rlys, and Disconnects",
-    "question": "Two identical 1,000 MW generators are operating in parallel supplying the same isolated electrical\nbus. The generator output breakers provide identical protection for the generators. Generator A\nand B output indications are as follows:\nGenerator A Generator B\n22 KV 22 KV\n60.2 Hertz 60.2 Hertz\n200 MW 200 MW\n25 MVAR (out) 50 MVAR (out)\nA malfunction causes the voltage regulator setpoint for generator B to slowly and continuously\nincrease. If no operator action is taken, generator A output current will...\n-575-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. increase continuously until the output breaker for generator A trips on overcurrent.",
-      "B. decrease continuously until the output breaker for generator B trips on overcurrent.",
-      "C. initially decrease, and then increase until the output breaker for generator A trips on overcurrent.",
-      "D. initially decrease, and then increase until the output breaker for generator B trips on overcurrent."
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "BKR781",
-    "topic": "Bkrs, Rlys, and Disconnects",
-    "question": "Refer to the drawing of a valve motor control circuit (see figure below).\nWhat is the purpose of depressing the S1 pushbutton?\n-576-\nPWR Test Items",
-    "image": "page576_img1.jpeg",
-    "choices": [
-      "A. To deenergize the K3 relay after the initiating condition has cleared.",
-      "B. To prevent energizing the K3 relay when the initiating condition occurs.",
-      "C. To manually energize the K3 relay in the absence of the initiating condition.",
-      "D. To maintain the K3 relay energized after the initiating condition has cleared."
-    ],
+    "stem": " Which one of the following describes the local overcurrent trip flag indicators for a breaker?",
+    "choices": {
+      "A": "They actuate prior to breaker tripping to warn of imminent protective action.",
+      "B": "They indicate breaker overcurrent trip actuation during and after breaker trip actuation.",
+      "C": "When actuated, they indicate that the associated breaker has failed to trip open.",
+      "D": "When actuated, they indicate that the breaker overcurrent trip relay has been reset."
+    },
     "answer": "A"
   },
   {
-    "id": "BKR782",
     "topic": "Bkrs, Rlys, and Disconnects",
-    "question": "Refer to the drawing of a valve motor control circuit (see figure below).\nOne purpose of the K3 relay is to...\npushbutton (S1) is depressed.\n-577-\nPWR Test Items",
-    "image": "page577_img1.jpeg",
-    "choices": [
-      "A. hold the valve open after one or both initiating conditions have cleared, even if the reset",
-      "B. hold the valve open even if one or both initiating conditions have cleared.",
-      "C. close the valve as soon as either initiating condition has cleared.",
-      "D. close the valve as soon as both initiating conditions have cleared."
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "BKR783",
-    "topic": "Bkrs, Rlys, and Disconnects",
-    "question": "Refer to the drawing of a valve motor control circuit (see figure below).\nThe valve is currently open with the contact configuration as shown. If the S1 pushbutton is\ndepressed, the valve will __________; and when the S1 pushbutton is subsequently released, the\nvalve will __________.\n-578-\nPWR Test Items",
-    "image": "page578_img1.jpeg",
-    "choices": [
-      "A. remain open; remain open",
-      "B. close; remain closed",
-      "C. remain open; close",
-      "D. close; open"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "BKR784",
-    "topic": "Bkrs, Rlys, and Disconnects",
-    "question": "Refer to the drawing of a valve motor control circuit (see figure below).\nWhich one of the following describes the function of the #3 contact?\n-579-\nPWR Test Items",
-    "image": "page579_img1.jpeg",
-    "choices": [
-      "A. To keep the K3 relay energized after the initiating condition clears.",
-      "B. To provide a method for manually energizing the K3 relay.",
-      "C. To increase circuit reliability because any one of the three contacts can energize the K3 relay.",
-      "D. To ensure the K3 relay can always be deenergized even with the initiating condition present."
-    ],
+    "stem": " Loss of breaker control power will cause... NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "breaker line voltage to indicate zero regardless of actual breaker position.",
+      "B": "the remote breaker position to indicate open regardless of actual breaker position.",
+      "C": "inability to operate the breaker locally and remotely.",
+      "D": "failure of the closing spring to charge following local closing of the breaker. -567- PWR Test Items"
+    },
     "answer": "A"
   },
   {
-    "id": "BKR785",
     "topic": "Bkrs, Rlys, and Disconnects",
-    "question": "Refer to the drawing of a valve motor control circuit (see figure below).\nThe initiating condition occurs and closes the #1 and #2 contacts to energize the K3 relay and open\nthe valve. Which one of the following will close the valve?\n-580-\nPWR Test Items",
-    "image": "page580_img1.jpeg",
-    "choices": [
-      "A. Loss of 125 VDC.",
-      "B. Both #1 and #2 contacts open.",
-      "C. Either #1 or #2 contact opens.",
-      "D. Depressing the S1 pushbutton with the initiating condition present."
-    ],
+    "stem": " Which one of the following will result from a loss of control power to a motor supply breaker?",
+    "choices": {
+      "A": "The motor ammeter indication will be zero regardless of actual breaker position.",
+      "B": "The breaker position will remotely indicate closed regardless of actual position.",
+      "C": "The breaker will trip open due to the actuation of its protective trip device.",
+      "D": "The charging motor will not recharge the closing spring after the breaker closes."
+    },
     "answer": "A"
   },
   {
-    "id": "BKR786",
     "topic": "Bkrs, Rlys, and Disconnects",
-    "question": "Refer to the drawing of a valve motor control circuit (see figure below).\nNote: Limit switch (LS) contacts are shown open regardless of valve position, but relay contacts are\nshown open/closed according to the standard convention for control circuit drawings.\nIf the valve is currently closed, when will the alarm actuate?\n-581-\nPWR Test Items",
-    "image": "page581_img1.jpeg",
-    "choices": [
-      "A. As soon as PB2 is pushed.",
-      "B. Ten seconds after PB2 is pushed if the valve is still closed.",
-      "C. Immediately upon pushing PB2 and for the next 10 seconds if the valve remains closed.",
-      "D. Ten seconds after PB2 is pushed if the valve is still stroking open."
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "BKR787",
-    "topic": "Bkrs, Rlys, and Disconnects",
-    "question": "Refer to the drawing of a valve motor control circuit for a valve that is currently fully closed (see\nfigure below).\nNote: Limit switch (LS) contacts are shown open regardless of valve position, but relay contacts are\nshown open/closed according to the standard convention for control circuit drawings.\nWhich one of the following describes when the motor-operated valve will begin to stroke open?\n-582-\nPWR Test Items",
-    "image": "page582_img1.png",
-    "choices": [
-      "A. At the same time the alarm actuates.",
-      "B. 10 seconds after PB2 is depressed.",
-      "C. Immediately after PB2 is depressed.",
-      "D. Immediately after PB1 is depressed if contact #1 is closed."
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "BKR788",
-    "topic": "Bkrs, Rlys, and Disconnects",
-    "question": "Refer to the drawing of a valve motor control circuit (see figure below).\nPushbutton PB2 was depressed to open the valve, and the current contact and pushbutton status is as\nshown with the following exceptions:\nLS1 is closed.\nLS3 is closed.\n#1 contact is closed.\n#2 contact is closed.\nWhich one of the following describes the condition of the valve and its control circuit?\nprematurely released.\n-583-\nPWR Test Items",
-    "image": "page583_img1.jpeg",
-    "choices": [
-      "A. The valve is closed and the valve motor circuit has just been energized to open the valve.",
-      "B. The valve is closed and an open demand signal has existed for at least 10 seconds.",
-      "C. The valve is partially open and the valve motor circuit is deenergized because PB2 was",
-      "D. The valve is partially open and an open demand signal has existed for at least 10 seconds."
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "BKR789",
-    "topic": "Bkrs, Rlys, and Disconnects",
-    "question": "Refer to the drawing of a valve motor control circuit (see figure below).\nNote: Limit switch (LS) contacts are shown open regardless of valve position, but relay contacts are\nshown open/closed according to the standard convention for control circuit drawings.\nWhich one of the following describes the purpose of the alarm?\npushbutton PB2 is depressed.\ndepressing pushbutton PB2.\ndepressed.\npushbutton PB2.\n-584-\nPWR Test Items",
-    "image": "page584_img1.jpeg",
-    "choices": [
-      "A. Alert the operator when the valve motor circuit has been energized for 10 seconds after",
-      "B. Alert the operator when the valve has not moved off its closed seat within 10 seconds of",
-      "C. Alert the operator that the valve is opening by sounding the alarm for 10 seconds after PB2 is",
-      "D. Alert the operator if the valve has not reached full open within 10 seconds of depressing"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "BKR790",
-    "topic": "Bkrs, Rlys, and Disconnects",
-    "question": "Refer to the drawing of a valve motor control circuit (see figure below).\nNote: Limit switch (LS) contacts are shown open regardless of valve position, but relay contacts are\nshown open/closed according to the standard convention for control circuit drawings.\nThe valve is half open and moving to the open position. Which one of the following describes the\ncurrent condition of the valve position indicating lights?\n-585-\nPWR Test Items",
-    "image": "page585_img1.jpeg",
-    "choices": [
-      "A. Red light on, green light on",
-      "B. Red light on, green light off",
-      "C. Red light off, green light on",
-      "D. Red light off, green light off"
-    ],
+    "stem": " Which one of the following will cause a loss of ability to remotely open a breaker and a loss of remote breaker position indication? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "Failure of the breaker control switch.",
+      "B": "Racking the breaker to the TEST position.",
+      "C": "Mechanical binding of the breaker tripping bar.",
+      "D": "Loss of control power for the breaker. -568- PWR Test Items"
+    },
     "answer": "A"
   },
   {
-    "id": "BKR791",
     "topic": "Bkrs, Rlys, and Disconnects",
-    "question": "Refer to the drawing of a valve motor control circuit (see figure below).\nNote: Limit switch (LS) contacts are shown open regardless of valve position, but relay contacts are\nshown open/closed according to the standard convention for control circuit drawings.\nPushbutton PB2 has been momentarily depressed and then released, and the valve is currently at\nmid-stroke and moving to the open position. Under these conditions, which one of the following\ndescribes the position of contacts #1, #2, and #3?\n-586-\nPWR Test Items",
-    "image": "page586_img1.jpeg",
-    "choices": [
-      "A. #1 closed; #2 open; #3 open",
-      "B. #1 open; #2 closed; #3 closed",
-      "C. #1 open; #2 closed; #3 open",
-      "D. #1 closed; #2 open; #3 closed"
-    ],
+    "stem": " Which one of the following will cause a loss of indication from the remote breaker position indicating lights associated with a typical 480 VAC load supply breaker?",
+    "choices": {
+      "A": "Locally opening the breaker.",
+      "B": "Loss of breaker line voltage.",
+      "C": "Removing the breaker control power fuses.",
+      "D": "Burnout of the local breaker position indicating lights."
+    },
     "answer": "A"
   },
   {
-    "id": "BKR792",
     "topic": "Bkrs, Rlys, and Disconnects",
-    "question": "Refer to the drawing of a valve motor control circuit (see figure below) for a valve that is currently\nfully open and has a 10-second stroke time.\nNote: Limit switch (LS) contacts are shown open regardless of valve position, but relay contacts are\nshown open/closed according to the standard convention for control circuit drawings.\nWhich one of the following describes the valve response if the control switch is taken to the CLOSE\nposition for two seconds and then released?\n-587-\nPWR Test Items",
-    "image": "page587_img1.jpeg",
-    "choices": [
-      "A. The valve will not move.",
-      "B. The valve will close fully.",
-      "C. The valve will begin to close and then stop moving.",
-      "D. The valve will begin to close and then open fully."
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "BKR793",
-    "topic": "Bkrs, Rlys, and Disconnects",
-    "question": "Refer to the drawing of a valve motor control circuit (see figure below) for a valve that is currently\nfully closed and has a 10-second stroke time.\nNote: Limit switch (LS) contacts are shown open regardless of valve position, but relay contacts are\nshown open/closed according to the standard convention for control circuit drawings.\nWhich one of the following describes the valve response if the control switch is taken to the OPEN\nposition for two seconds and then released?\n-588-\nPWR Test Items",
-    "image": "page588_img1.jpeg",
-    "choices": [
-      "A. The valve will not move.",
-      "B. The valve will open fully.",
-      "C. The valve will begin to open and then stop moving.",
-      "D. The valve will begin to open and then close fully."
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "BKR794",
-    "topic": "Bkrs, Rlys, and Disconnects",
-    "question": "Refer to the drawing of a valve motor control circuit (see figure below) for a valve that is currently\nfully open and has a 10-second stroke time. Limit switch LS2 has failed open.\nNote: Limit switch (LS) contacts are shown open regardless of valve position, but relay contacts are\nshown open/closed according to the standard convention for control circuit drawings.\nWhich one of the following describes the valve response if the control switch is taken to the CLOSE\nposition for 2 seconds and then released?\n-589-\nPWR Test Items",
-    "image": "page589_img1.jpeg",
-    "choices": [
-      "A. The valve will not move.",
-      "B. The valve will close fully.",
-      "C. The valve will begin to close and then stop moving.",
-      "D. The valve will begin to close and then open fully."
-    ],
+    "stem": " How is typical breaker operation affected when the associated breaker control power transfer switch is placed in the LOCAL position? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "Control power will be available to provide protective trips, and the breaker can be electrically operated only from the control room.",
+      "B": "Control power will be removed from both the open and close circuits, and the breaker can be electrically operated only from the control room.",
+      "C": "Control power will be available to provide protective trips, and the breaker can be electrically operated only from the breaker cabinet.",
+      "D": "Control power will be removed from both the open and close circuits, and the breaker can be electrically operated only from the breaker cabinet. -569- PWR Test Items"
+    },
     "answer": "A"
   },
   {
-    "id": "BKR795",
     "topic": "Bkrs, Rlys, and Disconnects",
-    "question": "Refer to the drawing of a valve motor control circuit (see figure below) for a valve that is currently\nfully closed and has a 10-second stroke time.\nNote: Limit switch (LS) contacts are shown open regardless of valve position, but relay contacts are\nshown open/closed according to the standard convention for control circuit drawings.\nThe operator takes the control switch to OPEN momentarily and the valve begins to open. Five\nseconds later, the operator takes the switch to CLOSE momentarily and then releases the switch.\nWhich one of the following describes the valve response after the switch is released?\n-590-\nPWR Test Items",
-    "image": "page590_img1.jpeg",
-    "choices": [
-      "A. The valve will stop opening and remain partially open.",
-      "B. The valve will stop opening and then go fully closed.",
-      "C. The valve will open fully and remain fully open.",
-      "D. The valve will open fully and then go fully closed."
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "BKR796",
-    "topic": "Bkrs, Rlys, and Disconnects",
-    "question": "Refer to the drawing of a valve motor control circuit (see figure below) for a valve that is currently\nfully closed and has a 10-second stroke time.\nNote: Limit switch (LS) contacts are shown open regardless of valve position, but relay contacts are\nshown open/closed according to the standard convention for control circuit drawings.\nAn operator takes the control switch to OPEN momentarily and the valve begins to open. Five\nseconds later, the operator places and holds the switch in the CLOSE position. Which one of the\nfollowing describes the valve response with the switch held in the CLOSE position?\n-591-\nPWR Test Items",
-    "image": "page591_img1.jpeg",
-    "choices": [
-      "A. The valve will stop opening and remain partially open.",
-      "B. The valve will stop opening and then go fully closed.",
-      "C. The valve will open fully and remain fully open.",
-      "D. The valve will open fully and then go fully closed."
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "BKR797",
-    "topic": "Bkrs, Rlys, and Disconnects",
-    "question": "Refer to the drawing of a valve motor control circuit (see figure below) for a valve that is currently\nfully closed and has a 10-second stroke time.\nNote: Limit switch (LS) contacts are shown open regardless of valve position, but relay contacts are\nshown open/closed according to the standard convention for control circuit drawings.\nAn operator takes the control switch to OPEN. Two seconds later, after verifying the valve is\nopening, the operator releases the control switch. Which one of the following describes the valve\nmotor control circuit alarm response after the switch is released?\n-592-\nPWR Test Items",
-    "image": "page592_img1.jpeg",
-    "choices": [
-      "A. The alarm will continue to actuate for approximately 8 seconds.",
-      "B. The alarm will continue to actuate until additional operator action is taken.",
-      "C. The alarm will actuate after approximately 8 seconds.",
-      "D. The alarm will not actuate until additional operator action is taken."
-    ],
+    "stem": " A typical 120 VAC manual circuit breaker tripped due to overload. To close this circuit breaker, the handle must be moved from the... NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "OFF position directly to the ON position; trip latch reset is not required.",
+      "B": "midposition directly to the ON position; trip latch reset is not required.",
+      "C": "OFF position to the midposition to reset the trip latch, and then to the ON position.",
+      "D": "midposition to the OFF position to reset the trip latch, and then to the ON position. -570- PWR Test Items"
+    },
     "answer": "A"
   },
   {
-    "id": "BKR798",
     "topic": "Bkrs, Rlys, and Disconnects",
-    "question": "Refer to the drawing of a motor and its control circuit (see figure below).\nNote: Relay contacts are shown open/closed according to the standard convention for control\ncircuit drawings.\nWhat is the purpose of the Time Delay Coil (TD) in the motor controller circuit?\n-593-\nPWR Test Items",
-    "image": "page593_img1.jpeg",
-    "choices": [
-      "A. Ensures the motor cannot be started until the overload relays are reset.",
-      "B. Ensures the motor cannot be started until the accelerating coil is energized.",
-      "C. Allows the motor to come up to speed before bypassing the starting resistors.",
-      "D. Allows the motor to come up to speed before placing the starting resistors in the circuit."
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "BKR799",
-    "topic": "Bkrs, Rlys, and Disconnects",
-    "question": "Refer to the drawing of a motor and its control circuit (see figure below).\nNote: Relay contacts are shown open/closed according to the standard convention for control\ncircuit drawings.\nThe motor receives overload protection from __________ overload relays; and __________\noverload relay(s) must actuate to deenergize the motor.\n-594-\nPWR Test Items",
-    "image": "page594_img1.jpeg",
-    "choices": [
-      "A. two; one",
-      "B. two; two",
-      "C. three; one",
-      "D. three; two"
-    ],
+    "stem": " Two identical 1,000 MW generators are operating in parallel, supplying the same isolated electrical bus. The generator output breakers provide identical protection for the generators. Generator A and B output indications are as follows: Generator A Generator B 22.5 KV 22.5 KV 60.2 Hertz 60.2 Hertz 750 MW 750 MW 25 MVAR (out) 50 MVAR (out) A malfunction causes the voltage regulator setpoint for generator B to slowly and continuously increase. If no operator action is taken, which one of the following describes the electrical current indications for generator A? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "Current will decrease continuously until the output breaker for generator A trips on reverse power.",
+      "B": "Current will decrease continuously until the output breaker for generator B trips on reverse power.",
+      "C": "Current will initially decrease, and then increase until the output breaker for generator A trips on overcurrent.",
+      "D": "Current will initially decrease, and then increase until the output breaker for generator B trips on overcurrent. -571- PWR Test Items"
+    },
     "answer": "A"
   },
   {
-    "id": "BKR800",
     "topic": "Bkrs, Rlys, and Disconnects",
-    "question": "Refer to the drawing of a valve motor control circuit (see figure below) for a valve that is currently\nfully closed and has a 10-second stroke time.\nNote: Limit switch (LS) contacts are shown open regardless of valve position, but relay contacts are\nshown open/closed according to the standard convention for control circuit drawings.\nThe operator takes the control switch to OPEN for 5 seconds and then releases the switch. After\none minute, the operator takes the control switch to CLOSE for 5 seconds and then releases the\nswitch. Which one of the following describes the valve position immediately after the control\nswitch is released the second time?\n-595-\nPWR Test Items",
-    "image": "page595_img1.jpeg",
-    "choices": [
-      "A. Approximately fully open.",
-      "B. Approximately fully closed.",
-      "C. Approximately 50 percent open.",
-      "D. Cannot be determined without additional information."
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "BKR801",
-    "topic": "Bkrs, Rlys, and Disconnects",
-    "question": "Refer to the drawing of a motor and its control circuit (see figure below).\nNote: Relay contacts are shown open/closed according to the standard convention for control\ncircuit drawings.\nHow are the starting resistors employed before and after the motor is energized?\n-596-\nPWR Test Items",
-    "image": "page596_img1.jpeg",
-    "choices": [
-      "A. Inserted before the motor is energized; simultaneously bypassed after the motor gains speed.",
-      "B. Inserted before the motor is energized; sequentially bypassed as the motor gains speed.",
-      "C. Bypassed before the motor is energized; simultaneously inserted after the motor gains speed.",
-      "D. Bypassed before the motor is energized; sequentially inserted as the motor gains speed."
-    ],
+    "stem": " Two identical 1,000 MW generators are operating in parallel, supplying all the loads on an isolated electrical bus. The generator output breakers provide identical protection for the generators. Generator A and B output indications are as follows: Generator A Generator B 28 KV 28 KV 60 Hertz 60 Hertz 150 MW 100 MW 25 MVAR (out) 50 MVAR (out) A malfunction causes the voltage regulator setpoint for generator B to slowly and continuously decrease. If no operator action is taken, the electrical current indication for generator B will... NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "initially decrease, and then increase until the output breaker for generator A trips on overcurrent.",
+      "B": "initially decrease, and then increase until the output breaker for generator B trips on overcurrent.",
+      "C": "decrease continuously until the output breaker for generator A trips on overcurrent.",
+      "D": "decrease continuously until the output breaker for generator B trips on reverse power. -572- PWR Test Items"
+    },
     "answer": "A"
   },
   {
-    "id": "BKR802",
     "topic": "Bkrs, Rlys, and Disconnects",
-    "question": "Refer to the drawing of a motor and its control circuit (see figure below).\nNote: Relay contacts are shown open/closed according to the standard convention for control\ncircuit drawings.\nThe motor has been operating for several hours when it is decided to stop the motor. What is the\nstatus of the starting resistors before and after the motor STOP pushbutton is depressed?\ndepressed.\npushbutton is depressed.\ndepressed.\n-597-\nPWR Test Items",
-    "image": "page597_img1.jpeg",
-    "choices": [
-      "A. Initially inserted in the motor circuit; bypassed immediately after the STOP pushbutton is",
-      "B. Initially inserted in the motor circuit; bypassed following a preset time delay after the STOP",
-      "C. Initially bypassed; bypass is removed immediately after the STOP pushbutton is depressed.",
-      "D. Initially bypassed; bypass is removed following a preset time delay after the STOP pushbutton is"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "BKR803",
-    "topic": "Bkrs, Rlys, and Disconnects",
-    "question": "Refer to the drawing of a valve motor control circuit (see figure below) for a valve that is currently\nfully closed and has a 10-second stroke time.\nNote: Limit switch (LS) contacts are shown open regardless of valve position, but relay contacts are\nshown open/closed according to the standard convention for control circuit drawings.\nWhich one of the following describes the valve response if the control switch is taken to the OPEN\nposition for two seconds and then released?\n-598-\nPWR Test Items",
-    "image": "page598_img1.jpeg",
-    "choices": [
-      "A. The valve will not move.",
-      "B. The valve will open fully.",
-      "C. The valve will begin to open and then stop moving.",
-      "D. The valve will begin to open and then close fully."
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "BKR804",
-    "topic": "Bkrs, Rlys, and Disconnects",
-    "question": "Refer to the drawing of a motor and its control circuit (see figure below).\nNote: Relay contacts are shown open/closed according to the standard convention for control\ncircuit drawings.\nThe motor has been idle for several days when it is decided to start the motor. What is the status of\nthe starting resistors before and after the motor START pushbutton is depressed?\nis depressed.\ndepressed.\npushbutton is depressed.\n-599-\nPWR Test Items",
-    "image": "page599_img1.jpeg",
-    "choices": [
-      "A. Initially bypassed; bypass is removed immediately after the START pushbutton is depressed.",
-      "B. Initially bypassed; bypass is removed following a preset time delay after the START pushbutton",
-      "C. Initially inserted in the motor circuit; bypassed immediately after the START pushbutton is",
-      "D. Initially inserted in the motor circuit; bypassed following a preset time delay after the START"
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "BKR805",
-    "topic": "Bkrs, Rlys, and Disconnects",
-    "question": "Refer to the drawing of a valve motor control circuit (see figure below) for a valve that is currently\nfully open and has a 10-second stroke time.\nNote: Limit switch (LS) contacts are shown open regardless of valve position, but relay contacts are\nshown open/closed according to the standard convention for control circuit drawings.\nThe operator takes the control switch to CLOSE. Two seconds later, after verifying the valve is\nclosing, the operator releases the control switch. Which one of the following describes the valve\nmotor control circuit alarm response after the switch is released?\n-600-\nPWR Test Items",
-    "image": "page600_img1.jpeg",
-    "choices": [
-      "A. The alarm will continue to actuate for approximately 8 seconds.",
-      "B. The alarm will continue to actuate until additional operator action is taken.",
-      "C. The alarm will actuate after approximately 8 seconds.",
-      "D. The alarm will not actuate until additional operator action is taken."
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "BKR806",
-    "topic": "Bkrs, Rlys, and Disconnects",
-    "question": "Refer to the drawing of a valve motor control circuit (see figure below).\nNote: Limit switch (LS) contacts are shown open regardless of valve position, but relay contacts are\nshown open/closed according to the standard convention for control circuit drawings.\nWhich one of the following will actuate the alarm?\n-601-\nPWR Test Items",
-    "image": "page601_img1.jpeg",
-    "choices": [
-      "A. With the valve partially closed, the control switch is taken to the CLOSE position.",
-      "B. With the valve partially closed, the control switch is taken to the OPEN position.",
-      "C. With the valve fully open, the control switch is taken to the CLOSE position.",
-      "D. With the valve fully open, the control switch is taken to the OPEN position."
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "BKR807",
-    "topic": "Bkrs, Rlys, and Disconnects",
-    "question": "Refer to the drawing of a valve motor control circuit (see figure below) for a valve that is currently\nfully open and has a 10-second stroke time.\nNote: Limit switch (LS) contacts are shown open regardless of valve position, but relay contacts are\nshown open/closed according to the standard convention for control circuit drawings.\nThe operator takes the control switch to CLOSE momentarily and the valve begins to close. Five\nseconds later, the operator takes the switch to OPEN momentarily and then releases the switch.\nWhich one of the following describes the valve response after the switch is released?\n-602-\nPWR Test Items",
-    "image": "page602_img1.jpeg",
-    "choices": [
-      "A. The valve will stop closing and remain partially open.",
-      "B. The valve will stop closing and then go fully open.",
-      "C. The valve will close fully and remain fully closed.",
-      "D. The valve will close fully and then go fully open."
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "BKR808",
-    "topic": "Bkrs, Rlys, and Disconnects",
-    "question": "Refer to the drawing of a valve motor control circuit (see figure below) for a valve that is currently\nfully closed and has a 10-second stroke time.\nNote: Limit switch (LS) contacts are shown open regardless of valve position, but relay contacts are\nshown open/closed according to the standard convention for control circuit drawings.\nAn operator takes the control switch to OPEN momentarily and the valve begins to open. Five\nseconds later, the operator takes the control switch to CLOSE momentarily and releases the switch.\nWhich one of the following describes the valve response when the control switch is taken to CLOSE\nmomentarily and released?\n-603-\nPWR Test Items",
-    "image": "page603_img1.png",
-    "choices": [
-      "A. The valve will stop opening and remain partially open.",
-      "B. The valve will stop opening and then go fully closed.",
-      "C. The valve will open fully and remain fully open.",
-      "D. The valve will open fully and then go fully closed."
-    ],
+    "stem": " Two identical 1,000 MW generators are operating in parallel supplying the same isolated electrical bus. The generator output breakers also provide identical protection for the generators. Generator A and B output indications are as follows: Generator A Generator B 22 KV 22 KV 60.2 Hertz 60.2 Hertz 200 MW 200 MW 25 MVAR (out) 50 MVAR (out) A malfunction causes the voltage regulator setpoint for generator A to slowly and continuously increase. If no operator action is taken, generator B output current will... NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "initially decrease, and then increase until the output breaker for generator A trips on overcurrent.",
+      "B": "initially decrease, and then increase until the output breaker for generator B trips on overcurrent.",
+      "C": "increase continuously until the output breaker for generator A trips on overcurrent.",
+      "D": "increase continuously until the output breaker for generator B trips on overcurrent. -573- PWR Test Items"
+    },
     "answer": "A"
   },
   {
-    "id": "BKR809",
     "topic": "Bkrs, Rlys, and Disconnects",
-    "question": "Refer to the drawing of a valve motor control circuit (see figure below) for a valve that is currently\nfully closed and has a 10-second stroke time.\nNote: Limit switch (LS) contacts are shown open regardless of valve position, but relay contacts are\nshown open/closed according to the standard convention for control circuit drawings.\nThe operator takes the control switch to OPEN momentarily and the valve begins to open. Five\nseconds later, the operator takes the switch to CLOSE momentarily and then releases the switch.\nWhich one of the following describes the valve response after the switch is released?\n-604-\nPWR Test Items",
-    "image": "page604_img1.jpeg",
-    "choices": [
-      "A. The valve will stop opening and remain partially open.",
-      "B. The valve will stop opening and then go fully closed.",
-      "C. The valve will open fully and remain fully open.",
-      "D. The valve will open fully and then go fully closed."
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "BKR810",
-    "topic": "Bkrs, Rlys, and Disconnects",
-    "question": "KNOWLEDGE: K1.06 [2.3/2.6]\nRefer to the drawing of a valve motor control circuit (see figure below) for a valve that is currently\nfully open and has a 10-second stroke time.\nNote: Limit switch (LS) contacts are shown open regardless of valve position, but relay contacts are\nshown open/closed according to the standard convention for control circuit drawings.\nThe operator takes the control switch to CLOSE. Two seconds later, after verifying the valve is\nclosing, the operator releases the control switch. Which one of the following describes the valve\nmotor control circuit alarm response after the switch is released?\n-605-\nPWR Test Items",
-    "image": "page605_img1.jpeg",
-    "choices": [
-      "A. The alarm will continue to actuate for approximately 8 seconds.",
-      "B. The alarm will continue to actuate until additional operator action is taken.",
-      "C. The alarm will actuate after approximately 8 seconds.",
-      "D. The alarm will not actuate until additional operator action is taken."
-    ],
+    "stem": " Two identical 1,000 MW electrical generators are operating in parallel supplying the same isolated electrical bus. The generator output breakers provide identical protection for the generators. Generator A and B output indications are as follows: Generator A Generator B 22 KV 22 KV 60.2 Hertz 60.2 Hertz 200 MW 200 MW 25 MVAR (out) 50 MVAR (out) A malfunction causes the voltage regulator setpoint for generator A to slowly and continuously decrease. If no operator action is taken, generator B output current will increase until... NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "the output breaker for generator A trips on overcurrent.",
+      "B": "the output breaker for generator B trips on overcurrent.",
+      "C": "the output breaker for generator A trips on reverse power.",
+      "D": "the output breaker for generator B trips on reverse power. -574- PWR Test Items"
+    },
     "answer": "A"
   },
   {
-    "id": "BKR811",
     "topic": "Bkrs, Rlys, and Disconnects",
-    "question": "Refer to the drawing of a valve motor control circuit (see figure below) for a valve that is currently\nfully open and has a 16-second stroke time.\nNote: Limit switch (LS) contacts are shown open regardless of valve position, but relay contacts are\nshown open/closed according to the standard convention for control circuit drawings.\nAn operator takes the control switch to CLOSE. Two seconds later, after verifying the valve is\nclosing, the operator releases the control switch. When the valve stops moving, what will be the\nstatus of the alarm and the red (R) and green (G) indicating lights?\nRed Ind. Green Ind.\nAlarm Light Light\n-606-\nPWR Test Items",
-    "image": "page606_img1.jpeg",
-    "choices": [
-      "A. On On On",
-      "B. On Off On",
-      "C. Off On Off",
-      "D. Off Off Off"
-    ],
+    "stem": " Two identical 1,000 MW generators are operating in parallel supplying the same isolated electrical bus. The generator output breakers provide identical protection for the generators. Generator A and B output indications are as follows: Generator A Generator B 22 KV 22 KV 60.2 Hertz 60.2 Hertz 200 MW 200 MW 25 MVAR (out) 50 MVAR (out) A malfunction causes the voltage regulator setpoint for generator B to slowly and continuously increase. If no operator action is taken, generator A output current will... NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "increase continuously until the output breaker for generator A trips on overcurrent.",
+      "B": "decrease continuously until the output breaker for generator B trips on overcurrent.",
+      "C": "initially decrease, and then increase until the output breaker for generator A trips on overcurrent.",
+      "D": "initially decrease, and then increase until the output breaker for generator B trips on overcurrent. -575- PWR Test Items"
+    },
     "answer": "A"
   },
   {
-    "id": "BKR812",
     "topic": "Bkrs, Rlys, and Disconnects",
-    "question": "Refer to the drawing of a valve motor control circuit (see figure below) for a valve that is currently\nfully open and has a 10-second stroke time.\nNote: Limit switch (LS) contacts are shown open regardless of valve position, but relay contacts are\nshown open/closed according to the standard convention for control circuit drawings.\nThe operator takes the control switch to CLOSE. Two seconds later, after verifying the valve is\nclosing, the operator releases the control switch. Which one of the following describes the valve\nmotor control circuit alarm response after the switch is released?\n-607-\nPWR Test Items",
-    "image": "page607_img1.jpeg",
-    "choices": [
-      "A. The alarm will actuate after approximately 8 seconds.",
-      "B. The alarm will not actuate until additional operator action is taken.",
-      "C. The alarm will continue to actuate for approximately 8 seconds.",
-      "D. The alarm will continue to actuate until additional operator action is taken."
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "BKR813",
-    "topic": "Bkrs, Rlys, and Disconnects",
-    "question": "Refer to the drawing of a valve motor control circuit (see figure below) for a valve that is currently\nfully open and has a 16-second stroke time.\nNote: Limit switch (LS) contacts are shown open regardless of valve position, but relay contacts are\nshown open/closed according to the standard convention for control circuit drawings.\nAn operator takes the control switch to CLOSE. Two seconds later, after verifying the valve is\nclosing, the operator releases the control switch. When the valve stops moving, what will be the\nstatus of the alarm and the red (R) and green (G) indicating lights?\nRed Ind. Green Ind.\nAlarm Light Light\n-608-\nPWR Test Items",
-    "image": "page608_img1.jpeg",
-    "choices": [
-      "A. On On On",
-      "B. On Off Off",
-      "C. Off On Off",
-      "D. Off Off On"
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "BKR814",
-    "topic": "Bkrs, Rlys, and Disconnects",
-    "question": "Refer to the drawing of a valve motor control circuit (see figure below) for a valve that is currently\nfully open and has an 8-second stroke time.\nNote: Limit switch (LS) contacts are shown open regardless of valve position, but relay contacts are\nshown open/closed according to the standard convention for control circuit drawings. All contacts\nare functional, except for contact K2-2 which has failed open.\nAn operator takes the control switch to CLOSE. Four seconds later, the operator releases the\ncontrol switch. When the valve stops moving, what will be the status of the alarm and the red (R)\nand green (G) indicating lights?\nRed Ind. Green Ind.\nAlarm Light Light\n-609-\nPWR Test Items",
-    "image": "page609_img1.jpeg",
-    "choices": [
-      "A. On On On",
-      "B. On Off Off",
-      "C. Off On Off",
-      "D. Off Off On"
-    ],
+    "stem": " Refer to the drawing of a valve motor control circuit (see figure below). What is the purpose of depressing the S1 pushbutton? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "To deenergize the K3 relay after the initiating condition has cleared.",
+      "B": "To prevent energizing the K3 relay when the initiating condition occurs.",
+      "C": "To manually energize the K3 relay in the absence of the initiating condition.",
+      "D": "To maintain the K3 relay energized after the initiating condition has cleared. -576- PWR Test Items"
+    },
     "answer": "A"
   },
   {
-    "id": "BKR815",
     "topic": "Bkrs, Rlys, and Disconnects",
-    "question": "KNOWLEDGE: K1.06 [2.3/2.6]\nQID:\nRefer to the drawing of a valve motor control circuit (see figure below) for a valve that is currently\nfully closed and has a 10-second stroke time.\nNote: Limit switch (LS) contacts are shown open regardless of valve position, but relay contacts are\nshown open/closed according to the standard convention for control circuit drawings.\nThe operator takes the control switch to OPEN. Two seconds later, after verifying the valve is\nopening, the operator releases the control switch. Which one of the following describes the alarm\nresponse after the control switch is released?\n-610-\nPWR Test Items",
-    "image": "page610_img1.jpeg",
-    "choices": [
-      "A. The alarm will activate after approximately 8 seconds.",
-      "B. The alarm will not activate until additional operator action is taken.",
-      "C. The alarm will remain activated for approximately 8 seconds, and then deactivate.",
-      "D. The alarm will remain activated until additional operator action is taken."
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "BKR816",
-    "topic": "Bkrs, Rlys, and Disconnects",
-    "question": "Refer to the drawing of a valve motor control circuit (see figure below) for a valve that is currently\nfully closed and has a 10-second stroke time.\nNote: Limit switch (LS) contacts are shown open regardless of valve position, but relay contacts are\nshown open/closed according to the standard convention for control circuit drawings.\nThe operator takes the control switch to OPEN. Two seconds later, after verifying the valve is\nopening, the operator releases the control switch. Which one of the following describes the valve\nmotor control circuit alarm response after the switch is released?\n-611-\nPWR Test Items",
-    "image": "page611_img1.jpeg",
-    "choices": [
-      "A. The alarm will actuate after approximately 8 seconds.",
-      "B. The alarm will not actuate until additional operator action is taken.",
-      "C. The alarm will continue to actuate for approximately 8 seconds.",
-      "D. The alarm will continue to actuate until additional operator action is taken."
-    ],
+    "stem": " Refer to the drawing of a valve motor control circuit (see figure below). One purpose of the K3 relay is to... NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "hold the valve open after one or both initiating conditions have cleared, even if the reset pushbutton (S1) is depressed.",
+      "B": "hold the valve open even if one or both initiating conditions have cleared.",
+      "C": "close the valve as soon as either initiating condition has cleared.",
+      "D": "close the valve as soon as both initiating conditions have cleared. -577- PWR Test Items"
+    },
     "answer": "A"
   },
   {
-    "id": "BKR817",
     "topic": "Bkrs, Rlys, and Disconnects",
-    "question": "Refer to the drawing of a valve motor control circuit (see figure below).\nThe valve is currently closed with the contact configuration as shown. If the S1 pushbutton is\ndepressed, the valve will __________; and when the S1 pushbutton is subsequently released, the\nvalve will __________.\n-612-\nPWR Test Items",
-    "image": "page612_img1.jpeg",
-    "choices": [
-      "A. open; close",
-      "B. open; remain open",
-      "C. remain closed; open",
-      "D. remain closed; remain closed"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "BKR818",
-    "topic": "Bkrs, Rlys, and Disconnects",
-    "question": "Which one of the following is an unsafe practice if performed while working on or near energized\nelectrical equipment?",
-    "image": "",
-    "choices": [
-      "A. Using two hands for balance and to prevent dropping tools onto energized equipment.",
-      "B. Standing on insulating rubber material to increase the electrical resistance of the body to ground.",
-      "C. Having a person stand by to deenergize the equipment in the event of an emergency.",
-      "D. Covering exposed energized circuits with insulating material to prevent inadvertent contact."
-    ],
+    "stem": " Refer to the drawing of a valve motor control circuit (see figure below). The valve is currently open with the contact configuration as shown. If the S1 pushbutton is depressed, the valve will __________; and when the S1 pushbutton is subsequently released, the valve will __________. NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "remain open; remain open",
+      "B": "close; remain closed",
+      "C": "remain open; close",
+      "D": "close; open -578- PWR Test Items"
+    },
     "answer": "A"
   },
   {
-    "id": "BKR819",
     "topic": "Bkrs, Rlys, and Disconnects",
-    "question": "A 480 VAC motor is supplied power via an electrical disconnect in series with a breaker. Which\none of the following describes the proper operations to isolate power to the motor?\n-613-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. Open the disconnect first, then the breaker.",
-      "B. Open the breaker first, then the disconnect.",
-      "C. Open the device that is closest to the motor first.",
-      "D. Open the device that is closest to the power source first."
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "BKR820",
-    "topic": "Bkrs, Rlys, and Disconnects",
-    "question": "Which one of the following is an unsafe practice if performed while working on or near energized\nelectrical equipment?\nemergency.",
-    "image": "",
-    "choices": [
-      "A. Use insulated tools to prevent inadvertent contact with adjacent equipment.",
-      "B. Cover exposed energized circuits with insulating material to prevent inadvertent contact.",
-      "C. Attach a metal strap from your body to a nearby neutral ground to ensure that you are grounded.",
-      "D. Have a person standing by with the ability to remove you from the equipment in the event of an"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "BKR821",
-    "topic": "Bkrs, Rlys, and Disconnects",
-    "question": "The primary reason for isolating emergency electrical loads from their power supply bus prior to\nenergizing the bus via the emergency diesel generator is to prevent an...\n-614-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. overcurrent condition on the generator.",
-      "B. overcurrent condition on the loads.",
-      "C. underfrequency condition on the generator.",
-      "D. underfrequency condition on the loads."
-    ],
+    "stem": " Refer to the drawing of a valve motor control circuit (see figure below). Which one of the following describes the function of the #3 contact? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "To keep the K3 relay energized after the initiating condition clears.",
+      "B": "To provide a method for manually energizing the K3 relay.",
+      "C": "To increase circuit reliability because any one of the three contacts can energize the K3 relay.",
+      "D": "To ensure the K3 relay can always be deenergized even with the initiating condition present. -579- PWR Test Items"
+    },
     "answer": "A"
   },
   {
-    "id": "BKR822",
     "topic": "Bkrs, Rlys, and Disconnects",
-    "question": "A main generator is being connected to an infinite power grid that is operating at 60 Hz. Generator\noutput voltage is equal to the grid voltage but generator frequency is at 57 Hz.\nWhich one of the following generator conditions is most likely to occur if the generator output\nbreaker is closed with voltages in phase (synchronized), but with the existing frequency difference?\n(Assume no generator breaker protective trip occurs.)",
-    "image": "",
-    "choices": [
-      "A. Reverse power",
-      "B. Underfrequency",
-      "C. Undervoltage",
-      "D. Overspeed"
-    ],
+    "stem": " Refer to the drawing of a valve motor control circuit (see figure below). The initiating condition occurs and closes the #1 and #2 contacts to energize the K3 relay and open the valve. Which one of the following will close the valve? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "Loss of 125 VDC.",
+      "B": "Both #1 and #2 contacts open.",
+      "C": "Either #1 or #2 contact opens.",
+      "D": "Depressing the S1 pushbutton with the initiating condition present. -580- PWR Test Items"
+    },
     "answer": "A"
   },
   {
-    "id": "BKR823",
     "topic": "Bkrs, Rlys, and Disconnects",
-    "question": "Closing the output breaker of a three-phase generator onto a deenergized bus can...\n-615-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. produce an overvoltage condition on the bus.",
-      "B. produce an overcurrent condition on the generator if the bus was not first unloaded.",
-      "C. result in a reverse power trip of the generator circuit breaker if generator frequency is low.",
-      "D. result in large reactive currents in the generator."
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "BKR824",
-    "topic": "Bkrs, Rlys, and Disconnects",
-    "question": "A main generator is being paralleled to an infinite power grid. Closing the output breaker of the\ngenerator with the frequency of the generator 0.1 Hz higher than grid frequency will result in the\ngenerator...",
-    "image": "",
-    "choices": [
-      "A. behaving as a real load to the grid.",
-      "B. behaving as a reactive load to the grid.",
-      "C. supplying a portion of the grid reactive load.",
-      "D. supplying a portion of the grid real load."
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "BKR825",
-    "topic": "Bkrs, Rlys, and Disconnects",
-    "question": "Which one of the following generator conditions is most likely to result in equipment damage from\nhigh current flow?\n-616-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. Tripping the output breaker under full-load conditions.",
-      "B. Tripping the generator prime mover under full-load conditions.",
-      "C. Closing the output breaker onto a bus that has a short-circuit fault.",
-      "D. Closing the output breaker onto a bus that has an open-circuit fault."
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "BKR826",
-    "topic": "Bkrs, Rlys, and Disconnects",
-    "question": "A main generator is about to be connected to an infinite power grid. Closing the generator output\nbreaker with the generator voltage slightly lower than grid voltage and with generator frequency\nslightly higher than grid frequency will initially result in: (Assume no generator breaker protective\ntrip occurs.)",
-    "image": "",
-    "choices": [
-      "A. the generator supplying reactive power to the grid.",
-      "B. the generator attaining a leading power factor.",
-      "C. the generator acting as a real load to the grid.",
-      "D. motoring of the generator."
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "BKR827",
-    "topic": "Bkrs, Rlys, and Disconnects",
-    "question": "A main generator is being paralleled to the power grid. Generator voltage has been properly\nadjusted and the synchroscope is rotating slowly in the clockwise direction.\nThe generator breaker must be closed just as the synchroscope pointer reaches the 12 o'clock\nposition to prevent...\n-617-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. motoring of the generator, due to unequal frequencies.",
-      "B. excessive MW load transfer to the generator, due to unequal frequencies.",
-      "C. excessive MW load transfer to the generator, due to out-of-phase voltages.",
-      "D. excessive arcing within the generator output breaker, due to out-of-phase voltages."
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "BKR828",
-    "topic": "Bkrs, Rlys, and Disconnects",
-    "question": "During paralleling operations of the main generator to an infinite power grid, closing the generator\noutput breaker with the frequency of the generator at 61 hertz and the grid frequency at 60 hertz\nwill...",
-    "image": "",
-    "choices": [
-      "A. cause the generator to immediately increase load.",
-      "B. trip open the generator breaker on reverse power.",
-      "C. cause the generator voltage to increase.",
-      "D. cause the generator current to decrease."
-    ],
+    "stem": " Refer to the drawing of a valve motor control circuit (see figure below). Note: Limit switch (LS) contacts are shown open regardless of valve position, but relay contacts are shown open/closed according to the standard convention for control circuit drawings. If the valve is currently closed, when will the alarm actuate? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "As soon as PB2 is pushed.",
+      "B": "Ten seconds after PB2 is pushed if the valve is still closed.",
+      "C": "Immediately upon pushing PB2 and for the next 10 seconds if the valve remains closed.",
+      "D": "Ten seconds after PB2 is pushed if the valve is still stroking open. -581- PWR Test Items"
+    },
     "answer": "A"
   },
   {
-    "id": "BKR829",
     "topic": "Bkrs, Rlys, and Disconnects",
-    "question": "Which one of the following evolutions will draw the highest current from the main generator during\noperation of the output breaker?\n-618-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. Opening the output breaker under full-load conditions.",
-      "B. Opening the output breaker under no-load conditions.",
-      "C. Closing the output breaker with voltages out of phase.",
-      "D. Closing the output breaker with voltages in phase."
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "BKR830",
-    "topic": "Bkrs, Rlys, and Disconnects",
-    "question": "Under which one of the following pre-existing conditions will closing a breaker between two\nelectrical generators cause a sudden large and possibly damaging mechanical torque to be exerted on\nboth of the generators?",
-    "image": "",
-    "choices": [
-      "A. One generator is supplying a 3 percent higher voltage than the other.",
-      "B. One generator is supplying a 3 percent higher frequency than the other.",
-      "C. The voltage of one generator is out of phase with the other by 30 degrees.",
-      "D. The capacity of one generator is twice that of the other generator."
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "BKR831",
-    "topic": "Bkrs, Rlys, and Disconnects",
-    "question": "A main generator is about to be connected to an infinite power grid with the following conditions:\nGenerator frequency = 59.5 Hz\nGrid frequency: = 59.8 Hz\nGenerator voltage: = 115.1 KV\nGrid voltage: = 114.8 KV\nWhen the generator output breaker is closed, the generator will...\n-619-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. acquire real load and reactive load.",
-      "B. acquire real load but become a reactive load to the grid.",
-      "C. become a real load to the grid but acquire reactive load.",
-      "D. become a real load and a reactive load to the grid."
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "BKR832",
-    "topic": "Bkrs, Rlys, and Disconnects",
-    "question": "A main generator is about to be connected to an infinite power grid. Closing the generator output\nbreaker with generator and grid voltages matched, but with generator frequency lower than grid\nfrequency will initially result in the generator...",
-    "image": "",
-    "choices": [
-      "A. picking up a portion of the grid real load.",
-      "B. picking up a portion of the grid reactive load.",
-      "C. experiencing reverse power conditions.",
-      "D. experiencing overspeed conditions."
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "BKR833",
-    "topic": "Bkrs, Rlys, and Disconnects",
-    "question": "A main generator is about to be connected to an infinite power grid. Closing the generator output\nbreaker with the __________ of the generator higher than that of the grid will initially result in\ngenerator real load __________.\n-620-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. frequency; decreasing",
-      "B. frequency; increasing",
-      "C. voltage; decreasing",
-      "D. voltage; increasing"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "BKR834",
-    "topic": "Bkrs, Rlys, and Disconnects",
-    "question": "A main generator is about to be connected to an infinite power grid. Closing the generator output\nbreaker with generator and grid voltages matched, but with generator frequency 0.1 Hz higher than\ngrid frequency will initially result in the generator...",
-    "image": "",
-    "choices": [
-      "A. picking up a portion of the grid real load.",
-      "B. picking up a portion of the grid reactive load.",
-      "C. experiencing reverse power conditions.",
-      "D. experiencing overspeed conditions."
-    ],
+    "stem": " Refer to the drawing of a valve motor control circuit for a valve that is currently fully closed (see figure below). Note: Limit switch (LS) contacts are shown open regardless of valve position, but relay contacts are shown open/closed according to the standard convention for control circuit drawings. Which one of the following describes when the motor-operated valve will begin to stroke open? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "At the same time the alarm actuates.",
+      "B": "10 seconds after PB2 is depressed.",
+      "C": "Immediately after PB2 is depressed.",
+      "D": "Immediately after PB1 is depressed if contact #1 is closed. -582- PWR Test Items"
+    },
     "answer": "A"
   },
   {
-    "id": "BKR835",
     "topic": "Bkrs, Rlys, and Disconnects",
-    "question": "A main generator is about to be connected to an infinite power grid with the following conditions:\nGenerator frequency = 59.8 Hz\nGrid frequency = 59.5 Hz\nGenerator voltage = 114.8 KV\nGrid voltage = 115.1 KV\nWhen the generator output breaker is closed, the generator will initially...\n-621-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. acquire real load and reactive load.",
-      "B. acquire real load, but become a reactive load to the grid.",
-      "C. become a real load to the grid, but acquire reactive load.",
-      "D. become a real load and a reactive load to the grid."
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "BKR836",
-    "topic": "Bkrs, Rlys, and Disconnects",
-    "question": "A main generator is being paralleled to an infinite power grid. Generator voltage has been properly\nadjusted and the synchroscope is rotating slowly in the counterclockwise direction.\nIf the generator breaker is closed just prior to the synchroscope pointer reaching the 12 o'clock\nposition, which one of the following is most likely to occur?",
-    "image": "",
-    "choices": [
-      "A. The breaker will close and the generator will supply only MW to the grid.",
-      "B. The breaker will close and the generator will supply both MW and MVAR to the grid.",
-      "C. The breaker will close and then open due to overcurrent.",
-      "D. The breaker will close and then open due to reverse power."
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "BKR837",
-    "topic": "Bkrs, Rlys, and Disconnects",
-    "question": "A main generator is being connected to an infinite power grid. Which one of the following will\noccur if the generator output breaker is closed with generator frequency 0.1 Hz lower than power\ngrid frequency? (Assume that no generator protection relay actuates.)\noncoming) generator.\n-622-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. The generator will motorize.",
-      "B. The generator will accept too much load.",
-      "C. The voltage of the generator will decrease to compensate for the lower frequency.",
-      "D. The entire connected system will operate at the frequency of the lowest frequency (the"
-    ],
+    "stem": " Refer to the drawing of a valve motor control circuit (see figure below). Pushbutton PB2 was depressed to open the valve, and the current contact and pushbutton status is as shown with the following exceptions: LS1 is closed. LS3 is closed. #1 contact is closed. #2 contact is closed. Which one of the following describes the condition of the valve and its control circuit? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "The valve is closed and the valve motor circuit has just been energized to open the valve.",
+      "B": "The valve is closed and an open demand signal has existed for at least 10 seconds.",
+      "C": "The valve is partially open and the valve motor circuit is deenergized because PB2 was prematurely released.",
+      "D": "The valve is partially open and an open demand signal has existed for at least 10 seconds. -583- PWR Test Items"
+    },
     "answer": "A"
   },
   {
-    "id": "BKR838",
     "topic": "Bkrs, Rlys, and Disconnects",
-    "question": "A main generator is being prepared for paralleling with an infinite power grid. Which one of the\nfollowing indicates that the main generator and grid voltages are in phase?",
-    "image": "",
-    "choices": [
-      "A. The synchroscope pointer is at the 12 o\u2019clock position.",
-      "B. The frequency of the generator is equal to the frequency of the grid.",
-      "C. The synchroscope pointer is turning slowly in the clockwise direction.",
-      "D. The synchroscope pointer is turning slowly in the counterclockwise direction."
-    ],
+    "stem": " Refer to the drawing of a valve motor control circuit (see figure below). Note: Limit switch (LS) contacts are shown open regardless of valve position, but relay contacts are shown open/closed according to the standard convention for control circuit drawings. Which one of the following describes the purpose of the alarm? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "Alert the operator when the valve motor circuit has been energized for 10 seconds after pushbutton PB2 is depressed.",
+      "B": "Alert the operator when the valve has not moved off its closed seat within 10 seconds of depressing pushbutton PB2.",
+      "C": "Alert the operator that the valve is opening by sounding the alarm for 10 seconds after PB2 is depressed.",
+      "D": "Alert the operator if the valve has not reached full open within 10 seconds of depressing pushbutton PB2. -584- PWR Test Items"
+    },
     "answer": "A"
   },
   {
-    "id": "BKR839",
     "topic": "Bkrs, Rlys, and Disconnects",
-    "question": "A main generator is about to be connected to an infinite power grid. Which one of the following\nconditions will cause the main generator to immediately supply reactive power (MVAR) to the grid\nwhen the generator output breaker is closed?\n-623-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. Generator voltage is slightly higher than grid voltage.",
-      "B. Generator voltage is slightly lower than grid voltage.",
-      "C. The synchroscope is turning slowly in the clockwise direction.",
-      "D. The synchroscope is turning slowly in the counterclockwise direction."
-    ],
+    "stem": " Refer to the drawing of a valve motor control circuit (see figure below). Note: Limit switch (LS) contacts are shown open regardless of valve position, but relay contacts are shown open/closed according to the standard convention for control circuit drawings. The valve is half open and moving to the open position. Which one of the following describes the current condition of the valve position indicating lights? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "Red light on, green light on",
+      "B": "Red light on, green light off",
+      "C": "Red light off, green light on",
+      "D": "Red light off, green light off -585- PWR Test Items"
+    },
     "answer": "A"
   },
   {
-    "id": "BKR840",
     "topic": "Bkrs, Rlys, and Disconnects",
-    "question": "Two identical 1,000 MW electrical generators are being connected to the same electrical bus.\nGenerator A is currently supplying the bus. Generator A and B output indications are as follows:\nGenerator A Generator B\n4,160 Volts 4,140 Volts\n60.2 Hertz 60.8 Hertz\n25 MW 0 MW\n10 MVAR 0 MVAR\nWhen the output breaker for generator B is closed, which generator is more likely to trip on reverse\npower?",
-    "image": "",
-    "choices": [
-      "A. Generator A, due to the higher initial voltage.",
-      "B. Generator A, due to the lower initial frequency.",
-      "C. Generator B, due to the lower initial voltage.",
-      "D. Generator B, due to the higher initial frequency."
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "BKR841",
-    "topic": "Bkrs, Rlys, and Disconnects",
-    "question": "A main generator is about to be connected to an infinite power grid. Generator voltage equals grid\nvoltage and the synchroscope is rotating slowly in the clockwise direction. The generator breaker is\nclosed just as the synchroscope pointer reaches the 12 o'clock position.\nWhich one of the following will occur after the breaker is closed?\n-624-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. The breaker will remain closed and the generator will supply only MW to the grid.",
-      "B. The breaker will remain closed and the generator will supply both MW and MVAR to the grid.",
-      "C. The breaker will trip open due to overcurrent.",
-      "D. The breaker will trip open due to reverse power."
-    ],
+    "stem": " Refer to the drawing of a valve motor control circuit (see figure below). Note: Limit switch (LS) contacts are shown open regardless of valve position, but relay contacts are shown open/closed according to the standard convention for control circuit drawings. Pushbutton PB2 has been momentarily depressed and then released, and the valve is currently at mid-stroke and moving to the open position. Under these conditions, which one of the following describes the position of contacts #1, #2, and #3? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "#1 closed; #2 open; #3 open",
+      "B": "#1 open; #2 closed; #3 closed",
+      "C": "#1 open; #2 closed; #3 open",
+      "D": "#1 closed; #2 open; #3 closed -586- PWR Test Items"
+    },
     "answer": "A"
   },
   {
-    "id": "BKR842",
     "topic": "Bkrs, Rlys, and Disconnects",
-    "question": "A main generator is being prepared for paralleling with an infinite power grid. Which one of the\nfollowing indicates that the generator and grid voltages are in phase?",
-    "image": "",
-    "choices": [
-      "A. The voltage of the generator is equal to the voltage of the grid.",
-      "B. The frequency of the generator is equal to the frequency of the grid.",
-      "C. The synchroscope pointer is turning slowly in the clockwise direction.",
-      "D. The synchroscope pointer is passing through the 12 o\u2019clock position."
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "BKR843",
-    "topic": "Bkrs, Rlys, and Disconnects",
-    "question": "An isolated electrical bus is being supplied by generator A. Generator B is about to be connected to\nthe same electrical bus. Generators A and B are both rated at 1,000 MW. Generator A and B\noutput indications are as follows:\nGenerator A Generator B\n4,140 Volts 4,160 Volts\n60.8 Hertz 60.2 Hertz\n25 MW 0 MW\n10 MVAR (out) 0 MVAR\nWhen the output breaker for generator B is closed, which generator is more likely to trip on reverse\npower?\n-625-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. Generator A, due to the lower initial voltage.",
-      "B. Generator A, due to the higher initial frequency.",
-      "C. Generator B, due to the higher initial voltage.",
-      "D. Generator B, due to the lower initial frequency."
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "BKR844",
-    "topic": "Bkrs, Rlys, and Disconnects",
-    "question": "A main generator is about to be connected to an infinite power grid. Generator voltage is slightly\nhigher than grid voltage and the synchroscope is rotating slowly in the clockwise direction. The\ngenerator breaker is closed just as the synchroscope pointer reaches the 12 o'clock position.\nWhich one of the following will occur after the breaker is closed?",
-    "image": "",
-    "choices": [
-      "A. The breaker will remain closed and the generator will supply only MW to the grid.",
-      "B. The breaker will remain closed and the generator will supply both MW and MVAR to the grid.",
-      "C. The breaker will open due to overcurrent.",
-      "D. The breaker will open due to reverse power."
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "BKR845",
-    "topic": "Bkrs, Rlys, and Disconnects",
-    "question": "A main generator is being prepared for paralleling with an infinite power grid. At which one of the\nfollowing synchroscope pointer positions is the main generator output voltage the farthest out of\nphase with the grid voltage?\n-626-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. 3 o\u2019clock",
-      "B. 6 o\u2019clock",
-      "C. 9 o\u2019clock",
-      "D. 12 o\u2019clock"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "BKR846",
-    "topic": "Bkrs, Rlys, and Disconnects",
-    "question": "A main generator is about to be connected to an infinite power grid. Generator voltage is equal to\ngrid voltage and the synchroscope is rotating slowly in the counterclockwise direction. The\ngenerator breaker is closed just prior to the synchroscope pointer reaching the 12 o'clock position.\nWhich one of the following is most likely to occur after the breaker is closed?",
-    "image": "",
-    "choices": [
-      "A. The breaker will remain closed and the generator will supply only MW to the grid.",
-      "B. The breaker will remain closed and the generator will supply both MW and MVAR to the grid.",
-      "C. The breaker will open due to overcurrent.",
-      "D. The breaker will open due to reverse power."
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "BKR847",
-    "topic": "Bkrs, Rlys, and Disconnects",
-    "question": "A main generator is about to be connected to an infinite power grid. Generator voltage is slightly\nhigher than grid voltage and the synchroscope is rotating slowly in the clockwise direction. The\ngenerator breaker is closed just as the synchroscope pointer reaches the 3 o'clock position.\nWhich one of the following is most likely to occur after the breaker is closed?\n-627-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. The breaker will remain closed and the generator will supply only MW to the grid.",
-      "B. The breaker will remain closed and the generator will supply both MW and MVAR to the grid.",
-      "C. The breaker will open due to overcurrent.",
-      "D. The breaker will open due to reverse power."
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "BKR848",
-    "topic": "Bkrs, Rlys, and Disconnects",
-    "question": "A main generator is being paralleled to an infinite power grid with the following conditions:\nGenerator frequency = 59.9 Hz\nGrid frequency = 60.1 Hz\nGenerator voltage = 114.8 KV\nGrid voltage = 115.1 KV\nWhen the generator output breaker is closed, the generator will...",
-    "image": "",
-    "choices": [
-      "A. acquire real load and reactive load.",
-      "B. acquire real load, but become a reactive load to the grid.",
-      "C. become a real load to the grid, but acquire reactive load.",
-      "D. become a real load and a reactive load to the grid."
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "BKR849",
-    "topic": "Bkrs, Rlys, and Disconnects",
-    "question": "A main generator is about to be connected to an infinite power grid with the following conditions:\nGenerator frequency = 60.1 Hz\nGrid frequency = 59.9 Hz\nGenerator voltage = 115.1 KV\nGrid voltage = 114.8 KV\nWhen the generator output breaker is closed, the generator will...\n-628-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. acquire real load and reactive load.",
-      "B. acquire real load, but become a reactive load to the grid.",
-      "C. become a real load to the grid, but acquire reactive load.",
-      "D. become a real load and a reactive load to the grid."
-    ],
+    "stem": " Refer to the drawing of a valve motor control circuit (see figure below) for a valve that is currently fully open and has a 10-second stroke time. Note: Limit switch (LS) contacts are shown open regardless of valve position, but relay contacts are shown open/closed according to the standard convention for control circuit drawings. Which one of the following describes the valve response if the control switch is taken to the CLOSE position for two seconds and then released? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "The valve will not move.",
+      "B": "The valve will close fully.",
+      "C": "The valve will begin to close and then stop moving.",
+      "D": "The valve will begin to close and then open fully. -587- PWR Test Items"
+    },
     "answer": "A"
   },
   {
-    "id": "BKR850",
     "topic": "Bkrs, Rlys, and Disconnects",
-    "question": "A nuclear power plant was initially operating at 80 percent power in the middle of a fuel cycle with\nthe main generator connected to an infinite power grid with the following main generator output\nparameters:\n60 Hz\n25 KV\n300 MVAR (out)\n800 MW\nA hydraulic oil system malfunction occurred that caused the main turbine steam inlet valves to\nslowly drift closed. After 10 minutes, the main generator real load decreased to 600 MW.\nAssuming no operator actions were taken, how were the remaining main generator output parameters\naffected after the above 10 minute period?\nReactive\nFrequency (Hz) Voltage (KV) Load (MVAR)\n-629-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. Decreased Decreased No change",
-      "B. Decreased No change Decreased",
-      "C. No change No change No change",
-      "D. No change Decreased Decreased"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "BKR851",
-    "topic": "Bkrs, Rlys, and Disconnects",
-    "question": "Which one of the following will cause the most damage to the contact surfaces of a main generator\noutput breaker?\ngrid frequencies matched but with voltages 180 degrees out of phase.\ngrid voltages in phase but with generator frequency 0.5 percent higher than power grid\nfrequency.\nmain generator is operating at its minimum rated load.\nmain generator is operating at its maximum rated load.",
-    "image": "",
-    "choices": [
-      "A. An operator attempts to close the main generator output breaker with the generator and power",
-      "B. An operator attempts to close the main generator output breaker with the generator and power",
-      "C. The main generator output breaker automatically trips open on a loss of offsite power while the",
-      "D. The main generator output breaker automatically trips open on a loss of offsite power while the"
-    ],
+    "stem": " Refer to the drawing of a valve motor control circuit (see figure below) for a valve that is currently fully closed and has a 10-second stroke time. Note: Limit switch (LS) contacts are shown open regardless of valve position, but relay contacts are shown open/closed according to the standard convention for control circuit drawings. Which one of the following describes the valve response if the control switch is taken to the OPEN position for two seconds and then released? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "The valve will not move.",
+      "B": "The valve will open fully.",
+      "C": "The valve will begin to open and then stop moving.",
+      "D": "The valve will begin to open and then close fully. -588- PWR Test Items"
+    },
     "answer": "A"
   },
   {
-    "id": "BKR852",
     "topic": "Bkrs, Rlys, and Disconnects",
-    "question": "A main generator is about to be connected to an infinite power grid. The main generator has the\nfollowing initial conditions:\nGenerator frequency = 59.9 Hz Generator voltage = 115.1 KV\nGrid frequency = 60.1 Hz Grid voltage = 114.8 KV\nWhen the generator output breaker is closed, the generator will...\n-630-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. acquire real load and reactive load.",
-      "B. acquire real load, but become a reactive load to the grid.",
-      "C. become a real load and a reactive load to the grid.",
-      "D. become a real load to the grid, but acquire reactive load."
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "BKR853",
-    "topic": "Bkrs, Rlys, and Disconnects",
-    "question": "During a routine inspection of a main generator output breaker, a technician discovers severely\ndamaged main contact surfaces. Which one of the following is the most likely cause of the\ndamaged contact surfaces?\npower grid voltages 60 degrees out of phase.\nthe main generator was operating unloaded.\ngenerator was operating at its maximum rated load.\npower grid voltages in phase but with generator frequency 0.2 Hz lower than power grid\nfrequency.",
-    "image": "",
-    "choices": [
-      "A. The main generator breaker automatically tripped open after it was closed with the generator and",
-      "B. The main generator breaker automatically tripped open due to a faulty trip relay actuation while",
-      "C. The main generator breaker automatically tripped open on a loss of offsite power while the main",
-      "D. The main generator breaker automatically tripped open after it was closed with the generator and"
-    ],
+    "stem": " Refer to the drawing of a valve motor control circuit (see figure below) for a valve that is currently fully open and has a 10-second stroke time. Limit switch LS2 has failed open. Note: Limit switch (LS) contacts are shown open regardless of valve position, but relay contacts are shown open/closed according to the standard convention for control circuit drawings. Which one of the following describes the valve response if the control switch is taken to the CLOSE position for 2 seconds and then released? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "The valve will not move.",
+      "B": "The valve will close fully.",
+      "C": "The valve will begin to close and then stop moving.",
+      "D": "The valve will begin to close and then open fully. -589- PWR Test Items"
+    },
     "answer": "A"
   },
   {
-    "id": "BKR854",
     "topic": "Bkrs, Rlys, and Disconnects",
-    "question": "A main generator is about to be connected to an infinite power grid. Generator output frequency is\nslightly higher than grid frequency and generator output voltage is equal to grid voltage.\nWhich one of the following situations will exist when the main generator electrical conditions\nstabilize immediately after the generator output breaker is closed? (Assume no additional operator\nactions are taken.)\n-631-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. Generator output current will be 0.",
-      "B. Generator power factor will be 0.",
-      "C. Generator output MVAR will be 0.",
-      "D. Generator output MW will be 0."
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "BKR855",
-    "topic": "Bkrs, Rlys, and Disconnects",
-    "question": "A main generator is being connected to an infinite power grid. The following frequencies exist just\nprior to closing the generator output breaker:\nGenerator frequency = 59.9 Hz\nGrid frequency = 60.1 Hz\nWhen conditions stabilize just after the generator output breaker is closed, the generator frequency\nwill be __________; and the grid frequency will be __________.",
-    "image": "",
-    "choices": [
-      "A. 59.9 Hz; 59.9 Hz",
-      "B. 59.9 Hz; 60.1 Hz",
-      "C. 60.0 Hz; 60.0 Hz",
-      "D. 60.1 Hz; 60.1 Hz"
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "BKR856",
-    "topic": "Bkrs, Rlys, and Disconnects",
-    "question": "A diesel generator (DG) was initially operating at 80 percent of rated load supplying an isolated\nelectrical bus when a malfunction caused the DG output breaker to trip. The breakers for all of the\nbus loads--all of which are large motors--remained closed, preparing the motors to restart upon\nrestoration of power to the bus.\nThe DG output breaker has been repaired. With all of the bus load breakers still closed, which one\nof the following will occur when the DG output breaker is closed to reenergize the bus?\n-632-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. The DG will become lightly loaded.",
-      "B. The DG will return directly to its initial load.",
-      "C. The DG will experience slight overload conditions.",
-      "D. The DG will experience severe overload conditions."
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "BKR857",
-    "topic": "Bkrs, Rlys, and Disconnects",
-    "question": "A main generator output breaker is about to be closed to connect the main generator to the power\ngrid via the main transformer. The main transformer voltage and frequency are as follows:\nVoltage = 20,000 volts\nFrequency = 60.0 Hz\nWhich combination of main generator voltage and frequency will ensure that the main generator will\nimmediately supply real (MW) and reactive (MVAR) electrical power to the power grid when the\nmain generator output breaker is closed?",
-    "image": "",
-    "choices": [
-      "A. 19,950 volts; 59.9 Hz",
-      "B. 19,950 volts; 60.1 Hz",
-      "C. 20,050 volts; 59.9 Hz",
-      "D. 20,050 volts; 60.1 Hz"
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "BKR858",
-    "topic": "Bkrs, Rlys, and Disconnects",
-    "question": "If a main generator output breaker is closed when the generator output voltage is 5 degrees out of\nphase with the power grid voltage, the main generator will experience a __________ stress; if the\nbreaker remains closed and no additional operator action is taken, the main generator voltage will\n__________ with the grid voltage.\n-633-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. minor; remain out of phase",
-      "B. minor; become locked into phase",
-      "C. potentially damaging; remain out of phase",
-      "D. potentially damaging; become locked into phase"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "BKR859",
-    "topic": "Bkrs, Rlys, and Disconnects",
-    "question": "If a main generator output breaker is closed when the generator output voltage is 90 degrees out of\nphase with the power grid voltage, the main generator will experience a __________ stress; if the\nbreaker remains closed and no additional operator action is taken, the main generator voltage will\n__________ with the grid voltage.\nA minor; remain out of phase\n-634-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "B. minor; become locked into phase",
-      "C. potentially damaging; remain out of phase",
-      "D. potentially damaging; become locked into phase"
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "BKR860",
-    "topic": "Bkrs, Rlys, and Disconnects",
-    "question": "The main generator output breaker was just closed to connect the main generator to the main\ntransformer. Just before the breaker was closed, the following parameter values existed:\nMain Generator Main Transformer\n20,000 volts 20,050 volts\n60.0 Hz 59.9 Hz\nWith no additional operator action, the main generator stabilized with the following parameter\nvalues:\n25 MW\n15 MVAR (in)\nNow consider this following alternate set of parameters values:\nMain Generator Main Transformer\n20,020 volts 20,050 volts\n60.1 Hz 59.9 Hz\nIf the alternate set of parameter values had existed just before the breaker was closed, the resulting\nmain generator MW value would have been __________; and the resulting main generator\nMVAR (in) value would have been __________.\n-635-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. smaller; larger",
-      "B. smaller; smaller",
-      "C. larger; larger",
-      "D. larger; smaller"
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "BKR861",
-    "topic": "Bkrs, Rlys, and Disconnects",
-    "question": "The main generator output breaker was just closed to connect the main generator to the main\ntransformer. Just before the breaker was closed, the following parameter values existed:\nMain Generator Main Transformer\n20,060 volts 20,020 volts\n60.1 Hz 59.9 Hz\nWith no additional operator action, the main generator stabilized as follows:\n25 MW\n15 MVAR (out)\nNow consider the following alternate set of parameters values:\nMain Generator Main Transformer\n20,040 volts 20,020 volts\n60.0 Hz 59.9 Hz\nIf the alternate set of parameter values existed just before the main generator output breaker was\nclosed, the resulting main generator MW value would be __________; and the resulting main\ngenerator MVAR (out) value would be __________.\n-636-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. smaller; larger",
-      "B. smaller; smaller",
-      "C. larger; larger",
-      "D. larger; smaller"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "BKR862",
-    "topic": "Bkrs, Rlys, and Disconnects",
-    "question": "The main generator output breaker was just closed to connect the main generator to the main\ntransformer. Just before the breaker was closed, the following parameter values existed:\nMain Generator Main Transformer\n20,000 volts 20,050 volts\n60.1 Hz 59.9 Hz\nWith no additional operator action, the main generator stabilized with the following parameter values:\n25 MW\n15 MVAR (in)\nNow consider this following alternate set of parameters values:\nMain Generator Main Transformer\n20,020 volts 20,050 volts\n60.0 Hz 59.9 Hz\nIf the alternate set of parameter values had existed just before the breaker was closed, the resulting\nmain generator MW value would have been __________; and the resulting main generator\nMVAR (in) value would have been __________.\n-637-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. larger; larger",
-      "B. larger; smaller",
-      "C. smaller; larger",
-      "D. smaller; smaller"
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "BKR863",
-    "topic": "Bkrs, Rlys, and Disconnects",
-    "question": "When a typical 4,160 volt breaker is racked to the TEST position, control power is __________ the\nbreaker; and the breaker is __________ the load.",
-    "image": "",
-    "choices": [
-      "A. removed from; isolated from",
-      "B. removed from; connected to",
-      "C. available to; isolated from",
-      "D. available to; connected to"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "BKR864",
-    "topic": "Bkrs, Rlys, and Disconnects",
-    "question": "Which one of the following functions or capabilities would remain following a loss of control power\nto a typical 480 VAC bus feeder breaker?\n-638-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. Remote breaker control capability.",
-      "B. Breaker closing spring automatic recharging capability.",
-      "C. Remote bus voltage indication.",
-      "D. Remote breaker position indication."
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "BKR865",
-    "topic": "Bkrs, Rlys, and Disconnects",
-    "question": "Which one of the following statements describes the use of high-voltage disconnect switches?",
-    "image": "",
-    "choices": [
-      "A. Their use should be limited to normal load current interruption.",
-      "B. They may be used to isolate transformers in an unloaded network.",
-      "C. They trip open like circuit breakers, but must be manually closed.",
-      "D. They must be closed with caution when under load because of possible arcing."
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "BKR866",
-    "topic": "Bkrs, Rlys, and Disconnects",
-    "question": "The function of high-voltage disconnect switches is to provide __________ electrical isolation of\nequipment during __________ conditions.\n-639-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. manual; no-load",
-      "B. manual; overload",
-      "C. automatic; no-load",
-      "D. automatic; overload"
-    ],
+    "stem": " Refer to the drawing of a valve motor control circuit (see figure below) for a valve that is currently fully closed and has a 10-second stroke time. Note: Limit switch (LS) contacts are shown open regardless of valve position, but relay contacts are shown open/closed according to the standard convention for control circuit drawings. The operator takes the control switch to OPEN momentarily and the valve begins to open. Five seconds later, the operator takes the switch to CLOSE momentarily and then releases the switch. Which one of the following describes the valve response after the switch is released? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "The valve will stop opening and remain partially open.",
+      "B": "The valve will stop opening and then go fully closed.",
+      "C": "The valve will open fully and remain fully open.",
+      "D": "The valve will open fully and then go fully closed. -590- PWR Test Items"
+    },
     "answer": "A"
   },
   {
-    "id": "BKR867",
     "topic": "Bkrs, Rlys, and Disconnects",
-    "question": "High-voltage disconnect switches are used to...",
-    "image": "",
-    "choices": [
-      "A. adjust the output voltage range from a main power transformer.",
-      "B. protect bus feeder breakers by opening upon bus short-circuit faults.",
-      "C. provide equipment isolation under no-load conditions.",
-      "D. bypass and isolate an electrical bus while maintaining the downstream buses energized."
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "BKR868",
-    "topic": "Bkrs, Rlys, and Disconnects",
-    "question": "What is an advantage of using high-voltage disconnect switches instead of breakers to isolate main\npower transformers?\nbreaker.\n-640-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. Disconnect switches can be operated either locally or remotely.",
-      "B. Disconnect switches provide direct visual indication that the circuit is broken.",
-      "C. Disconnect switches are cheaper and provide the same automatic protection as a breaker.",
-      "D. Disconnect switches are capable of interrupting a higher current flow with less heating than a"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "BKR869",
-    "topic": "Bkrs, Rlys, and Disconnects",
-    "question": "Which one of the following describes a characteristic of high-voltage disconnect switches?",
-    "image": "",
-    "choices": [
-      "A. They close automatically requiring no operator action.",
-      "B. They should not be used to interrupt a circuit under load.",
-      "C. They require a remote means of indication to determine actual position.",
-      "D. They should be connected so that they ground the supply bus prior to opening a circuit."
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "BKR870",
-    "topic": "Bkrs, Rlys, and Disconnects",
-    "question": "Typical high-voltage disconnect switches are designed to...\n-641-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. protect circuits during overcurrent conditions.",
-      "B. automatically trip open to protect breakers.",
-      "C. isolate equipment electrically during no-load conditions.",
-      "D. interrupt circuits under load."
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "BKR871",
-    "topic": "Bkrs, Rlys, and Disconnects",
-    "question": "Typical high-voltage transformer disconnect switches are designed to...\n-642-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. automatically protect the transformer from overcurrent conditions.",
-      "B. automatically trip open prior to transformer output breaker trip.",
-      "C. manually isolate the transformer during no-load conditions.",
-      "D. manually interrupt the transformer output circuit under any load when grounds are detected."
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "BKR872",
-    "topic": "Bkrs, Rlys, and Disconnects",
-    "question": "Refer to the simplified drawing of an electrical distribution system showing 7.2 KV switchgear, step-\ndown transformers, and 480 V motor control centers (MCCs) (see figure below).\nThe high voltage side of each step-down transformer has a remote-operated disconnect to allow\ntransformer maintenance while keeping the other transformers in service. The control circuit for\neach disconnect is position-interlocked with the associated MCC feeder breaker.\nWhich one of the following describes the purpose served by the interlock?\n-643-\nPWR Test Items",
-    "image": "page643_img1.jpeg",
-    "choices": [
-      "A. Prevent damage to the disconnect.",
-      "B. Prevent damage to the transformer.",
-      "C. Prevent damage to the feeder breaker.",
-      "D. Prevent damage to the 480V MCC."
-    ],
+    "stem": " Refer to the drawing of a valve motor control circuit (see figure below) for a valve that is currently fully closed and has a 10-second stroke time. Note: Limit switch (LS) contacts are shown open regardless of valve position, but relay contacts are shown open/closed according to the standard convention for control circuit drawings. An operator takes the control switch to OPEN momentarily and the valve begins to open. Five seconds later, the operator places and holds the switch in the CLOSE position. Which one of the following describes the valve response with the switch held in the CLOSE position? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "The valve will stop opening and remain partially open.",
+      "B": "The valve will stop opening and then go fully closed.",
+      "C": "The valve will open fully and remain fully open.",
+      "D": "The valve will open fully and then go fully closed. -591- PWR Test Items"
+    },
     "answer": "A"
   },
   {
-    "id": "BKR873",
     "topic": "Bkrs, Rlys, and Disconnects",
-    "question": "A 480 VAC motor control center supplies a load through a breaker and a manual disconnect switch.\nWhich one of the following sequences will provide the greatest level of personnel safety when de-\nenergizing the load for maintenance, and when re-energizing the load after the maintenance is\ncomplete?\nDE-ENERGIZING RE-ENERGIZING\n-644-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. Open breaker first Shut breaker first",
-      "B. Open breaker first Shut disconnect switch first",
-      "C. Open disconnect switch first Shut breaker first",
-      "D. Open disconnect switch first Shut disconnect switch first"
-    ],
-    "answer": "B"
+    "stem": " Refer to the drawing of a valve motor control circuit (see figure below) for a valve that is currently fully closed and has a 10-second stroke time. Note: Limit switch (LS) contacts are shown open regardless of valve position, but relay contacts are shown open/closed according to the standard convention for control circuit drawings. An operator takes the control switch to OPEN. Two seconds later, after verifying the valve is opening, the operator releases the control switch. Which one of the following describes the valve motor control circuit alarm response after the switch is released? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "The alarm will continue to actuate for approximately 8 seconds.",
+      "B": "The alarm will continue to actuate until additional operator action is taken.",
+      "C": "The alarm will actuate after approximately 8 seconds.",
+      "D": "The alarm will not actuate until additional operator action is taken. -592- PWR Test Items"
+    },
+    "answer": "A"
   },
   {
-    "id": "BKR874",
     "topic": "Bkrs, Rlys, and Disconnects",
-    "question": "Refer to the simplified drawing of an electrical distribution system showing 7.2 KV switchgear, step-\ndown transformers, and 480 V motor control centers (MCCs) (see figure below).\nThe high voltage side of each step-down transformer has a remote-operated disconnect. The control\ncircuit for each disconnect is position-interlocked with the associated MCC feeder breaker. Which\none of the following describes the interlock operating scheme that will provide the greatest\nprotection for the disconnect?\n-645-\nPWR Test Items",
-    "image": "page645_img1.jpeg",
-    "choices": [
-      "A. Permits opening the feeder breaker only if the disconnect is closed.",
-      "B. Permits opening the feeder breaker only if the disconnect is open.",
-      "C. Permits opening the disconnect only if the feeder breaker is closed.",
-      "D. Permits opening the disconnect only if the feeder breaker is open."
-    ],
-    "answer": "D"
+    "stem": " Refer to the drawing of a motor and its control circuit (see figure below). Note: Relay contacts are shown open/closed according to the standard convention for control circuit drawings. What is the purpose of the Time Delay Coil (TD) in the motor controller circuit? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "Ensures the motor cannot be started until the overload relays are reset.",
+      "B": "Ensures the motor cannot be started until the accelerating coil is energized.",
+      "C": "Allows the motor to come up to speed before bypassing the starting resistors.",
+      "D": "Allows the motor to come up to speed before placing the starting resistors in the circuit. -593- PWR Test Items"
+    },
+    "answer": "A"
   },
   {
-    "id": "BKR875",
     "topic": "Bkrs, Rlys, and Disconnects",
-    "question": "The following remote indications are observed for a 480 VAC load center supply breaker. (The\nbreaker is normally open.)\nRed indicating light is lit.\nGreen indicating light is out.\nLoad center voltage indicates 0 volts.\nBreaker incoming voltage indicates 480 volts.\nWhat is the condition of the breaker?",
-    "image": "",
-    "choices": [
-      "A. Open and racked in",
-      "B. Closed and racked in",
-      "C. Open and racked to the TEST position",
-      "D. Closed and racked to the TEST position"
-    ],
-    "answer": "D"
+    "stem": " Refer to the drawing of a motor and its control circuit (see figure below). Note: Relay contacts are shown open/closed according to the standard convention for control circuit drawings. The motor receives overload protection from __________ overload relays; and __________ overload relay(s) must actuate to deenergize the motor. NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "two; one",
+      "B": "two; two",
+      "C": "three; one",
+      "D": "three; two -594- PWR Test Items"
+    },
+    "answer": "A"
   },
   {
-    "id": "BKR876",
     "topic": "Bkrs, Rlys, and Disconnects",
-    "question": "The following indications are observed in the control room for a normally-open motor control center\n(MCC) breaker that directly starts/stops a 480 VAC motor:\nRed position indicating light is out.\nGreen position indicating light is out.\nMotor ammeter indicates normal load current.\nAssuming one of the indicating lights is burned out, what is the condition of the breaker?\n-646-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. Open and racked in",
-      "B. Open and racked to the TEST position",
-      "C. Closed and racked in",
-      "D. Closed and racked to the TEST position"
-    ],
-    "answer": "C"
+    "stem": " Refer to the drawing of a valve motor control circuit (see figure below) for a valve that is currently fully closed and has a 10-second stroke time. Note: Limit switch (LS) contacts are shown open regardless of valve position, but relay contacts are shown open/closed according to the standard convention for control circuit drawings. The operator takes the control switch to OPEN for 5 seconds and then releases the switch. After one minute, the operator takes the control switch to CLOSE for 5 seconds and then releases the switch. Which one of the following describes the valve position immediately after the control switch is released the second time? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "Approximately fully open.",
+      "B": "Approximately fully closed.",
+      "C": "Approximately 50 percent open.",
+      "D": "Cannot be determined without additional information. -595- PWR Test Items"
+    },
+    "answer": "A"
   },
   {
-    "id": "BKR877",
     "topic": "Bkrs, Rlys, and Disconnects",
-    "question": "The following indications are observed in the control room for a normally-open motor control center\n(MCC) breaker that directly starts/stops a 480 VAC motor:\nRed position indicating light is lit.\nGreen position indicating light is out.\nMotor load current indicates 0 amps.\nMCC voltage indicates 480 volts.\nWhat is the condition of the breaker?\n-647-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. Open and racked in",
-      "B. Closed and racked in",
-      "C. Open and racked to the TEST position",
-      "D. Closed and racked to the TEST position"
-    ],
-    "answer": "D"
+    "stem": " Refer to the drawing of a motor and its control circuit (see figure below). Note: Relay contacts are shown open/closed according to the standard convention for control circuit drawings. How are the starting resistors employed before and after the motor is energized? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "Inserted before the motor is energized; simultaneously bypassed after the motor gains speed.",
+      "B": "Inserted before the motor is energized; sequentially bypassed as the motor gains speed.",
+      "C": "Bypassed before the motor is energized; simultaneously inserted after the motor gains speed.",
+      "D": "Bypassed before the motor is energized; sequentially inserted as the motor gains speed. -596- PWR Test Items"
+    },
+    "answer": "A"
   },
   {
-    "id": "BKR878",
     "topic": "Bkrs, Rlys, and Disconnects",
-    "question": "The following indications are observed in the control room for a normally-open breaker that directly\nstarts/stops a 480 VAC motor:\nRed position indicating light is lit.\nGreen position indicating light is out.\nLoad current indicates 50 amps.\nSupply voltage indicates 480 volts.\nWhat is the condition of the breaker?\n-648-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. Open and racked to the TEST position",
-      "B. Closed and racked to the TEST position",
-      "C. Open and racked in",
-      "D. Closed and racked in"
-    ],
-    "answer": "D"
+    "stem": " Refer to the drawing of a motor and its control circuit (see figure below). Note: Relay contacts are shown open/closed according to the standard convention for control circuit drawings. The motor has been operating for several hours when it is decided to stop the motor. What is the status of the starting resistors before and after the motor STOP pushbutton is depressed? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "Initially inserted in the motor circuit; bypassed immediately after the STOP pushbutton is depressed.",
+      "B": "Initially inserted in the motor circuit; bypassed following a preset time delay after the STOP pushbutton is depressed.",
+      "C": "Initially bypassed; bypass is removed immediately after the STOP pushbutton is depressed.",
+      "D": "Initially bypassed; bypass is removed following a preset time delay after the STOP pushbutton is depressed. -597- PWR Test Items"
+    },
+    "answer": "A"
   },
   {
-    "id": "BKR879",
     "topic": "Bkrs, Rlys, and Disconnects",
-    "question": "While remotely investigating the condition of a normally-open breaker that feeds a motor control\ncenter (MCC), an operator observes the following indications:\nGreen breaker position indicating light is out.\nRed breaker position indicating light is lit.\nMCC voltmeter indicates normal voltage.\nMCC ammeter indicates zero amperes.\nBased on these indications, the operator should report that the breaker is __________ and racked\n__________.\n-649-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. open; in",
-      "B. closed; in",
-      "C. open; out",
-      "D. closed; out"
-    ],
-    "answer": "B"
+    "stem": " Refer to the drawing of a valve motor control circuit (see figure below) for a valve that is currently fully closed and has a 10-second stroke time. Note: Limit switch (LS) contacts are shown open regardless of valve position, but relay contacts are shown open/closed according to the standard convention for control circuit drawings. Which one of the following describes the valve response if the control switch is taken to the OPEN position for two seconds and then released? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "The valve will not move.",
+      "B": "The valve will open fully.",
+      "C": "The valve will begin to open and then stop moving.",
+      "D": "The valve will begin to open and then close fully. -598- PWR Test Items"
+    },
+    "answer": "A"
   },
   {
-    "id": "BKR880",
     "topic": "Bkrs, Rlys, and Disconnects",
-    "question": "While remotely investigating the condition of a typical normally-open motor control center (MCC)\nfeeder breaker, an operator observes the following indications:\nGreen breaker position indicating light is lit.\nRed breaker position indicating light is out.\nMCC voltmeter indicates zero volts.\nMCC ammeter indicates zero amperes.\nBased on these indications, the operator can accurately report that the breaker is open and racked to\n__________ position.\n-650-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. the OUT",
-      "B. the IN",
-      "C. the TEST",
-      "D. an unknown"
-    ],
-    "answer": "D"
+    "stem": " Refer to the drawing of a motor and its control circuit (see figure below). Note: Relay contacts are shown open/closed according to the standard convention for control circuit drawings. The motor has been idle for several days when it is decided to start the motor. What is the status of the starting resistors before and after the motor START pushbutton is depressed? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "Initially bypassed; bypass is removed immediately after the START pushbutton is depressed.",
+      "B": "Initially bypassed; bypass is removed following a preset time delay after the START pushbutton is depressed.",
+      "C": "Initially inserted in the motor circuit; bypassed immediately after the START pushbutton is depressed.",
+      "D": "Initially inserted in the motor circuit; bypassed following a preset time delay after the START pushbutton is depressed. -599- PWR Test Items"
+    },
+    "answer": "A"
   },
   {
-    "id": "BKR881",
     "topic": "Bkrs, Rlys, and Disconnects",
-    "question": "While remotely investigating the condition of a normally-open 480 VAC motor control center\n(MCC) feeder breaker, an operator observes the following indications:\nGreen breaker position indicating light is out.\nRed breaker position indicating light is lit.\nMCC voltmeter indicates 480 VAC.\nMCC ammeter indicates zero amperes.\nBased on these indications, the operator should report that the feeder breaker is __________ and\nracked __________.\n-651-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. open; in",
-      "B. closed; in",
-      "C. open; to the TEST position",
-      "D. closed; to the TEST position"
-    ],
-    "answer": "B"
+    "stem": " Refer to the drawing of a valve motor control circuit (see figure below) for a valve that is currently fully open and has a 10-second stroke time. Note: Limit switch (LS) contacts are shown open regardless of valve position, but relay contacts are shown open/closed according to the standard convention for control circuit drawings. The operator takes the control switch to CLOSE. Two seconds later, after verifying the valve is closing, the operator releases the control switch. Which one of the following describes the valve motor control circuit alarm response after the switch is released? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "The alarm will continue to actuate for approximately 8 seconds.",
+      "B": "The alarm will continue to actuate until additional operator action is taken.",
+      "C": "The alarm will actuate after approximately 8 seconds.",
+      "D": "The alarm will not actuate until additional operator action is taken. -600- PWR Test Items"
+    },
+    "answer": "A"
   },
   {
-    "id": "BKR882",
     "topic": "Bkrs, Rlys, and Disconnects",
-    "question": "Given the following indications for an open 4,160 VAC breaker:\nAll phase overcurrent trip flags are reset.\nThe control power fuses indicate blown.\nThe line-side voltmeter indicates 4,160 VAC.\nThe load-side voltmeter indicates 0 VAC.\nAssuming no operator actions were taken since the breaker opened, which one of the following\ncould have caused the breaker to open?\n-652-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. A ground fault caused an automatic breaker trip.",
-      "B. A loss of control power caused an automatic breaker trip.",
-      "C. An operator opened the breaker locally at the breaker cabinet.",
-      "D. An operator opened the breaker remotely from the control room."
-    ],
-    "answer": "C"
+    "stem": " Refer to the drawing of a valve motor control circuit (see figure below). Note: Limit switch (LS) contacts are shown open regardless of valve position, but relay contacts are shown open/closed according to the standard convention for control circuit drawings. Which one of the following will actuate the alarm? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "With the valve partially closed, the control switch is taken to the CLOSE position.",
+      "B": "With the valve partially closed, the control switch is taken to the OPEN position.",
+      "C": "With the valve fully open, the control switch is taken to the CLOSE position.",
+      "D": "With the valve fully open, the control switch is taken to the OPEN position. -601- PWR Test Items"
+    },
+    "answer": "A"
   },
   {
-    "id": "BKR883",
     "topic": "Bkrs, Rlys, and Disconnects",
-    "question": "While remotely investigating the condition of a normally-open feeder breaker to a 480 VAC motor\ncontrol center (MCC), a control room operator observes the following indications:\nGreen breaker position indicating light is out.\nRed breaker position indicating light is lit.\nMCC voltmeter indicates 0 VAC.\nMCC ammeter indicates zero amperes.\nBased on these indications, the operator should report that the feeder breaker is __________ and\nracked __________.\n-653-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. open; in",
-      "B. closed; out",
-      "C. open; to the TEST position",
-      "D. closed; to the TEST position"
-    ],
-    "answer": "D"
+    "stem": " Refer to the drawing of a valve motor control circuit (see figure below) for a valve that is currently fully open and has a 10-second stroke time. Note: Limit switch (LS) contacts are shown open regardless of valve position, but relay contacts are shown open/closed according to the standard convention for control circuit drawings. The operator takes the control switch to CLOSE momentarily and the valve begins to close. Five seconds later, the operator takes the switch to OPEN momentarily and then releases the switch. Which one of the following describes the valve response after the switch is released? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "The valve will stop closing and remain partially open.",
+      "B": "The valve will stop closing and then go fully open.",
+      "C": "The valve will close fully and remain fully closed.",
+      "D": "The valve will close fully and then go fully open. -602- PWR Test Items"
+    },
+    "answer": "A"
   },
   {
-    "id": "BKR884",
     "topic": "Bkrs, Rlys, and Disconnects",
-    "question": "While remotely investigating the condition of a normally-open 480 VAC motor control center\n(MCC) feeder breaker, an operator observes the following indications:\nGreen breaker position indicating light is out.\nRed breaker position indicating light is lit.\nMCC voltmeter indicates 480 VAC.\nMCC ammeter indicates zero amperes.\nBased on these indications, the operator should report that the feeder breaker is __________ and\nracked __________.",
-    "image": "",
-    "choices": [
-      "A. open; in",
-      "B. closed; in",
-      "C. open; to an unknown position",
-      "D. closed; to an unknown position"
-    ],
-    "answer": "B"
+    "stem": " Refer to the drawing of a valve motor control circuit (see figure below) for a valve that is currently fully closed and has a 10-second stroke time. Note: Limit switch (LS) contacts are shown open regardless of valve position, but relay contacts are shown open/closed according to the standard convention for control circuit drawings. An operator takes the control switch to OPEN momentarily and the valve begins to open. Five seconds later, the operator takes the control switch to CLOSE momentarily and releases the switch. Which one of the following describes the valve response when the control switch is taken to CLOSE momentarily and released? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "The valve will stop opening and remain partially open.",
+      "B": "The valve will stop opening and then go fully closed.",
+      "C": "The valve will open fully and remain fully open.",
+      "D": "The valve will open fully and then go fully closed. -603- PWR Test Items"
+    },
+    "answer": "A"
   },
   {
-    "id": "BKR885",
     "topic": "Bkrs, Rlys, and Disconnects",
-    "question": "Breaker local overcurrent trip flag indicators, when actuated, indicate that...\n-654-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. a breaker trip will occur unless current is reduced.",
-      "B. a breaker overcurrent condition is responsible for a breaker trip.",
-      "C. an overcurrent condition has cleared and the breaker can be closed.",
-      "D. the associated breaker has failed to trip open during an overcurrent condition."
-    ],
-    "answer": "B"
+    "stem": " Refer to the drawing of a valve motor control circuit (see figure below) for a valve that is currently fully closed and has a 10-second stroke time. Note: Limit switch (LS) contacts are shown open regardless of valve position, but relay contacts are shown open/closed according to the standard convention for control circuit drawings. The operator takes the control switch to OPEN momentarily and the valve begins to open. Five seconds later, the operator takes the switch to CLOSE momentarily and then releases the switch. Which one of the following describes the valve response after the switch is released? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "The valve will stop opening and remain partially open.",
+      "B": "The valve will stop opening and then go fully closed.",
+      "C": "The valve will open fully and remain fully open.",
+      "D": "The valve will open fully and then go fully closed. -604- PWR Test Items"
+    },
+    "answer": "A"
   },
   {
-    "id": "BKR886",
     "topic": "Bkrs, Rlys, and Disconnects",
-    "question": "Given the following indications for an open 4,160 VAC breaker:\nThe local OPEN/CLOSED mechanical flag indicates OPEN.\nA breaker overcurrent trip flag is actuated on one phase.\nThe line-side voltmeter indicates 4,160 VAC.\nThe load-side voltmeter indicates 0 VAC.\nAssuming no operator actions were taken since the breaker opened, which one of the following\ncould have caused the breaker to open?\n-655-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. A ground fault caused an automatic breaker trip.",
-      "B. A loss of control power caused an automatic breaker trip.",
-      "C. An operator opened the breaker locally.",
-      "D. An operator opened the breaker from a remote location."
-    ],
+    "stem": " KNOWLEDGE: K1.06 [2.3/2.6] Refer to the drawing of a valve motor control circuit (see figure below) for a valve that is currently fully open and has a 10-second stroke time. Note: Limit switch (LS) contacts are shown open regardless of valve position, but relay contacts are shown open/closed according to the standard convention for control circuit drawings. The operator takes the control switch to CLOSE. Two seconds later, after verifying the valve is closing, the operator releases the control switch. Which one of the following describes the valve motor control circuit alarm response after the switch is released? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "The alarm will continue to actuate for approximately 8 seconds.",
+      "B": "The alarm will continue to actuate until additional operator action is taken.",
+      "C": "The alarm will actuate after approximately 8 seconds.",
+      "D": "The alarm will not actuate until additional operator action is taken. -605- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Bkrs, Rlys, and Disconnects",
+    "stem": " Refer to the drawing of a valve motor control circuit (see figure below) for a valve that is currently fully open and has a 16-second stroke time. Note: Limit switch (LS) contacts are shown open regardless of valve position, but relay contacts are shown open/closed according to the standard convention for control circuit drawings. An operator takes the control switch to CLOSE. Two seconds later, after verifying the valve is closing, the operator releases the control switch. When the valve stops moving, what will be the status of the alarm and the red (R) and green (G) indicating lights? Red Ind. Green Ind. Alarm Light Light NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "On On On",
+      "B": "On Off On",
+      "C": "Off On Off",
+      "D": "Off Off Off -606- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Bkrs, Rlys, and Disconnects",
+    "stem": " Refer to the drawing of a valve motor control circuit (see figure below) for a valve that is currently fully open and has a 10-second stroke time. Note: Limit switch (LS) contacts are shown open regardless of valve position, but relay contacts are shown open/closed according to the standard convention for control circuit drawings. The operator takes the control switch to CLOSE. Two seconds later, after verifying the valve is closing, the operator releases the control switch. Which one of the following describes the valve motor control circuit alarm response after the switch is released? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "The alarm will actuate after approximately 8 seconds.",
+      "B": "The alarm will not actuate until additional operator action is taken.",
+      "C": "The alarm will continue to actuate for approximately 8 seconds.",
+      "D": "The alarm will continue to actuate until additional operator action is taken. -607- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Bkrs, Rlys, and Disconnects",
+    "stem": " Refer to the drawing of a valve motor control circuit (see figure below) for a valve that is currently fully open and has a 16-second stroke time. Note: Limit switch (LS) contacts are shown open regardless of valve position, but relay contacts are shown open/closed according to the standard convention for control circuit drawings. An operator takes the control switch to CLOSE. Two seconds later, after verifying the valve is closing, the operator releases the control switch. When the valve stops moving, what will be the status of the alarm and the red (R) and green (G) indicating lights? Red Ind. Green Ind. Alarm Light Light NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "On On On",
+      "B": "On Off Off",
+      "C": "Off On Off",
+      "D": "Off Off On -608- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Bkrs, Rlys, and Disconnects",
+    "stem": " Refer to the drawing of a valve motor control circuit (see figure below) for a valve that is currently fully open and has an 8-second stroke time. Note: Limit switch (LS) contacts are shown open regardless of valve position, but relay contacts are shown open/closed according to the standard convention for control circuit drawings. All contacts are functional, except for contact K2-2 which has failed open. An operator takes the control switch to CLOSE. Four seconds later, the operator releases the control switch. When the valve stops moving, what will be the status of the alarm and the red (R) and green (G) indicating lights? Red Ind. Green Ind. Alarm Light Light NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "On On On",
+      "B": "On Off Off",
+      "C": "Off On Off",
+      "D": "Off Off On -609- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Bkrs, Rlys, and Disconnects",
+    "stem": " KNOWLEDGE: K1.06 [2.3/2.6] QID: Refer to the drawing of a valve motor control circuit (see figure below) for a valve that is currently fully closed and has a 10-second stroke time. Note: Limit switch (LS) contacts are shown open regardless of valve position, but relay contacts are shown open/closed according to the standard convention for control circuit drawings. The operator takes the control switch to OPEN. Two seconds later, after verifying the valve is opening, the operator releases the control switch. Which one of the following describes the alarm response after the control switch is released? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "The alarm will activate after approximately 8 seconds.",
+      "B": "The alarm will not activate until additional operator action is taken.",
+      "C": "The alarm will remain activated for approximately 8 seconds, and then deactivate.",
+      "D": "The alarm will remain activated until additional operator action is taken. -610- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Bkrs, Rlys, and Disconnects",
+    "stem": " Refer to the drawing of a valve motor control circuit (see figure below) for a valve that is currently fully closed and has a 10-second stroke time. Note: Limit switch (LS) contacts are shown open regardless of valve position, but relay contacts are shown open/closed according to the standard convention for control circuit drawings. The operator takes the control switch to OPEN. Two seconds later, after verifying the valve is opening, the operator releases the control switch. Which one of the following describes the valve motor control circuit alarm response after the switch is released? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "The alarm will actuate after approximately 8 seconds.",
+      "B": "The alarm will not actuate until additional operator action is taken.",
+      "C": "The alarm will continue to actuate for approximately 8 seconds.",
+      "D": "The alarm will continue to actuate until additional operator action is taken. -611- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Bkrs, Rlys, and Disconnects",
+    "stem": " Refer to the drawing of a valve motor control circuit (see figure below). The valve is currently closed with the contact configuration as shown. If the S1 pushbutton is depressed, the valve will __________; and when the S1 pushbutton is subsequently released, the valve will __________. NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "open; close",
+      "B": "open; remain open",
+      "C": "remain closed; open",
+      "D": "remain closed; remain closed -612- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Bkrs, Rlys, and Disconnects",
+    "stem": " Which one of the following is an unsafe practice if performed while working on or near energized electrical equipment?",
+    "choices": {
+      "A": "Using two hands for balance and to prevent dropping tools onto energized equipment.",
+      "B": "Standing on insulating rubber material to increase the electrical resistance of the body to ground.",
+      "C": "Having a person stand by to deenergize the equipment in the event of an emergency.",
+      "D": "Covering exposed energized circuits with insulating material to prevent inadvertent contact."
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Bkrs, Rlys, and Disconnects",
+    "stem": " A 480 VAC motor is supplied power via an electrical disconnect in series with a breaker. Which one of the following describes the proper operations to isolate power to the motor? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "Open the disconnect first, then the breaker.",
+      "B": "Open the breaker first, then the disconnect.",
+      "C": "Open the device that is closest to the motor first.",
+      "D": "Open the device that is closest to the power source first. -613- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Bkrs, Rlys, and Disconnects",
+    "stem": " Which one of the following is an unsafe practice if performed while working on or near energized electrical equipment?",
+    "choices": {
+      "A": "Use insulated tools to prevent inadvertent contact with adjacent equipment.",
+      "B": "Cover exposed energized circuits with insulating material to prevent inadvertent contact.",
+      "C": "Attach a metal strap from your body to a nearby neutral ground to ensure that you are grounded.",
+      "D": "Have a person standing by with the ability to remove you from the equipment in the event of an emergency."
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Bkrs, Rlys, and Disconnects",
+    "stem": " The primary reason for isolating emergency electrical loads from their power supply bus prior to energizing the bus via the emergency diesel generator is to prevent an... NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "overcurrent condition on the generator.",
+      "B": "overcurrent condition on the loads.",
+      "C": "underfrequency condition on the generator.",
+      "D": "underfrequency condition on the loads. -614- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Bkrs, Rlys, and Disconnects",
+    "stem": " A main generator is being connected to an infinite power grid that is operating at 60 Hz. Generator output voltage is equal to the grid voltage but generator frequency is at 57 Hz. Which one of the following generator conditions is most likely to occur if the generator output breaker is closed with voltages in phase (synchronized), but with the existing frequency difference? (Assume no generator breaker protective trip occurs.)",
+    "choices": {
+      "A": "Reverse power",
+      "B": "Underfrequency",
+      "C": "Undervoltage",
+      "D": "Overspeed"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Bkrs, Rlys, and Disconnects",
+    "stem": " Closing the output breaker of a three-phase generator onto a deenergized bus can... NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "produce an overvoltage condition on the bus.",
+      "B": "produce an overcurrent condition on the generator if the bus was not first unloaded.",
+      "C": "result in a reverse power trip of the generator circuit breaker if generator frequency is low.",
+      "D": "result in large reactive currents in the generator. -615- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Bkrs, Rlys, and Disconnects",
+    "stem": " A main generator is being paralleled to an infinite power grid. Closing the output breaker of the generator with the frequency of the generator 0.1 Hz higher than grid frequency will result in the generator...",
+    "choices": {
+      "A": "behaving as a real load to the grid.",
+      "B": "behaving as a reactive load to the grid.",
+      "C": "supplying a portion of the grid reactive load.",
+      "D": "supplying a portion of the grid real load."
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Bkrs, Rlys, and Disconnects",
+    "stem": " Which one of the following generator conditions is most likely to result in equipment damage from high current flow? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "Tripping the output breaker under full-load conditions.",
+      "B": "Tripping the generator prime mover under full-load conditions.",
+      "C": "Closing the output breaker onto a bus that has a short-circuit fault.",
+      "D": "Closing the output breaker onto a bus that has an open-circuit fault. -616- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Bkrs, Rlys, and Disconnects",
+    "stem": " A main generator is about to be connected to an infinite power grid. Closing the generator output breaker with the generator voltage slightly lower than grid voltage and with generator frequency slightly higher than grid frequency will initially result in: (Assume no generator breaker protective trip occurs.)",
+    "choices": {
+      "A": "the generator supplying reactive power to the grid.",
+      "B": "the generator attaining a leading power factor.",
+      "C": "the generator acting as a real load to the grid.",
+      "D": "motoring of the generator."
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Bkrs, Rlys, and Disconnects",
+    "stem": " A main generator is being paralleled to the power grid. Generator voltage has been properly adjusted and the synchroscope is rotating slowly in the clockwise direction. The generator breaker must be closed just as the synchroscope pointer reaches the 12 o'clock position to prevent... NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "motoring of the generator, due to unequal frequencies.",
+      "B": "excessive MW load transfer to the generator, due to unequal frequencies.",
+      "C": "excessive MW load transfer to the generator, due to out-of-phase voltages.",
+      "D": "excessive arcing within the generator output breaker, due to out-of-phase voltages. -617- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Bkrs, Rlys, and Disconnects",
+    "stem": " During paralleling operations of the main generator to an infinite power grid, closing the generator output breaker with the frequency of the generator at 61 hertz and the grid frequency at 60 hertz will...",
+    "choices": {
+      "A": "cause the generator to immediately increase load.",
+      "B": "trip open the generator breaker on reverse power.",
+      "C": "cause the generator voltage to increase.",
+      "D": "cause the generator current to decrease."
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Bkrs, Rlys, and Disconnects",
+    "stem": " Which one of the following evolutions will draw the highest current from the main generator during operation of the output breaker? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "Opening the output breaker under full-load conditions.",
+      "B": "Opening the output breaker under no-load conditions.",
+      "C": "Closing the output breaker with voltages out of phase.",
+      "D": "Closing the output breaker with voltages in phase. -618- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Bkrs, Rlys, and Disconnects",
+    "stem": " Under which one of the following pre-existing conditions will closing a breaker between two electrical generators cause a sudden large and possibly damaging mechanical torque to be exerted on both of the generators?",
+    "choices": {
+      "A": "One generator is supplying a 3 percent higher voltage than the other.",
+      "B": "One generator is supplying a 3 percent higher frequency than the other.",
+      "C": "The voltage of one generator is out of phase with the other by 30 degrees.",
+      "D": "The capacity of one generator is twice that of the other generator."
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Bkrs, Rlys, and Disconnects",
+    "stem": " A main generator is about to be connected to an infinite power grid with the following conditions: Generator frequency = 59.5 Hz Grid frequency: = 59.8 Hz Generator voltage: = 115.1 KV Grid voltage: = 114.8 KV When the generator output breaker is closed, the generator will... NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "acquire real load and reactive load.",
+      "B": "acquire real load but become a reactive load to the grid.",
+      "C": "become a real load to the grid but acquire reactive load.",
+      "D": "become a real load and a reactive load to the grid. -619- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Bkrs, Rlys, and Disconnects",
+    "stem": " A main generator is about to be connected to an infinite power grid. Closing the generator output breaker with generator and grid voltages matched, but with generator frequency lower than grid frequency will initially result in the generator...",
+    "choices": {
+      "A": "picking up a portion of the grid real load.",
+      "B": "picking up a portion of the grid reactive load.",
+      "C": "experiencing reverse power conditions.",
+      "D": "experiencing overspeed conditions."
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Bkrs, Rlys, and Disconnects",
+    "stem": " A main generator is about to be connected to an infinite power grid. Closing the generator output breaker with the __________ of the generator higher than that of the grid will initially result in generator real load __________. NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "frequency; decreasing",
+      "B": "frequency; increasing",
+      "C": "voltage; decreasing",
+      "D": "voltage; increasing -620- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Bkrs, Rlys, and Disconnects",
+    "stem": " A main generator is about to be connected to an infinite power grid. Closing the generator output breaker with generator and grid voltages matched, but with generator frequency 0.1 Hz higher than grid frequency will initially result in the generator...",
+    "choices": {
+      "A": "picking up a portion of the grid real load.",
+      "B": "picking up a portion of the grid reactive load.",
+      "C": "experiencing reverse power conditions.",
+      "D": "experiencing overspeed conditions."
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Bkrs, Rlys, and Disconnects",
+    "stem": " A main generator is about to be connected to an infinite power grid with the following conditions: Generator frequency = 59.8 Hz Grid frequency = 59.5 Hz Generator voltage = 114.8 KV Grid voltage = 115.1 KV When the generator output breaker is closed, the generator will initially... NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "acquire real load and reactive load.",
+      "B": "acquire real load, but become a reactive load to the grid.",
+      "C": "become a real load to the grid, but acquire reactive load.",
+      "D": "become a real load and a reactive load to the grid. -621- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Bkrs, Rlys, and Disconnects",
+    "stem": " A main generator is being paralleled to an infinite power grid. Generator voltage has been properly adjusted and the synchroscope is rotating slowly in the counterclockwise direction. If the generator breaker is closed just prior to the synchroscope pointer reaching the 12 o'clock position, which one of the following is most likely to occur?",
+    "choices": {
+      "A": "The breaker will close and the generator will supply only MW to the grid.",
+      "B": "The breaker will close and the generator will supply both MW and MVAR to the grid.",
+      "C": "The breaker will close and then open due to overcurrent.",
+      "D": "The breaker will close and then open due to reverse power."
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Bkrs, Rlys, and Disconnects",
+    "stem": " A main generator is being connected to an infinite power grid. Which one of the following will occur if the generator output breaker is closed with generator frequency 0.1 Hz lower than power grid frequency? (Assume that no generator protection relay actuates.) NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "The generator will motorize.",
+      "B": "The generator will accept too much load.",
+      "C": "The voltage of the generator will decrease to compensate for the lower frequency.",
+      "D": "The entire connected system will operate at the frequency of the lowest frequency (the oncoming) generator. -622- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Bkrs, Rlys, and Disconnects",
+    "stem": " A main generator is being prepared for paralleling with an infinite power grid. Which one of the following indicates that the main generator and grid voltages are in phase?",
+    "choices": {
+      "A": "The synchroscope pointer is at the 12 o\u2019clock position.",
+      "B": "The frequency of the generator is equal to the frequency of the grid.",
+      "C": "The synchroscope pointer is turning slowly in the clockwise direction.",
+      "D": "The synchroscope pointer is turning slowly in the counterclockwise direction."
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Bkrs, Rlys, and Disconnects",
+    "stem": " A main generator is about to be connected to an infinite power grid. Which one of the following conditions will cause the main generator to immediately supply reactive power (MVAR) to the grid when the generator output breaker is closed? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "Generator voltage is slightly higher than grid voltage.",
+      "B": "Generator voltage is slightly lower than grid voltage.",
+      "C": "The synchroscope is turning slowly in the clockwise direction.",
+      "D": "The synchroscope is turning slowly in the counterclockwise direction. -623- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Bkrs, Rlys, and Disconnects",
+    "stem": " Two identical 1,000 MW electrical generators are being connected to the same electrical bus. Generator A is currently supplying the bus. Generator A and B output indications are as follows: Generator A Generator B 4,160 Volts 4,140 Volts 60.2 Hertz 60.8 Hertz 25 MW 0 MW 10 MVAR 0 MVAR When the output breaker for generator B is closed, which generator is more likely to trip on reverse power?",
+    "choices": {
+      "A": "Generator A, due to the higher initial voltage.",
+      "B": "Generator A, due to the lower initial frequency.",
+      "C": "Generator B, due to the lower initial voltage.",
+      "D": "Generator B, due to the higher initial frequency."
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Bkrs, Rlys, and Disconnects",
+    "stem": " A main generator is about to be connected to an infinite power grid. Generator voltage equals grid voltage and the synchroscope is rotating slowly in the clockwise direction. The generator breaker is closed just as the synchroscope pointer reaches the 12 o'clock position. Which one of the following will occur after the breaker is closed? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "The breaker will remain closed and the generator will supply only MW to the grid.",
+      "B": "The breaker will remain closed and the generator will supply both MW and MVAR to the grid.",
+      "C": "The breaker will trip open due to overcurrent.",
+      "D": "The breaker will trip open due to reverse power. -624- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Bkrs, Rlys, and Disconnects",
+    "stem": " A main generator is being prepared for paralleling with an infinite power grid. Which one of the following indicates that the generator and grid voltages are in phase?",
+    "choices": {
+      "A": "The voltage of the generator is equal to the voltage of the grid.",
+      "B": "The frequency of the generator is equal to the frequency of the grid.",
+      "C": "The synchroscope pointer is turning slowly in the clockwise direction.",
+      "D": "The synchroscope pointer is passing through the 12 o\u2019clock position."
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Bkrs, Rlys, and Disconnects",
+    "stem": " An isolated electrical bus is being supplied by generator A. Generator B is about to be connected to the same electrical bus. Generators A and B are both rated at 1,000 MW. Generator A and B output indications are as follows: Generator A Generator B 4,140 Volts 4,160 Volts 60.8 Hertz 60.2 Hertz 25 MW 0 MW 10 MVAR (out) 0 MVAR When the output breaker for generator B is closed, which generator is more likely to trip on reverse power? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "Generator A, due to the lower initial voltage.",
+      "B": "Generator A, due to the higher initial frequency.",
+      "C": "Generator B, due to the higher initial voltage.",
+      "D": "Generator B, due to the lower initial frequency. -625- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Bkrs, Rlys, and Disconnects",
+    "stem": " A main generator is about to be connected to an infinite power grid. Generator voltage is slightly higher than grid voltage and the synchroscope is rotating slowly in the clockwise direction. The generator breaker is closed just as the synchroscope pointer reaches the 12 o'clock position. Which one of the following will occur after the breaker is closed?",
+    "choices": {
+      "A": "The breaker will remain closed and the generator will supply only MW to the grid.",
+      "B": "The breaker will remain closed and the generator will supply both MW and MVAR to the grid.",
+      "C": "The breaker will open due to overcurrent.",
+      "D": "The breaker will open due to reverse power."
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Bkrs, Rlys, and Disconnects",
+    "stem": " A main generator is being prepared for paralleling with an infinite power grid. At which one of the following synchroscope pointer positions is the main generator output voltage the farthest out of phase with the grid voltage? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "3 o\u2019clock",
+      "B": "6 o\u2019clock",
+      "C": "9 o\u2019clock",
+      "D": "12 o\u2019clock -626- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Bkrs, Rlys, and Disconnects",
+    "stem": " A main generator is about to be connected to an infinite power grid. Generator voltage is equal to grid voltage and the synchroscope is rotating slowly in the counterclockwise direction. The generator breaker is closed just prior to the synchroscope pointer reaching the 12 o'clock position. Which one of the following is most likely to occur after the breaker is closed?",
+    "choices": {
+      "A": "The breaker will remain closed and the generator will supply only MW to the grid.",
+      "B": "The breaker will remain closed and the generator will supply both MW and MVAR to the grid.",
+      "C": "The breaker will open due to overcurrent.",
+      "D": "The breaker will open due to reverse power."
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Bkrs, Rlys, and Disconnects",
+    "stem": " A main generator is about to be connected to an infinite power grid. Generator voltage is slightly higher than grid voltage and the synchroscope is rotating slowly in the clockwise direction. The generator breaker is closed just as the synchroscope pointer reaches the 3 o'clock position. Which one of the following is most likely to occur after the breaker is closed? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "The breaker will remain closed and the generator will supply only MW to the grid.",
+      "B": "The breaker will remain closed and the generator will supply both MW and MVAR to the grid.",
+      "C": "The breaker will open due to overcurrent.",
+      "D": "The breaker will open due to reverse power. -627- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Bkrs, Rlys, and Disconnects",
+    "stem": " A main generator is being paralleled to an infinite power grid with the following conditions: Generator frequency = 59.9 Hz Grid frequency = 60.1 Hz Generator voltage = 114.8 KV Grid voltage = 115.1 KV When the generator output breaker is closed, the generator will...",
+    "choices": {
+      "A": "acquire real load and reactive load.",
+      "B": "acquire real load, but become a reactive load to the grid.",
+      "C": "become a real load to the grid, but acquire reactive load.",
+      "D": "become a real load and a reactive load to the grid."
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Bkrs, Rlys, and Disconnects",
+    "stem": " A main generator is about to be connected to an infinite power grid with the following conditions: Generator frequency = 60.1 Hz Grid frequency = 59.9 Hz Generator voltage = 115.1 KV Grid voltage = 114.8 KV When the generator output breaker is closed, the generator will... NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "acquire real load and reactive load.",
+      "B": "acquire real load, but become a reactive load to the grid.",
+      "C": "become a real load to the grid, but acquire reactive load.",
+      "D": "become a real load and a reactive load to the grid. -628- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Bkrs, Rlys, and Disconnects",
+    "stem": " A nuclear power plant was initially operating at 80 percent power in the middle of a fuel cycle with the main generator connected to an infinite power grid with the following main generator output parameters: 60 Hz 25 KV 300 MVAR (out) 800 MW A hydraulic oil system malfunction occurred that caused the main turbine steam inlet valves to slowly drift closed. After 10 minutes, the main generator real load decreased to 600 MW. Assuming no operator actions were taken, how were the remaining main generator output parameters affected after the above 10 minute period? Reactive Frequency (Hz) Voltage (KV) Load (MVAR) NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "Decreased Decreased No change",
+      "B": "Decreased No change Decreased",
+      "C": "No change No change No change",
+      "D": "No change Decreased Decreased -629- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Bkrs, Rlys, and Disconnects",
+    "stem": " Which one of the following will cause the most damage to the contact surfaces of a main generator output breaker?",
+    "choices": {
+      "A": "An operator attempts to close the main generator output breaker with the generator and power grid frequencies matched but with voltages 180 degrees out of phase.",
+      "B": "An operator attempts to close the main generator output breaker with the generator and power grid voltages in phase but with generator frequency 0.5 percent higher than power grid frequency.",
+      "C": "The main generator output breaker automatically trips open on a loss of offsite power while the main generator is operating at its minimum rated load.",
+      "D": "The main generator output breaker automatically trips open on a loss of offsite power while the main generator is operating at its maximum rated load."
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Bkrs, Rlys, and Disconnects",
+    "stem": " A main generator is about to be connected to an infinite power grid. The main generator has the following initial conditions: Generator frequency = 59.9 Hz Generator voltage = 115.1 KV Grid frequency = 60.1 Hz Grid voltage = 114.8 KV When the generator output breaker is closed, the generator will... NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "acquire real load and reactive load.",
+      "B": "acquire real load, but become a reactive load to the grid.",
+      "C": "become a real load and a reactive load to the grid.",
+      "D": "become a real load to the grid, but acquire reactive load. -630- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Bkrs, Rlys, and Disconnects",
+    "stem": " During a routine inspection of a main generator output breaker, a technician discovers severely damaged main contact surfaces. Which one of the following is the most likely cause of the damaged contact surfaces?",
+    "choices": {
+      "A": "The main generator breaker automatically tripped open after it was closed with the generator and power grid voltages 60 degrees out of phase.",
+      "B": "The main generator breaker automatically tripped open due to a faulty trip relay actuation while the main generator was operating unloaded.",
+      "C": "The main generator breaker automatically tripped open on a loss of offsite power while the main generator was operating at its maximum rated load.",
+      "D": "The main generator breaker automatically tripped open after it was closed with the generator and power grid voltages in phase but with generator frequency 0.2 Hz lower than power grid frequency."
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Bkrs, Rlys, and Disconnects",
+    "stem": " A main generator is about to be connected to an infinite power grid. Generator output frequency is slightly higher than grid frequency and generator output voltage is equal to grid voltage. Which one of the following situations will exist when the main generator electrical conditions stabilize immediately after the generator output breaker is closed? (Assume no additional operator actions are taken.) NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "Generator output current will be 0.",
+      "B": "Generator power factor will be 0.",
+      "C": "Generator output MVAR will be 0.",
+      "D": "Generator output MW will be 0. -631- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Bkrs, Rlys, and Disconnects",
+    "stem": " A main generator is being connected to an infinite power grid. The following frequencies exist just prior to closing the generator output breaker: Generator frequency = 59.9 Hz Grid frequency = 60.1 Hz When conditions stabilize just after the generator output breaker is closed, the generator frequency will be __________; and the grid frequency will be __________.",
+    "choices": {
+      "A": "59.9 Hz; 59.9 Hz",
+      "B": "59.9 Hz; 60.1 Hz",
+      "C": "60.0 Hz; 60.0 Hz",
+      "D": "60.1 Hz; 60.1 Hz"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Bkrs, Rlys, and Disconnects",
+    "stem": " A diesel generator (DG) was initially operating at 80 percent of rated load supplying an isolated electrical bus when a malfunction caused the DG output breaker to trip. The breakers for all of the bus loads--all of which are large motors--remained closed, preparing the motors to restart upon restoration of power to the bus. The DG output breaker has been repaired. With all of the bus load breakers still closed, which one of the following will occur when the DG output breaker is closed to reenergize the bus? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "The DG will become lightly loaded.",
+      "B": "The DG will return directly to its initial load.",
+      "C": "The DG will experience slight overload conditions.",
+      "D": "The DG will experience severe overload conditions. -632- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Bkrs, Rlys, and Disconnects",
+    "stem": " A main generator output breaker is about to be closed to connect the main generator to the power grid via the main transformer. The main transformer voltage and frequency are as follows: Voltage = 20,000 volts Frequency = 60.0 Hz Which combination of main generator voltage and frequency will ensure that the main generator will immediately supply real (MW) and reactive (MVAR) electrical power to the power grid when the main generator output breaker is closed?",
+    "choices": {
+      "A": "19,950 volts; 59.9 Hz",
+      "B": "19,950 volts; 60.1 Hz",
+      "C": "20,050 volts; 59.9 Hz",
+      "D": "20,050 volts; 60.1 Hz"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Bkrs, Rlys, and Disconnects",
+    "stem": " If a main generator output breaker is closed when the generator output voltage is 5 degrees out of phase with the power grid voltage, the main generator will experience a __________ stress; if the breaker remains closed and no additional operator action is taken, the main generator voltage will __________ with the grid voltage. NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "minor; remain out of phase",
+      "B": "minor; become locked into phase",
+      "C": "potentially damaging; remain out of phase",
+      "D": "potentially damaging; become locked into phase -633- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Bkrs, Rlys, and Disconnects",
+    "stem": " If a main generator output breaker is closed when the generator output voltage is 90 degrees out of phase with the power grid voltage, the main generator will experience a __________ stress; if the breaker remains closed and no additional operator action is taken, the main generator voltage will __________ with the grid voltage. A minor; remain out of phase NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "B": "minor; become locked into phase",
+      "C": "potentially damaging; remain out of phase",
+      "D": "potentially damaging; become locked into phase -634- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Bkrs, Rlys, and Disconnects",
+    "stem": " The main generator output breaker was just closed to connect the main generator to the main transformer. Just before the breaker was closed, the following parameter values existed: Main Generator Main Transformer 20,000 volts 20,050 volts 60.0 Hz 59.9 Hz With no additional operator action, the main generator stabilized with the following parameter values: 25 MW 15 MVAR (in) Now consider this following alternate set of parameters values: Main Generator Main Transformer 20,020 volts 20,050 volts 60.1 Hz 59.9 Hz If the alternate set of parameter values had existed just before the breaker was closed, the resulting main generator MW value would have been __________; and the resulting main generator MVAR (in) value would have been __________. NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "smaller; larger",
+      "B": "smaller; smaller",
+      "C": "larger; larger",
+      "D": "larger; smaller -635- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Bkrs, Rlys, and Disconnects",
+    "stem": " The main generator output breaker was just closed to connect the main generator to the main transformer. Just before the breaker was closed, the following parameter values existed: Main Generator Main Transformer 20,060 volts 20,020 volts 60.1 Hz 59.9 Hz With no additional operator action, the main generator stabilized as follows: 25 MW 15 MVAR (out) Now consider the following alternate set of parameters values: Main Generator Main Transformer 20,040 volts 20,020 volts 60.0 Hz 59.9 Hz If the alternate set of parameter values existed just before the main generator output breaker was closed, the resulting main generator MW value would be __________; and the resulting main generator MVAR (out) value would be __________. NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "smaller; larger",
+      "B": "smaller; smaller",
+      "C": "larger; larger",
+      "D": "larger; smaller -636- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Bkrs, Rlys, and Disconnects",
+    "stem": " The main generator output breaker was just closed to connect the main generator to the main transformer. Just before the breaker was closed, the following parameter values existed: Main Generator Main Transformer 20,000 volts 20,050 volts 60.1 Hz 59.9 Hz With no additional operator action, the main generator stabilized with the following parameter values: 25 MW 15 MVAR (in) Now consider this following alternate set of parameters values: Main Generator Main Transformer 20,020 volts 20,050 volts 60.0 Hz 59.9 Hz If the alternate set of parameter values had existed just before the breaker was closed, the resulting main generator MW value would have been __________; and the resulting main generator MVAR (in) value would have been __________. NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "larger; larger",
+      "B": "larger; smaller",
+      "C": "smaller; larger",
+      "D": "smaller; smaller -637- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Bkrs, Rlys, and Disconnects",
+    "stem": " When a typical 4,160 volt breaker is racked to the TEST position, control power is __________ the breaker; and the breaker is __________ the load.",
+    "choices": {
+      "A": "removed from; isolated from",
+      "B": "removed from; connected to",
+      "C": "available to; isolated from",
+      "D": "available to; connected to"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Bkrs, Rlys, and Disconnects",
+    "stem": " Which one of the following functions or capabilities would remain following a loss of control power to a typical 480 VAC bus feeder breaker? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "Remote breaker control capability.",
+      "B": "Breaker closing spring automatic recharging capability.",
+      "C": "Remote bus voltage indication.",
+      "D": "Remote breaker position indication. -638- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Bkrs, Rlys, and Disconnects",
+    "stem": " Which one of the following statements describes the use of high-voltage disconnect switches?",
+    "choices": {
+      "A": "Their use should be limited to normal load current interruption.",
+      "B": "They may be used to isolate transformers in an unloaded network.",
+      "C": "They trip open like circuit breakers, but must be manually closed.",
+      "D": "They must be closed with caution when under load because of possible arcing."
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Bkrs, Rlys, and Disconnects",
+    "stem": " The function of high-voltage disconnect switches is to provide __________ electrical isolation of equipment during __________ conditions. NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "manual; no-load",
+      "B": "manual; overload",
+      "C": "automatic; no-load",
+      "D": "automatic; overload -639- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Bkrs, Rlys, and Disconnects",
+    "stem": " High-voltage disconnect switches are used to...",
+    "choices": {
+      "A": "adjust the output voltage range from a main power transformer.",
+      "B": "protect bus feeder breakers by opening upon bus short-circuit faults.",
+      "C": "provide equipment isolation under no-load conditions.",
+      "D": "bypass and isolate an electrical bus while maintaining the downstream buses energized."
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Bkrs, Rlys, and Disconnects",
+    "stem": " What is an advantage of using high-voltage disconnect switches instead of breakers to isolate main power transformers? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "Disconnect switches can be operated either locally or remotely.",
+      "B": "Disconnect switches provide direct visual indication that the circuit is broken.",
+      "C": "Disconnect switches are cheaper and provide the same automatic protection as a breaker.",
+      "D": "Disconnect switches are capable of interrupting a higher current flow with less heating than a breaker. -640- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Bkrs, Rlys, and Disconnects",
+    "stem": " Which one of the following describes a characteristic of high-voltage disconnect switches?",
+    "choices": {
+      "A": "They close automatically requiring no operator action.",
+      "B": "They should not be used to interrupt a circuit under load.",
+      "C": "They require a remote means of indication to determine actual position.",
+      "D": "They should be connected so that they ground the supply bus prior to opening a circuit."
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Bkrs, Rlys, and Disconnects",
+    "stem": " Typical high-voltage disconnect switches are designed to... NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "protect circuits during overcurrent conditions.",
+      "B": "automatically trip open to protect breakers.",
+      "C": "isolate equipment electrically during no-load conditions.",
+      "D": "interrupt circuits under load. -641- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Bkrs, Rlys, and Disconnects",
+    "stem": " Typical high-voltage transformer disconnect switches are designed to... NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "automatically protect the transformer from overcurrent conditions.",
+      "B": "automatically trip open prior to transformer output breaker trip.",
+      "C": "manually isolate the transformer during no-load conditions.",
+      "D": "manually interrupt the transformer output circuit under any load when grounds are detected. -642- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Bkrs, Rlys, and Disconnects",
+    "stem": " Refer to the simplified drawing of an electrical distribution system showing 7.2 KV switchgear, step- down transformers, and 480 V motor control centers (MCCs) (see figure below). The high voltage side of each step-down transformer has a remote-operated disconnect to allow transformer maintenance while keeping the other transformers in service. The control circuit for each disconnect is position-interlocked with the associated MCC feeder breaker. Which one of the following describes the purpose served by the interlock? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "Prevent damage to the disconnect.",
+      "B": "Prevent damage to the transformer.",
+      "C": "Prevent damage to the feeder breaker.",
+      "D": "Prevent damage to the 480V MCC. -643- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Bkrs, Rlys, and Disconnects",
+    "stem": " A 480 VAC motor control center supplies a load through a breaker and a manual disconnect switch. Which one of the following sequences will provide the greatest level of personnel safety when de- energizing the load for maintenance, and when re-energizing the load after the maintenance is complete? DE-ENERGIZING RE-ENERGIZING NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "Open breaker first Shut breaker first",
+      "B": "Open breaker first Shut disconnect switch first",
+      "C": "Open disconnect switch first Shut breaker first",
+      "D": "Open disconnect switch first Shut disconnect switch first -644- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Bkrs, Rlys, and Disconnects",
+    "stem": " Refer to the simplified drawing of an electrical distribution system showing 7.2 KV switchgear, step- down transformers, and 480 V motor control centers (MCCs) (see figure below). The high voltage side of each step-down transformer has a remote-operated disconnect. The control circuit for each disconnect is position-interlocked with the associated MCC feeder breaker. Which one of the following describes the interlock operating scheme that will provide the greatest protection for the disconnect? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "Permits opening the feeder breaker only if the disconnect is closed.",
+      "B": "Permits opening the feeder breaker only if the disconnect is open.",
+      "C": "Permits opening the disconnect only if the feeder breaker is closed.",
+      "D": "Permits opening the disconnect only if the feeder breaker is open. -645- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Bkrs, Rlys, and Disconnects",
+    "stem": " The following remote indications are observed for a 480 VAC load center supply breaker. (The breaker is normally open.) Red indicating light is lit. Green indicating light is out. Load center voltage indicates 0 volts. Breaker incoming voltage indicates 480 volts. What is the condition of the breaker?",
+    "choices": {
+      "A": "Open and racked in",
+      "B": "Closed and racked in",
+      "C": "Open and racked to the TEST position",
+      "D": "Closed and racked to the TEST position"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Bkrs, Rlys, and Disconnects",
+    "stem": " The following indications are observed in the control room for a normally-open motor control center (MCC) breaker that directly starts/stops a 480 VAC motor: Red position indicating light is out. Green position indicating light is out. Motor ammeter indicates normal load current. Assuming one of the indicating lights is burned out, what is the condition of the breaker? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "Open and racked in",
+      "B": "Open and racked to the TEST position",
+      "C": "Closed and racked in",
+      "D": "Closed and racked to the TEST position -646- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Bkrs, Rlys, and Disconnects",
+    "stem": " The following indications are observed in the control room for a normally-open motor control center (MCC) breaker that directly starts/stops a 480 VAC motor: Red position indicating light is lit. Green position indicating light is out. Motor load current indicates 0 amps. MCC voltage indicates 480 volts. What is the condition of the breaker? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "Open and racked in",
+      "B": "Closed and racked in",
+      "C": "Open and racked to the TEST position",
+      "D": "Closed and racked to the TEST position -647- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Bkrs, Rlys, and Disconnects",
+    "stem": " The following indications are observed in the control room for a normally-open breaker that directly starts/stops a 480 VAC motor: Red position indicating light is lit. Green position indicating light is out. Load current indicates 50 amps. Supply voltage indicates 480 volts. What is the condition of the breaker? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "Open and racked to the TEST position",
+      "B": "Closed and racked to the TEST position",
+      "C": "Open and racked in",
+      "D": "Closed and racked in -648- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Bkrs, Rlys, and Disconnects",
+    "stem": " While remotely investigating the condition of a normally-open breaker that feeds a motor control center (MCC), an operator observes the following indications: Green breaker position indicating light is out. Red breaker position indicating light is lit. MCC voltmeter indicates normal voltage. MCC ammeter indicates zero amperes. Based on these indications, the operator should report that the breaker is __________ and racked __________. NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "open; in",
+      "B": "closed; in",
+      "C": "open; out",
+      "D": "closed; out -649- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Bkrs, Rlys, and Disconnects",
+    "stem": " While remotely investigating the condition of a typical normally-open motor control center (MCC) feeder breaker, an operator observes the following indications: Green breaker position indicating light is lit. Red breaker position indicating light is out. MCC voltmeter indicates zero volts. MCC ammeter indicates zero amperes. Based on these indications, the operator can accurately report that the breaker is open and racked to __________ position. NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "the OUT",
+      "B": "the IN",
+      "C": "the TEST",
+      "D": "an unknown -650- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Bkrs, Rlys, and Disconnects",
+    "stem": " While remotely investigating the condition of a normally-open 480 VAC motor control center (MCC) feeder breaker, an operator observes the following indications: Green breaker position indicating light is out. Red breaker position indicating light is lit. MCC voltmeter indicates 480 VAC. MCC ammeter indicates zero amperes. Based on these indications, the operator should report that the feeder breaker is __________ and racked __________. NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "open; in",
+      "B": "closed; in",
+      "C": "open; to the TEST position",
+      "D": "closed; to the TEST position -651- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Bkrs, Rlys, and Disconnects",
+    "stem": " Given the following indications for an open 4,160 VAC breaker: All phase overcurrent trip flags are reset. The control power fuses indicate blown. The line-side voltmeter indicates 4,160 VAC. The load-side voltmeter indicates 0 VAC. Assuming no operator actions were taken since the breaker opened, which one of the following could have caused the breaker to open? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "A ground fault caused an automatic breaker trip.",
+      "B": "A loss of control power caused an automatic breaker trip.",
+      "C": "An operator opened the breaker locally at the breaker cabinet.",
+      "D": "An operator opened the breaker remotely from the control room. -652- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Bkrs, Rlys, and Disconnects",
+    "stem": " While remotely investigating the condition of a normally-open feeder breaker to a 480 VAC motor control center (MCC), a control room operator observes the following indications: Green breaker position indicating light is out. Red breaker position indicating light is lit. MCC voltmeter indicates 0 VAC. MCC ammeter indicates zero amperes. Based on these indications, the operator should report that the feeder breaker is __________ and racked __________. NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "open; in",
+      "B": "closed; out",
+      "C": "open; to the TEST position",
+      "D": "closed; to the TEST position -653- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Bkrs, Rlys, and Disconnects",
+    "stem": " While remotely investigating the condition of a normally-open 480 VAC motor control center (MCC) feeder breaker, an operator observes the following indications: Green breaker position indicating light is out. Red breaker position indicating light is lit. MCC voltmeter indicates 480 VAC. MCC ammeter indicates zero amperes. Based on these indications, the operator should report that the feeder breaker is __________ and racked __________.",
+    "choices": {
+      "A": "open; in",
+      "B": "closed; in",
+      "C": "open; to an unknown position",
+      "D": "closed; to an unknown position"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Bkrs, Rlys, and Disconnects",
+    "stem": " Breaker local overcurrent trip flag indicators, when actuated, indicate that... NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "a breaker trip will occur unless current is reduced.",
+      "B": "a breaker overcurrent condition is responsible for a breaker trip.",
+      "C": "an overcurrent condition has cleared and the breaker can be closed.",
+      "D": "the associated breaker has failed to trip open during an overcurrent condition. -654- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Bkrs, Rlys, and Disconnects",
+    "stem": " Given the following indications for an open 4,160 VAC breaker: The local OPEN/CLOSED mechanical flag indicates OPEN. A breaker overcurrent trip flag is actuated on one phase. The line-side voltmeter indicates 4,160 VAC. The load-side voltmeter indicates 0 VAC. Assuming no operator actions were taken since the breaker opened, which one of the following could have caused the breaker to open? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "A ground fault caused an automatic breaker trip.",
+      "B": "A loss of control power caused an automatic breaker trip.",
+      "C": "An operator opened the breaker locally.",
+      "D": "An operator opened the breaker from a remote location. -655- PWR Test Items"
+    },
     "answer": "A"
   }
 ]

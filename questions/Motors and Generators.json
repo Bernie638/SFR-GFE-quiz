@@ -1,1379 +1,1167 @@
 [
   {
-    "id": "MOT563",
     "topic": "Motors and Generators",
-    "question": "A motor-driven cooling water pump is operating normally. How will pump motor current respond\nif the pump experiences a locked rotor?",
-    "image": "",
-    "choices": [
-      "A. Decreases immediately to zero due to breaker trip.",
-      "B. Decreases immediately to no-load motor amps.",
-      "C. Increases immediately to many times running current, then decreases to no-load motor amps.",
-      "D. Increases immediately to many times running current, then decreases to zero upon breaker trip."
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "MOT564",
-    "topic": "Motors and Generators",
-    "question": "A cooling water pump is being driven by an AC induction motor. Which one of the following\ndescribes how and why pump motor current will change if the pump shaft seizes?\n-418-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. Decreases due to decreased pump flow rate.",
-      "B. Decreases due to increased counter electromotive force.",
-      "C. Increases due to decreased pump flow rate.",
-      "D. Increases due to decreased counter electromotive force."
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "MOT565",
-    "topic": "Motors and Generators",
-    "question": "A motor-driven centrifugal pump exhibits indications of pump failure while being started in an idle\ncooling water system. Assuming the pump motor breaker does not trip, which one of the following\npairs of indications would be observed if the failure is a locked pump shaft?",
-    "image": "",
-    "choices": [
-      "A. Lower than normal running current with zero system flow rate.",
-      "B. Lower than normal running current with a fraction of normal system flow rate.",
-      "C. Excessive duration of peak starting current with zero system flow rate.",
-      "D. Excessive duration of peak starting current with a fraction of normal system flow rate."
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "MOT566",
-    "topic": "Motors and Generators",
-    "question": "When an AC motor-driven centrifugal pump was started, the motor ammeter reading immediately\nincreased to, and stabilized at, many times the normal operating value. Which one of the following\ndescribes a possible cause for the ammeter response?\n-419-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. The pump was started with a fully closed discharge valve.",
-      "B. The pump was started with a fully open discharge valve.",
-      "C. The pump shaft seized upon start and did not rotate.",
-      "D. The pump shaft separated from the motor shaft upon start."
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "MOT567",
-    "topic": "Motors and Generators",
-    "question": "If the generator bearings on a motor-generator set begin to overheat from excessive friction, which\none of the following will occur?",
-    "image": "",
-    "choices": [
-      "A. Generator current will begin to increase.",
-      "B. Generator windings will begin to heat up.",
-      "C. Motor current will begin to decrease.",
-      "D. Motor windings will begin to heat up."
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "MOT568",
-    "topic": "Motors and Generators",
-    "question": "A thermal overload device for a large motor protects the motor from...\n-420-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. sustained overcurrent by opening the motor breaker or motor line contacts.",
-      "B. sustained overcurrent by opening contacts in the motor windings.",
-      "C. instantaneous overcurrent by opening the motor breaker or motor line contacts.",
-      "D. instantaneous overcurrent by opening contacts in the motor windings."
-    ],
+    "stem": " A motor-driven cooling water pump is operating normally. How will pump motor current respond if the pump experiences a locked rotor?",
+    "choices": {
+      "A": "Decreases immediately to zero due to breaker trip.",
+      "B": "Decreases immediately to no-load motor amps.",
+      "C": "Increases immediately to many times running current, then decreases to no-load motor amps.",
+      "D": "Increases immediately to many times running current, then decreases to zero upon breaker trip."
+    },
     "answer": "A"
   },
   {
-    "id": "MOT569",
     "topic": "Motors and Generators",
-    "question": "Which one of the following will provide the initial motor protection against electrical damage caused\nby gradual bearing failure?",
-    "image": "",
-    "choices": [
-      "A. Thermal overload device",
-      "B. Overcurrent trip relay",
-      "C. Underfrequency relay",
-      "D. Undervoltage device"
-    ],
+    "stem": " A cooling water pump is being driven by an AC induction motor. Which one of the following describes how and why pump motor current will change if the pump shaft seizes? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "Decreases due to decreased pump flow rate.",
+      "B": "Decreases due to increased counter electromotive force.",
+      "C": "Increases due to decreased pump flow rate.",
+      "D": "Increases due to decreased counter electromotive force. -418- PWR Test Items"
+    },
     "answer": "A"
   },
   {
-    "id": "MOT570",
     "topic": "Motors and Generators",
-    "question": "Which one of the following will result from prolonged operation of an AC induction motor with\nexcessively high stator temperatures?\n-421-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. Decreased electrical current demand due to reduced counter electromotive force.",
-      "B. Increased electrical current demand due to reduced counter electromotive force.",
-      "C. Decreased electrical resistance to ground due to breakdown of winding insulation.",
-      "D. Increased electrical resistance to ground due to breakdown of winding insulation."
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "MOT571",
-    "topic": "Motors and Generators",
-    "question": "Continuous operation of a motor at rated load with a loss of required cooling to the motor windings\nwill eventually result in...",
-    "image": "",
-    "choices": [
-      "A. cavitation of the pumped fluid.",
-      "B. failure of the motor overcurrent protection devices.",
-      "C. breakdown of the motor insulation and electrical grounds.",
-      "D. phase current imbalance in the motor and overspeed trip actuation."
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "MOT572",
-    "topic": "Motors and Generators",
-    "question": "Thermal overload devices will provide the first electrical protection for a pump motor in the\nevent of...\n-422-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. a locked rotor upon starting.",
-      "B. an electrical short circuit.",
-      "C. gradual motor bearing damage.",
-      "D. a sheared shaft during operation."
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "MOT573",
-    "topic": "Motors and Generators",
-    "question": "Which one of the following trip signals will trip the breaker for an operating motor that experiences\na seized rotor?",
-    "image": "",
-    "choices": [
-      "A. Undervoltage",
-      "B. Underfrequency",
-      "C. Time-delayed overcurrent",
-      "D. Instantaneous overcurrent"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "MOT574",
-    "topic": "Motors and Generators",
-    "question": "A large AC motor has a maximum ambient temperature rating of 40\u00b0C. Which one of the following\nwill occur if the motor is continuously operated at rated load with an ambient temperature of 50\u00b0C?\nwindings.\nwindings.\nmotor windings.\nwindings.\n-423-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. Accelerated embrittlement of the motor windings, leading to an open circuit within the motor",
-      "B. Accelerated embrittlement of the motor windings, leading to a short circuit within the motor",
-      "C. Accelerated breakdown of the motor winding insulation, leading to an open circuit within the",
-      "D. Accelerated breakdown of the motor winding insulation, leading to a short circuit within the motor"
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "MOT575",
-    "topic": "Motors and Generators",
-    "question": "A main generator that is connected to an infinite power grid has the following initial indications:\n100 MW\n0 MVAR\n2,900 amps\n20 KV\nIf main generator field current is reduced slightly, amps will __________; and MW will\n__________.",
-    "image": "",
-    "choices": [
-      "A. increase; decrease",
-      "B. decrease; decrease",
-      "C. increase; remain the same",
-      "D. decrease; remain the same"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "MOT576",
-    "topic": "Motors and Generators",
-    "question": "Excessive current will be drawn by an AC induction motor that is operating...\n-424-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. completely unloaded.",
-      "B. at full load.",
-      "C. with open-circuited stator windings.",
-      "D. with short-circuited stator windings."
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "MOT577",
-    "topic": "Motors and Generators",
-    "question": "A main generator that is connected to an infinite power grid has the following indications:\n500 MW\n300 MVAR (out)\n2,800 amps\nIf main generator field current is reduced slightly, amps will __________; and MW will\n__________.",
-    "image": "",
-    "choices": [
-      "A. increase; decrease",
-      "B. increase; remain the same",
-      "C. decrease; decrease",
-      "D. decrease; remain the same"
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "MOT578",
-    "topic": "Motors and Generators",
-    "question": "A main generator is connected to an infinite power grid. If the voltage supplied to the generator\nfield is slowly and continuously decreased, the generator will experience high current due to...\n(Assume no generator protective actuations occur.)\n-425-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. excessive generator MW.",
-      "B. excessive generator MVAR out.",
-      "C. excessive generator MVAR in.",
-      "D. generator reverse power."
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "MOT579",
-    "topic": "Motors and Generators",
-    "question": "An AC generator is supplying an isolated electrical system with a power factor of 1.0. If generator\nvoltage is held constant while real load (KW) increases, the current supplied by the generator will\nincrease in direct proportion to the __________ of the change in real load. (Assume the generator\npower factor remains constant at 1.0.)",
-    "image": "",
-    "choices": [
-      "A. cube",
-      "B. square",
-      "C. amount",
-      "D. square root"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "MOT580",
-    "topic": "Motors and Generators",
-    "question": "A main generator that is connected to an infinite power grid has the following indications:\n600 MW\n100 MVAR (in)\n13,800 amps\n25 KV\nIf main generator excitation current is increased slightly, amps will initially __________; and MW\nwill initially __________.\n-426-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. decrease; increase",
-      "B. increase; increase",
-      "C. decrease; remain the same",
-      "D. increase; remain the same"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "MOT581",
-    "topic": "Motors and Generators",
-    "question": "A main generator that is connected to an infinite power grid has the following indications:\n600 MW\n100 MVAR (in)\n13,800 amps\n25 KV\nIf main generator excitation current is decreased slightly, amps will __________; and MVAR will\n__________.",
-    "image": "",
-    "choices": [
-      "A. decrease; increase",
-      "B. increase; increase",
-      "C. decrease; decrease",
-      "D. increase; decrease"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "MOT582",
-    "topic": "Motors and Generators",
-    "question": "A main generator is connected to an infinite power grid. Which one of the following conditions\nwill exist if the generator is operating underexcited?\n-427-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. Negative MVAR (VARs in) with a leading power factor",
-      "B. Positive MVAR (VARs out) with a leading power factor",
-      "C. Positive MVAR (VARs out) with a lagging power factor",
-      "D. Negative MVAR (VARs in) with a lagging power factor"
-    ],
+    "stem": " A motor-driven centrifugal pump exhibits indications of pump failure while being started in an idle cooling water system. Assuming the pump motor breaker does not trip, which one of the following pairs of indications would be observed if the failure is a locked pump shaft?",
+    "choices": {
+      "A": "Lower than normal running current with zero system flow rate.",
+      "B": "Lower than normal running current with a fraction of normal system flow rate.",
+      "C": "Excessive duration of peak starting current with zero system flow rate.",
+      "D": "Excessive duration of peak starting current with a fraction of normal system flow rate."
+    },
     "answer": "A"
   },
   {
-    "id": "MOT583",
     "topic": "Motors and Generators",
-    "question": "A diesel generator (DG) is supplying both KW and KVAR to an electrical bus that is connected to an\ninfinite power grid. Assuming DG and bus voltage do not change, if the DG voltage regulator\nsetpoint is increased slightly, DG KW will __________; and DG amps will __________.",
-    "image": "",
-    "choices": [
-      "A. remain the same; increase",
-      "B. remain the same; remain the same",
-      "C. increase; increase",
-      "D. increase; remain the same"
-    ],
+    "stem": " When an AC motor-driven centrifugal pump was started, the motor ammeter reading immediately increased to, and stabilized at, many times the normal operating value. Which one of the following describes a possible cause for the ammeter response? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "The pump was started with a fully closed discharge valve.",
+      "B": "The pump was started with a fully open discharge valve.",
+      "C": "The pump shaft seized upon start and did not rotate.",
+      "D": "The pump shaft separated from the motor shaft upon start. -419- PWR Test Items"
+    },
     "answer": "A"
   },
   {
-    "id": "MOT584",
     "topic": "Motors and Generators",
-    "question": "A diesel generator (DG) is supplying an electrical bus that is connected to an infinite power grid.\nAssuming DG terminal voltage and bus frequency do not change, if the DG governor setpoint is\nincreased from 60.0 Hz to 60.1 Hz, DG KVAR load will __________; and DG amps will\n__________.\n-428-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. increase; increase",
-      "B. increase; remain the same",
-      "C. remain the same; increase",
-      "D. remain the same; remain the same"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "MOT585",
-    "topic": "Motors and Generators",
-    "question": "A main generator that is connected to an infinite power grid has the following indications:\n600 MW\n100 MVAR (out)\n13,800 amps\n25 KV\nIf main generator field current is decreased, amps will initially __________; and MVAR will\ninitially __________.",
-    "image": "",
-    "choices": [
-      "A. decrease; increase",
-      "B. increase; increase",
-      "C. decrease; decrease",
-      "D. increase; decrease"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "MOT586",
-    "topic": "Motors and Generators",
-    "question": "A diesel generator (DG) is supplying both KW and KVAR to an electrical bus that is connected to an\ninfinite power grid. Assuming bus voltage does not change, if the DG voltage regulator setpoint is\ndecreased slightly, DG KW will __________; and DG amps will __________.\n-429-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. remain the same; decrease",
-      "B. remain the same; remain the same",
-      "C. decrease; decrease",
-      "D. decrease; remain the same"
-    ],
+    "stem": " If the generator bearings on a motor-generator set begin to overheat from excessive friction, which one of the following will occur?",
+    "choices": {
+      "A": "Generator current will begin to increase.",
+      "B": "Generator windings will begin to heat up.",
+      "C": "Motor current will begin to decrease.",
+      "D": "Motor windings will begin to heat up."
+    },
     "answer": "A"
   },
   {
-    "id": "MOT587",
     "topic": "Motors and Generators",
-    "question": "A main generator that is connected to an infinite power grid has the following indications:\n100 MW\n0 MVAR\n2,900 amps\n20 KV\nIf main generator excitation is increased, amps will __________; and MW will __________.",
-    "image": "",
-    "choices": [
-      "A. remain the same; increase",
-      "B. remain the same; remain the same",
-      "C. increase; increase",
-      "D. increase; remain the same"
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "MOT588",
-    "topic": "Motors and Generators",
-    "question": "A main generator is supplying power to an infinite power grid. If the generator field current is\nslowly and continuously increased, the generator will experience high current due to: (Assume no\ngenerator protective actuations occur.)\n-430-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. generator reverse power.",
-      "B. excessive generator MW.",
-      "C. excessive generator MVAR in.",
-      "D. excessive generator MVAR out."
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "MOT589",
-    "topic": "Motors and Generators",
-    "question": "Two identical 1,000 MW generators are operating in parallel supplying the same isolated electrical\nbus. The generator output breakers provide identical protection for the generators. Generator A\nand B output indications are as follows:\nGenerator A Generator B\n22 KV 22 KV\n60.2 Hertz 60.2 Hertz\n800 MW 800 MW\n50 MVAR (out) 25 MVAR (in)\nA malfunction causes the voltage regulator for generator B to slowly and continuously increase the\nterminal voltage for generator B. If no operator action is taken, generator B output current will...\n-431-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. increase continuously until the output breaker for generator A trips on overcurrent.",
-      "B. increase continuously until the output breaker for generator B trips on overcurrent.",
-      "C. initially decrease, and then increase until the output breaker for generator A trips on overcurrent.",
-      "D. initially decrease, and then increase until the output breaker for generator B trips on overcurrent."
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "MOT590",
-    "topic": "Motors and Generators",
-    "question": "Refer to the partial drawing of two identical radial-flow centrifugal pumps in a cooling water system\n(see figure below). Each pump is driven by an identical three-phase AC induction motor.\nThe cooling water system is being returned to service following maintenance on the pumps. Pump\nA was started five minutes ago to initiate flow in the cooling water system. Pump B is about to be\nstarted.\nWhen pump B is started, which one of the following would cause the motor ammeter for pump B to\nremain off-scale high for a longer time than usual before stabilizing at a lower running current?\n-432-\nPWR Test Items",
-    "image": "page432_img1.jpeg",
-    "choices": [
-      "A. Pump B was initially rotating in the reverse direction.",
-      "B. The motor coupling for pump B was removed and not reinstalled.",
-      "C. The packing material for pump B was removed and not reinstalled.",
-      "D. Two phases of the motor windings for pump B were electrically switched."
-    ],
+    "stem": " A thermal overload device for a large motor protects the motor from... NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "sustained overcurrent by opening the motor breaker or motor line contacts.",
+      "B": "sustained overcurrent by opening contacts in the motor windings.",
+      "C": "instantaneous overcurrent by opening the motor breaker or motor line contacts.",
+      "D": "instantaneous overcurrent by opening contacts in the motor windings. -420- PWR Test Items"
+    },
     "answer": "A"
   },
   {
-    "id": "MOT591",
     "topic": "Motors and Generators",
-    "question": "A main turbine-generator is operating in parallel with an infinite power grid. If the turbine control\nvalves (or throttle valves) slowly fail open, the generator will experience high current primarily due\nto... (Assume no generator protective actuations occur.)",
-    "image": "",
-    "choices": [
-      "A. excessive generator MW.",
-      "B. excessive generator VARs out.",
-      "C. excessive generator VARs in.",
-      "D. generator reverse power."
-    ],
+    "stem": " Which one of the following will provide the initial motor protection against electrical damage caused by gradual bearing failure?",
+    "choices": {
+      "A": "Thermal overload device",
+      "B": "Overcurrent trip relay",
+      "C": "Underfrequency relay",
+      "D": "Undervoltage device"
+    },
     "answer": "A"
   },
   {
-    "id": "MOT592",
     "topic": "Motors and Generators",
-    "question": "A main generator is operating and connected to an infinite power grid. Elevated main generator\nwinding temperature requires a reduction in reactive load from 200 MVAR (out) to 150 MVAR\n(out). To accomplish the reactive load reduction, the operator must __________ the generator field\ncurrent; when generator reactive load equals 150 MVAR (out) the generator power factor will be\n__________ than the initial power factor.\n-433-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. increase; larger",
-      "B. increase; smaller",
-      "C. decrease; larger",
-      "D. decrease; smaller"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "MOT593",
-    "topic": "Motors and Generators",
-    "question": "A main generator that is connected to an infinite power grid has the following indications:\n22 KV\n60 Hertz\n575 MW\n100 MVAR (in)\nWhich one of the following contains a combination of manual adjustments to the main generator\nvoltage regulator and speed control setpoints such that each adjustment will initially result in an\nincrease in main generator amps?\nVoltage Speed\nSetpoint Setpoint\n-434-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. Increase Increase",
-      "B. Increase Decrease",
-      "C. Decrease Increase",
-      "D. Decrease Decrease"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "MOT594",
-    "topic": "Motors and Generators",
-    "question": "A nuclear power plant startup is in progress. The main generator has just been connected to the\npower grid with the following generator indications:\n20 KV\n288 amps\n10 MW\n0 MVAR\nThe operator suspects the main generator is operating under reverse power conditions and attempts\nto increase generator load (MW) normally. If the main generator is operating under reverse power\nconditions when the operator attempts to increase generator load, generator MW will initially\n__________; and generator amps will initially __________.\n-435-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. decrease; decrease",
-      "B. decrease; increase",
-      "C. increase; decrease",
-      "D. increase; increase"
-    ],
+    "stem": " Which one of the following will result from prolonged operation of an AC induction motor with excessively high stator temperatures? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "Decreased electrical current demand due to reduced counter electromotive force.",
+      "B": "Increased electrical current demand due to reduced counter electromotive force.",
+      "C": "Decreased electrical resistance to ground due to breakdown of winding insulation.",
+      "D": "Increased electrical resistance to ground due to breakdown of winding insulation. -421- PWR Test Items"
+    },
     "answer": "A"
   },
   {
-    "id": "MOT595",
     "topic": "Motors and Generators",
-    "question": "A main generator is connected to an infinite power grid with the following generator output\nparameters:\n22 KV\n60 Hertz\n575 MW\n100 MVAR (in)\nWhich one of the following contains a combination of manual adjustments to the main generator\nvoltage regulator and speed control setpoints such that each adjustment will initially result in a\ndecrease in main generator amps?\nVoltage Speed\nSetpoint Setpoint\n-436-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. Increase Increase",
-      "B. Increase Decrease",
-      "C. Decrease Increase",
-      "D. Decrease Decrease"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "MOT596",
-    "topic": "Motors and Generators",
-    "question": "A main generator is connected to an infinite power grid with the following initial generator\nparameters:\n22 KV\n60 Hertz\n600 MW\n100 MVAR (out)\nWhich one of the following contains a combination of manual adjustments to the main generator\nvoltage regulator and speed control setpoints such that each adjustment will initially result in an\nincrease in main generator amps?\nVoltage Speed\nSetpoint Setpoint\n-437-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. Increase Increase",
-      "B. Increase Decrease",
-      "C. Decrease Increase",
-      "D. Decrease Decrease"
-    ],
+    "stem": " Continuous operation of a motor at rated load with a loss of required cooling to the motor windings will eventually result in...",
+    "choices": {
+      "A": "cavitation of the pumped fluid.",
+      "B": "failure of the motor overcurrent protection devices.",
+      "C": "breakdown of the motor insulation and electrical grounds.",
+      "D": "phase current imbalance in the motor and overspeed trip actuation."
+    },
     "answer": "A"
   },
   {
-    "id": "MOT597",
     "topic": "Motors and Generators",
-    "question": "A main generator is connected to an infinite power grid. Which one of the following pairs of main\ngenerator output parameters places the generator in the closest proximity to slipping a pole?",
-    "image": "",
-    "choices": [
-      "A. 800 MW; 200 MVAR (in)",
-      "B. 800 MW; 600 MVAR (in)",
-      "C. 400 MW; 200 MVAR (out)",
-      "D. 400 MW; 600 MVAR (out)"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "MOT598",
-    "topic": "Motors and Generators",
-    "question": "A main generator is connected to an infinite power grid with the following initial generator\nparameters:\n22 KV\n60 Hertz\n600 MW\n100 MVAR (out)\nWhich one of the following contains a combination of manual adjustments to the main generator\nvoltage regulator and speed control setpoints such that each adjustment will initially result in a\ndecrease in main generator amps?\nVoltage Speed\nSetpoint Setpoint\n-438-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. Increase Increase",
-      "B. Increase Decrease",
-      "C. Decrease Increase",
-      "D. Decrease Decrease"
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "MOT599",
-    "topic": "Motors and Generators",
-    "question": "During a surveillance test, a 4,000 KW diesel generator (DG) and a 1,000 MW main generator (MG)\nat a nuclear power plant are connected to the same power grid.\nThe following stable generator output conditions exist:\nDiesel Generator Main Generator\n700 KW 800 MW\n200 KVAR (out) 100 MVAR (out)\nA malfunction then occurs, causing the voltage regulator for the MG to slowly and continuously\nincrease the MG field current. If no operator action is taken, the DG output current will\n__________ until a breaker trip separates the generators.\n-439-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. remain about the same",
-      "B. increase continuously",
-      "C. initially increase, and then decrease",
-      "D. initially decrease, and then increase"
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "MOT600",
-    "topic": "Motors and Generators",
-    "question": "A main generator is connected to an infinite power grid with the following generator output\nparameters:\n22 KV\n60 Hertz\n575 MW\n100 MVAR (in)\nWhich one of the following contains a combination of minor adjustments to the main generator\nvoltage regulator and speed control setpoints such that each adjustment will cause the main generator\nto operate at a power factor closer to 1.0? (Assume the generator power factor remains less than\n1.0.)\nVoltage Speed\nSetpoint Setpoint\n-440-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. Increase Increase",
-      "B. Increase Decrease",
-      "C. Decrease Increase",
-      "D. Decrease Decrease"
-    ],
+    "stem": " Thermal overload devices will provide the first electrical protection for a pump motor in the event of... NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "a locked rotor upon starting.",
+      "B": "an electrical short circuit.",
+      "C": "gradual motor bearing damage.",
+      "D": "a sheared shaft during operation. -422- PWR Test Items"
+    },
     "answer": "A"
   },
   {
-    "id": "MOT601",
     "topic": "Motors and Generators",
-    "question": "A main turbine-generator is connected to an infinite power grid with the following generator output\nparameters:\n25 KV\n20,000 amps\n830 MW\n248 MVAR (out)\nWhich one of the following will significantly increase main generator output amperage without a\nsignificant change in main generator MW output? (Assume the generator power factor remains less\nthan 1.0.)\n-441-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. Increasing the main turbine speed control setpoint.",
-      "B. Increasing the main generator voltage regulator setpoint.",
-      "C. A 10 percent decrease in power grid electrical loads.",
-      "D. A 10 percent increase in power grid electrical loads."
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "MOT602",
-    "topic": "Motors and Generators",
-    "question": "A main generator is connected to an infinite power grid with the following generator output\nparameters:\n22 KV\n60 Hertz\n575 MW\n100 MVAR (out)\nWhich one of the following contains a combination of manual adjustments to the main generator\nvoltage regulator and speed control setpoints such that each adjustment will result in main generator\noperation at a power factor closer to 1.0? (Assume the generator power factor remains less than\n1.0.)\nVoltage Speed\nSetpoint Setpoint\n-442-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. Increase Increase",
-      "B. Increase Decrease",
-      "C. Decrease Increase",
-      "D. Decrease Decrease"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "MOT603",
-    "topic": "Motors and Generators",
-    "question": "During a surveillance test, a 4,000 KW diesel generator (DG) and a 1,000 MW main generator (MG)\nat a nuclear power plant are connected to a power grid.\nThe following stable generator output conditions initially exist:\nDiesel Generator Main Generator\n700 KW 800 MW\n200 KVAR (out) 100 MVAR (out)\nA malfunction then occurs, causing the voltage regulator for the MG to slowly and continuously\ndecrease the MG field current. If no operator action is taken, the DG output current will\n__________ until a breaker trip separates the generators.\n-443-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. increase continuously",
-      "B. decrease continuously",
-      "C. initially increase, and then decrease",
-      "D. initially decrease, and then increase"
-    ],
+    "stem": " Which one of the following trip signals will trip the breaker for an operating motor that experiences a seized rotor?",
+    "choices": {
+      "A": "Undervoltage",
+      "B": "Underfrequency",
+      "C": "Time-delayed overcurrent",
+      "D": "Instantaneous overcurrent"
+    },
     "answer": "A"
   },
   {
-    "id": "MOT604",
     "topic": "Motors and Generators",
-    "question": "A main generator is connected to an infinite power grid with the following generator output\nparameters:\n100 MW\n0 MVAR\n2,625 amps\n22 KV\nIf the main generator field current is decreased, main generator amps will initially __________; and\nMW will initially __________.\n-444-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. decrease; decrease",
-      "B. increase; decrease",
-      "C. decrease; remain the same",
-      "D. increase; remain the same"
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "MOT605",
-    "topic": "Motors and Generators",
-    "question": "A 4,000 KW diesel generator (DG) is supplying 2,000 KW to a 4.16 KV emergency bus. The DG\ngovernor is in the isochronous mode (no speed droop). The emergency bus is about to be\nsynchronized with, and then connected to, an infinite offsite power grid by closing the emergency\nbus normal power feeder breaker.\nThe following stable emergency bus and normal power conditions currently exist:\nEmergency Bus Normal Power\n(from DG) (from Offsite)\n4.16 KV 4.16 KV\n60.0 Hz 60.1 Hz\nWhen the emergency bus normal power feeder breaker is closed, the DG will\u2026 (Assume no\nadditional operator action.)\n-445-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. transfer KW load to the offsite power grid but remain partially loaded.",
-      "B. transfer KW load to the offsite power grid until the DG is completely unloaded.",
-      "C. acquire KW load from the offsite power grid but remain within its KW load rating.",
-      "D. acquire KW load from the offsite power grid and ultimately exceed its KW load rating."
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "MOT606",
-    "topic": "Motors and Generators",
-    "question": "A radial-flow centrifugal cooling water pump is being powered by a 480 VAC induction motor. If\nthe motor input voltage slowly decreases from 480 VAC to 450 VAC, the pump flow rate will\n__________; and the motor current will __________. (Assume the motor does not stall.)\n-446-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. decrease; increase",
-      "B. decrease; decrease",
-      "C. remain the same; increase",
-      "D. remain the same; decrease"
-    ],
+    "stem": " A large AC motor has a maximum ambient temperature rating of 40\u00b0C. Which one of the following will occur if the motor is continuously operated at rated load with an ambient temperature of 50\u00b0C? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "Accelerated embrittlement of the motor windings, leading to an open circuit within the motor windings.",
+      "B": "Accelerated embrittlement of the motor windings, leading to a short circuit within the motor windings.",
+      "C": "Accelerated breakdown of the motor winding insulation, leading to an open circuit within the motor windings.",
+      "D": "Accelerated breakdown of the motor winding insulation, leading to a short circuit within the motor windings. -423- PWR Test Items"
+    },
     "answer": "A"
   },
   {
-    "id": "MOT607",
     "topic": "Motors and Generators",
-    "question": "A main generator is connected to an infinite power grid with the following generator output\nparameters:\n22 KV\n60 Hertz\n575 MW\n100 MVAR (out)\nWhich one of the following contains a combination of minor adjustments to the main generator\nvoltage regulator and speed control setpoints such that each adjustment will cause the main generator\nto operate at a power factor farther from 1.0? (Assume the generator power factor remains less than\n1.0.)\nVoltage Speed\nSetpoint Setpoint\n-447-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. Increase Increase",
-      "B. Increase Decrease",
-      "C. Decrease Increase",
-      "D. Decrease Decrease"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "MOT608",
-    "topic": "Motors and Generators",
-    "question": "A main generator is connected to an infinite power grid with the following generator output\nparameters:\n22 KV\n60 Hertz\n975 MW\n200 MVAR (out)\nMain generator stator winding temperature is abnormally high. Which one of the following\ncontains a combination of manual adjustments to the main generator speed control and voltage\nregulator setpoints such that each adjustment will reduce the main generator stator winding\ntemperature? (Assume power factor remains less than 1.0.)\nSpeed Voltage\nSetpoint Setpoint\n-448-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. Increase Increase",
-      "B. Increase Decrease",
-      "C. Decrease Increase",
-      "D. Decrease Decrease"
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "MOT609",
-    "topic": "Motors and Generators",
-    "question": "A 4,000 KW rated diesel generator (DG) is supplying 2,000 KW to a 4.16 KV emergency bus. The\nDG governor is in the isochronous mode (no speed droop). The emergency bus is about to be\nsynchronized with, and then connected to, an infinite offsite power grid by closing the emergency\nbus normal power feeder breaker.\nThe following stable emergency bus and normal power conditions currently exist:\nEmergency Bus Normal Power\n(from DG) (from Offsite)\n4.16 KV 4.16 KV\n60.1 Hz 59.9 Hz\nWhen the emergency bus normal power feeder breaker is closed, the DG will\u2026 (Assume no\nadditional operator action is taken.)\n-449-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. transfer KW load to the offsite power grid, but remain partially loaded.",
-      "B. transfer KW load to the offsite power grid until the DG is completely unloaded.",
-      "C. acquire KW load from the offsite power grid, but remain within its KW load rating.",
-      "D. acquire KW load from the offsite power grid and ultimately exceed its KW load rating."
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "MOT610",
-    "topic": "Motors and Generators",
-    "question": "A fault on the offsite AC electrical distribution system caused a sustained 30 percent voltage\nreduction on all phases of the onsite three-phase AC electrical distribution system. As a result,\nseveral operating three-phase AC induction motors in the plant experienced automatic breaker trips.\nWhich one of the following could be responsible for the automatic breaker trips?\nmalfunctions.\nmalfunctions.",
-    "image": "",
-    "choices": [
-      "A. Excessive motor current leading to breaker trips from thermal overload.",
-      "B. Excessive motor current leading to breaker trips from instantaneous overcurrent.",
-      "C. Insufficient breaker control power leading to breaker trips from trip mechanism",
-      "D. Insufficient breaker control power leading to breaker trips from closing mechanism"
-    ],
+    "stem": " A main generator that is connected to an infinite power grid has the following initial indications: 100 MW 0 MVAR 2,900 amps 20 KV If main generator field current is reduced slightly, amps will __________; and MW will __________.",
+    "choices": {
+      "A": "increase; decrease",
+      "B": "decrease; decrease",
+      "C": "increase; remain the same",
+      "D": "decrease; remain the same"
+    },
     "answer": "A"
   },
   {
-    "id": "MOT611",
     "topic": "Motors and Generators",
-    "question": "A shutdown nuclear power plant is operating normally when an electrical fault causes a sustained 20\npercent voltage reduction on all phases of the onsite three-phase AC electrical distribution system.\nAssume that all previously-operating three-phase AC induction motors continue operating, and the\nmechanical load on each motor remains the same.\nAs a result of the voltage reduction, the operating three-phase AC induction motors will draw\n__________ current; and will experience __________ stator temperatures.\n-450-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. more; higher",
-      "B. more; lower",
-      "C. less; higher",
-      "D. less; lower"
-    ],
+    "stem": " Excessive current will be drawn by an AC induction motor that is operating... NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "completely unloaded.",
+      "B": "at full load.",
+      "C": "with open-circuited stator windings.",
+      "D": "with short-circuited stator windings. -424- PWR Test Items"
+    },
     "answer": "A"
   },
   {
-    "id": "MOT612",
     "topic": "Motors and Generators",
-    "question": "Refer to the partial drawing of two identical radial-flow centrifugal pumps in a cooling water system\n(see figure below). Each pump is driven by an identical three-phase AC induction motor.\nThe cooling water system is being returned to service following maintenance on the pumps. Pump\nA was started 5 minutes ago to initiate flow in the cooling water system.\nWhen pump B is started, which one of the following will cause the ammeter for pump B to stabilize\nat a higher-than-normal value for the pump configuration?\n-451-\nPWR Test Items",
-    "image": "page451_img1.jpeg",
-    "choices": [
-      "A. Pump B was initially rotating in the reverse direction.",
-      "B. There is an obstruction in the discharge piping from pump B.",
-      "C. The packing gland for pump B was overtightened since the pump last operated.",
-      "D. The shaft coupling between the motor and pump for pump B was removed and not reinstalled."
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "MOT613",
-    "topic": "Motors and Generators",
-    "question": "If the speed of a centrifugal pump is increased to double pump flow rate, pump motor current will...",
-    "image": "",
-    "choices": [
-      "A. remain constant.",
-      "B. increase two-fold (double).",
-      "C. increase four-fold.",
-      "D. increase eight-fold."
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "MOT614",
-    "topic": "Motors and Generators",
-    "question": "A motor-driven centrifugal pump is operating with the following parameters:\nPump speed = 1,800 rpm\nPump head = 100 psid\nMotor current = 10 amps\nWhat will be the approximate value of pump head if pump speed is increased such that the motor\ndraws 640 amps?\n-452-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. 400 psid",
-      "B. 800 psid",
-      "C. 1,200 psid",
-      "D. 1,600 psid"
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "MOT615",
-    "topic": "Motors and Generators",
-    "question": "A motor-driven centrifugal pump is operating with a flow rate of 3,000 gpm and a current\nrequirement of 200 amps. If the pump speed is reduced such that the flow rate is 2,000 gpm, what\nis the final current requirement at the new lower speed? (Assume a constant motor voltage.)",
-    "image": "",
-    "choices": [
-      "A. 59 amps",
-      "B. 89 amps",
-      "C. 133 amps",
-      "D. 150 amps"
-    ],
+    "stem": " A main generator that is connected to an infinite power grid has the following indications: 500 MW 300 MVAR (out) 2,800 amps If main generator field current is reduced slightly, amps will __________; and MW will __________.",
+    "choices": {
+      "A": "increase; decrease",
+      "B": "increase; remain the same",
+      "C": "decrease; decrease",
+      "D": "decrease; remain the same"
+    },
     "answer": "A"
   },
   {
-    "id": "MOT616",
     "topic": "Motors and Generators",
-    "question": "A motor-driven centrifugal pump is operating with the following parameters:\nSpeed = 1,800 rpm\nMotor current = 40 amps\nPump head = 20 psi\nPump flow rate = 400 gpm\nWhat will be the approximate values of pump head and motor current if pump speed is increased to\n2,000 rpm?\n-453-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. 22 psi, 44 amps",
-      "B. 25 psi, 49 amps",
-      "C. 22 psi, 49 amps",
-      "D. 25 psi, 55 amps"
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "MOT617",
-    "topic": "Motors and Generators",
-    "question": "A motor-driven centrifugal pump is operating at 600 rpm with the following parameters:\nMotor current = 10 amps\nPump head = 50 psi\nPump flow rate = 200 gpm\nWhat will be the approximate value of pump head if the flow is increased such that the motor draws\n640 amps?",
-    "image": "",
-    "choices": [
-      "A. 400 psi",
-      "B. 600 psi",
-      "C. 800 psi",
-      "D. 1,200 psi"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "MOT618",
-    "topic": "Motors and Generators",
-    "question": "A motor-driven centrifugal pump is operating with a throttled discharge valve in an open system. If\nthe pump discharge valve is fully opened to increase system flow rate, which one of the following\nwill increase?\n-454-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. Pump discharge pressure",
-      "B. Available net positive suction head",
-      "C. Motor amps",
-      "D. Pump speed"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "MOT619",
-    "topic": "Motors and Generators",
-    "question": "A centrifugal pump is operating with the following parameters:\nSpeed = 3,600 rpm\nMotor current = 100 amps\nPump head = 50 psi\nPump flow rate = 400 gpm\nWhat will be the approximate values of pump head and motor current if pump speed is decreased to\n2,000 rpm?",
-    "image": "",
-    "choices": [
-      "A. 8.6 psi, 30.1 amps",
-      "B. 8.6 psi, 17.1 amps",
-      "C. 15.4 psi, 30.1 amps",
-      "D. 15.4 psi, 17.1 amps"
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "MOT620",
-    "topic": "Motors and Generators",
-    "question": "A two-speed centrifugal pump is driven by an AC motor with the following initial conditions:\nPump speed = 400 rpm\nMotor current = 40 amps\nPump head = 60 psid\nWhat will be the approximate value of pump head if pump speed is increased to 1,600 rpm?\nD 3,840 psid\n-455-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. 240 psid",
-      "B. 480 psid",
-      "C. 960 psid"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "MOT621",
-    "topic": "Motors and Generators",
-    "question": "A motor-driven centrifugal pump is operating with the following parameters:\nSpeed = 1,200 rpm\nMotor current = 40 amps\nPump head = 20 psid\nPump flow rate = 400 gpm\nWhat will be the approximate values of pump head and motor current if pump speed is increased to\n1,600 rpm?\n-456-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. 25 psid, 55 amps",
-      "B. 25 psid, 95 amps",
-      "C. 36 psid, 55 amps",
-      "D. 36 psid, 95 amps"
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "MOT622",
-    "topic": "Motors and Generators",
-    "question": "A motor-driven centrifugal pump is operating with the following parameters:\nSpeed = 1,200 rpm\nMotor current = 40 amps\nPump head = 20 psi\nPump flow rate = 400 gpm\nWhat will be the approximate values of pump head and motor current if pump speed is increased to\n1,800 rpm?\n-457-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. 36 psi, 95 amps",
-      "B. 36 psi, 135 amps",
-      "C. 45 psi, 95 amps",
-      "D. 45 psi, 135 amps"
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "MOT623",
-    "topic": "Motors and Generators",
-    "question": "A motor-driven centrifugal pump is operating with the following parameters:\nSpeed = 1,800 rpm\nMotor current = 40 amps\nPump head = 20 psid\nPump flow rate = 400 gpm\nWhat will be the approximate values of pump head and motor current if pump speed is decreased to\n1,200 rpm?",
-    "image": "",
-    "choices": [
-      "A. 13 psid, 18 amps",
-      "B. 13 psid, 12 amps",
-      "C. 9 psid, 18 amps",
-      "D. 9 psid, 12 amps"
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "MOT624",
-    "topic": "Motors and Generators",
-    "question": "A motor-driven centrifugal pump is operating with a flow rate of 3,000 gpm and a motor current of\n150 amps. If the pump speed is reduced such that the flow rate is 2,000 gpm, what is the final\nmotor current at the new lower speed?\n-458-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. 44 amps",
-      "B. 59 amps",
-      "C. 67 amps",
-      "D. 100 amps"
-    ],
+    "stem": " A main generator is connected to an infinite power grid. If the voltage supplied to the generator field is slowly and continuously decreased, the generator will experience high current due to... (Assume no generator protective actuations occur.) NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "excessive generator MW.",
+      "B": "excessive generator MVAR out.",
+      "C": "excessive generator MVAR in.",
+      "D": "generator reverse power. -425- PWR Test Items"
+    },
     "answer": "A"
   },
   {
-    "id": "MOT625",
     "topic": "Motors and Generators",
-    "question": "A motor-driven centrifugal pump is operating at 600 rpm with the following parameters:\nMotor current = 100 amps\nPump head = 50 psid\nPump flow rate = 880 gpm\nWhat will be the approximate value of pump head if pump speed is increased to 1,200 rpm?",
-    "image": "",
-    "choices": [
-      "A. 71 psid",
-      "B. 100 psid",
-      "C. 141 psid",
-      "D. 200 psid"
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "MOT626",
-    "topic": "Motors and Generators",
-    "question": "A multi-speed centrifugal pump is operating at 3,600 rpm with a flow rate of 3,000 gpm. Which\none of the following approximates the new flow rate if the speed is decreased to 3,000 rpm?\n-459-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. 1,000 gpm",
-      "B. 1,500 gpm",
-      "C. 2,000 gpm",
-      "D. 2,500 gpm"
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "MOT627",
-    "topic": "Motors and Generators",
-    "question": "A multi-speed centrifugal pump is operating with a flow rate of 1,800 gpm at a speed of 3,600 rpm.\nWhich one of the following approximates the new flow rate if the pump speed is decreased to 2,400\nrpm?",
-    "image": "",
-    "choices": [
-      "A. 900 gpm",
-      "B. 1,050 gpm",
-      "C. 1,200 gpm",
-      "D. 1,350 gpm"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "MOT628",
-    "topic": "Motors and Generators",
-    "question": "A multi-speed motor-driven centrifugal pump is operating with the following parameters:\nMotor current = 27 amps\nPump head = 50 psid\nPump flow rate = 880 gpm\nWhich one of the following will be the approximate new value of pump head if pump speed is\nincreased such that the motor draws 64 amps?\n-460-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. 89 psid",
-      "B. 119 psid",
-      "C. 211 psid",
-      "D. 281 psid"
-    ],
+    "stem": " An AC generator is supplying an isolated electrical system with a power factor of 1.0. If generator voltage is held constant while real load (KW) increases, the current supplied by the generator will increase in direct proportion to the __________ of the change in real load. (Assume the generator power factor remains constant at 1.0.)",
+    "choices": {
+      "A": "cube",
+      "B": "square",
+      "C": "amount",
+      "D": "square root"
+    },
     "answer": "A"
   },
   {
-    "id": "MOT629",
     "topic": "Motors and Generators",
-    "question": "Which one of the following describes the relationship between the current drawn by an AC induction\nmotor and the amount of heat generated in the motor windings?",
-    "image": "",
-    "choices": [
-      "A. Heat generation is directly proportional to the current.",
-      "B. Heat generation is proportional to the cube of the current.",
-      "C. Heat generation is proportional to the square of the current.",
-      "D. Heat generation is proportional to the square root of the current."
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "MOT630",
-    "topic": "Motors and Generators",
-    "question": "A motor-driven centrifugal pump is operating at 600 rpm with the following parameters:\nMotor current = 100 amps\nPump head = 50 psid\nPump flow rate = 880 gpm\nWhat will be the approximate value of pump head if pump speed is increased such that the motor\ndraws 640 amps?\n-461-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. 93 psid",
-      "B. 126 psid",
-      "C. 173 psid",
-      "D. 320 psid"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "MOT631",
-    "topic": "Motors and Generators",
-    "question": "A rotary positive displacement pump (PDP) is being used to supply water to a piping system. The\nPDP is driven by an AC induction motor. The initial parameters are:\nSystem pressure = 500 psig\nPDP flow rate = 50 gpm\nPDP motor current = 40 amps\nAfter several hours, the PDP motor speed is increased such that the new PDP flow rate is 100 gpm.\nIf system pressure does not change, what is the approximate value of the PDP motor current at the\n100 gpm flow rate?\n-462-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. 80 amps",
-      "B. 160 amps",
-      "C. 320 amps",
-      "D. 640 amps"
-    ],
+    "stem": " A main generator that is connected to an infinite power grid has the following indications: 600 MW 100 MVAR (in) 13,800 amps 25 KV If main generator excitation current is increased slightly, amps will initially __________; and MW will initially __________. NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "decrease; increase",
+      "B": "increase; increase",
+      "C": "decrease; remain the same",
+      "D": "increase; remain the same -426- PWR Test Items"
+    },
     "answer": "A"
   },
   {
-    "id": "MOT632",
     "topic": "Motors and Generators",
-    "question": "Refer to the pump performance curves for a centrifugal cooling water pump (see figure below). The\npump is being driven by a single-speed AC induction motor. Pump flow rate is being controlled by\na throttled discharge flow control valve.\nThe following initial pump conditions exist:\nPump motor current = 50 amps\nPump flow rate = 400 gpm\nWhat will be the approximate value of pump motor current if the flow control valve is repositioned\nsuch that pump flow rate is 800 gpm?\n-463-\nPWR Test Items",
-    "image": "page463_img1.jpeg",
-    "choices": [
-      "A. Less than 100 amps",
-      "B. 200 amps",
-      "C. 400 amps",
-      "D. More than 500 amps"
-    ],
+    "stem": " A main generator that is connected to an infinite power grid has the following indications: 600 MW 100 MVAR (in) 13,800 amps 25 KV If main generator excitation current is decreased slightly, amps will __________; and MVAR will __________.",
+    "choices": {
+      "A": "decrease; increase",
+      "B": "increase; increase",
+      "C": "decrease; decrease",
+      "D": "increase; decrease"
+    },
     "answer": "A"
   },
   {
-    "id": "MOT633",
     "topic": "Motors and Generators",
-    "question": "Consider two identical single-speed AC induction motors, one of which is connected to a radial-flow\ncentrifugal pump and the other to a reciprocating-type positive displacement pump (PDP). Both\npumps are taking suction at the same elevation from a vented water storage tank.\nEach pump has a maximum design backpressure of 800 psig, and each is operating with the\nfollowing initial conditions:\nFlow rate = 200 gpm\nBackpressure = 400 psig\nMotor current = 100 amps\nIf the backpressure for each pump increases to 600 psig, the centrifugal pump will have a\n__________ flow rate than the PDP; and the centrifugal pump will have a __________ motor\ncurrent than the PDP.\n-464-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. lower; higher",
-      "B. lower; lower",
-      "C. higher; higher",
-      "D. higher; lower"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "MOT634",
-    "topic": "Motors and Generators",
-    "question": "Refer to the pump performance curves for a centrifugal cooling water pump (see figure below). The\npump is being driven by a single-speed AC induction motor. Pump flow rate is being controlled by\na throttled discharge flow control valve.\nThe following initial pump conditions exist:\nMotor current = 100 amps\nPump flow rate = 800 gpm\nWhat will be the approximate value of pump motor current if the flow control valve is repositioned\nsuch that pump flow rate decreases to 400 gpm?\n-465-\nPWR Test Items",
-    "image": "page465_img1.jpeg",
-    "choices": [
-      "A. Less than 15 amps",
-      "B. 25 amps",
-      "C. 50 amps",
-      "D. Greater than 75 amps"
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "MOT635",
-    "topic": "Motors and Generators",
-    "question": "An AC induction motor is connected to a radial-flow centrifugal pump in a cooling water system.\nWhen the pump is started, the time period required to reach a stable running current will be shorter if\nthe pump discharge valve is fully __________; and the stable running current will be lower if the\npump discharge valve is fully __________.",
-    "image": "",
-    "choices": [
-      "A. open; open",
-      "B. open; closed",
-      "C. closed; open",
-      "D. closed; closed"
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "MOT636",
-    "topic": "Motors and Generators",
-    "question": "A centrifugal pump is driven by a single-speed AC induction motor. Pump flow rate is controlled\nby a throttled discharge flow control valve.\nThe following initial pump conditions exist:\nPump motor current = 50 amps\nPump flow rate = 400 gpm\nWhat will the resulting pump motor current be if the flow control valve is repositioned such that\npump flow rate increases to 800 gpm?\n-466-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. 100 amps",
-      "B. 200 amps",
-      "C. 400 amps",
-      "D. Cannot be determined without additional information."
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "MOT637",
-    "topic": "Motors and Generators",
-    "question": "An axial flow ventilation fan is being driven by an AC motor. The fan is operating at its maximum\nrated flow rate. How will the fan motor current initially change if the flow rate through the fan is\ndecreased by partially closing a discharge damper?",
-    "image": "",
-    "choices": [
-      "A. The motor current will increase in accordance with the centrifugal pump laws.",
-      "B. The motor current will increase, but not in accordance with the centrifugal pump laws.",
-      "C. The motor current will decrease in accordance with the centrifugal pump laws.",
-      "D. The motor current will decrease, but not in accordance with the centrifugal pump laws."
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "MOT638",
-    "topic": "Motors and Generators",
-    "question": "Consider two identical single-speed AC induction motors, one of which is connected to a radial-flow\ncentrifugal pump and the other to a rotary-type positive displacement pump (PDP). Both pumps are\ntaking suction from the bottom of a vented water storage tank.\nEach pump is operating with the following initial conditions:\nFlow rate = 200 gpm\nBackpressure = 600 psig\nMotor current = 100 amps\nIf the backpressure for each pump decreases to 400 psig, the centrifugal pump will have a\n__________ flow rate than the PDP; and the centrifugal pump will have a __________ motor\ncurrent than the PDP.\n-467-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. lower; lower",
-      "B. lower; higher",
-      "C. higher; lower",
-      "D. higher; higher"
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "MOT639",
-    "topic": "Motors and Generators",
-    "question": "Refer to the pump performance curves for a centrifugal cooling water pump (see figure below). The\npump is being driven by a single-speed AC induction motor. Pump flow rate is being controlled by\na throttled discharge flow control valve.\nThe following initial pump conditions exist:\nMotor current = 10 amps\nPump flow rate = 200 gpm\nWhat will be the approximate value of pump motor current if the flow control valve is repositioned\nsuch that pump flow rate increases to 800 gpm?\n-468-\nPWR Test Items",
-    "image": "page468_img1.jpeg",
-    "choices": [
-      "A. 15 amps",
-      "B. 40 amps",
-      "C. 160 amps",
-      "D. Greater than 200 amps"
-    ],
+    "stem": " A main generator is connected to an infinite power grid. Which one of the following conditions will exist if the generator is operating underexcited? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "Negative MVAR (VARs in) with a leading power factor",
+      "B": "Positive MVAR (VARs out) with a leading power factor",
+      "C": "Positive MVAR (VARs out) with a lagging power factor",
+      "D": "Negative MVAR (VARs in) with a lagging power factor -427- PWR Test Items"
+    },
     "answer": "A"
   },
   {
-    "id": "MOT640",
     "topic": "Motors and Generators",
-    "question": "A motor-driven radial-flow centrifugal pump is operating to provide makeup water from a constant\nhead source to a vented storage tank that is 30 feet tall. The pump is located at the base of the tank\nand discharges directly into the bottom of the tank. As the tank water level increases from 20 to 25\nfeet, the pump discharge pressure will __________; and the pump motor current will __________.",
-    "image": "",
-    "choices": [
-      "A. decrease; decrease",
-      "B. decrease; increase",
-      "C. increase; decrease",
-      "D. increase; increase"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "MOT641",
-    "topic": "Motors and Generators",
-    "question": "An air-cooled AC induction motor is initially operating at steady-state conditions, producing a work\noutput of 50 hp. A reduction in cooling air flow rate to the motor causes the average stator winding\ntemperature to increase by 20\u00baF. To maintain a 50 hp work output at the higher stator winding\ntemperature, the voltage applied to the motor must be __________ because the stator winding\nresistance has __________.\n-469-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. increased; increased",
-      "B. increased; decreased",
-      "C. decreased; increased",
-      "D. decreased; decreased"
-    ],
+    "stem": " A diesel generator (DG) is supplying both KW and KVAR to an electrical bus that is connected to an infinite power grid. Assuming DG and bus voltage do not change, if the DG voltage regulator setpoint is increased slightly, DG KW will __________; and DG amps will __________.",
+    "choices": {
+      "A": "remain the same; increase",
+      "B": "remain the same; remain the same",
+      "C": "increase; increase",
+      "D": "increase; remain the same"
+    },
     "answer": "A"
   },
   {
-    "id": "MOT642",
     "topic": "Motors and Generators",
-    "question": "The rate of heat production in the stator windings of an AC induction motor is __________\nproportional to the __________ of the stator current.",
-    "image": "",
-    "choices": [
-      "A. directly, square",
-      "B. directly; amount",
-      "C. inversely; square",
-      "D. inversely; amount"
-    ],
+    "stem": " A diesel generator (DG) is supplying an electrical bus that is connected to an infinite power grid. Assuming DG terminal voltage and bus frequency do not change, if the DG governor setpoint is increased from 60.0 Hz to 60.1 Hz, DG KVAR load will __________; and DG amps will __________. NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "increase; increase",
+      "B": "increase; remain the same",
+      "C": "remain the same; increase",
+      "D": "remain the same; remain the same -428- PWR Test Items"
+    },
     "answer": "A"
   },
   {
-    "id": "MOT643",
     "topic": "Motors and Generators",
-    "question": "KNOWLEDGE: K1.04 [2.7/2.8]\nQID:\nAn axial flow ventilation fan is being driven by an AC motor. The fan is operating at 90 percent of\nrated flow rate with its discharge damper partially closed. How will the fan motor current change if\nits discharge damper is fully opened?\n-470-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. The motor current will increase in accordance with the centrifugal pump laws.",
-      "B. The motor current will increase, but not in accordance with the centrifugal pump laws.",
-      "C. The motor current will decrease in accordance with the centrifugal pump laws.",
-      "D. The motor current will decrease, but not in accordance with the centrifugal pump laws."
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "MOT644",
-    "topic": "Motors and Generators",
-    "question": "Initially, an AC induction motor is operating with the following steady-state conditions:\nMotor current = 25 amps\nAverage stator winding temperature = 140\u00b0F\nAmbient temperature = 90\u00b0F\nAssume the stator winding electrical resistance, motor heat transfer properties, and ambient\ntemperature do not change. If a change in motor load causes the motor current to increase to 50\namps, which one of the following will be the new steady-state average stator winding temperature?\n-471-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. 190\u00b0F",
-      "B. 200\u00b0F",
-      "C. 280\u00b0F",
-      "D. 290\u00b0F"
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "MOT645",
-    "topic": "Motors and Generators",
-    "question": "Refer to the partial drawing of two identical centrifugal pumps in a cooling water system (see figure\nbelow). Each pump is driven by an identical three-phase AC induction motor.\nThe cooling water system is being returned to service following maintenance on the pumps. Pump\nA was started five minutes ago to initiate flow in the cooling water system. Pump B is about to be\nstarted.\nWhen pump B is started, which one of the following will cause pump B to experience high starting\ncurrent for a shorter time than usual before stabilizing at a lower running current?\n-472-\nPWR Test Items",
-    "image": "page472_img1.jpeg",
-    "choices": [
-      "A. Pump B is initially rotating in the reverse direction.",
-      "B. The motor coupling for pump B was removed and not reinstalled.",
-      "C. The packing gland for pump B was tightened since the pump last operated.",
-      "D. The voltage applied to the motor for pump B is 20 percent lower than normal."
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "MOT646",
-    "topic": "Motors and Generators",
-    "question": "Refer to the partial drawing of two identical single-speed radial-flow centrifugal pumps in a cooling\nwater system (see figure below). Pumps 1 and 2 are driven by identical three-phase AC induction\nmotors. Initially, pump 1 is operating normally and pump 2 is stopped.\nThen pump 2 is started, but its discharge check valve remains partially closed. When conditions\nstabilize, pump _____ will have the smaller motor current; and pump _____ will have the greater\ndischarge head.\n-473-\nPWR Test Items",
-    "image": "page473_img1.jpeg",
-    "choices": [
-      "A. 1; 1",
-      "B. 1; 2",
-      "C. 2; 1",
-      "D. 2; 2"
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "MOT647",
-    "topic": "Motors and Generators",
-    "question": "The starting current for a typical AC induction motor is usually much higher than the full-load\nrunning current because...\nstator.\nstator.",
-    "image": "",
-    "choices": [
-      "A. starting torque is lower than full-load running torque.",
-      "B. starting torque is higher than full-load running torque.",
-      "C. rotor speed during start is too low to generate significant counter electromotive force in the",
-      "D. rotor current during start is too low to generate significant counter electromotive force in the"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "MOT648",
-    "topic": "Motors and Generators",
-    "question": "The average starting current for a typical AC induction motor is approximately...\n-474-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. ten to fifteen times its normal running current.",
-      "B. five to seven times its normal running current.",
-      "C. two to three times its normal running current.",
-      "D. the same as its normal running current."
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "MOT649",
-    "topic": "Motors and Generators",
-    "question": "Which one of the following describes the motor current indications that would be observed during\nthe start of a large AC motor connected to a load?\nnormal operating value.\noverload protection.",
-    "image": "",
-    "choices": [
-      "A. Amps slowly increase to the normal operating value over a period of five time constants.",
-      "B. Amps immediately increase to the normal operating value and stabilize.",
-      "C. Amps immediately increase to many times the normal operating value and then decrease to the",
-      "D. Amps immediately increase to the full-scale value and then decrease rapidly to zero due to"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "MOT650",
-    "topic": "Motors and Generators",
-    "question": "If the discharge valve of a large motor-driven centrifugal pump is kept closed during a normal pump\nstart, the current indication for the AC induction motor will rise to...\n-475-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. approximately the full-load current value, and then decrease to the no-load current value.",
-      "B. approximately the full-load current value, and then stabilize at the full-load current value.",
-      "C. several times the full-load current value, and then decrease to the no-load current value.",
-      "D. several times the full-load current value, and then decrease to the full-load value."
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "MOT651",
-    "topic": "Motors and Generators",
-    "question": "Which one of the following is a characteristic of a typical AC induction motor that causes starting\ncurrent to be greater than running current?\nspeed.\nspeed.",
-    "image": "",
-    "choices": [
-      "A. The rotor magnetic field induces an opposing voltage in the stator that is proportional to rotor",
-      "B. After the motor starts, resistors are added to the electrical circuit to limit the running current.",
-      "C. A large amount of starting current is required to initially establish a rotating magnetic field.",
-      "D. The rotor does not develop maximum induced current flow until it has achieved synchronous"
-    ],
+    "stem": " A main generator that is connected to an infinite power grid has the following indications: 600 MW 100 MVAR (out) 13,800 amps 25 KV If main generator field current is decreased, amps will initially __________; and MVAR will initially __________.",
+    "choices": {
+      "A": "decrease; increase",
+      "B": "increase; increase",
+      "C": "decrease; decrease",
+      "D": "increase; decrease"
+    },
     "answer": "A"
   },
   {
-    "id": "MOT652",
     "topic": "Motors and Generators",
-    "question": "The starting current in an AC motor is significantly higher than the full-load running current\nbecause...\n-476-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. little counter electromotive force is induced in the rotor windings during motor start.",
-      "B. motor torque production is highest during motor start.",
-      "C. little counter electromotive force is induced in the stator windings during motor start.",
-      "D. work performed by the motor is highest during motor start."
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "MOT653",
-    "topic": "Motors and Generators",
-    "question": "Starting current in an AC induction motor is typically __________ times the full-load running\ncurrent.",
-    "image": "",
-    "choices": [
-      "A. 1/4 to 1/2",
-      "B. 2 to 3",
-      "C. 5 to 7",
-      "D. 10 to 12"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "MOT654",
-    "topic": "Motors and Generators",
-    "question": "Which one of the following describes the motor current during the start of a typical motor-driven\nradial-flow centrifugal pump with a closed discharge valve?\nvalue.\nthe no-load value after several seconds and then stabilizes.\nthe full-load value after several seconds and then stabilizes.\n-477-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. Current immediately increases to the full-load value and then gradually decreases to the no-load",
-      "B. Current immediately increases to the full-load value and then stabilizes at the full-load value.",
-      "C. Current immediately increases to many times the full-load value and then rapidly decreases to",
-      "D. Current immediately increases to many times the full-load value and then rapidly decreases to"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "MOT655",
-    "topic": "Motors and Generators",
-    "question": "Which one of the following describes the motor current indications that would be observed during\nthe start of a large motor-driven radial-flow centrifugal pump with a closed discharge valve?\nvalue over several minutes.\nno-load value after several seconds.\nthe no-load value after several minutes.",
-    "image": "",
-    "choices": [
-      "A. Current immediately increases to the full-load value and then gradually decreases to the no-load",
-      "B. Current immediately increases to the no-load value and then stabilizes.",
-      "C. Current immediately increases to many times the no-load value and then rapidly decreases to the",
-      "D. Current immediately increases to many times the no-load value and then gradually decreases to"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "MOT656",
-    "topic": "Motors and Generators",
-    "question": "Two identical AC induction motors are connected to identical radial-flow centrifugal pumps being\nused to provide cooling water flow in separate systems in a nuclear power plant. Each motor is\nrated at 1,000 hp. The discharge valve for pump A is fully open and the discharge valve for pump\nB is fully shut. Each pump is currently off.\nIf the pumps are started under these conditions, the longer time period required to stabilize motor\ncurrent will be experienced by the motor for pump _____; and the higher stable motor current will\nbe experienced by the motor for pump _____.\n-478-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. A; A",
-      "B. A; B",
-      "C. B; A",
-      "D. B; B"
-    ],
+    "stem": " A diesel generator (DG) is supplying both KW and KVAR to an electrical bus that is connected to an infinite power grid. Assuming bus voltage does not change, if the DG voltage regulator setpoint is decreased slightly, DG KW will __________; and DG amps will __________. NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "remain the same; decrease",
+      "B": "remain the same; remain the same",
+      "C": "decrease; decrease",
+      "D": "decrease; remain the same -429- PWR Test Items"
+    },
     "answer": "A"
   },
   {
-    "id": "MOT657",
     "topic": "Motors and Generators",
-    "question": "Which one of the following describes when the highest stator current will be experienced by an AC\ninduction motor?",
-    "image": "",
-    "choices": [
-      "A. During motor operation at full load.",
-      "B. During motor operation at zero load.",
-      "C. Immediately after energizing the motor.",
-      "D. Immediately after deenergizing the motor."
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "MOT658",
-    "topic": "Motors and Generators",
-    "question": "Two identical AC induction motors are connected to identical radial-flow centrifugal pumps in\nidentical but separate cooling water systems. Each motor is rated at 200 hp. The discharge valve\nfor pump A is fully shut and the discharge valve for pump B is fully open. Each pump is currently\noff.\nIf the pumps are started under these conditions, the longer time period required to stabilize motor\ncurrent will be experienced by the motor for pump _____; and the higher stable motor current will\nbe experienced by the motor for pump _____.\n-479-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. A; A",
-      "B. A; B",
-      "C. B; A",
-      "D. B; B"
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "MOT659",
-    "topic": "Motors and Generators",
-    "question": "Two identical AC induction motors are connected to identical radial-flow centrifugal pumps in\nidentical but separate cooling water systems. Each motor is rated at 200 hp. The discharge valve\nfor pump A is fully shut and the discharge valve for pump B is fully open. Each pump is currently\noff.\nIf the pumps are started under these conditions, the shorter time period required to reach a stable\nrunning current will be experienced by the motor for pump _____; and the higher stable running\ncurrent will be experienced by the motor for pump _____.",
-    "image": "",
-    "choices": [
-      "A. A; A",
-      "B. A; B",
-      "C. B; A",
-      "D. B; B"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "MOT660",
-    "topic": "Motors and Generators",
-    "question": "To minimize the duration of high starting current, an AC induction motor should be started\n__________ to __________ the stator counter electromotive force.\n-480-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. unloaded; quickly establish",
-      "B. unloaded; delay",
-      "C. partially loaded; quickly establish",
-      "D. partially loaded; delay"
-    ],
+    "stem": " A main generator that is connected to an infinite power grid has the following indications: 100 MW 0 MVAR 2,900 amps 20 KV If main generator excitation is increased, amps will __________; and MW will __________.",
+    "choices": {
+      "A": "remain the same; increase",
+      "B": "remain the same; remain the same",
+      "C": "increase; increase",
+      "D": "increase; remain the same"
+    },
     "answer": "A"
   },
   {
-    "id": "MOT661",
     "topic": "Motors and Generators",
-    "question": "Two identical AC induction motors are connected to identical radial-flow centrifugal pumps in\nidentical but separate cooling water systems. Each motor is rated at 200 hp. The discharge valve\nfor pump A is fully open and the discharge valve for pump B is fully closed. Each pump is\ncurrently off.\nIf the pumps are started under these conditions, the shorter time period required to reach a stable\nrunning current will be experienced by the motor for pump _____; and the higher stable running\ncurrent will be experienced by the motor for pump _____.",
-    "image": "",
-    "choices": [
-      "A. A; A",
-      "B. A; B",
-      "C. B; A",
-      "D. B; B"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "MOT662",
-    "topic": "Motors and Generators",
-    "question": "What is the primary reason for limiting the number of starts for an electric motor in a given period of\ntime?\n-481-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. Prevent overheating of the windings due to high starting currents.",
-      "B. Prevent overheating of the windings due to shorting within the stator.",
-      "C. Prevent rotor damage due to excessive cyclic stresses on the shaft.",
-      "D. Prevent rotor damage due to excessive axial displacement of the shaft."
-    ],
+    "stem": " A main generator is supplying power to an infinite power grid. If the generator field current is slowly and continuously increased, the generator will experience high current due to: (Assume no generator protective actuations occur.) NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "generator reverse power.",
+      "B": "excessive generator MW.",
+      "C": "excessive generator MVAR in.",
+      "D": "excessive generator MVAR out. -430- PWR Test Items"
+    },
     "answer": "A"
   },
   {
-    "id": "MOT663",
     "topic": "Motors and Generators",
-    "question": "The frequency of starts for large AC motors should be limited to prevent excessive...",
-    "image": "",
-    "choices": [
-      "A. heat buildup within the motor.",
-      "B. wear of pump thrust bearings.",
-      "C. torsional stresses on the motor shaft.",
-      "D. arcing and degradation of motor breaker contacts."
-    ],
+    "stem": " Two identical 1,000 MW generators are operating in parallel supplying the same isolated electrical bus. The generator output breakers provide identical protection for the generators. Generator A and B output indications are as follows: Generator A Generator B 22 KV 22 KV 60.2 Hertz 60.2 Hertz 800 MW 800 MW 50 MVAR (out) 25 MVAR (in) A malfunction causes the voltage regulator for generator B to slowly and continuously increase the terminal voltage for generator B. If no operator action is taken, generator B output current will... NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "increase continuously until the output breaker for generator A trips on overcurrent.",
+      "B": "increase continuously until the output breaker for generator B trips on overcurrent.",
+      "C": "initially decrease, and then increase until the output breaker for generator A trips on overcurrent.",
+      "D": "initially decrease, and then increase until the output breaker for generator B trips on overcurrent. -431- PWR Test Items"
+    },
     "answer": "A"
   },
   {
-    "id": "MOT664",
     "topic": "Motors and Generators",
-    "question": "The number of starts for an electric motor in a given period of time should be limited because\noverheating of the __________ can occur due to the __________ counter electromotive force\nproduced at low rotor speeds.\n-482-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. windings; low",
-      "B. windings; high",
-      "C. commutator and/or slip rings; low",
-      "D. commutator and/or slip rings; high"
-    ],
+    "stem": " Refer to the partial drawing of two identical radial-flow centrifugal pumps in a cooling water system (see figure below). Each pump is driven by an identical three-phase AC induction motor. The cooling water system is being returned to service following maintenance on the pumps. Pump A was started five minutes ago to initiate flow in the cooling water system. Pump B is about to be started. When pump B is started, which one of the following would cause the motor ammeter for pump B to remain off-scale high for a longer time than usual before stabilizing at a lower running current? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "Pump B was initially rotating in the reverse direction.",
+      "B": "The motor coupling for pump B was removed and not reinstalled.",
+      "C": "The packing material for pump B was removed and not reinstalled.",
+      "D": "Two phases of the motor windings for pump B were electrically switched. -432- PWR Test Items"
+    },
     "answer": "A"
   },
   {
-    "id": "MOT665",
     "topic": "Motors and Generators",
-    "question": "The frequency of start/stop cycles for an electrical motor is limited to prevent...",
-    "image": "",
-    "choices": [
-      "A. overheating the motor windings.",
-      "B. overheating the motor supply bus.",
-      "C. excessive shaft torsional stresses.",
-      "D. excessive cycling of the motor breaker."
-    ],
+    "stem": " A main turbine-generator is operating in parallel with an infinite power grid. If the turbine control valves (or throttle valves) slowly fail open, the generator will experience high current primarily due to... (Assume no generator protective actuations occur.)",
+    "choices": {
+      "A": "excessive generator MW.",
+      "B": "excessive generator VARs out.",
+      "C": "excessive generator VARs in.",
+      "D": "generator reverse power."
+    },
     "answer": "A"
   },
   {
-    "id": "MOT666",
     "topic": "Motors and Generators",
-    "question": "Frequent starts of large motors will result in overheating of the motor windings due to high current\nflow caused by...\n-483-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. low electrical resistance of the motor windings.",
-      "B. an electrical short circuit between the rotor and stator.",
-      "C. high counter electromotive force at low rotor speeds.",
-      "D. windage losses between the rotor and stator."
-    ],
+    "stem": " A main generator is operating and connected to an infinite power grid. Elevated main generator winding temperature requires a reduction in reactive load from 200 MVAR (out) to 150 MVAR (out). To accomplish the reactive load reduction, the operator must __________ the generator field current; when generator reactive load equals 150 MVAR (out) the generator power factor will be __________ than the initial power factor. NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "increase; larger",
+      "B": "increase; smaller",
+      "C": "decrease; larger",
+      "D": "decrease; smaller -433- PWR Test Items"
+    },
     "answer": "A"
   },
   {
-    "id": "MOT667",
     "topic": "Motors and Generators",
-    "question": "Which one of the following is the primary reason for limiting the number of motor starts in a given\ntime period?",
-    "image": "",
-    "choices": [
-      "A. Minimizes pitting of contacts in the motor breaker.",
-      "B. Prevents excessive torsional stresses on the motor shaft.",
-      "C. Prevents overheating of the motor windings.",
-      "D. Minimizes axial stresses on the motor bearings."
-    ],
-    "answer": "C"
+    "stem": " A main generator that is connected to an infinite power grid has the following indications: 22 KV 60 Hertz 575 MW 100 MVAR (in) Which one of the following contains a combination of manual adjustments to the main generator voltage regulator and speed control setpoints such that each adjustment will initially result in an increase in main generator amps? Voltage Speed Setpoint Setpoint NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "Increase Increase",
+      "B": "Increase Decrease",
+      "C": "Decrease Increase",
+      "D": "Decrease Decrease -434- PWR Test Items"
+    },
+    "answer": "A"
   },
   {
-    "id": "MOT668",
     "topic": "Motors and Generators",
-    "question": "A large centrifugal pump is driven by a 200 horsepower AC induction motor. The motor breaker\ncontrol circuit contains the following protection devices: instantaneous overcurrent relay, motor\nthermal overload relay, control power fuses, and an anti-pumping device.\nThe pump had been manually started and stopped several times during a 5 minute period when the\nmotor breaker tripped. Which one of the following is the most likely cause of the breaker trip?\n-484-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. Motor thermal overload.",
-      "B. Instantaneous overcurrent.",
-      "C. Blown control power fuse.",
-      "D. Anti-pumping device actuation."
-    ],
+    "stem": " A nuclear power plant startup is in progress. The main generator has just been connected to the power grid with the following generator indications: 20 KV 288 amps 10 MW 0 MVAR The operator suspects the main generator is operating under reverse power conditions and attempts to increase generator load (MW) normally. If the main generator is operating under reverse power conditions when the operator attempts to increase generator load, generator MW will initially __________; and generator amps will initially __________. NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "decrease; decrease",
+      "B": "decrease; increase",
+      "C": "increase; decrease",
+      "D": "increase; increase -435- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Motors and Generators",
+    "stem": " A main generator is connected to an infinite power grid with the following generator output parameters: 22 KV 60 Hertz 575 MW 100 MVAR (in) Which one of the following contains a combination of manual adjustments to the main generator voltage regulator and speed control setpoints such that each adjustment will initially result in a decrease in main generator amps? Voltage Speed Setpoint Setpoint NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "Increase Increase",
+      "B": "Increase Decrease",
+      "C": "Decrease Increase",
+      "D": "Decrease Decrease -436- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Motors and Generators",
+    "stem": " A main generator is connected to an infinite power grid with the following initial generator parameters: 22 KV 60 Hertz 600 MW 100 MVAR (out) Which one of the following contains a combination of manual adjustments to the main generator voltage regulator and speed control setpoints such that each adjustment will initially result in an increase in main generator amps? Voltage Speed Setpoint Setpoint NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "Increase Increase",
+      "B": "Increase Decrease",
+      "C": "Decrease Increase",
+      "D": "Decrease Decrease -437- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Motors and Generators",
+    "stem": " A main generator is connected to an infinite power grid. Which one of the following pairs of main generator output parameters places the generator in the closest proximity to slipping a pole?",
+    "choices": {
+      "A": "800 MW; 200 MVAR (in)",
+      "B": "800 MW; 600 MVAR (in)",
+      "C": "400 MW; 200 MVAR (out)",
+      "D": "400 MW; 600 MVAR (out)"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Motors and Generators",
+    "stem": " A main generator is connected to an infinite power grid with the following initial generator parameters: 22 KV 60 Hertz 600 MW 100 MVAR (out) Which one of the following contains a combination of manual adjustments to the main generator voltage regulator and speed control setpoints such that each adjustment will initially result in a decrease in main generator amps? Voltage Speed Setpoint Setpoint NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "Increase Increase",
+      "B": "Increase Decrease",
+      "C": "Decrease Increase",
+      "D": "Decrease Decrease -438- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Motors and Generators",
+    "stem": " During a surveillance test, a 4,000 KW diesel generator (DG) and a 1,000 MW main generator (MG) at a nuclear power plant are connected to the same power grid. The following stable generator output conditions exist: Diesel Generator Main Generator 700 KW 800 MW 200 KVAR (out) 100 MVAR (out) A malfunction then occurs, causing the voltage regulator for the MG to slowly and continuously increase the MG field current. If no operator action is taken, the DG output current will __________ until a breaker trip separates the generators. NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "remain about the same",
+      "B": "increase continuously",
+      "C": "initially increase, and then decrease",
+      "D": "initially decrease, and then increase -439- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Motors and Generators",
+    "stem": " A main generator is connected to an infinite power grid with the following generator output parameters: 22 KV 60 Hertz 575 MW 100 MVAR (in) Which one of the following contains a combination of minor adjustments to the main generator voltage regulator and speed control setpoints such that each adjustment will cause the main generator to operate at a power factor closer to 1.0? (Assume the generator power factor remains less than 1.0.) Voltage Speed Setpoint Setpoint NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "Increase Increase",
+      "B": "Increase Decrease",
+      "C": "Decrease Increase",
+      "D": "Decrease Decrease -440- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Motors and Generators",
+    "stem": " A main turbine-generator is connected to an infinite power grid with the following generator output parameters: 25 KV 20,000 amps 830 MW 248 MVAR (out) Which one of the following will significantly increase main generator output amperage without a significant change in main generator MW output? (Assume the generator power factor remains less than 1.0.) NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "Increasing the main turbine speed control setpoint.",
+      "B": "Increasing the main generator voltage regulator setpoint.",
+      "C": "A 10 percent decrease in power grid electrical loads.",
+      "D": "A 10 percent increase in power grid electrical loads. -441- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Motors and Generators",
+    "stem": " A main generator is connected to an infinite power grid with the following generator output parameters: 22 KV 60 Hertz 575 MW 100 MVAR (out) Which one of the following contains a combination of manual adjustments to the main generator voltage regulator and speed control setpoints such that each adjustment will result in main generator operation at a power factor closer to 1.0? (Assume the generator power factor remains less than 1.0.) Voltage Speed Setpoint Setpoint NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "Increase Increase",
+      "B": "Increase Decrease",
+      "C": "Decrease Increase",
+      "D": "Decrease Decrease -442- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Motors and Generators",
+    "stem": " During a surveillance test, a 4,000 KW diesel generator (DG) and a 1,000 MW main generator (MG) at a nuclear power plant are connected to a power grid. The following stable generator output conditions initially exist: Diesel Generator Main Generator 700 KW 800 MW 200 KVAR (out) 100 MVAR (out) A malfunction then occurs, causing the voltage regulator for the MG to slowly and continuously decrease the MG field current. If no operator action is taken, the DG output current will __________ until a breaker trip separates the generators. NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "increase continuously",
+      "B": "decrease continuously",
+      "C": "initially increase, and then decrease",
+      "D": "initially decrease, and then increase -443- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Motors and Generators",
+    "stem": " A main generator is connected to an infinite power grid with the following generator output parameters: 100 MW 0 MVAR 2,625 amps 22 KV If the main generator field current is decreased, main generator amps will initially __________; and MW will initially __________. NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "decrease; decrease",
+      "B": "increase; decrease",
+      "C": "decrease; remain the same",
+      "D": "increase; remain the same -444- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Motors and Generators",
+    "stem": " A 4,000 KW diesel generator (DG) is supplying 2,000 KW to a 4.16 KV emergency bus. The DG governor is in the isochronous mode (no speed droop). The emergency bus is about to be synchronized with, and then connected to, an infinite offsite power grid by closing the emergency bus normal power feeder breaker. The following stable emergency bus and normal power conditions currently exist: Emergency Bus Normal Power (from DG) (from Offsite) 4.16 KV 4.16 KV 60.0 Hz 60.1 Hz When the emergency bus normal power feeder breaker is closed, the DG will\u2026 (Assume no additional operator action.) NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "transfer KW load to the offsite power grid but remain partially loaded.",
+      "B": "transfer KW load to the offsite power grid until the DG is completely unloaded.",
+      "C": "acquire KW load from the offsite power grid but remain within its KW load rating.",
+      "D": "acquire KW load from the offsite power grid and ultimately exceed its KW load rating. -445- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Motors and Generators",
+    "stem": " A radial-flow centrifugal cooling water pump is being powered by a 480 VAC induction motor. If the motor input voltage slowly decreases from 480 VAC to 450 VAC, the pump flow rate will __________; and the motor current will __________. (Assume the motor does not stall.) NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "decrease; increase",
+      "B": "decrease; decrease",
+      "C": "remain the same; increase",
+      "D": "remain the same; decrease -446- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Motors and Generators",
+    "stem": " A main generator is connected to an infinite power grid with the following generator output parameters: 22 KV 60 Hertz 575 MW 100 MVAR (out) Which one of the following contains a combination of minor adjustments to the main generator voltage regulator and speed control setpoints such that each adjustment will cause the main generator to operate at a power factor farther from 1.0? (Assume the generator power factor remains less than 1.0.) Voltage Speed Setpoint Setpoint NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "Increase Increase",
+      "B": "Increase Decrease",
+      "C": "Decrease Increase",
+      "D": "Decrease Decrease -447- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Motors and Generators",
+    "stem": " A main generator is connected to an infinite power grid with the following generator output parameters: 22 KV 60 Hertz 975 MW 200 MVAR (out) Main generator stator winding temperature is abnormally high. Which one of the following contains a combination of manual adjustments to the main generator speed control and voltage regulator setpoints such that each adjustment will reduce the main generator stator winding temperature? (Assume power factor remains less than 1.0.) Speed Voltage Setpoint Setpoint NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "Increase Increase",
+      "B": "Increase Decrease",
+      "C": "Decrease Increase",
+      "D": "Decrease Decrease -448- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Motors and Generators",
+    "stem": " A 4,000 KW rated diesel generator (DG) is supplying 2,000 KW to a 4.16 KV emergency bus. The DG governor is in the isochronous mode (no speed droop). The emergency bus is about to be synchronized with, and then connected to, an infinite offsite power grid by closing the emergency bus normal power feeder breaker. The following stable emergency bus and normal power conditions currently exist: Emergency Bus Normal Power (from DG) (from Offsite) 4.16 KV 4.16 KV 60.1 Hz 59.9 Hz When the emergency bus normal power feeder breaker is closed, the DG will\u2026 (Assume no additional operator action is taken.) NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "transfer KW load to the offsite power grid, but remain partially loaded.",
+      "B": "transfer KW load to the offsite power grid until the DG is completely unloaded.",
+      "C": "acquire KW load from the offsite power grid, but remain within its KW load rating.",
+      "D": "acquire KW load from the offsite power grid and ultimately exceed its KW load rating. -449- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Motors and Generators",
+    "stem": " A fault on the offsite AC electrical distribution system caused a sustained 30 percent voltage reduction on all phases of the onsite three-phase AC electrical distribution system. As a result, several operating three-phase AC induction motors in the plant experienced automatic breaker trips. Which one of the following could be responsible for the automatic breaker trips?",
+    "choices": {
+      "A": "Excessive motor current leading to breaker trips from thermal overload.",
+      "B": "Excessive motor current leading to breaker trips from instantaneous overcurrent.",
+      "C": "Insufficient breaker control power leading to breaker trips from trip mechanism malfunctions.",
+      "D": "Insufficient breaker control power leading to breaker trips from closing mechanism malfunctions."
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Motors and Generators",
+    "stem": " A shutdown nuclear power plant is operating normally when an electrical fault causes a sustained 20 percent voltage reduction on all phases of the onsite three-phase AC electrical distribution system. Assume that all previously-operating three-phase AC induction motors continue operating, and the mechanical load on each motor remains the same. As a result of the voltage reduction, the operating three-phase AC induction motors will draw __________ current; and will experience __________ stator temperatures. NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "more; higher",
+      "B": "more; lower",
+      "C": "less; higher",
+      "D": "less; lower -450- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Motors and Generators",
+    "stem": " Refer to the partial drawing of two identical radial-flow centrifugal pumps in a cooling water system (see figure below). Each pump is driven by an identical three-phase AC induction motor. The cooling water system is being returned to service following maintenance on the pumps. Pump A was started 5 minutes ago to initiate flow in the cooling water system. When pump B is started, which one of the following will cause the ammeter for pump B to stabilize at a higher-than-normal value for the pump configuration? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "Pump B was initially rotating in the reverse direction.",
+      "B": "There is an obstruction in the discharge piping from pump B.",
+      "C": "The packing gland for pump B was overtightened since the pump last operated.",
+      "D": "The shaft coupling between the motor and pump for pump B was removed and not reinstalled. -451- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Motors and Generators",
+    "stem": " If the speed of a centrifugal pump is increased to double pump flow rate, pump motor current will...",
+    "choices": {
+      "A": "remain constant.",
+      "B": "increase two-fold (double).",
+      "C": "increase four-fold.",
+      "D": "increase eight-fold."
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Motors and Generators",
+    "stem": " A motor-driven centrifugal pump is operating with the following parameters: Pump speed = 1,800 rpm Pump head = 100 psid Motor current = 10 amps What will be the approximate value of pump head if pump speed is increased such that the motor draws 640 amps? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "400 psid",
+      "B": "800 psid",
+      "C": "1,200 psid",
+      "D": "1,600 psid -452- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Motors and Generators",
+    "stem": " A motor-driven centrifugal pump is operating with a flow rate of 3,000 gpm and a current requirement of 200 amps. If the pump speed is reduced such that the flow rate is 2,000 gpm, what is the final current requirement at the new lower speed? (Assume a constant motor voltage.)",
+    "choices": {
+      "A": "59 amps",
+      "B": "89 amps",
+      "C": "133 amps",
+      "D": "150 amps"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Motors and Generators",
+    "stem": " A motor-driven centrifugal pump is operating with the following parameters: Speed = 1,800 rpm Motor current = 40 amps Pump head = 20 psi Pump flow rate = 400 gpm What will be the approximate values of pump head and motor current if pump speed is increased to 2,000 rpm? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "22 psi, 44 amps",
+      "B": "25 psi, 49 amps",
+      "C": "22 psi, 49 amps",
+      "D": "25 psi, 55 amps -453- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Motors and Generators",
+    "stem": " A motor-driven centrifugal pump is operating at 600 rpm with the following parameters: Motor current = 10 amps Pump head = 50 psi Pump flow rate = 200 gpm What will be the approximate value of pump head if the flow is increased such that the motor draws 640 amps?",
+    "choices": {
+      "A": "400 psi",
+      "B": "600 psi",
+      "C": "800 psi",
+      "D": "1,200 psi"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Motors and Generators",
+    "stem": " A motor-driven centrifugal pump is operating with a throttled discharge valve in an open system. If the pump discharge valve is fully opened to increase system flow rate, which one of the following will increase? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "Pump discharge pressure",
+      "B": "Available net positive suction head",
+      "C": "Motor amps",
+      "D": "Pump speed -454- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Motors and Generators",
+    "stem": " A centrifugal pump is operating with the following parameters: Speed = 3,600 rpm Motor current = 100 amps Pump head = 50 psi Pump flow rate = 400 gpm What will be the approximate values of pump head and motor current if pump speed is decreased to 2,000 rpm?",
+    "choices": {
+      "A": "8.6 psi, 30.1 amps",
+      "B": "8.6 psi, 17.1 amps",
+      "C": "15.4 psi, 30.1 amps",
+      "D": "15.4 psi, 17.1 amps"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Motors and Generators",
+    "stem": " A two-speed centrifugal pump is driven by an AC motor with the following initial conditions: Pump speed = 400 rpm Motor current = 40 amps Pump head = 60 psid What will be the approximate value of pump head if pump speed is increased to 1,600 rpm? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "240 psid",
+      "B": "480 psid",
+      "C": "960 psid D 3,840 psid -455- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Motors and Generators",
+    "stem": " A motor-driven centrifugal pump is operating with the following parameters: Speed = 1,200 rpm Motor current = 40 amps Pump head = 20 psid Pump flow rate = 400 gpm What will be the approximate values of pump head and motor current if pump speed is increased to 1,600 rpm? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "25 psid, 55 amps",
+      "B": "25 psid, 95 amps",
+      "C": "36 psid, 55 amps",
+      "D": "36 psid, 95 amps -456- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Motors and Generators",
+    "stem": " A motor-driven centrifugal pump is operating with the following parameters: Speed = 1,200 rpm Motor current = 40 amps Pump head = 20 psi Pump flow rate = 400 gpm What will be the approximate values of pump head and motor current if pump speed is increased to 1,800 rpm? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "36 psi, 95 amps",
+      "B": "36 psi, 135 amps",
+      "C": "45 psi, 95 amps",
+      "D": "45 psi, 135 amps -457- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Motors and Generators",
+    "stem": " A motor-driven centrifugal pump is operating with the following parameters: Speed = 1,800 rpm Motor current = 40 amps Pump head = 20 psid Pump flow rate = 400 gpm What will be the approximate values of pump head and motor current if pump speed is decreased to 1,200 rpm?",
+    "choices": {
+      "A": "13 psid, 18 amps",
+      "B": "13 psid, 12 amps",
+      "C": "9 psid, 18 amps",
+      "D": "9 psid, 12 amps"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Motors and Generators",
+    "stem": " A motor-driven centrifugal pump is operating with a flow rate of 3,000 gpm and a motor current of 150 amps. If the pump speed is reduced such that the flow rate is 2,000 gpm, what is the final motor current at the new lower speed? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "44 amps",
+      "B": "59 amps",
+      "C": "67 amps",
+      "D": "100 amps -458- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Motors and Generators",
+    "stem": " A motor-driven centrifugal pump is operating at 600 rpm with the following parameters: Motor current = 100 amps Pump head = 50 psid Pump flow rate = 880 gpm What will be the approximate value of pump head if pump speed is increased to 1,200 rpm?",
+    "choices": {
+      "A": "71 psid",
+      "B": "100 psid",
+      "C": "141 psid",
+      "D": "200 psid"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Motors and Generators",
+    "stem": " A multi-speed centrifugal pump is operating at 3,600 rpm with a flow rate of 3,000 gpm. Which one of the following approximates the new flow rate if the speed is decreased to 3,000 rpm? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "1,000 gpm",
+      "B": "1,500 gpm",
+      "C": "2,000 gpm",
+      "D": "2,500 gpm -459- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Motors and Generators",
+    "stem": " A multi-speed centrifugal pump is operating with a flow rate of 1,800 gpm at a speed of 3,600 rpm. Which one of the following approximates the new flow rate if the pump speed is decreased to 2,400 rpm?",
+    "choices": {
+      "A": "900 gpm",
+      "B": "1,050 gpm",
+      "C": "1,200 gpm",
+      "D": "1,350 gpm"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Motors and Generators",
+    "stem": " A multi-speed motor-driven centrifugal pump is operating with the following parameters: Motor current = 27 amps Pump head = 50 psid Pump flow rate = 880 gpm Which one of the following will be the approximate new value of pump head if pump speed is increased such that the motor draws 64 amps? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "89 psid",
+      "B": "119 psid",
+      "C": "211 psid",
+      "D": "281 psid -460- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Motors and Generators",
+    "stem": " Which one of the following describes the relationship between the current drawn by an AC induction motor and the amount of heat generated in the motor windings?",
+    "choices": {
+      "A": "Heat generation is directly proportional to the current.",
+      "B": "Heat generation is proportional to the cube of the current.",
+      "C": "Heat generation is proportional to the square of the current.",
+      "D": "Heat generation is proportional to the square root of the current."
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Motors and Generators",
+    "stem": " A motor-driven centrifugal pump is operating at 600 rpm with the following parameters: Motor current = 100 amps Pump head = 50 psid Pump flow rate = 880 gpm What will be the approximate value of pump head if pump speed is increased such that the motor draws 640 amps? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "93 psid",
+      "B": "126 psid",
+      "C": "173 psid",
+      "D": "320 psid -461- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Motors and Generators",
+    "stem": " A rotary positive displacement pump (PDP) is being used to supply water to a piping system. The PDP is driven by an AC induction motor. The initial parameters are: System pressure = 500 psig PDP flow rate = 50 gpm PDP motor current = 40 amps After several hours, the PDP motor speed is increased such that the new PDP flow rate is 100 gpm. If system pressure does not change, what is the approximate value of the PDP motor current at the 100 gpm flow rate? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "80 amps",
+      "B": "160 amps",
+      "C": "320 amps",
+      "D": "640 amps -462- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Motors and Generators",
+    "stem": " Refer to the pump performance curves for a centrifugal cooling water pump (see figure below). The pump is being driven by a single-speed AC induction motor. Pump flow rate is being controlled by a throttled discharge flow control valve. The following initial pump conditions exist: Pump motor current = 50 amps Pump flow rate = 400 gpm What will be the approximate value of pump motor current if the flow control valve is repositioned such that pump flow rate is 800 gpm? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "Less than 100 amps",
+      "B": "200 amps",
+      "C": "400 amps",
+      "D": "More than 500 amps -463- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Motors and Generators",
+    "stem": " Consider two identical single-speed AC induction motors, one of which is connected to a radial-flow centrifugal pump and the other to a reciprocating-type positive displacement pump (PDP). Both pumps are taking suction at the same elevation from a vented water storage tank. Each pump has a maximum design backpressure of 800 psig, and each is operating with the following initial conditions: Flow rate = 200 gpm Backpressure = 400 psig Motor current = 100 amps If the backpressure for each pump increases to 600 psig, the centrifugal pump will have a __________ flow rate than the PDP; and the centrifugal pump will have a __________ motor current than the PDP. NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "lower; higher",
+      "B": "lower; lower",
+      "C": "higher; higher",
+      "D": "higher; lower -464- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Motors and Generators",
+    "stem": " Refer to the pump performance curves for a centrifugal cooling water pump (see figure below). The pump is being driven by a single-speed AC induction motor. Pump flow rate is being controlled by a throttled discharge flow control valve. The following initial pump conditions exist: Motor current = 100 amps Pump flow rate = 800 gpm What will be the approximate value of pump motor current if the flow control valve is repositioned such that pump flow rate decreases to 400 gpm? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "Less than 15 amps",
+      "B": "25 amps",
+      "C": "50 amps",
+      "D": "Greater than 75 amps -465- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Motors and Generators",
+    "stem": " An AC induction motor is connected to a radial-flow centrifugal pump in a cooling water system. When the pump is started, the time period required to reach a stable running current will be shorter if the pump discharge valve is fully __________; and the stable running current will be lower if the pump discharge valve is fully __________.",
+    "choices": {
+      "A": "open; open",
+      "B": "open; closed",
+      "C": "closed; open",
+      "D": "closed; closed"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Motors and Generators",
+    "stem": " A centrifugal pump is driven by a single-speed AC induction motor. Pump flow rate is controlled by a throttled discharge flow control valve. The following initial pump conditions exist: Pump motor current = 50 amps Pump flow rate = 400 gpm What will the resulting pump motor current be if the flow control valve is repositioned such that pump flow rate increases to 800 gpm? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "100 amps",
+      "B": "200 amps",
+      "C": "400 amps",
+      "D": "Cannot be determined without additional information. -466- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Motors and Generators",
+    "stem": " An axial flow ventilation fan is being driven by an AC motor. The fan is operating at its maximum rated flow rate. How will the fan motor current initially change if the flow rate through the fan is decreased by partially closing a discharge damper?",
+    "choices": {
+      "A": "The motor current will increase in accordance with the centrifugal pump laws.",
+      "B": "The motor current will increase, but not in accordance with the centrifugal pump laws.",
+      "C": "The motor current will decrease in accordance with the centrifugal pump laws.",
+      "D": "The motor current will decrease, but not in accordance with the centrifugal pump laws."
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Motors and Generators",
+    "stem": " Consider two identical single-speed AC induction motors, one of which is connected to a radial-flow centrifugal pump and the other to a rotary-type positive displacement pump (PDP). Both pumps are taking suction from the bottom of a vented water storage tank. Each pump is operating with the following initial conditions: Flow rate = 200 gpm Backpressure = 600 psig Motor current = 100 amps If the backpressure for each pump decreases to 400 psig, the centrifugal pump will have a __________ flow rate than the PDP; and the centrifugal pump will have a __________ motor current than the PDP. NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "lower; lower",
+      "B": "lower; higher",
+      "C": "higher; lower",
+      "D": "higher; higher -467- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Motors and Generators",
+    "stem": " Refer to the pump performance curves for a centrifugal cooling water pump (see figure below). The pump is being driven by a single-speed AC induction motor. Pump flow rate is being controlled by a throttled discharge flow control valve. The following initial pump conditions exist: Motor current = 10 amps Pump flow rate = 200 gpm What will be the approximate value of pump motor current if the flow control valve is repositioned such that pump flow rate increases to 800 gpm? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "15 amps",
+      "B": "40 amps",
+      "C": "160 amps",
+      "D": "Greater than 200 amps -468- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Motors and Generators",
+    "stem": " A motor-driven radial-flow centrifugal pump is operating to provide makeup water from a constant head source to a vented storage tank that is 30 feet tall. The pump is located at the base of the tank and discharges directly into the bottom of the tank. As the tank water level increases from 20 to 25 feet, the pump discharge pressure will __________; and the pump motor current will __________.",
+    "choices": {
+      "A": "decrease; decrease",
+      "B": "decrease; increase",
+      "C": "increase; decrease",
+      "D": "increase; increase"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Motors and Generators",
+    "stem": " An air-cooled AC induction motor is initially operating at steady-state conditions, producing a work output of 50 hp. A reduction in cooling air flow rate to the motor causes the average stator winding temperature to increase by 20\u00baF. To maintain a 50 hp work output at the higher stator winding temperature, the voltage applied to the motor must be __________ because the stator winding resistance has __________. NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "increased; increased",
+      "B": "increased; decreased",
+      "C": "decreased; increased",
+      "D": "decreased; decreased -469- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Motors and Generators",
+    "stem": " The rate of heat production in the stator windings of an AC induction motor is __________ proportional to the __________ of the stator current.",
+    "choices": {
+      "A": "directly, square",
+      "B": "directly; amount",
+      "C": "inversely; square",
+      "D": "inversely; amount"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Motors and Generators",
+    "stem": " KNOWLEDGE: K1.04 [2.7/2.8] QID: An axial flow ventilation fan is being driven by an AC motor. The fan is operating at 90 percent of rated flow rate with its discharge damper partially closed. How will the fan motor current change if its discharge damper is fully opened? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "The motor current will increase in accordance with the centrifugal pump laws.",
+      "B": "The motor current will increase, but not in accordance with the centrifugal pump laws.",
+      "C": "The motor current will decrease in accordance with the centrifugal pump laws.",
+      "D": "The motor current will decrease, but not in accordance with the centrifugal pump laws. -470- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Motors and Generators",
+    "stem": " Initially, an AC induction motor is operating with the following steady-state conditions: Motor current = 25 amps Average stator winding temperature = 140\u00b0F Ambient temperature = 90\u00b0F Assume the stator winding electrical resistance, motor heat transfer properties, and ambient temperature do not change. If a change in motor load causes the motor current to increase to 50 amps, which one of the following will be the new steady-state average stator winding temperature? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "190\u00b0F",
+      "B": "200\u00b0F",
+      "C": "280\u00b0F",
+      "D": "290\u00b0F -471- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Motors and Generators",
+    "stem": " Refer to the partial drawing of two identical centrifugal pumps in a cooling water system (see figure below). Each pump is driven by an identical three-phase AC induction motor. The cooling water system is being returned to service following maintenance on the pumps. Pump A was started five minutes ago to initiate flow in the cooling water system. Pump B is about to be started. When pump B is started, which one of the following will cause pump B to experience high starting current for a shorter time than usual before stabilizing at a lower running current? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "Pump B is initially rotating in the reverse direction.",
+      "B": "The motor coupling for pump B was removed and not reinstalled.",
+      "C": "The packing gland for pump B was tightened since the pump last operated.",
+      "D": "The voltage applied to the motor for pump B is 20 percent lower than normal. -472- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Motors and Generators",
+    "stem": " Refer to the partial drawing of two identical single-speed radial-flow centrifugal pumps in a cooling water system (see figure below). Pumps 1 and 2 are driven by identical three-phase AC induction motors. Initially, pump 1 is operating normally and pump 2 is stopped. Then pump 2 is started, but its discharge check valve remains partially closed. When conditions stabilize, pump _____ will have the smaller motor current; and pump _____ will have the greater discharge head. NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "1; 1",
+      "B": "1; 2",
+      "C": "2; 1",
+      "D": "2; 2 -473- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Motors and Generators",
+    "stem": " The starting current for a typical AC induction motor is usually much higher than the full-load running current because...",
+    "choices": {
+      "A": "starting torque is lower than full-load running torque.",
+      "B": "starting torque is higher than full-load running torque.",
+      "C": "rotor speed during start is too low to generate significant counter electromotive force in the stator.",
+      "D": "rotor current during start is too low to generate significant counter electromotive force in the stator."
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Motors and Generators",
+    "stem": " The average starting current for a typical AC induction motor is approximately... NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "ten to fifteen times its normal running current.",
+      "B": "five to seven times its normal running current.",
+      "C": "two to three times its normal running current.",
+      "D": "the same as its normal running current. -474- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Motors and Generators",
+    "stem": " Which one of the following describes the motor current indications that would be observed during the start of a large AC motor connected to a load?",
+    "choices": {
+      "A": "Amps slowly increase to the normal operating value over a period of five time constants.",
+      "B": "Amps immediately increase to the normal operating value and stabilize.",
+      "C": "Amps immediately increase to many times the normal operating value and then decrease to the normal operating value.",
+      "D": "Amps immediately increase to the full-scale value and then decrease rapidly to zero due to overload protection."
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Motors and Generators",
+    "stem": " If the discharge valve of a large motor-driven centrifugal pump is kept closed during a normal pump start, the current indication for the AC induction motor will rise to... NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "approximately the full-load current value, and then decrease to the no-load current value.",
+      "B": "approximately the full-load current value, and then stabilize at the full-load current value.",
+      "C": "several times the full-load current value, and then decrease to the no-load current value.",
+      "D": "several times the full-load current value, and then decrease to the full-load value. -475- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Motors and Generators",
+    "stem": " Which one of the following is a characteristic of a typical AC induction motor that causes starting current to be greater than running current?",
+    "choices": {
+      "A": "The rotor magnetic field induces an opposing voltage in the stator that is proportional to rotor speed.",
+      "B": "After the motor starts, resistors are added to the electrical circuit to limit the running current.",
+      "C": "A large amount of starting current is required to initially establish a rotating magnetic field.",
+      "D": "The rotor does not develop maximum induced current flow until it has achieved synchronous speed."
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Motors and Generators",
+    "stem": " The starting current in an AC motor is significantly higher than the full-load running current because... NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "little counter electromotive force is induced in the rotor windings during motor start.",
+      "B": "motor torque production is highest during motor start.",
+      "C": "little counter electromotive force is induced in the stator windings during motor start.",
+      "D": "work performed by the motor is highest during motor start. -476- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Motors and Generators",
+    "stem": " Starting current in an AC induction motor is typically __________ times the full-load running current.",
+    "choices": {
+      "A": "1/4 to 1/2",
+      "B": "2 to 3",
+      "C": "5 to 7",
+      "D": "10 to 12"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Motors and Generators",
+    "stem": " Which one of the following describes the motor current during the start of a typical motor-driven radial-flow centrifugal pump with a closed discharge valve? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "Current immediately increases to the full-load value and then gradually decreases to the no-load value.",
+      "B": "Current immediately increases to the full-load value and then stabilizes at the full-load value.",
+      "C": "Current immediately increases to many times the full-load value and then rapidly decreases to the no-load value after several seconds and then stabilizes.",
+      "D": "Current immediately increases to many times the full-load value and then rapidly decreases to the full-load value after several seconds and then stabilizes. -477- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Motors and Generators",
+    "stem": " Which one of the following describes the motor current indications that would be observed during the start of a large motor-driven radial-flow centrifugal pump with a closed discharge valve?",
+    "choices": {
+      "A": "Current immediately increases to the full-load value and then gradually decreases to the no-load value over several minutes.",
+      "B": "Current immediately increases to the no-load value and then stabilizes.",
+      "C": "Current immediately increases to many times the no-load value and then rapidly decreases to the no-load value after several seconds.",
+      "D": "Current immediately increases to many times the no-load value and then gradually decreases to the no-load value after several minutes."
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Motors and Generators",
+    "stem": " Two identical AC induction motors are connected to identical radial-flow centrifugal pumps being used to provide cooling water flow in separate systems in a nuclear power plant. Each motor is rated at 1,000 hp. The discharge valve for pump A is fully open and the discharge valve for pump B is fully shut. Each pump is currently off. If the pumps are started under these conditions, the longer time period required to stabilize motor current will be experienced by the motor for pump _____; and the higher stable motor current will be experienced by the motor for pump _____. NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "A; A",
+      "B": "A; B",
+      "C": "B; A",
+      "D": "B; B -478- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Motors and Generators",
+    "stem": " Which one of the following describes when the highest stator current will be experienced by an AC induction motor?",
+    "choices": {
+      "A": "During motor operation at full load.",
+      "B": "During motor operation at zero load.",
+      "C": "Immediately after energizing the motor.",
+      "D": "Immediately after deenergizing the motor."
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Motors and Generators",
+    "stem": " Two identical AC induction motors are connected to identical radial-flow centrifugal pumps in identical but separate cooling water systems. Each motor is rated at 200 hp. The discharge valve for pump A is fully shut and the discharge valve for pump B is fully open. Each pump is currently off. If the pumps are started under these conditions, the longer time period required to stabilize motor current will be experienced by the motor for pump _____; and the higher stable motor current will be experienced by the motor for pump _____. NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "A; A",
+      "B": "A; B",
+      "C": "B; A",
+      "D": "B; B -479- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Motors and Generators",
+    "stem": " Two identical AC induction motors are connected to identical radial-flow centrifugal pumps in identical but separate cooling water systems. Each motor is rated at 200 hp. The discharge valve for pump A is fully shut and the discharge valve for pump B is fully open. Each pump is currently off. If the pumps are started under these conditions, the shorter time period required to reach a stable running current will be experienced by the motor for pump _____; and the higher stable running current will be experienced by the motor for pump _____.",
+    "choices": {
+      "A": "A; A",
+      "B": "A; B",
+      "C": "B; A",
+      "D": "B; B"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Motors and Generators",
+    "stem": " To minimize the duration of high starting current, an AC induction motor should be started __________ to __________ the stator counter electromotive force. NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "unloaded; quickly establish",
+      "B": "unloaded; delay",
+      "C": "partially loaded; quickly establish",
+      "D": "partially loaded; delay -480- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Motors and Generators",
+    "stem": " Two identical AC induction motors are connected to identical radial-flow centrifugal pumps in identical but separate cooling water systems. Each motor is rated at 200 hp. The discharge valve for pump A is fully open and the discharge valve for pump B is fully closed. Each pump is currently off. If the pumps are started under these conditions, the shorter time period required to reach a stable running current will be experienced by the motor for pump _____; and the higher stable running current will be experienced by the motor for pump _____.",
+    "choices": {
+      "A": "A; A",
+      "B": "A; B",
+      "C": "B; A",
+      "D": "B; B"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Motors and Generators",
+    "stem": " What is the primary reason for limiting the number of starts for an electric motor in a given period of time? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "Prevent overheating of the windings due to high starting currents.",
+      "B": "Prevent overheating of the windings due to shorting within the stator.",
+      "C": "Prevent rotor damage due to excessive cyclic stresses on the shaft.",
+      "D": "Prevent rotor damage due to excessive axial displacement of the shaft. -481- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Motors and Generators",
+    "stem": " The frequency of starts for large AC motors should be limited to prevent excessive...",
+    "choices": {
+      "A": "heat buildup within the motor.",
+      "B": "wear of pump thrust bearings.",
+      "C": "torsional stresses on the motor shaft.",
+      "D": "arcing and degradation of motor breaker contacts."
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Motors and Generators",
+    "stem": " The number of starts for an electric motor in a given period of time should be limited because overheating of the __________ can occur due to the __________ counter electromotive force produced at low rotor speeds. NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "windings; low",
+      "B": "windings; high",
+      "C": "commutator and/or slip rings; low",
+      "D": "commutator and/or slip rings; high -482- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Motors and Generators",
+    "stem": " The frequency of start/stop cycles for an electrical motor is limited to prevent...",
+    "choices": {
+      "A": "overheating the motor windings.",
+      "B": "overheating the motor supply bus.",
+      "C": "excessive shaft torsional stresses.",
+      "D": "excessive cycling of the motor breaker."
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Motors and Generators",
+    "stem": " Frequent starts of large motors will result in overheating of the motor windings due to high current flow caused by... NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "low electrical resistance of the motor windings.",
+      "B": "an electrical short circuit between the rotor and stator.",
+      "C": "high counter electromotive force at low rotor speeds.",
+      "D": "windage losses between the rotor and stator. -483- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Motors and Generators",
+    "stem": " Which one of the following is the primary reason for limiting the number of motor starts in a given time period?",
+    "choices": {
+      "A": "Minimizes pitting of contacts in the motor breaker.",
+      "B": "Prevents excessive torsional stresses on the motor shaft.",
+      "C": "Prevents overheating of the motor windings.",
+      "D": "Minimizes axial stresses on the motor bearings."
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Motors and Generators",
+    "stem": " A large centrifugal pump is driven by a 200 horsepower AC induction motor. The motor breaker control circuit contains the following protection devices: instantaneous overcurrent relay, motor thermal overload relay, control power fuses, and an anti-pumping device. The pump had been manually started and stopped several times during a 5 minute period when the motor breaker tripped. Which one of the following is the most likely cause of the breaker trip? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "Motor thermal overload.",
+      "B": "Instantaneous overcurrent.",
+      "C": "Blown control power fuse.",
+      "D": "Anti-pumping device actuation. -484- PWR Test Items"
+    },
     "answer": "A"
   }
 ]

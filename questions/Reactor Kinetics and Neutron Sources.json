@@ -1,860 +1,728 @@
 [
   {
-    "id": "REA938",
     "topic": "Reactor Kinetics and Neutron Sources",
-    "question": "Which one of the following is a characteristic of subcritical multiplication?\napproximately one quarter.\nto be reached as K approaches unity.\neff\ncount rate increase, whether K is 0.88 or 0.92.\neff\n-684-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. The subcritical neutron level is directly proportional to the neutron source strength.",
-      "B. Doubling the indicated count rate by reactivity additions will reduce the margin to criticality by",
-      "C. For equal reactivity additions, it takes less time for the new equilibrium source range count rate",
-      "D. An incremental withdrawal of any given control rod will produce an equivalent equilibrium"
-    ],
+    "stem": " Which one of the following is a characteristic of subcritical multiplication? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "The subcritical neutron level is directly proportional to the neutron source strength.",
+      "B": "Doubling the indicated count rate by reactivity additions will reduce the margin to criticality by approximately one quarter.",
+      "C": "For equal reactivity additions, it takes less time for the new equilibrium source range count rate to be reached as K approaches unity. eff",
+      "D": "An incremental withdrawal of any given control rod will produce an equivalent equilibrium count rate increase, whether K is 0.88 or 0.92. eff -684- PWR Test Items"
+    },
     "answer": "A"
   },
   {
-    "id": "REA939",
     "topic": "Reactor Kinetics and Neutron Sources",
-    "question": "A nuclear power plant has been operating at 100 percent power for 2 months when a reactor trip\noccurs. Two months after the reactor trip, with all control rods still fully inserted, a stable count\nrate of 20 cps is indicated on the source range nuclear instruments.\nThe majority of the source range count rate is being caused by the interaction of __________ with\nthe detector.",
-    "image": "",
-    "choices": [
-      "A. intrinsic source neutrons",
-      "B. fission gammas from previous power operation",
-      "C. fission neutrons from subcritical multiplication",
-      "D. delayed fission neutrons from previous power operation"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "REA940",
-    "topic": "Reactor Kinetics and Neutron Sources",
-    "question": "The total neutron flux in a shutdown reactor is constant at 5.0 x 103 n/cm2-sec. If non-fission\nneutron sources are supplying a constant flux of 1.0 x 102 n/cm2-sec, what is K ?\neff\n-685-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. 0.98",
-      "B. 0.96",
-      "C. 0.94",
-      "D. Cannot be determined without additional information."
-    ],
+    "stem": " A nuclear power plant has been operating at 100 percent power for 2 months when a reactor trip occurs. Two months after the reactor trip, with all control rods still fully inserted, a stable count rate of 20 cps is indicated on the source range nuclear instruments. The majority of the source range count rate is being caused by the interaction of __________ with the detector.",
+    "choices": {
+      "A": "intrinsic source neutrons",
+      "B": "fission gammas from previous power operation",
+      "C": "fission neutrons from subcritical multiplication",
+      "D": "delayed fission neutrons from previous power operation"
+    },
     "answer": "A"
   },
   {
-    "id": "REA941",
     "topic": "Reactor Kinetics and Neutron Sources",
-    "question": "Reactor power was increased from 1.0 x 10-9 percent to 1.0 x 10-6 percent in 6 minutes. The\naverage startup rate was __________ decades per minute.",
-    "image": "",
-    "choices": [
-      "A. 0.5",
-      "B. 1.3",
-      "C. 2.0",
-      "D. 5.2"
-    ],
+    "stem": " The total neutron flux in a shutdown reactor is constant at 5.0 x 103 n/cm2-sec. If non-fission neutron sources are supplying a constant flux of 1.0 x 102 n/cm2-sec, what is K ? eff NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "0.98",
+      "B": "0.96",
+      "C": "0.94",
+      "D": "Cannot be determined without additional information. -685- PWR Test Items"
+    },
     "answer": "A"
   },
   {
-    "id": "REA942",
     "topic": "Reactor Kinetics and Neutron Sources",
-    "question": "Reactor power increases from 1.0 x 10-8 percent to 5.0 x 10-7 percent in two minutes. What was the\naverage startup rate during the power increase?\n-686-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. 0.95 DPM",
-      "B. 0.90 DPM",
-      "C. 0.85 DPM",
-      "D. 0.82 DPM"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "REA943",
-    "topic": "Reactor Kinetics and Neutron Sources",
-    "question": "During a reactor startup, reactor power increases from 1.0 x 10-8 percent to 2.0 x 10-8 percent in two\nminutes. What was the average reactor period during the power increase?",
-    "image": "",
-    "choices": [
-      "A. 173 seconds",
-      "B. 235 seconds",
-      "C. 300 seconds",
-      "D. 399 seconds"
-    ],
+    "stem": " Reactor power was increased from 1.0 x 10-9 percent to 1.0 x 10-6 percent in 6 minutes. The average startup rate was __________ decades per minute.",
+    "choices": {
+      "A": "0.5",
+      "B": "1.3",
+      "C": "2.0",
+      "D": "5.2"
+    },
     "answer": "A"
   },
   {
-    "id": "REA944",
     "topic": "Reactor Kinetics and Neutron Sources",
-    "question": "During a reactor startup, reactor power increases from 3.0 x 10-6 percent to 5.0 x 10-6 percent in two\nminutes. What was the average reactor period during the power increase?\n-687-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. 357 seconds",
-      "B. 235 seconds",
-      "C. 155 seconds",
-      "D. 61 seconds"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "REA945",
-    "topic": "Reactor Kinetics and Neutron Sources",
-    "question": "A small amount of positive reactivity is added to a reactor that is critical in the source range. The\namount of reactivity added is much less than the effective delayed neutron fraction.\nWhich one of the following will have the most significant effect on the magnitude of the stable\nreactor period achieved for this reactivity addition while the reactor is in the source range?",
-    "image": "",
-    "choices": [
-      "A. Prompt neutron lifetime",
-      "B. Fuel temperature coefficient",
-      "C. Moderator temperature coefficient",
-      "D. Effective delayed neutron precursor decay constant"
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "REA946",
-    "topic": "Reactor Kinetics and Neutron Sources",
-    "question": "A nuclear power plant is operating at steady-state 50 percent power in the middle of a fuel cycle.\nWhich one of the following will initially produce a positive startup rate?\n-688-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. Main turbine runback.",
-      "B. Unintentional boration.",
-      "C. Increase in main turbine load.",
-      "D. Closure of a letdown isolation valve."
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "REA947",
-    "topic": "Reactor Kinetics and Neutron Sources",
-    "question": "The magnitude of the stable startup rate achieved for a given positive reactivity addition to a critical\nreactor is dependent on the __________ and __________.",
-    "image": "",
-    "choices": [
-      "A. prompt neutron lifetime; axial neutron flux distribution",
-      "B. prompt neutron lifetime; effective delayed neutron fraction",
-      "C. effective delayed neutron precursor decay constant; effective delayed neutron fraction",
-      "D. effective delayed neutron precursor decay constant; axial neutron flux distribution"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "REA948",
-    "topic": "Reactor Kinetics and Neutron Sources",
-    "question": "A reactor is critical at 1.0 x 10-8 percent power during a reactor startup. \u03b2(cid:3364) for this reactor is\neff\n0.0072. Which one of the following is the approximate amount of positive reactivity that must be\nadded to the core by control rod withdrawal to attain a stable startup rate of 1.0 DPM?\n-689-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. 0.2 %\u0394K/K",
-      "B. 0.5 %\u0394K/K",
-      "C. 1.0 %\u0394K/K",
-      "D. 2.0 %\u0394K/K"
-    ],
+    "stem": " Reactor power increases from 1.0 x 10-8 percent to 5.0 x 10-7 percent in two minutes. What was the average startup rate during the power increase? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "0.95 DPM",
+      "B": "0.90 DPM",
+      "C": "0.85 DPM",
+      "D": "0.82 DPM -686- PWR Test Items"
+    },
     "answer": "A"
   },
   {
-    "id": "REA949",
     "topic": "Reactor Kinetics and Neutron Sources",
-    "question": "A reactor is being started for the first time following a refueling outage. Reactor Engineering has\ndetermined that during the upcoming fuel cycle, \u03b2(cid:3364) will range from a maximum of 0.007 to a\neff\nminimum of 0.005.\nOnce the reactor becomes critical, control rods are withdrawn to increase reactivity by 0.1 %\u0394K/K.\nAssuming no other reactivity additions, what will the stable reactor period be for this reactor until\nthe point of adding heat is reached?\n-690-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. 20 seconds",
-      "B. 40 seconds",
-      "C. 60 seconds",
-      "D. 80 seconds"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "REA950",
-    "topic": "Reactor Kinetics and Neutron Sources",
-    "question": "Reactors A and B are identical except that the reactors are operating at different times in core life.\nThe reactor A effective delayed neutron fraction is 0.007, and the reactor B effective delayed\nneutron fraction is 0.005. Both reactors are currently subcritical with neutron flux level stable in the\nsource range.\nGiven:\nReactor A K = 0.999\neff\nReactor B K = 0.998\neff\nIf positive 0.003 \u0394K/K is suddenly added to each reactor, how will the resulting stable startup rates\n(SUR) compare? (Consider only the reactor response while power is below the point of adding\nheat.)\namount of positive reactivity.\n-691-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. Reactor A stable SUR will be greater.",
-      "B. Reactor B stable SUR will be smaller.",
-      "C. Reactors A and B will have the same stable SUR because both reactors will remain subcritical.",
-      "D. Reactors A and B will have the same stable SUR because both reactors received the same"
-    ],
+    "stem": " During a reactor startup, reactor power increases from 1.0 x 10-8 percent to 2.0 x 10-8 percent in two minutes. What was the average reactor period during the power increase?",
+    "choices": {
+      "A": "173 seconds",
+      "B": "235 seconds",
+      "C": "300 seconds",
+      "D": "399 seconds"
+    },
     "answer": "A"
   },
   {
-    "id": "REA951",
     "topic": "Reactor Kinetics and Neutron Sources",
-    "question": "Given the following stable initial conditions for a reactor:\nPower level = 1.0 x 10-8 percent\nK = 0.999\neff\nCore \u03b2(cid:3364) = 0.006\neff\nWhat will the stable reactor period be following an addition of positive 0.15 %\u0394K/K reactivity to the\nreactor? (Assume the stable reactor period occurs before the reactor reaches the point of adding\nheat.)\n-692-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. 30 seconds",
-      "B. 50 seconds",
-      "C. 80 seconds",
-      "D. 110 seconds"
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "REA952",
-    "topic": "Reactor Kinetics and Neutron Sources",
-    "question": "Given the following stable initial conditions for a reactor:\nPower level = 1.0 x 10-8 percent\nK = 0.999\neff\nCore \u03b2(cid:3365) = 0.006\neff\nWhat will the stable startup rate be following an addition of positive 0.2 %\u0394K/K reactivity to the\nreactor? (Assume the stable startup rate occurs before the reactor reaches the point of adding heat.)",
-    "image": "",
-    "choices": [
-      "A. 0.24 DPM",
-      "B. 0.33 DPM",
-      "C. 0.52 DPM",
-      "D. 1.30 DPM"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "REA953",
-    "topic": "Reactor Kinetics and Neutron Sources",
-    "question": "A nuclear power plant has just completed a refueling outage and a reactor startup is in progress.\nReactor engineers have determined that during the upcoming fuel cycle, \u03b2(cid:3364) will range from a\neff\nminimum of 0.0052 to a maximum of 0.0064.\nAfter the reactor becomes critical, control rods are withdrawn further to increase reactivity by an\nadditional 0.1 %\u0394K/K. Assuming no other reactivity changes occur, what will the approximate\nstable startup rate be for this reactor until the point of adding heat is reached?\n-693-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. 1.0 DPM",
-      "B. 0.6 DPM",
-      "C. 0.5 DPM",
-      "D. 0.3 DPM"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "REA954",
-    "topic": "Reactor Kinetics and Neutron Sources",
-    "question": "During a fuel cycle, plutonium isotopes are produced with delayed neutron fractions that are\n__________ than the delayed neutron fractions for uranium isotopes, thereby causing reactor power\ntransients to be __________ near the end of a fuel cycle.",
-    "image": "",
-    "choices": [
-      "A. larger; slower",
-      "B. larger; faster",
-      "C. smaller; slower",
-      "D. smaller; faster"
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "REA955",
-    "topic": "Reactor Kinetics and Neutron Sources",
-    "question": "Following a reactor trip, when does the startup rate initially stabilize at \u20131/3 DPM?\n-694-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. When decay gamma heating starts adding negative reactivity.",
-      "B. When the long-lived delayed neutron precursors have decayed away.",
-      "C. When the installed neutron source contribution to the total neutron flux becomes significant.",
-      "D. When the short-lived delayed neutron precursors have decayed away."
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "REA956",
-    "topic": "Reactor Kinetics and Neutron Sources",
-    "question": "Delayed neutrons contribute more to reactor stability than prompt neutrons because they\n__________ the average neutron generation time and are born at a __________ kinetic energy.",
-    "image": "",
-    "choices": [
-      "A. increase; lower",
-      "B. increase; higher",
-      "C. decrease; lower",
-      "D. decrease; higher"
-    ],
+    "stem": " During a reactor startup, reactor power increases from 3.0 x 10-6 percent to 5.0 x 10-6 percent in two minutes. What was the average reactor period during the power increase? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "357 seconds",
+      "B": "235 seconds",
+      "C": "155 seconds",
+      "D": "61 seconds -687- PWR Test Items"
+    },
     "answer": "A"
   },
   {
-    "id": "REA957",
     "topic": "Reactor Kinetics and Neutron Sources",
-    "question": "Which one of the following statements describes the effect of changes in the delayed neutron\nfraction from the beginning of a fuel cycle (BOC) to the end of a fuel cycle (EOC)?\nmargin (SDM) than at BOC.\nBOC.\nthan at BOC.\n-695-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. A given reactivity addition to a shutdown reactor at EOC yields a larger change in shutdown",
-      "B. A given reactivity addition to a shutdown reactor at EOC yields a smaller change in SDM than at",
-      "C. A given reactivity addition to an operating reactor at EOC results in a higher startup rate (SUR)",
-      "D. A given reactivity addition to an operating reactor at EOC results in a lower SUR than at BOC."
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "REA958",
-    "topic": "Reactor Kinetics and Neutron Sources",
-    "question": "Delayed neutrons are important for reactor control because...",
-    "image": "",
-    "choices": [
-      "A. they are produced with a higher average kinetic energy than prompt neutrons.",
-      "B. they prevent the moderator temperature coefficient from becoming positive.",
-      "C. they are the largest fraction of the neutrons produced from fission.",
-      "D. they greatly extend the average lifetime of each neutron generation."
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "REA959",
-    "topic": "Reactor Kinetics and Neutron Sources",
-    "question": "Two reactors are identical except that reactor A is near the end of a fuel cycle and reactor B is near\nthe beginning of a fuel cycle. Both reactors are operating at 100 percent power when a reactor trip\noccurs at the same time on each reactor.\nIf no operator action is taken and the reactor systems for both reactors respond identically to the trip,\nreactor A will attain a negative __________ second stable period; and reactor B will attain a\nnegative __________ second stable period.\n-696-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. 80; 56",
-      "B. 80; 80",
-      "C. 56; 56",
-      "D. 56; 80"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "REA960",
-    "topic": "Reactor Kinetics and Neutron Sources",
-    "question": "Two reactors are identical except that reactor A is near the end of a fuel cycle and reactor B is near\nthe beginning of a fuel cycle. Both reactors are critical at 1.0 x 10-5 percent power.\nIf the same amount of positive reactivity is added to each reactor at the same time, the point of\nadding heat will be reached first by reactor __________ because it has a __________ effective\ndelayed neutron fraction.",
-    "image": "",
-    "choices": [
-      "A. A; smaller",
-      "B. A; larger",
-      "C. B; smaller",
-      "D. B; larger"
-    ],
+    "stem": " A small amount of positive reactivity is added to a reactor that is critical in the source range. The amount of reactivity added is much less than the effective delayed neutron fraction. Which one of the following will have the most significant effect on the magnitude of the stable reactor period achieved for this reactivity addition while the reactor is in the source range?",
+    "choices": {
+      "A": "Prompt neutron lifetime",
+      "B": "Fuel temperature coefficient",
+      "C": "Moderator temperature coefficient",
+      "D": "Effective delayed neutron precursor decay constant"
+    },
     "answer": "A"
   },
   {
-    "id": "REA961",
     "topic": "Reactor Kinetics and Neutron Sources",
-    "question": "Two reactors are identical except that reactor A is near the end of core life and reactor B is near the\nbeginning of core life. Both reactors are operating at 100 percent power when a reactor trip occurs\nat the same time on each reactor. The trips insert equal amounts of negative reactivity, and no\noperator actions are taken.\nFor the conditions above, a power level of 1.0 x 10-5 percent will be reached first by reactor\n__________ because it has the __________ effective delayed neutron fraction.\n-697-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. A; larger",
-      "B. B; larger",
-      "C. A; smaller",
-      "D. B; smaller"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "REA962",
-    "topic": "Reactor Kinetics and Neutron Sources",
-    "question": "Which one of the following is the reason that delayed neutrons are so effective at controlling the rate\nof reactor power changes?",
-    "image": "",
-    "choices": [
-      "A. Delayed neutrons make up a large fraction of the fission neutrons compared to prompt neutrons.",
-      "B. Delayed neutrons have a long mean generation time compared to prompt neutrons.",
-      "C. Delayed neutrons produce a large amount of fast fission compared to prompt neutrons.",
-      "D. Delayed neutrons are born with high kinetic energy compared to prompt neutrons."
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "REA963",
-    "topic": "Reactor Kinetics and Neutron Sources",
-    "question": "Which one of the following distributions of fission percentages occurring in a reactor will result in\nthe largest effective delayed neutron fraction?\nU-235 U-238 Pu-239\n-698-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. 90% 7% 3%",
-      "B. 80% 6% 14%",
-      "C. 70% 7% 23%",
-      "D. 60% 6% 34%"
-    ],
+    "stem": " A nuclear power plant is operating at steady-state 50 percent power in the middle of a fuel cycle. Which one of the following will initially produce a positive startup rate? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "Main turbine runback.",
+      "B": "Unintentional boration.",
+      "C": "Increase in main turbine load.",
+      "D": "Closure of a letdown isolation valve. -688- PWR Test Items"
+    },
     "answer": "A"
   },
   {
-    "id": "REA964",
     "topic": "Reactor Kinetics and Neutron Sources",
-    "question": "Which one of the following distributions of fission percentages occurring in a reactor will result in\nthe smallest effective delayed neutron fraction?\nU-235 U-238 Pu-239",
-    "image": "",
-    "choices": [
-      "A. 90% 7% 3%",
-      "B. 80% 6% 14%",
-      "C. 70% 7% 23%",
-      "D. 60% 6% 34%"
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "REA965",
-    "topic": "Reactor Kinetics and Neutron Sources",
-    "question": "Two reactors are identical except that reactor A is near the beginning of core life and reactor B is\nnear the end of core life. Both reactors are critical at 10-5 percent power.\nIf the same amount of positive reactivity is added to each reactor at the same time, the point of\nadding heat will be reached first by reactor __________ because it has a __________ effective\ndelayed neutron fraction.\n-699-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. A; smaller",
-      "B. A; larger",
-      "C. B; smaller",
-      "D. B; larger"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "REA966",
-    "topic": "Reactor Kinetics and Neutron Sources",
-    "question": "A nuclear power plant is operating at steady-state 50 percent power when a control rod is ejected\nfrom the core. Which one of the following distributions of fission percentages in the core would\nresult in the highest startup rate? (Assume the reactivity worth of the ejected control rod is the same\nfor each distribution.)\nU-235 U-238 Pu-239",
-    "image": "",
-    "choices": [
-      "A. 90% 8% 2%",
-      "B. 80% 7% 13%",
-      "C. 70% 7% 23%",
-      "D. 60% 8% 32%"
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "REA967",
-    "topic": "Reactor Kinetics and Neutron Sources",
-    "question": "Two reactors are identical except that reactor A is near the end of core life and reactor B is near the\nbeginning of core life. Both reactors are operating at 100 percent power when a reactor trip occurs\nat the same time on each reactor. No operator action is taken and the reactor systems for both\nreactors respond identically to the trip.\nTen minutes after the trip, the greater thermal neutron flux will exist in reactor __________ because\nit has a __________ effective delayed neutron fraction.\n-700-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. A; larger",
-      "B. B; larger",
-      "C. A; smaller",
-      "D. B; smaller"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "REA968",
-    "topic": "Reactor Kinetics and Neutron Sources",
-    "question": "Two reactors are identical except that reactor A is near the beginning of core life and reactor B is\nnear the end of core life. Both reactors are operating at 100 percent power when a reactor trip\noccurs at the same time on each reactor. No operator action is taken and the reactor systems for\nboth reactors respond identically to the trip.\nTen minutes after the trip, the greater thermal neutron flux will exist in reactor __________ because\nit has a __________ effective delayed neutron fraction.\n-701-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. A; larger",
-      "B. B; larger",
-      "C. A; smaller",
-      "D. B; smaller"
-    ],
+    "stem": " The magnitude of the stable startup rate achieved for a given positive reactivity addition to a critical reactor is dependent on the __________ and __________.",
+    "choices": {
+      "A": "prompt neutron lifetime; axial neutron flux distribution",
+      "B": "prompt neutron lifetime; effective delayed neutron fraction",
+      "C": "effective delayed neutron precursor decay constant; effective delayed neutron fraction",
+      "D": "effective delayed neutron precursor decay constant; axial neutron flux distribution"
+    },
     "answer": "A"
   },
   {
-    "id": "REA969",
     "topic": "Reactor Kinetics and Neutron Sources",
-    "question": "A step positive reactivity addition of 0.001 \u0394K/K is made to a reactor with a stable neutron flux and\nan initial K of 0.99. Consider the following two cases:\neff\nCase 1: The reactor is near the beginning of a fuel cycle.\nCase 2: The reactor is near the end of a fuel cycle.\nAssume the initial neutron flux is the same for each case.\nWhich one of the following correctly compares the prompt jump in neutron flux levels and the final\nstable neutron flux levels for the two cases?\nsame for both cases.\nsame for both cases.\ngreater for case 1.\ngreater for case 2.\n-702-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. The prompt jump will be greater for case 1, but the final stable neutron flux level will be the",
-      "B. The prompt jump will be greater for case 2, but the final stable neutron flux level will be the",
-      "C. The prompt jump will be the same for both cases, but the final stable neutron flux level will be",
-      "D. The prompt jump will be the same for both cases, but the final stable neutron flux level will be"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "REA970",
-    "topic": "Reactor Kinetics and Neutron Sources",
-    "question": "A reactor is critical in the source range during the initial reactor startup immediately following a\nrefueling outage. The effective delayed neutron fraction is 0.0062. The operator adds positive\nreactivity to establish a stable 0.5 DPM startup rate.\nIf the reactor had been near the end of a fuel cycle with an effective delayed neutron fraction of\n0.005, what would the approximate stable startup rate be after the addition of the same amount of\npositive reactivity?\n-703-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. 0.55 DPM",
-      "B. 0.65 DPM",
-      "C. 0.75 DPM",
-      "D. 0.85 DPM"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "REA971",
-    "topic": "Reactor Kinetics and Neutron Sources",
-    "question": "The following data is given for the fuel in an operating reactor:\nDelayed Fraction of Total Fraction of Total\nNuclide Neutron Fraction Fuel Composition Fission Rate\nU-235 0.0065 0.03 0.73\nU-238 0.0148 0.96 0.07\nPu-239 0.0021 0.01 0.20\nWhat is the delayed neutron fraction for this reactor?\n-704-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. 0.0052",
-      "B. 0.0054",
-      "C. 0.0062",
-      "D. 0.0068"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "REA972",
-    "topic": "Reactor Kinetics and Neutron Sources",
-    "question": "The following data is given for the fuel in an operating reactor:\nDelayed Fraction of Total Fraction of Total\nNuclide Neutron Fraction Fuel Composition Fission Rate\nU-235 0.0065 0.023 0.63\nU-238 0.0148 0.965 0.07\nPu-239 0.0021 0.012 0.30\nWhat is the delayed neutron fraction for this reactor?",
-    "image": "",
-    "choices": [
-      "A. 0.0052",
-      "B. 0.0058",
-      "C. 0.0072",
-      "D. 0.0078"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "REA973",
-    "topic": "Reactor Kinetics and Neutron Sources",
-    "question": "Which characteristic of delayed neutrons is primarily responsible for enhancing the stability of a\nreactor following a reactivity change?\n-705-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. They are born at a lower average energy than prompt neutrons.",
-      "B. They are more likely to experience resonance absorption than prompt neutrons.",
-      "C. They comprise a smaller fraction of the total neutron flux than prompt neutrons.",
-      "D. They require more time to be produced following a fission event than prompt neutrons."
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "REA974",
-    "topic": "Reactor Kinetics and Neutron Sources",
-    "question": "For an operating reactor, the effective delayed neutron fraction may differ from the delayed neutron\nfraction because, compared to prompt neutrons, delayed neutrons...\nabsorption energy region.\nreactor core.",
-    "image": "",
-    "choices": [
-      "A. are less likely to leak out of the reactor core, and are less likely to cause fast fission.",
-      "B. are less likely to cause fast fission, and require more time to complete a neutron generation.",
-      "C. require more time to complete a neutron generation, and spend less time in the resonance",
-      "D. spend less time in the resonance absorption energy region, and are less likely to leak out of the"
-    ],
+    "stem": " A reactor is critical at 1.0 x 10-8 percent power during a reactor startup. \u03b2(cid:3364) for this reactor is eff 0.0072. Which one of the following is the approximate amount of positive reactivity that must be added to the core by control rod withdrawal to attain a stable startup rate of 1.0 DPM? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "0.2 %\u0394K/K",
+      "B": "0.5 %\u0394K/K",
+      "C": "1.0 %\u0394K/K",
+      "D": "2.0 %\u0394K/K -689- PWR Test Items"
+    },
     "answer": "A"
   },
   {
-    "id": "REA975",
     "topic": "Reactor Kinetics and Neutron Sources",
-    "question": "Given the following data for a reactor:\n\uf0b7 The average delayed neutron fraction is 0.0068.\n\uf0b7 The effective delayed neutron fraction is 0.0065.\nThe above data indicates that this reactor is operating near the __________ of a fuel cycle; and a\ntypical delayed neutron is __________ likely than a typical prompt neutron to cause another fission\nin this reactor.\n-706-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. beginning; less",
-      "B. beginning; more",
-      "C. end; less",
-      "D. end; more"
-    ],
+    "stem": " A reactor is being started for the first time following a refueling outage. Reactor Engineering has determined that during the upcoming fuel cycle, \u03b2(cid:3364) will range from a maximum of 0.007 to a eff minimum of 0.005. Once the reactor becomes critical, control rods are withdrawn to increase reactivity by 0.1 %\u0394K/K. Assuming no other reactivity additions, what will the stable reactor period be for this reactor until the point of adding heat is reached? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "20 seconds",
+      "B": "40 seconds",
+      "C": "60 seconds",
+      "D": "80 seconds -690- PWR Test Items"
+    },
     "answer": "A"
   },
   {
-    "id": "REA976",
     "topic": "Reactor Kinetics and Neutron Sources",
-    "question": "Initially, a reactor is critical at a stable power level well below the point of adding heat (POAH).\nWhen considering the following two cases, assume the reactor remains below the POAH.\nCase 1: A step addition of positive 1.0 x 10-4 \u0394K/K.\nCase 2: A step addition of negative 1.0 x 10-4 \u0394K/K.\nThe time required for reactor power to change by a factor of 10 will be greater for case _____,\nbecause delayed neutrons are more effective at slowing reactor power changes when reactor power is\n__________.",
-    "image": "",
-    "choices": [
-      "A. 1; increasing",
-      "B. 1; decreasing",
-      "C. 2; increasing",
-      "D. 2; decreasing"
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "REA977",
-    "topic": "Reactor Kinetics and Neutron Sources",
-    "question": "Two identical reactors, A and B, are critical at 1.0 x 10-8 percent power near the beginning of a fuel\ncycle. Simultaneously, positive 0.001 \u0394K/K is added to reactor A, and negative 0.001 \u0394K/K is\nadded to reactor B. One minute later, which reactor, if any, will have the shorter period and why?\nfission rate is increasing.\nfission rate is decreasing.\nare the same.\nadditions are the same.\n-707-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. Reactor A, because delayed neutrons are less effective at slowing down power changes when the",
-      "B. Reactor B, because delayed neutrons are less effective at slowing down power changes when the",
-      "C. The periods in both reactors will be the same because their effective delayed neutron fractions",
-      "D. The periods in both reactors will be the same because the absolute values of the reactivity"
-    ],
+    "stem": " Reactors A and B are identical except that the reactors are operating at different times in core life. The reactor A effective delayed neutron fraction is 0.007, and the reactor B effective delayed neutron fraction is 0.005. Both reactors are currently subcritical with neutron flux level stable in the source range. Given: Reactor A K = 0.999 eff Reactor B K = 0.998 eff If positive 0.003 \u0394K/K is suddenly added to each reactor, how will the resulting stable startup rates (SUR) compare? (Consider only the reactor response while power is below the point of adding heat.) NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "Reactor A stable SUR will be greater.",
+      "B": "Reactor B stable SUR will be smaller.",
+      "C": "Reactors A and B will have the same stable SUR because both reactors will remain subcritical.",
+      "D": "Reactors A and B will have the same stable SUR because both reactors received the same amount of positive reactivity. -691- PWR Test Items"
+    },
     "answer": "A"
   },
   {
-    "id": "REA978",
     "topic": "Reactor Kinetics and Neutron Sources",
-    "question": "The following data is given for the fuel in an operating reactor just prior to a refueling shutdown.\nDelayed Fraction of Total\nNuclide Neutron Fraction Fission Rate\nU-235 0.0065 0.64\nU-238 0.0148 0.07\nPu-239 0.0021 0.29\nDuring the refueling, one-third of the fuel assemblies were offloaded and replaced with new fuel\nassemblies consisting of uranium having an average U-235 enrichment of 3.5 percent by weight.\nWhich one of the following describes how the above data will change as a result of completing the\nrefueling outage?\n-708-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. The delayed neutron fraction for U-235 will decrease.",
-      "B. The delayed neutron fraction for Pu-239 will decrease.",
-      "C. The fraction of the total fission rate attributed to U-235 will increase.",
-      "D. The fraction of the total fission rate attributed to Pu-239 will increase."
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "REA979",
-    "topic": "Reactor Kinetics and Neutron Sources",
-    "question": "Given the following data for the fuel in an operating reactor:\nDelayed Cross Section for Fraction of Total\nNuclide Neutron Fraction Thermal Fission Fission Rate\nU-235 0.0065 531 barns 0.58\nU-238 0.0148 < 1 barn 0.06\nPu-239 0.0021 743 barns 0.32\nPu-241 0.0049 1009 barns 0.04\nWhat is the delayed neutron fraction for this reactor?",
-    "image": "",
-    "choices": [
-      "A. 0.0044",
-      "B. 0.0055",
-      "C. 0.0063",
-      "D. 0.0071"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "REA980",
-    "topic": "Reactor Kinetics and Neutron Sources",
-    "question": "A nuclear reactor is operating at steady-state 100 percent power in the middle of a fuel cycle.\nWhich one of the following changes would cause the core effective delayed neutron fraction to\nincrease?\n-709-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. The fast nonleakage factor increases.",
-      "B. The fast nonleakage factor decreases.",
-      "C. The thermal utilization factor increases.",
-      "D. The thermal utilization factor decreases."
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "REA981",
-    "topic": "Reactor Kinetics and Neutron Sources",
-    "question": "Given the following data for a reactor:\n\uf0b7 The average delayed neutron fraction is 0.0052.\n\uf0b7 The effective delayed neutron fraction is 0.0054.\nThe above data indicates that the reactor is operating near the __________ of a fuel cycle, and that a\ntypical delayed neutron is __________ likely than a typical prompt neutron to cause another fission\nin this reactor.",
-    "image": "",
-    "choices": [
-      "A. beginning; less",
-      "B. beginning; more",
-      "C. end; less",
-      "D. end; more"
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "REA982",
-    "topic": "Reactor Kinetics and Neutron Sources",
-    "question": "A reactor core has a delayed neutron importance factor of 1.02. If the average delayed neutron\nfraction in the core is 0.0057, the effective delayed neutron fraction is...\n-710-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. equal to 0.0057.",
-      "B. less than 0.0057.",
-      "C. greater than 0.0057.",
-      "D. unpredictable without additional information."
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "REA983",
-    "topic": "Reactor Kinetics and Neutron Sources",
-    "question": "Which one of the following is the primary reason that delayed neutrons are more effective than\nprompt neutrons at controlling the rate of reactor power changes?\n-711-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. Delayed neutrons have a longer mean generation time than prompt neutrons.",
-      "B. Delayed neutrons produce a larger amount of core fissions than prompt neutrons.",
-      "C. Delayed neutrons make up a larger fraction of fission neutrons than prompt neutrons.",
-      "D. Delayed neutrons are born with a lower average kinetic energy than prompt neutrons."
-    ],
+    "stem": " Given the following stable initial conditions for a reactor: Power level = 1.0 x 10-8 percent K = 0.999 eff Core \u03b2(cid:3364) = 0.006 eff What will the stable reactor period be following an addition of positive 0.15 %\u0394K/K reactivity to the reactor? (Assume the stable reactor period occurs before the reactor reaches the point of adding heat.) NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "30 seconds",
+      "B": "50 seconds",
+      "C": "80 seconds",
+      "D": "110 seconds -692- PWR Test Items"
+    },
     "answer": "A"
   },
   {
-    "id": "REA984",
     "topic": "Reactor Kinetics and Neutron Sources",
-    "question": "Two identical reactors, A and B, with identical fuel compositions, are initially critical at\n1.0 x 10-8 percent power. Then, suddenly and simultaneously, positive 0.001 \u0394K/K is added to\nreactor A while negative 0.001 \u0394K/K is added to reactor B.\nOne minute later, which reactor will have the shorter period, and why? (Note: \u03bb is the effective\neff\ndelayed neutron precursor decay constant.)\neff\nlived delayed neutron precursors when reactivity is positive.\neff\nlived delayed neutron precursors when reactivity is positive.\neff\nlived delayed neutron precursors when reactivity is negative.\neff\nlived delayed neutron precursors when reactivity is negative.\n-712-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. Reactor A, because the value of \u03bb shifts toward the value of the decay constant for the shorter-",
-      "B. Reactor A, because the value of \u03bb shifts toward the value of the decay constant for the longer-",
-      "C. Reactor B, because the value of \u03bb shifts toward the value of the decay constant for the shorter-",
-      "D. Reactor B, because the value of \u03bb shifts toward the value of the decay constant for the longer-"
-    ],
+    "stem": " Given the following stable initial conditions for a reactor: Power level = 1.0 x 10-8 percent K = 0.999 eff Core \u03b2(cid:3365) = 0.006 eff What will the stable startup rate be following an addition of positive 0.2 %\u0394K/K reactivity to the reactor? (Assume the stable startup rate occurs before the reactor reaches the point of adding heat.)",
+    "choices": {
+      "A": "0.24 DPM",
+      "B": "0.33 DPM",
+      "C": "0.52 DPM",
+      "D": "1.30 DPM"
+    },
     "answer": "A"
   },
   {
-    "id": "REA985",
     "topic": "Reactor Kinetics and Neutron Sources",
-    "question": "A reactor is critical at a constant power level of 1.0 x 10-8 percent. Consider the following two cases:\nCase 1: A step addition of positive 0.001 \u0394K/K.\nCase 2: A step addition of negative 0.001 \u0394K/K.\nWhich case will produce the faster rate of power change one minute after the reactivity addition, and\nwhy?\nincrease.\ndecrease.",
-    "image": "",
-    "choices": [
-      "A. Case 1, because the effective delayed neutron fraction is smaller during a power increase.",
-      "B. Case 1, because the effective delayed neutron precursor decay constant is larger during a power",
-      "C. Case 2, because the effective delayed neutron fraction is smaller during a power decrease.",
-      "D. Case 2, because the effective delayed neutron precursor decay constant is larger during a power"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "REA986",
-    "topic": "Reactor Kinetics and Neutron Sources",
-    "question": "Which one of the following describes a condition in which a reactor is prompt critical?\nneutrons in the core.\ndelayed neutron fraction.\n-713-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. A very long reactor period makes reactor control very sluggish and unresponsive.",
-      "B. Fissions are occurring so rapidly that the effective delayed neutron fraction approaches zero.",
-      "C. Any increase in reactor power requires a reactivity addition equal to the fraction of prompt",
-      "D. The net positive reactivity in the core is greater than or equal to the magnitude of the effective"
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "REA987",
-    "topic": "Reactor Kinetics and Neutron Sources",
-    "question": "A critical reactor will become prompt critical when the reactivity is equal to the...",
-    "image": "",
-    "choices": [
-      "A. shutdown margin.",
-      "B. effective delayed neutron fraction.",
-      "C. effective decay constant.",
-      "D. worth of the most reactive rod."
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "REA988",
-    "topic": "Reactor Kinetics and Neutron Sources",
-    "question": "A reactor is operating at 75 percent power with the following conditions:\nPower defect = -0.0157 \u0394/K/K\nShutdown margin = 0.0241 \u0394/K/K\nEffective delayed neutron fraction = 0.0058\nEffective prompt neutron fraction = 0.9942\nHow much positive reactivity must be added to make the reactor prompt critical?\n-714-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. 0.0157 \u0394K/K",
-      "B. 0.0241 \u0394K/K",
-      "C. 0.0058 \u0394K/K",
-      "D. 0.9942 \u0394K/K"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "REA989",
-    "topic": "Reactor Kinetics and Neutron Sources",
-    "question": "A reactor with a xenon-free core is critical several decades below the point of adding heat (POAH).\nThe operator continuously withdraws control rods until a positive 0.5 DPM startup rate (SUR) is\nreached and then stops control rod motion.\nWhen rod motion is stopped, the SUR will immediately... (Ignore any reactivity effects from\nfission product poisons.)",
-    "image": "",
-    "choices": [
-      "A. stabilize at 0.5 DPM until power reaches the POAH.",
-      "B. decrease, and then stabilize at a value less than 0.5 DPM until power reaches the POAH.",
-      "C. stabilize at 0.5 DPM, and then slowly and continuously decrease until power reaches the POAH.",
-      "D. decrease, and then continue to slowly decrease until power reaches the POAH."
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "REA990",
-    "topic": "Reactor Kinetics and Neutron Sources",
-    "question": "Which one of the following is the smallest listed value of K that will result in a prompt critical\neff\nreactor?\n-715-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. 1.0001",
-      "B. 1.001",
-      "C. 1.01",
-      "D. 1.1"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "REA991",
-    "topic": "Reactor Kinetics and Neutron Sources",
-    "question": "A reactor initially has a stable positive 1.0 DPM startup rate with no control rod motion several\ndecades below the point of adding heat (POAH). Control rods are inserted until a positive 0.5 DPM\nstartup rate is attained and then stopped.\nWhen rod insertion is stopped, startup rate will immediately...\nreaches the POAH.",
-    "image": "",
-    "choices": [
-      "A. stabilize at 0.5 DPM until power reaches the POAH.",
-      "B. increase, and then stabilize at a value greater than 0.5 DPM until power reaches the POAH.",
-      "C. continuously decrease until startup rate becomes zero when power reaches the POAH.",
-      "D. increase, and then slowly and continuously decrease until startup rate becomes zero when power"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "REA992",
-    "topic": "Reactor Kinetics and Neutron Sources",
-    "question": "KNOWLEDGE: K1.08 [2.8/2.9]\nQID: P2549 (B2550)\nA reactor was stable at 80 percent power when the operator withdrew a control rod continuously for\n2 seconds. Which one of the following affects the amount of a prompt jump @ increase in reactor\npower for the control rod withdrawal?\n-716-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. The total control rod worth",
-      "B. The differential control rod worth",
-      "C. The duration of control rod withdrawal",
-      "D. The magnitude of the fuel temperature coefficient"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "REA993",
-    "topic": "Reactor Kinetics and Neutron Sources",
-    "question": "A reactor is operating at steady-state 75 percent power with the following conditions:\nPower defect = -0.0185 \u0394K/K\nShutdown margin = -0.0227 \u0394K/K\nEffective delayed neutron fraction = 0.0061\nEffective prompt neutron fraction = 0.9939\nHow much positive reactivity must be added to make the reactor prompt critical?\n-717-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. 0.0061 \u0394K/K",
-      "B. 0.0185 \u0394K/K",
-      "C. 0.0227 \u0394K/K",
-      "D. 0.9939 \u0394K/K"
-    ],
+    "stem": " A nuclear power plant has just completed a refueling outage and a reactor startup is in progress. Reactor engineers have determined that during the upcoming fuel cycle, \u03b2(cid:3364) will range from a eff minimum of 0.0052 to a maximum of 0.0064. After the reactor becomes critical, control rods are withdrawn further to increase reactivity by an additional 0.1 %\u0394K/K. Assuming no other reactivity changes occur, what will the approximate stable startup rate be for this reactor until the point of adding heat is reached? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "1.0 DPM",
+      "B": "0.6 DPM",
+      "C": "0.5 DPM",
+      "D": "0.3 DPM -693- PWR Test Items"
+    },
     "answer": "A"
   },
   {
-    "id": "REA994",
     "topic": "Reactor Kinetics and Neutron Sources",
-    "question": "Refer to the partially labeled reactor response curve shown below for a reactor that was initially\nstable in the source range. Both axes have linear scales. A small amount of positive reactivity\nwas added at time = 0 sec.\nThe response curve shows __________ versus time for a reactor that was initially __________.\n-718-\nPWR Test Items",
-    "image": "page718_img1.png",
-    "choices": [
-      "A. startup rate; subcritical",
-      "B. startup rate; critical",
-      "C. reactor fission rate; subcritical",
-      "D. reactor fission rate; critical"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "REA995",
-    "topic": "Reactor Kinetics and Neutron Sources",
-    "question": "Two reactors are critical at the same power level well below the point of adding heat. The reactors\nare identical except that reactor A is near the beginning of a fuel cycle (BOC) and reactor B is near\nthe end of a fuel cycle (EOC).\nIf a step addition of positive 0.001 \u0394K/K is added to each reactor, the size of the prompt jump in\npower level observed in reactor B (EOC) will be __________ than in reactor A (BOC); and the\nstable startup rate observed in reactor B (EOC) will be __________ than in reactor A (BOC).\n(Assume the power level in each reactor remains below the point of adding heat.)\n-719-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. smaller; smaller",
-      "B. smaller; larger",
-      "C. larger; smaller",
-      "D. larger; larger"
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "REA996",
-    "topic": "Reactor Kinetics and Neutron Sources",
-    "question": "Refer to the partially labeled reactor response curve shown below for a reactor that was initially\nsubcritical in the source range and remained below the point of adding heat. A small amount of\npositive reactivity was added at time = 0 sec.\nThe response curve shows __________ versus time for a reactor that is currently (at time = 60 sec)\n__________.\n-720-\nPWR Test Items",
-    "image": "page720_img1.png",
-    "choices": [
-      "A. startup rate; exactly critical",
-      "B. startup rate; supercritical",
-      "C. reactor fission rate; exactly critical",
-      "D. reactor fission rate; supercritical"
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "REA997",
-    "topic": "Reactor Kinetics and Neutron Sources",
-    "question": "A reactor is operating at equilibrium 75 percent power with the following conditions:\nTotal power defect = -0.0176 \u0394K/K\nShutdown margin = -0.0234 \u0394K/K\nEffective delayed neutron fraction = 0.0067\nEffective prompt neutron fraction = 0.9933\nHow much positive reactivity must be added to make the reactor prompt critical?",
-    "image": "",
-    "choices": [
-      "A. 0.0067 \u0394K/K",
-      "B. 0.0176 \u0394K/K",
-      "C. 0.0234 \u0394K/K",
-      "D. 0.9933 \u0394K/K"
-    ],
+    "stem": " During a fuel cycle, plutonium isotopes are produced with delayed neutron fractions that are __________ than the delayed neutron fractions for uranium isotopes, thereby causing reactor power transients to be __________ near the end of a fuel cycle.",
+    "choices": {
+      "A": "larger; slower",
+      "B": "larger; faster",
+      "C": "smaller; slower",
+      "D": "smaller; faster"
+    },
     "answer": "A"
   },
   {
-    "id": "REA998",
     "topic": "Reactor Kinetics and Neutron Sources",
-    "question": "Given the following information for a reactor:\nReactivity (\u03c1) = 0.0060\nAverage delayed neutron fraction (\u03b2(cid:3364)) = 0.0058\nEffective delayed neutron fraction (\u03b2(cid:3364) ) = 0.0062\n(cid:2915)(cid:2916)(cid:2916)\nThe reactor is __________, and the reactor fission rate is __________.\n-721-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. prompt critical; constant",
-      "B. prompt critical; increasing",
-      "C. not prompt critical; constant",
-      "D. not prompt critical; increasing"
-    ],
-    "answer": "D"
+    "stem": " Following a reactor trip, when does the startup rate initially stabilize at \u20131/3 DPM? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "When decay gamma heating starts adding negative reactivity.",
+      "B": "When the long-lived delayed neutron precursors have decayed away.",
+      "C": "When the installed neutron source contribution to the total neutron flux becomes significant.",
+      "D": "When the short-lived delayed neutron precursors have decayed away. -694- PWR Test Items"
+    },
+    "answer": "A"
   },
   {
-    "id": "REA999",
     "topic": "Reactor Kinetics and Neutron Sources",
-    "question": "Which one of the following is a characteristic of a neutron source installed in a reactor?\nmultiplication.",
-    "image": "",
-    "choices": [
-      "A. Maintains the production of neutrons high enough to allow the reactor to achieve criticality.",
-      "B. Provides a means to allow reactivity changes to occur in a subcritical reactor.",
-      "C. Generates a sufficient neutron population to start the fission process and initiate subcritical",
-      "D. Provides a neutron level that is detectable on the source range nuclear instrumentation."
-    ],
-    "answer": "D"
+    "stem": " Delayed neutrons contribute more to reactor stability than prompt neutrons because they __________ the average neutron generation time and are born at a __________ kinetic energy.",
+    "choices": {
+      "A": "increase; lower",
+      "B": "increase; higher",
+      "C": "decrease; lower",
+      "D": "decrease; higher"
+    },
+    "answer": "A"
   },
   {
-    "id": "REA1000",
     "topic": "Reactor Kinetics and Neutron Sources",
-    "question": "Which one of the following neutron reactions yields the highest neutron production rate immediately\nfollowing a reactor trip from extended power operations during the tenth fuel cycle? (Ignore any\ncontribution from an installed neutron source.)\n-722-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. Alpha-neutron reactions",
-      "B. Beta-neutron reactions",
-      "C. Photo-neutron reactions",
-      "D. Spontaneous fission"
-    ],
-    "answer": "C"
+    "stem": " Which one of the following statements describes the effect of changes in the delayed neutron fraction from the beginning of a fuel cycle (BOC) to the end of a fuel cycle (EOC)? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "A given reactivity addition to a shutdown reactor at EOC yields a larger change in shutdown margin (SDM) than at BOC.",
+      "B": "A given reactivity addition to a shutdown reactor at EOC yields a smaller change in SDM than at BOC.",
+      "C": "A given reactivity addition to an operating reactor at EOC results in a higher startup rate (SUR) than at BOC.",
+      "D": "A given reactivity addition to an operating reactor at EOC results in a lower SUR than at BOC. -695- PWR Test Items"
+    },
+    "answer": "A"
   },
   {
-    "id": "REA1001",
     "topic": "Reactor Kinetics and Neutron Sources",
-    "question": "Which one of the following neutron sources undergoes the most significant source strength reduction\nduring the hour immediately following a reactor trip from steady-state 100 percent power?",
-    "image": "",
-    "choices": [
-      "A. Spontaneous fission reactions",
-      "B. Photo-neutron reactions",
-      "C. Alpha-neutron reactions",
-      "D. Transuranic isotope decay"
-    ],
-    "answer": "B"
+    "stem": " Delayed neutrons are important for reactor control because...",
+    "choices": {
+      "A": "they are produced with a higher average kinetic energy than prompt neutrons.",
+      "B": "they prevent the moderator temperature coefficient from becoming positive.",
+      "C": "they are the largest fraction of the neutrons produced from fission.",
+      "D": "they greatly extend the average lifetime of each neutron generation."
+    },
+    "answer": "A"
   },
   {
-    "id": "REA1002",
     "topic": "Reactor Kinetics and Neutron Sources",
-    "question": "Which one of the following is the neutron source that produces the greatest neutron flux for the first\nfew days following a reactor trip from extended high power operations?\n-723-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. Spontaneous neutron emission from the control rods.",
-      "B. Photo-neutron reactions in the moderator.",
-      "C. Spontaneous fission in the fuel.",
-      "D. Alpha-neutron reactions in the fuel."
-    ],
-    "answer": "B"
+    "stem": " Two reactors are identical except that reactor A is near the end of a fuel cycle and reactor B is near the beginning of a fuel cycle. Both reactors are operating at 100 percent power when a reactor trip occurs at the same time on each reactor. If no operator action is taken and the reactor systems for both reactors respond identically to the trip, reactor A will attain a negative __________ second stable period; and reactor B will attain a negative __________ second stable period. NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "80; 56",
+      "B": "80; 80",
+      "C": "56; 56",
+      "D": "56; 80 -696- PWR Test Items"
+    },
+    "answer": "A"
   },
   {
-    "id": "REA1003",
     "topic": "Reactor Kinetics and Neutron Sources",
-    "question": "Which one of the following describes the purpose of a neutron source that is installed in a reactor\nduring refueling for the third fuel cycle?\nshutdown.",
-    "image": "",
-    "choices": [
-      "A. Ensures shutdown neutron level is large enough to be detected by nuclear instrumentation.",
-      "B. Provides additional excess reactivity to increase the length of the fuel cycle.",
-      "C. Amplifies the electrical noise fluctuations observed in source range instrumentation during",
-      "D. Supplies the only shutdown source of neutrons available to begin a reactor startup."
-    ],
+    "stem": " Two reactors are identical except that reactor A is near the end of a fuel cycle and reactor B is near the beginning of a fuel cycle. Both reactors are critical at 1.0 x 10-5 percent power. If the same amount of positive reactivity is added to each reactor at the same time, the point of adding heat will be reached first by reactor __________ because it has a __________ effective delayed neutron fraction.",
+    "choices": {
+      "A": "A; smaller",
+      "B": "A; larger",
+      "C": "B; smaller",
+      "D": "B; larger"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Reactor Kinetics and Neutron Sources",
+    "stem": " Two reactors are identical except that reactor A is near the end of core life and reactor B is near the beginning of core life. Both reactors are operating at 100 percent power when a reactor trip occurs at the same time on each reactor. The trips insert equal amounts of negative reactivity, and no operator actions are taken. For the conditions above, a power level of 1.0 x 10-5 percent will be reached first by reactor __________ because it has the __________ effective delayed neutron fraction. NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "A; larger",
+      "B": "B; larger",
+      "C": "A; smaller",
+      "D": "B; smaller -697- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Reactor Kinetics and Neutron Sources",
+    "stem": " Which one of the following is the reason that delayed neutrons are so effective at controlling the rate of reactor power changes?",
+    "choices": {
+      "A": "Delayed neutrons make up a large fraction of the fission neutrons compared to prompt neutrons.",
+      "B": "Delayed neutrons have a long mean generation time compared to prompt neutrons.",
+      "C": "Delayed neutrons produce a large amount of fast fission compared to prompt neutrons.",
+      "D": "Delayed neutrons are born with high kinetic energy compared to prompt neutrons."
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Reactor Kinetics and Neutron Sources",
+    "stem": " Which one of the following distributions of fission percentages occurring in a reactor will result in the largest effective delayed neutron fraction? U-235 U-238 Pu-239 NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "90% 7% 3%",
+      "B": "80% 6% 14%",
+      "C": "70% 7% 23%",
+      "D": "60% 6% 34% -698- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Reactor Kinetics and Neutron Sources",
+    "stem": " Which one of the following distributions of fission percentages occurring in a reactor will result in the smallest effective delayed neutron fraction? U-235 U-238 Pu-239",
+    "choices": {
+      "A": "90% 7% 3%",
+      "B": "80% 6% 14%",
+      "C": "70% 7% 23%",
+      "D": "60% 6% 34%"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Reactor Kinetics and Neutron Sources",
+    "stem": " Two reactors are identical except that reactor A is near the beginning of core life and reactor B is near the end of core life. Both reactors are critical at 10-5 percent power. If the same amount of positive reactivity is added to each reactor at the same time, the point of adding heat will be reached first by reactor __________ because it has a __________ effective delayed neutron fraction. NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "A; smaller",
+      "B": "A; larger",
+      "C": "B; smaller",
+      "D": "B; larger -699- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Reactor Kinetics and Neutron Sources",
+    "stem": " A nuclear power plant is operating at steady-state 50 percent power when a control rod is ejected from the core. Which one of the following distributions of fission percentages in the core would result in the highest startup rate? (Assume the reactivity worth of the ejected control rod is the same for each distribution.) U-235 U-238 Pu-239",
+    "choices": {
+      "A": "90% 8% 2%",
+      "B": "80% 7% 13%",
+      "C": "70% 7% 23%",
+      "D": "60% 8% 32%"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Reactor Kinetics and Neutron Sources",
+    "stem": " Two reactors are identical except that reactor A is near the end of core life and reactor B is near the beginning of core life. Both reactors are operating at 100 percent power when a reactor trip occurs at the same time on each reactor. No operator action is taken and the reactor systems for both reactors respond identically to the trip. Ten minutes after the trip, the greater thermal neutron flux will exist in reactor __________ because it has a __________ effective delayed neutron fraction. NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "A; larger",
+      "B": "B; larger",
+      "C": "A; smaller",
+      "D": "B; smaller -700- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Reactor Kinetics and Neutron Sources",
+    "stem": " Two reactors are identical except that reactor A is near the beginning of core life and reactor B is near the end of core life. Both reactors are operating at 100 percent power when a reactor trip occurs at the same time on each reactor. No operator action is taken and the reactor systems for both reactors respond identically to the trip. Ten minutes after the trip, the greater thermal neutron flux will exist in reactor __________ because it has a __________ effective delayed neutron fraction. NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "A; larger",
+      "B": "B; larger",
+      "C": "A; smaller",
+      "D": "B; smaller -701- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Reactor Kinetics and Neutron Sources",
+    "stem": " A step positive reactivity addition of 0.001 \u0394K/K is made to a reactor with a stable neutron flux and an initial K of 0.99. Consider the following two cases: eff Case 1: The reactor is near the beginning of a fuel cycle. Case 2: The reactor is near the end of a fuel cycle. Assume the initial neutron flux is the same for each case. Which one of the following correctly compares the prompt jump in neutron flux levels and the final stable neutron flux levels for the two cases? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "The prompt jump will be greater for case 1, but the final stable neutron flux level will be the same for both cases.",
+      "B": "The prompt jump will be greater for case 2, but the final stable neutron flux level will be the same for both cases.",
+      "C": "The prompt jump will be the same for both cases, but the final stable neutron flux level will be greater for case 1.",
+      "D": "The prompt jump will be the same for both cases, but the final stable neutron flux level will be greater for case 2. -702- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Reactor Kinetics and Neutron Sources",
+    "stem": " A reactor is critical in the source range during the initial reactor startup immediately following a refueling outage. The effective delayed neutron fraction is 0.0062. The operator adds positive reactivity to establish a stable 0.5 DPM startup rate. If the reactor had been near the end of a fuel cycle with an effective delayed neutron fraction of 0.005, what would the approximate stable startup rate be after the addition of the same amount of positive reactivity? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "0.55 DPM",
+      "B": "0.65 DPM",
+      "C": "0.75 DPM",
+      "D": "0.85 DPM -703- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Reactor Kinetics and Neutron Sources",
+    "stem": " The following data is given for the fuel in an operating reactor: Delayed Fraction of Total Fraction of Total Nuclide Neutron Fraction Fuel Composition Fission Rate U-235 0.0065 0.03 0.73 U-238 0.0148 0.96 0.07 Pu-239 0.0021 0.01 0.20 What is the delayed neutron fraction for this reactor? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "0.0052",
+      "B": "0.0054",
+      "C": "0.0062",
+      "D": "0.0068 -704- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Reactor Kinetics and Neutron Sources",
+    "stem": " The following data is given for the fuel in an operating reactor: Delayed Fraction of Total Fraction of Total Nuclide Neutron Fraction Fuel Composition Fission Rate U-235 0.0065 0.023 0.63 U-238 0.0148 0.965 0.07 Pu-239 0.0021 0.012 0.30 What is the delayed neutron fraction for this reactor?",
+    "choices": {
+      "A": "0.0052",
+      "B": "0.0058",
+      "C": "0.0072",
+      "D": "0.0078"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Reactor Kinetics and Neutron Sources",
+    "stem": " Which characteristic of delayed neutrons is primarily responsible for enhancing the stability of a reactor following a reactivity change? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "They are born at a lower average energy than prompt neutrons.",
+      "B": "They are more likely to experience resonance absorption than prompt neutrons.",
+      "C": "They comprise a smaller fraction of the total neutron flux than prompt neutrons.",
+      "D": "They require more time to be produced following a fission event than prompt neutrons. -705- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Reactor Kinetics and Neutron Sources",
+    "stem": " For an operating reactor, the effective delayed neutron fraction may differ from the delayed neutron fraction because, compared to prompt neutrons, delayed neutrons...",
+    "choices": {
+      "A": "are less likely to leak out of the reactor core, and are less likely to cause fast fission.",
+      "B": "are less likely to cause fast fission, and require more time to complete a neutron generation.",
+      "C": "require more time to complete a neutron generation, and spend less time in the resonance absorption energy region.",
+      "D": "spend less time in the resonance absorption energy region, and are less likely to leak out of the reactor core."
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Reactor Kinetics and Neutron Sources",
+    "stem": " Given the following data for a reactor: \uf0b7 The average delayed neutron fraction is 0.0068. \uf0b7 The effective delayed neutron fraction is 0.0065. The above data indicates that this reactor is operating near the __________ of a fuel cycle; and a typical delayed neutron is __________ likely than a typical prompt neutron to cause another fission in this reactor. NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "beginning; less",
+      "B": "beginning; more",
+      "C": "end; less",
+      "D": "end; more -706- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Reactor Kinetics and Neutron Sources",
+    "stem": " Initially, a reactor is critical at a stable power level well below the point of adding heat (POAH). When considering the following two cases, assume the reactor remains below the POAH. Case 1: A step addition of positive 1.0 x 10-4 \u0394K/K. Case 2: A step addition of negative 1.0 x 10-4 \u0394K/K. The time required for reactor power to change by a factor of 10 will be greater for case _____, because delayed neutrons are more effective at slowing reactor power changes when reactor power is __________.",
+    "choices": {
+      "A": "1; increasing",
+      "B": "1; decreasing",
+      "C": "2; increasing",
+      "D": "2; decreasing"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Reactor Kinetics and Neutron Sources",
+    "stem": " Two identical reactors, A and B, are critical at 1.0 x 10-8 percent power near the beginning of a fuel cycle. Simultaneously, positive 0.001 \u0394K/K is added to reactor A, and negative 0.001 \u0394K/K is added to reactor B. One minute later, which reactor, if any, will have the shorter period and why? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "Reactor A, because delayed neutrons are less effective at slowing down power changes when the fission rate is increasing.",
+      "B": "Reactor B, because delayed neutrons are less effective at slowing down power changes when the fission rate is decreasing.",
+      "C": "The periods in both reactors will be the same because their effective delayed neutron fractions are the same.",
+      "D": "The periods in both reactors will be the same because the absolute values of the reactivity additions are the same. -707- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Reactor Kinetics and Neutron Sources",
+    "stem": " The following data is given for the fuel in an operating reactor just prior to a refueling shutdown. Delayed Fraction of Total Nuclide Neutron Fraction Fission Rate U-235 0.0065 0.64 U-238 0.0148 0.07 Pu-239 0.0021 0.29 During the refueling, one-third of the fuel assemblies were offloaded and replaced with new fuel assemblies consisting of uranium having an average U-235 enrichment of 3.5 percent by weight. Which one of the following describes how the above data will change as a result of completing the refueling outage? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "The delayed neutron fraction for U-235 will decrease.",
+      "B": "The delayed neutron fraction for Pu-239 will decrease.",
+      "C": "The fraction of the total fission rate attributed to U-235 will increase.",
+      "D": "The fraction of the total fission rate attributed to Pu-239 will increase. -708- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Reactor Kinetics and Neutron Sources",
+    "stem": " Given the following data for the fuel in an operating reactor: Delayed Cross Section for Fraction of Total Nuclide Neutron Fraction Thermal Fission Fission Rate U-235 0.0065 531 barns 0.58 U-238 0.0148 < 1 barn 0.06 Pu-239 0.0021 743 barns 0.32 Pu-241 0.0049 1009 barns 0.04 What is the delayed neutron fraction for this reactor?",
+    "choices": {
+      "A": "0.0044",
+      "B": "0.0055",
+      "C": "0.0063",
+      "D": "0.0071"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Reactor Kinetics and Neutron Sources",
+    "stem": " A nuclear reactor is operating at steady-state 100 percent power in the middle of a fuel cycle. Which one of the following changes would cause the core effective delayed neutron fraction to increase? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "The fast nonleakage factor increases.",
+      "B": "The fast nonleakage factor decreases.",
+      "C": "The thermal utilization factor increases.",
+      "D": "The thermal utilization factor decreases. -709- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Reactor Kinetics and Neutron Sources",
+    "stem": " Given the following data for a reactor: \uf0b7 The average delayed neutron fraction is 0.0052. \uf0b7 The effective delayed neutron fraction is 0.0054. The above data indicates that the reactor is operating near the __________ of a fuel cycle, and that a typical delayed neutron is __________ likely than a typical prompt neutron to cause another fission in this reactor.",
+    "choices": {
+      "A": "beginning; less",
+      "B": "beginning; more",
+      "C": "end; less",
+      "D": "end; more"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Reactor Kinetics and Neutron Sources",
+    "stem": " A reactor core has a delayed neutron importance factor of 1.02. If the average delayed neutron fraction in the core is 0.0057, the effective delayed neutron fraction is... NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "equal to 0.0057.",
+      "B": "less than 0.0057.",
+      "C": "greater than 0.0057.",
+      "D": "unpredictable without additional information. -710- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Reactor Kinetics and Neutron Sources",
+    "stem": " Which one of the following is the primary reason that delayed neutrons are more effective than prompt neutrons at controlling the rate of reactor power changes? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "Delayed neutrons have a longer mean generation time than prompt neutrons.",
+      "B": "Delayed neutrons produce a larger amount of core fissions than prompt neutrons.",
+      "C": "Delayed neutrons make up a larger fraction of fission neutrons than prompt neutrons.",
+      "D": "Delayed neutrons are born with a lower average kinetic energy than prompt neutrons. -711- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Reactor Kinetics and Neutron Sources",
+    "stem": " Two identical reactors, A and B, with identical fuel compositions, are initially critical at 1.0 x 10-8 percent power. Then, suddenly and simultaneously, positive 0.001 \u0394K/K is added to reactor A while negative 0.001 \u0394K/K is added to reactor B. One minute later, which reactor will have the shorter period, and why? (Note: \u03bb is the effective eff delayed neutron precursor decay constant.) NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "Reactor A, because the value of \u03bb shifts toward the value of the decay constant for the shorter- eff lived delayed neutron precursors when reactivity is positive.",
+      "B": "Reactor A, because the value of \u03bb shifts toward the value of the decay constant for the longer- eff lived delayed neutron precursors when reactivity is positive.",
+      "C": "Reactor B, because the value of \u03bb shifts toward the value of the decay constant for the shorter- eff lived delayed neutron precursors when reactivity is negative.",
+      "D": "Reactor B, because the value of \u03bb shifts toward the value of the decay constant for the longer- eff lived delayed neutron precursors when reactivity is negative. -712- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Reactor Kinetics and Neutron Sources",
+    "stem": " A reactor is critical at a constant power level of 1.0 x 10-8 percent. Consider the following two cases: Case 1: A step addition of positive 0.001 \u0394K/K. Case 2: A step addition of negative 0.001 \u0394K/K. Which case will produce the faster rate of power change one minute after the reactivity addition, and why?",
+    "choices": {
+      "A": "Case 1, because the effective delayed neutron fraction is smaller during a power increase.",
+      "B": "Case 1, because the effective delayed neutron precursor decay constant is larger during a power increase.",
+      "C": "Case 2, because the effective delayed neutron fraction is smaller during a power decrease.",
+      "D": "Case 2, because the effective delayed neutron precursor decay constant is larger during a power decrease."
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Reactor Kinetics and Neutron Sources",
+    "stem": " Which one of the following describes a condition in which a reactor is prompt critical? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "A very long reactor period makes reactor control very sluggish and unresponsive.",
+      "B": "Fissions are occurring so rapidly that the effective delayed neutron fraction approaches zero.",
+      "C": "Any increase in reactor power requires a reactivity addition equal to the fraction of prompt neutrons in the core.",
+      "D": "The net positive reactivity in the core is greater than or equal to the magnitude of the effective delayed neutron fraction. -713- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Reactor Kinetics and Neutron Sources",
+    "stem": " A critical reactor will become prompt critical when the reactivity is equal to the...",
+    "choices": {
+      "A": "shutdown margin.",
+      "B": "effective delayed neutron fraction.",
+      "C": "effective decay constant.",
+      "D": "worth of the most reactive rod."
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Reactor Kinetics and Neutron Sources",
+    "stem": " A reactor is operating at 75 percent power with the following conditions: Power defect = -0.0157 \u0394/K/K Shutdown margin = 0.0241 \u0394/K/K Effective delayed neutron fraction = 0.0058 Effective prompt neutron fraction = 0.9942 How much positive reactivity must be added to make the reactor prompt critical? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "0.0157 \u0394K/K",
+      "B": "0.0241 \u0394K/K",
+      "C": "0.0058 \u0394K/K",
+      "D": "0.9942 \u0394K/K -714- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Reactor Kinetics and Neutron Sources",
+    "stem": " A reactor with a xenon-free core is critical several decades below the point of adding heat (POAH). The operator continuously withdraws control rods until a positive 0.5 DPM startup rate (SUR) is reached and then stops control rod motion. When rod motion is stopped, the SUR will immediately... (Ignore any reactivity effects from fission product poisons.)",
+    "choices": {
+      "A": "stabilize at 0.5 DPM until power reaches the POAH.",
+      "B": "decrease, and then stabilize at a value less than 0.5 DPM until power reaches the POAH.",
+      "C": "stabilize at 0.5 DPM, and then slowly and continuously decrease until power reaches the POAH.",
+      "D": "decrease, and then continue to slowly decrease until power reaches the POAH."
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Reactor Kinetics and Neutron Sources",
+    "stem": " Which one of the following is the smallest listed value of K that will result in a prompt critical eff reactor? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "1.0001",
+      "B": "1.001",
+      "C": "1.01",
+      "D": "1.1 -715- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Reactor Kinetics and Neutron Sources",
+    "stem": " A reactor initially has a stable positive 1.0 DPM startup rate with no control rod motion several decades below the point of adding heat (POAH). Control rods are inserted until a positive 0.5 DPM startup rate is attained and then stopped. When rod insertion is stopped, startup rate will immediately...",
+    "choices": {
+      "A": "stabilize at 0.5 DPM until power reaches the POAH.",
+      "B": "increase, and then stabilize at a value greater than 0.5 DPM until power reaches the POAH.",
+      "C": "continuously decrease until startup rate becomes zero when power reaches the POAH.",
+      "D": "increase, and then slowly and continuously decrease until startup rate becomes zero when power reaches the POAH."
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Reactor Kinetics and Neutron Sources",
+    "stem": " KNOWLEDGE: K1.08 [2.8/2.9] QID: P2549 (B2550) A reactor was stable at 80 percent power when the operator withdrew a control rod continuously for 2 seconds. Which one of the following affects the amount of a prompt jump @ increase in reactor power for the control rod withdrawal? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "The total control rod worth",
+      "B": "The differential control rod worth",
+      "C": "The duration of control rod withdrawal",
+      "D": "The magnitude of the fuel temperature coefficient -716- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Reactor Kinetics and Neutron Sources",
+    "stem": " A reactor is operating at steady-state 75 percent power with the following conditions: Power defect = -0.0185 \u0394K/K Shutdown margin = -0.0227 \u0394K/K Effective delayed neutron fraction = 0.0061 Effective prompt neutron fraction = 0.9939 How much positive reactivity must be added to make the reactor prompt critical? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "0.0061 \u0394K/K",
+      "B": "0.0185 \u0394K/K",
+      "C": "0.0227 \u0394K/K",
+      "D": "0.9939 \u0394K/K -717- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Reactor Kinetics and Neutron Sources",
+    "stem": " Refer to the partially labeled reactor response curve shown below for a reactor that was initially stable in the source range. Both axes have linear scales. A small amount of positive reactivity was added at time = 0 sec. The response curve shows __________ versus time for a reactor that was initially __________. NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "startup rate; subcritical",
+      "B": "startup rate; critical",
+      "C": "reactor fission rate; subcritical",
+      "D": "reactor fission rate; critical -718- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Reactor Kinetics and Neutron Sources",
+    "stem": " Two reactors are critical at the same power level well below the point of adding heat. The reactors are identical except that reactor A is near the beginning of a fuel cycle (BOC) and reactor B is near the end of a fuel cycle (EOC). If a step addition of positive 0.001 \u0394K/K is added to each reactor, the size of the prompt jump in power level observed in reactor B (EOC) will be __________ than in reactor A (BOC); and the stable startup rate observed in reactor B (EOC) will be __________ than in reactor A (BOC). (Assume the power level in each reactor remains below the point of adding heat.) NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "smaller; smaller",
+      "B": "smaller; larger",
+      "C": "larger; smaller",
+      "D": "larger; larger -719- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Reactor Kinetics and Neutron Sources",
+    "stem": " Refer to the partially labeled reactor response curve shown below for a reactor that was initially subcritical in the source range and remained below the point of adding heat. A small amount of positive reactivity was added at time = 0 sec. The response curve shows __________ versus time for a reactor that is currently (at time = 60 sec) __________. NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "startup rate; exactly critical",
+      "B": "startup rate; supercritical",
+      "C": "reactor fission rate; exactly critical",
+      "D": "reactor fission rate; supercritical -720- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Reactor Kinetics and Neutron Sources",
+    "stem": " A reactor is operating at equilibrium 75 percent power with the following conditions: Total power defect = -0.0176 \u0394K/K Shutdown margin = -0.0234 \u0394K/K Effective delayed neutron fraction = 0.0067 Effective prompt neutron fraction = 0.9933 How much positive reactivity must be added to make the reactor prompt critical?",
+    "choices": {
+      "A": "0.0067 \u0394K/K",
+      "B": "0.0176 \u0394K/K",
+      "C": "0.0234 \u0394K/K",
+      "D": "0.9933 \u0394K/K"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Reactor Kinetics and Neutron Sources",
+    "stem": " Given the following information for a reactor: Reactivity (\u03c1) = 0.0060 Average delayed neutron fraction (\u03b2(cid:3364)) = 0.0058 Effective delayed neutron fraction (\u03b2(cid:3364) ) = 0.0062 (cid:2915)(cid:2916)(cid:2916) The reactor is __________, and the reactor fission rate is __________. NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "prompt critical; constant",
+      "B": "prompt critical; increasing",
+      "C": "not prompt critical; constant",
+      "D": "not prompt critical; increasing -721- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Reactor Kinetics and Neutron Sources",
+    "stem": " Which one of the following is a characteristic of a neutron source installed in a reactor?",
+    "choices": {
+      "A": "Maintains the production of neutrons high enough to allow the reactor to achieve criticality.",
+      "B": "Provides a means to allow reactivity changes to occur in a subcritical reactor.",
+      "C": "Generates a sufficient neutron population to start the fission process and initiate subcritical multiplication.",
+      "D": "Provides a neutron level that is detectable on the source range nuclear instrumentation."
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Reactor Kinetics and Neutron Sources",
+    "stem": " Which one of the following neutron reactions yields the highest neutron production rate immediately following a reactor trip from extended power operations during the tenth fuel cycle? (Ignore any contribution from an installed neutron source.) NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "Alpha-neutron reactions",
+      "B": "Beta-neutron reactions",
+      "C": "Photo-neutron reactions",
+      "D": "Spontaneous fission -722- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Reactor Kinetics and Neutron Sources",
+    "stem": " Which one of the following neutron sources undergoes the most significant source strength reduction during the hour immediately following a reactor trip from steady-state 100 percent power?",
+    "choices": {
+      "A": "Spontaneous fission reactions",
+      "B": "Photo-neutron reactions",
+      "C": "Alpha-neutron reactions",
+      "D": "Transuranic isotope decay"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Reactor Kinetics and Neutron Sources",
+    "stem": " Which one of the following is the neutron source that produces the greatest neutron flux for the first few days following a reactor trip from extended high power operations? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "Spontaneous neutron emission from the control rods.",
+      "B": "Photo-neutron reactions in the moderator.",
+      "C": "Spontaneous fission in the fuel.",
+      "D": "Alpha-neutron reactions in the fuel. -723- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Reactor Kinetics and Neutron Sources",
+    "stem": " Which one of the following describes the purpose of a neutron source that is installed in a reactor during refueling for the third fuel cycle?",
+    "choices": {
+      "A": "Ensures shutdown neutron level is large enough to be detected by nuclear instrumentation.",
+      "B": "Provides additional excess reactivity to increase the length of the fuel cycle.",
+      "C": "Amplifies the electrical noise fluctuations observed in source range instrumentation during shutdown.",
+      "D": "Supplies the only shutdown source of neutrons available to begin a reactor startup."
+    },
     "answer": "A"
   }
 ]

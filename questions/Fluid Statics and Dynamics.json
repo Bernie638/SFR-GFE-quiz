@@ -1,951 +1,805 @@
 [
   {
-    "id": "FLU1192",
     "topic": "Fluid Statics and Dynamics",
-    "question": "The possibility of water hammer in a liquid system is minimized by...",
-    "image": "",
-    "choices": [
-      "A. maintaining temperature above the saturation temperature.",
-      "B. starting centrifugal pumps with the casing vent valve fully open.",
-      "C. starting positive displacement pumps with the discharge valve closed.",
-      "D. venting systems prior to starting centrifugal pumps."
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "FLU1193",
-    "topic": "Fluid Statics and Dynamics",
-    "question": "Which one of the following methods will increase the possibility and/or severity of water hammer?\n-845-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. Opening and closing system valves slowly.",
-      "B. Venting fluid systems prior to starting a pump.",
-      "C. Starting a centrifugal pump with the discharge valve fully open.",
-      "D. Starting a centrifugal pump with the discharge valve fully closed."
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "FLU1194",
-    "topic": "Fluid Statics and Dynamics",
-    "question": "A sudden stop of fluid flow in a piping system, due to rapid closure of an isolation valve, will most\nlikely result in...",
-    "image": "",
-    "choices": [
-      "A. check valve slamming.",
-      "B. pump runout.",
-      "C. water hammer.",
-      "D. pressurized thermal shock."
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "FLU1195",
-    "topic": "Fluid Statics and Dynamics",
-    "question": "One reason for keeping condensate out of the steam lines is to...\n-846-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. minimize corrosion buildup.",
-      "B. reduce heat losses.",
-      "C. eliminate steam traps.",
-      "D. prevent water/steam hammer."
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "FLU1196",
-    "topic": "Fluid Statics and Dynamics",
-    "question": "To minimize the possibility of water hammer when initiating flow in a system, the operator should...\n-847-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. vent the system prior to initiating flow.",
-      "B. vent the system only after flow has been initiated.",
-      "C. fully open the pump discharge valve prior to starting a pump.",
-      "D. rapidly open the pump discharge valve after the pump is running."
-    ],
+    "stem": " The possibility of water hammer in a liquid system is minimized by...",
+    "choices": {
+      "A": "maintaining temperature above the saturation temperature.",
+      "B": "starting centrifugal pumps with the casing vent valve fully open.",
+      "C": "starting positive displacement pumps with the discharge valve closed.",
+      "D": "venting systems prior to starting centrifugal pumps."
+    },
     "answer": "A"
   },
   {
-    "id": "FLU1197",
     "topic": "Fluid Statics and Dynamics",
-    "question": "Which one of the following operating practices minimizes the possibility of water hammer?",
-    "image": "",
-    "choices": [
-      "A. Change valve positions as rapidly as possible.",
-      "B. Start centrifugal pumps with the discharge valve throttled.",
-      "C. Start positive displacement pumps with the discharge valve closed.",
-      "D. Vent systems only after initiating system flow."
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "FLU1198",
-    "topic": "Fluid Statics and Dynamics",
-    "question": "Which one of the following will result in a higher probability and/or severity of water hammer in a\nflowing water system?\n-848-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. Gradual pipe bends rather than sharp pipe bends.",
-      "B. Shorter pipe lengths rather than longer pipe lengths.",
-      "C. Lower initial flow rates rather than higher initial flow rates.",
-      "D. Shorter valve stroke times rather than longer valve stroke times."
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "FLU1199",
-    "topic": "Fluid Statics and Dynamics",
-    "question": "An 85 gpm leak to atmosphere has developed from a cooling water system that is operating at 100\npsig. Which one of the following will be the approximate leak rate when system pressure has\ndecreased to 50 psig?",
-    "image": "",
-    "choices": [
-      "A. 33 gpm",
-      "B. 41 gpm",
-      "C. 52 gpm",
-      "D. 60 gpm"
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "FLU1200",
-    "topic": "Fluid Statics and Dynamics",
-    "question": "Mass flow rate equals volumetric flow rate times...\n-849-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. specific volume.",
-      "B. density.",
-      "C. specific gravity.",
-      "D. velocity."
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "FLU1201",
-    "topic": "Fluid Statics and Dynamics",
-    "question": "A 55 gpm leak to atmosphere has developed from a cooling water system that is operating at 100\npsig. Which one of the following will be the approximate leak rate when system pressure has\ndecreased to 50 psig?",
-    "image": "",
-    "choices": [
-      "A. 28 gpm",
-      "B. 32 gpm",
-      "C. 39 gpm",
-      "D. 45 gpm"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "FLU1202",
-    "topic": "Fluid Statics and Dynamics",
-    "question": "A 75 gpm leak to atmosphere has developed from a cooling water system that is operating at 80 psig.\nWhich one of the following will be the approximate leak rate when system pressure has decreased to\n40 psig?\n-850-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. 38 gpm",
-      "B. 44 gpm",
-      "C. 53 gpm",
-      "D. 59 gpm"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "FLU1203",
-    "topic": "Fluid Statics and Dynamics",
-    "question": "A 60 gpm leak to atmosphere has developed from a cooling water system that is operating at 150\npsig. Which one of the following will be the approximate leak rate when system pressure has\ndecreased to 75 psig?",
-    "image": "",
-    "choices": [
-      "A. 15 gpm",
-      "B. 30 gpm",
-      "C. 42 gpm",
-      "D. 53 gpm"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "FLU1204",
-    "topic": "Fluid Statics and Dynamics",
-    "question": "A 100 gpm leak to atmosphere has developed from a cooling water system that is operating at 60\npsig. Which one of the following will be the approximate leak rate when system pressure has\ndecreased to 20 psig?\n-851-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. 33 gpm",
-      "B. 53 gpm",
-      "C. 58 gpm",
-      "D. 71 gpm"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "FLU1205",
-    "topic": "Fluid Statics and Dynamics",
-    "question": "A 100 gpm leak to atmosphere has developed from a cooling water system that is operating at 45\npsig. Which one of the following will be the approximate leak rate when system pressure has\ndecreased to 30 psig?",
-    "image": "",
-    "choices": [
-      "A. 25 gpm",
-      "B. 50 gpm",
-      "C. 67 gpm",
-      "D. 82 gpm"
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "FLU1206",
-    "topic": "Fluid Statics and Dynamics",
-    "question": "A 47 gpm leak to atmosphere has developed from a cooling water system that is operating at 150\npsig. Which one of the following will be the approximate leak rate when system pressure has\ndecreased to 75 psig?\n-852-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. 24 gpm",
-      "B. 33 gpm",
-      "C. 39 gpm",
-      "D. 46 gpm"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "FLU1207",
-    "topic": "Fluid Statics and Dynamics",
-    "question": "An 80 gpm leak to atmosphere has developed from a cooling water system that is operating at 100\npsig. Which one of the following will be the approximate leak rate when system pressure has\ndecreased to 75 psig?",
-    "image": "",
-    "choices": [
-      "A. 69 gpm",
-      "B. 60 gpm",
-      "C. 51 gpm",
-      "D. 40 gpm"
-    ],
+    "stem": " Which one of the following methods will increase the possibility and/or severity of water hammer? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "Opening and closing system valves slowly.",
+      "B": "Venting fluid systems prior to starting a pump.",
+      "C": "Starting a centrifugal pump with the discharge valve fully open.",
+      "D": "Starting a centrifugal pump with the discharge valve fully closed. -845- PWR Test Items"
+    },
     "answer": "A"
   },
   {
-    "id": "FLU1208",
     "topic": "Fluid Statics and Dynamics",
-    "question": "A 60 gpm leak to atmosphere has developed from a cooling water system that is operating at 150\npsig. Which one of the following will be the approximate leak rate when system pressure has\ndecreased to 100 psig?\n-853-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. 27 gpm",
-      "B. 35 gpm",
-      "C. 40 gpm",
-      "D. 49 gpm"
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "FLU1209",
-    "topic": "Fluid Statics and Dynamics",
-    "question": "An 80 gpm leak to atmosphere has developed from a cooling water system that is operating at 150\npsig. Which one of the following will be the approximate leak rate when system pressure has\ndecreased to 75 psig?",
-    "image": "",
-    "choices": [
-      "A. 20 gpm",
-      "B. 40 gpm",
-      "C. 49 gpm",
-      "D. 57 gpm"
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "FLU1210",
-    "topic": "Fluid Statics and Dynamics",
-    "question": "An 80 gpm leak to atmosphere has developed from a cooling water system that is operating at 150\npsig. Which one of the following will be the approximate leak rate when system pressure has\ndecreased to 100 psig?\n-854-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. 36 gpm",
-      "B. 53 gpm",
-      "C. 56 gpm",
-      "D. 65 gpm"
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "FLU1211",
-    "topic": "Fluid Statics and Dynamics",
-    "question": "A 75 gpm leak to atmosphere has developed from a cooling water system that is operating at 100\npsig. Which one of the following will be the approximate leak rate when system pressure has\ndecreased to 80 psig?",
-    "image": "",
-    "choices": [
-      "A. 26 gpm",
-      "B. 39 gpm",
-      "C. 56 gpm",
-      "D. 67 gpm"
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "FLU1212",
-    "topic": "Fluid Statics and Dynamics",
-    "question": "A heat exchanger has the following initial cooling water inlet temperature and differential pressure\n(\u0394\u03a1) parameters:\nInlet Temperature = 70\u00b0F\nHeat Exchanger \u0394\u03a1 = 10 psi\nSix hours later, the current heat exchanger cooling water parameters are:\nInlet Temperature = 85\u00b0F\nHeat Exchanger \u0394\u03a1 = 10 psi\nIn comparison to the initial cooling water mass flow rate, the current mass flow rate is...\n-855-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. lower, because the density of the cooling water has decreased.",
-      "B. higher, because the velocity of the cooling water has increased.",
-      "C. the same, because the changes in cooling water velocity and density offset.",
-      "D. the same, because the heat exchanger cooling water \u0394\u03a1 is the same."
-    ],
+    "stem": " A sudden stop of fluid flow in a piping system, due to rapid closure of an isolation valve, will most likely result in...",
+    "choices": {
+      "A": "check valve slamming.",
+      "B": "pump runout.",
+      "C": "water hammer.",
+      "D": "pressurized thermal shock."
+    },
     "answer": "A"
   },
   {
-    "id": "FLU1213",
     "topic": "Fluid Statics and Dynamics",
-    "question": "An 80 gpm leak to atmosphere has developed from a cooling water system that is operating at 150\npsig. Which one of the following will be the approximate leak rate when system pressure has\ndecreased to 100 psig?\n-856-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. 70 gpm",
-      "B. 65 gpm",
-      "C. 53 gpm",
-      "D. 47 gpm"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "FLU1214",
-    "topic": "Fluid Statics and Dynamics",
-    "question": "Refer to the drawing of two lengths of 6-inch diameter pipe, each containing an identical automatic\nisolation valve. The actual pipe lengths are proportional to their symbols in the drawing\nWater at 65\u00b0F is flowing at 1,000 gpm through each pipe. If isolation valves A and B instantly\nclose, the pressure spike experienced by valve A will be __________ the pressure spike experienced\nby valve B; and the pressure spike will dissipate faster in the __________ length of pipe.\n-857-\nPWR Test Items",
-    "image": "page857_img1.jpeg",
-    "choices": [
-      "A. equal to; shorter",
-      "B. equal to; longer",
-      "C. less than; shorter",
-      "D. less than; longer"
-    ],
+    "stem": " One reason for keeping condensate out of the steam lines is to... NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "minimize corrosion buildup.",
+      "B": "reduce heat losses.",
+      "C": "eliminate steam traps.",
+      "D": "prevent water/steam hammer. -846- PWR Test Items"
+    },
     "answer": "A"
   },
   {
-    "id": "FLU1215",
     "topic": "Fluid Statics and Dynamics",
-    "question": "Refer to the drawing of two lengths of 16-inch diameter pipe, each containing an identical automatic\nisolation valve. The actual pipe lengths are proportional to their symbols in the drawing.\nWater is flowing at 10,000 gpm through each pipe when both isolation valves instantly close.\nConsider two cases:\nCase 1: The water temperature upstream of both valves is 65\u00b0F.\nCase 2: The water temperature is 65\u00b0F upstream of valve A, and 85\u00b0F upstream of valve B.\nFor which case(s), if any, will valve A experience a pressure spike that is greater than the pressure\nspike at valve B?\n-858-\nPWR Test Items",
-    "image": "page858_img1.jpeg",
-    "choices": [
-      "A. Case 1 only",
-      "B. Case 2 only",
-      "C. Both cases",
-      "D. Neither case"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "FLU1216",
-    "topic": "Fluid Statics and Dynamics",
-    "question": "A centrifugal water pump was returned to service after maintenance. However, the operator failed\nto vent the pump.\nCompared to normal pump operating conditions, after the pump is started the operator will see a\n__________ flow rate and a __________ discharge head.\n-859-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. higher; lower",
-      "B. higher; higher",
-      "C. lower; lower",
-      "D. lower; higher"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "FLU1217",
-    "topic": "Fluid Statics and Dynamics",
-    "question": "Refer to the drawing of a cooling water system (see figure below).\nCentrifugal pump A is circulating water at 100\u00b0F. Which one of the following will cause the\ncentrifugal pump to operate closer to a condition in which gas/vapor binding can occur?\npercent.\nwater system.\n-860-\nPWR Test Items",
-    "image": "page860_img1.jpeg",
-    "choices": [
-      "A. Surge tank level is raised by 5 percent.",
-      "B. Service water flow rate is decreased by 5 percent.",
-      "C. The pump discharge valve is repositioned to decrease cooling water system flow rate by 5",
-      "D. Makeup water containing a high concentration of total dissolved solids is added to the cooling"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "FLU1218",
-    "topic": "Fluid Statics and Dynamics",
-    "question": "If a valve closure suddenly stops fluid flow, the resulting piping system pressure transient is referred\nto as...",
-    "image": "",
-    "choices": [
-      "A. cavitation.",
-      "B. shutoff head.",
-      "C. water hammer.",
-      "D. valve chatter."
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "FLU1219",
-    "topic": "Fluid Statics and Dynamics",
-    "question": "The major concern with starting a main feedwater pump with downstream fluid in a saturated\ncondition is...\n-861-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. cavitation.",
-      "B. water hammer.",
-      "C. thermal shock.",
-      "D. positive reactivity addition."
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "FLU1220",
-    "topic": "Fluid Statics and Dynamics",
-    "question": "Which one of the following will increase the possibility of water hammer?",
-    "image": "",
-    "choices": [
-      "A. Opening and closing system valves very slowly.",
-      "B. Venting liquid systems only after initiating system flow.",
-      "C. Starting centrifugal pumps with the discharge valve closed.",
-      "D. Starting positive displacement pumps with the discharge valve open."
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "FLU1221",
-    "topic": "Fluid Statics and Dynamics",
-    "question": "The primary reason for slowly opening the discharge valve of a large motor-driven centrifugal\ncooling water pump after starting the pump is to minimize the...\n-862-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. net positive suction head requirements.",
-      "B. potential for a water hammer.",
-      "C. motor running current requirements.",
-      "D. potential for pump cavitation."
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "FLU1222",
-    "topic": "Fluid Statics and Dynamics",
-    "question": "Cavitation in an operating pump can be caused by...",
-    "image": "",
-    "choices": [
-      "A. lowering the pump suction temperature.",
-      "B. throttling the pump suction valve.",
-      "C. increasing the pump backpressure.",
-      "D. increasing the pump suction pressure."
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "FLU1223",
-    "topic": "Fluid Statics and Dynamics",
-    "question": "Cavitation of a centrifugal pump in an open system is indicated by __________ discharge pressure\nand __________ flow rate.\n-863-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. low; low",
-      "B. high; high",
-      "C. low; high",
-      "D. high; low"
-    ],
+    "stem": " To minimize the possibility of water hammer when initiating flow in a system, the operator should... NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "vent the system prior to initiating flow.",
+      "B": "vent the system only after flow has been initiated.",
+      "C": "fully open the pump discharge valve prior to starting a pump.",
+      "D": "rapidly open the pump discharge valve after the pump is running. -847- PWR Test Items"
+    },
     "answer": "A"
   },
   {
-    "id": "FLU1224",
     "topic": "Fluid Statics and Dynamics",
-    "question": "Which one of the following is most likely to cause cavitation in an operating centrifugal pump?",
-    "image": "",
-    "choices": [
-      "A. Lowering the suction temperature.",
-      "B. Throttling the pump suction valve.",
-      "C. Throttling the pump discharge valve.",
-      "D. Decreasing the pump speed."
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "FLU1225",
-    "topic": "Fluid Statics and Dynamics",
-    "question": "While on surveillance rounds, an operator notices that a centrifugal pump is making a great deal of\nnoise (like marbles rattling inside the pump casing) and the pump discharge pressure is fluctuating.\nThis set of conditions indicates that the pump is experiencing...\n-864-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. runout.",
-      "B. cavitation.",
-      "C. bearing deterioration.",
-      "D. packing deterioration."
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "FLU1226",
-    "topic": "Fluid Statics and Dynamics",
-    "question": "Indications of pump cavitation include abnormally _________ pump discharge pressure and\nabnormally _________ pump flow rate.",
-    "image": "",
-    "choices": [
-      "A. low; low",
-      "B. low; high",
-      "C. high; low",
-      "D. high; high"
-    ],
+    "stem": " Which one of the following operating practices minimizes the possibility of water hammer?",
+    "choices": {
+      "A": "Change valve positions as rapidly as possible.",
+      "B": "Start centrifugal pumps with the discharge valve throttled.",
+      "C": "Start positive displacement pumps with the discharge valve closed.",
+      "D": "Vent systems only after initiating system flow."
+    },
     "answer": "A"
   },
   {
-    "id": "FLU1227",
     "topic": "Fluid Statics and Dynamics",
-    "question": "Cavitation is the formation of vapor bubbles in the __________ of a pump; with the subsequent\ncollapse of the vapor bubbles in the __________ of the pump.\n-865-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. impeller; casing",
-      "B. impeller; discharge piping",
-      "C. volute; casing",
-      "D. volute; discharge piping"
-    ],
+    "stem": " Which one of the following will result in a higher probability and/or severity of water hammer in a flowing water system? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "Gradual pipe bends rather than sharp pipe bends.",
+      "B": "Shorter pipe lengths rather than longer pipe lengths.",
+      "C": "Lower initial flow rates rather than higher initial flow rates.",
+      "D": "Shorter valve stroke times rather than longer valve stroke times. -848- PWR Test Items"
+    },
     "answer": "A"
   },
   {
-    "id": "FLU1228",
     "topic": "Fluid Statics and Dynamics",
-    "question": "Cavitation is the formation of vapor bubbles in the __________ pressure area of a pump followed by\nthe __________ of these bubbles within the pump casing.",
-    "image": "",
-    "choices": [
-      "A. low; expansion",
-      "B. low; collapse",
-      "C. high; expansion",
-      "D. high; collapse"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "FLU1229",
-    "topic": "Fluid Statics and Dynamics",
-    "question": "Pump cavitation occurs when vapor bubbles are formed at the eye of a pump impeller...\npulsations.\npressure pulsations.\n-866-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. because the localized flow velocity exceeds sonic velocity for the existing fluid temperature.",
-      "B. because the localized pressure exceeds the vapor pressure for the existing fluid temperature.",
-      "C. and enter a high pressure region of the pump where they collapse causing damaging pressure",
-      "D. and are discharged from the pump where they expand into larger bubbles causing damaging"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "FLU1230",
-    "topic": "Fluid Statics and Dynamics",
-    "question": "In an operating cooling water system with a constant water velocity, if water temperature decreases,\nsystem volumetric flow rate (gpm) will...",
-    "image": "",
-    "choices": [
-      "A. remain the same, because the density of the water has not changed.",
-      "B. increase, because the density of the water has increased.",
-      "C. remain the same, because the water velocity has not changed.",
-      "D. increase, because the viscosity of the water has increased."
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "FLU1231",
-    "topic": "Fluid Statics and Dynamics",
-    "question": "A cooling water system is supplying 1.0 x 106 lbm/hour of flow at 100\u00b0F. Assuming volumetric\nflow rate does not change, which one of the following will be the mass flow rate in the system if\ncooling water temperature increases to 140\u00b0F?\n-867-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. 7.5 x 105 lbm/hr",
-      "B. 8.3 x 105 lbm/hr",
-      "C. 9.0 x 105 lbm/hr",
-      "D. 9.9 x 105 lbm/hr"
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "FLU1232",
-    "topic": "Fluid Statics and Dynamics",
-    "question": "A reactor coolant system is supplying 1.0 x 108 lbm/hour of coolant flow at a temperature of 100\u00b0F.\nAssuming volumetric flow rate does not change, which one of the following is the approximate mass\nflow rate that will be supplied by the system if cooling water temperature increases to 400\u00b0F?",
-    "image": "",
-    "choices": [
-      "A. 1.2 x 108 lbm/hr",
-      "B. 1.1 x 108 lbm/hr",
-      "C. 9.2 x 107 lbm/hr",
-      "D. 8.7 x 107 lbm/hr"
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "FLU1233",
-    "topic": "Fluid Statics and Dynamics",
-    "question": "A reactor coolant system is supplying 1.0 x 108 lbm/hr of coolant flow at a temperature of 100\u00b0F.\nAssuming volumetric flow rate does not change, which one of the following is the approximate mass\nflow rate that will be supplied by the system if coolant temperature increases to 500\u00b0F?\n-868-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. 1.2 x 108 lbm/hr",
-      "B. 1.1 x 108 lbm/hr",
-      "C. 8.7 x 107 lbm/hr",
-      "D. 7.9 x 107 lbm/hr"
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "FLU1234",
-    "topic": "Fluid Statics and Dynamics",
-    "question": "A cooling water system is supplying 2,000 lbm/min coolant flow at a temperature of 100\u00b0F.\nAssuming volumetric flow rate does not change, which one of the following is the approximate mass\nflow rate that will be supplied by the system if cooling water temperature increases to 140\u00b0F?",
-    "image": "",
-    "choices": [
-      "A. 1,964 lbm/min",
-      "B. 1,980 lbm/min",
-      "C. 2,020 lbm/min",
-      "D. 2,036 lbm/min"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "FLU1235",
-    "topic": "Fluid Statics and Dynamics",
-    "question": "The volumetric flow rate of cooling water entering a heat exchanger is 500 gpm.\nGiven the following:\n\uf0b7 Cooling water pressure entering and leaving the heat exchanger is 10 psig.\n\uf0b7 Cooling water inlet temperature is 90\u00b0F.\n\uf0b7 Cooling water outlet temperature is 160\u00b0F.\n\uf0b7 Heat exchanger inlet and outlet piping have the same diameter.\nWhat is the approximate volumetric flow rate of the cooling water exiting the heat exchanger?\n-869-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. 496 gpm",
-      "B. 500 gpm",
-      "C. 504 gpm",
-      "D. 509 gpm"
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "FLU1236",
-    "topic": "Fluid Statics and Dynamics",
-    "question": "Operating two pumps in parallel instead of operating a single pump will result in a...",
-    "image": "",
-    "choices": [
-      "A. large increase in pump head and a small increase in pump flow rate.",
-      "B. small increase in pump head and a small increase in pump flow rate.",
-      "C. small increase in pump head and a large increase in pump flow rate.",
-      "D. large increase in pump head and a large increase in pump flow rate."
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "FLU1237",
-    "topic": "Fluid Statics and Dynamics",
-    "question": "The major effect of starting a second centrifugal pump in parallel with an operating centrifugal pump\nin an open system is increased...\n-870-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. system pressure.",
-      "B. system flow rate.",
-      "C. pump discharge pressure.",
-      "D. pump flow rate."
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "FLU1238",
-    "topic": "Fluid Statics and Dynamics",
-    "question": "To decrease the flow rate through an operating positive displacement pump, an operator should...",
-    "image": "",
-    "choices": [
-      "A. throttle the pump discharge valve partially closed.",
-      "B. throttle the pump suction valve partially closed.",
-      "C. decrease the pump\u2019s available net positive suction head.",
-      "D. decrease the pump\u2019s speed."
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "FLU1239",
-    "topic": "Fluid Statics and Dynamics",
-    "question": "Which one of the following will decrease the head loss occurring in an operating cooling water\nsystem?\npipe.\npipe.\n-871-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. Starting a second pump in parallel with the operating pump.",
-      "B. Shifting two heat exchangers from parallel to series operation.",
-      "C. Replacing a 10 foot section of 10-inch diameter pipe with a 20 foot section of 10-inch diameter",
-      "D. Replacing a 20 foot section of 10-inch diameter pipe with a 20 foot section of 12-inch diameter"
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "FLU1240",
-    "topic": "Fluid Statics and Dynamics",
-    "question": "Two centrifugal pumps and two positive displacement pumps are able to be cross-connected to\nprovide makeup water flow to a system. Each pump will produce 100 gpm at a system pressure of\n1,000 psig.\nIf system pressure is 1,200 psig, which one of the following combinations will produce the greatest\nflow rate to the system?",
-    "image": "",
-    "choices": [
-      "A. Two positive displacement pumps in series",
-      "B. Two positive displacement pumps in parallel",
-      "C. Two centrifugal pumps in series",
-      "D. Two centrifugal pumps in parallel"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "FLU1241",
-    "topic": "Fluid Statics and Dynamics",
-    "question": "Two centrifugal pumps and two positive displacement pumps are able to be cross-connected to\nprovide makeup water flow to a system. Each pump will produce 100 gpm at a system pressure of\n1,000 psig backpressure.\nIf system pressure is 800 psig, which one of the following combinations will produce the greatest\nflow rate to the system?\n-872-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. Two centrifugal pumps in parallel.",
-      "B. Two centrifugal pumps in series.",
-      "C. Two positive displacement pumps in parallel.",
-      "D. Two positive displacement pumps in series."
-    ],
+    "stem": " An 85 gpm leak to atmosphere has developed from a cooling water system that is operating at 100 psig. Which one of the following will be the approximate leak rate when system pressure has decreased to 50 psig?",
+    "choices": {
+      "A": "33 gpm",
+      "B": "41 gpm",
+      "C": "52 gpm",
+      "D": "60 gpm"
+    },
     "answer": "A"
   },
   {
-    "id": "FLU1242",
     "topic": "Fluid Statics and Dynamics",
-    "question": "Two identical centrifugal pumps (CPs) and two identical positive displacement pumps (PDPs) are\nable to take suction on a vented water storage tank and provide makeup water flow to a cooling\nwater system. The pumps are capable of being cross-connected to provide multiple configurations.\nIn single pump alignment, each pump will supply 100 gpm at a system pressure of 1,000 psig.\nGiven the following information:\nCentrifugal Pumps\nShutoff head = 1,500 psig\nMaximum design pressure = 2,000 psig\nFlow rate with no backpressure = 180 gpm\nPositive Displacement Pumps\nMaximum design pressure = 2,000 psig\nWhich one of the following pump configurations will supply the lowest makeup water flow rate to\nthe system if system pressure is 1,700 psig?\n-873-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. Two CPs in series",
-      "B. Two CPs in parallel",
-      "C. One PDP and one CP in series (CP supplying PDP)",
-      "D. One PDP and one CP in parallel"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "FLU1243",
-    "topic": "Fluid Statics and Dynamics",
-    "question": "Two identical centrifugal pumps (CPs) and two identical positive displacement pumps (PDPs) are\nable to take suction on a vented water storage tank and provide makeup water flow to a cooling\nwater system. The pumps are capable of being cross-connected to provide multiple configurations.\nIn single pump alignment, each pump will supply 100 gpm at a system pressure of 1,000 psig.\nGiven the following information:\nCentrifugal Pumps\nShutoff head = 1,500 psig\nMaximum design pressure = 2,000 psig\nFlow rate with no backpressure = 180 gpm\nPositive Displacement Pumps\nMaximum design pressure = 2,000 psig\nWhich one of the following pump configurations will supply the highest makeup flow rate to the\nsystem if system pressure is 800 psig?\n-874-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. One PDP and one CP in series (CP supplying PDP)",
-      "B. One PDP and one CP in parallel",
-      "C. Two CPs in series",
-      "D. Two CPs in parallel"
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "FLU1244",
-    "topic": "Fluid Statics and Dynamics",
-    "question": "Water at 90\u00b0F and 50 psig is flowing through a 10-inch diameter pipe at 100 lbm/sec. The pipe then\nsplits into two pipes, a 4-inch diameter pipe and an 8-inch diameter pipe.\nDisregarding any flow restrictions other than pipe size, which one of the following lists the\napproximate flow rates through the 4-inch and 8-inch diameter pipes? (Assume that water velocity\nis the same in each pipe.)\n4-inch Pipe 8-inch Pipe\n(lbm/sec) (lbm/sec)\n-875-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. 20 80",
-      "B. 25 75",
-      "C. 30 70",
-      "D. 33 67"
-    ],
+    "stem": " Mass flow rate equals volumetric flow rate times... NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "specific volume.",
+      "B": "density.",
+      "C": "specific gravity.",
+      "D": "velocity. -849- PWR Test Items"
+    },
     "answer": "A"
   },
   {
-    "id": "FLU1245",
     "topic": "Fluid Statics and Dynamics",
-    "question": "Two identical centrifugal pumps (CPs) and two identical positive displacement pumps (PDPs) are\nable to take suction on a vented water storage tank and provide makeup water flow to a cooling\nwater system. The pumps are capable of being cross-connected to provide multiple configurations.\nIn single pump alignment, each pump will supply 100 gpm at a system pressure of 1,200 psig.\nGiven the following information:\nCentrifugal Pumps\nShutoff head = 1,500 psig\nMaximum design pressure = 2,000 psig\nFlow rate with no backpressure = 180 gpm\nPositive Displacement Pumps\nMaximum design pressure = 2,000 psig\nWhich one of the following pump configurations will supply the highest makeup flow rate to the\nsystem if system pressure is 500 psig?\n-876-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. Two CPs in series",
-      "B. Two CPs in parallel",
-      "C. Two PDPs in parallel",
-      "D. One CP and one PDP in series (CP supplying PDP)"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "FLU1246",
-    "topic": "Fluid Statics and Dynamics",
-    "question": "Water at 90\u00b0F and 50 psig is flowing through a 10-inch diameter pipe at 100 lbm/sec. The pipe then\nsplits into two pipes, a 3-inch diameter pipe and a 6-inch diameter pipe.\nDisregarding any flow restrictions other than pipe size, which one of the following lists the\napproximate flow rates through the 3-inch and 6-inch diameter pipes. (Assume that water velocity\nis the same in each pipe.)\n3-inch Pipe 6-inch Pipe\n(lbm/sec) (lbm/sec)\n-877-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. 10 90",
-      "B. 20 80",
-      "C. 25 75",
-      "D. 33 67"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "FLU1247",
-    "topic": "Fluid Statics and Dynamics",
-    "question": "Water at 90\u00b0F and 50 psig is flowing through a 10-inch diameter pipe at 100 lbm/sec. The pipe then\nsplits into two pipes, a 6-inch diameter pipe and an 8-inch diameter pipe.\nDisregarding any flow restrictions other than pipe size, which one of the following lists the\napproximate flow rates through the 6-inch and 8-inch diameter pipes? (Assume that water velocity\nis the same in each pipe.)\n6-inch Pipe 8-inch Pipe\n(lbm/sec) (lbm/sec)\n-878-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. 24 76",
-      "B. 32 68",
-      "C. 36 64",
-      "D. 40 60"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "FLU1248",
-    "topic": "Fluid Statics and Dynamics",
-    "question": "Two identical centrifugal pumps (CPs) and two identical positive displacement pumps (PDPs) are\nable to take suction on a vented water storage tank and provide makeup water flow to a cooling\nwater system. The pumps are capable of being cross-connected to provide multiple configurations.\nIn single pump alignment, each pump will supply 100 gpm at a system pressure of 1,200 psig.\nGiven the following information:\nCentrifugal Pumps\nShutoff head = 1,500 psig\nMaximum design pressure = 2,000 psig\nFlow rate with no backpressure = 180 gpm\nPositive Displacement Pumps\nMaximum design pressure = 2,000 psig\nWhich one of the following pump configurations will supply the highest makeup flow rate to the\ncooling water system if system pressure is 1,700 psig?\n-879-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. Two CPs in series",
-      "B. Two CPs in parallel",
-      "C. Two PDPs in parallel",
-      "D. One CP and one PDP in series (CP supplying PDP)"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "FLU1249",
-    "topic": "Fluid Statics and Dynamics",
-    "question": "Two identical single-speed centrifugal pumps (CPs) and two identical single-speed positive\ndisplacement pumps (PDPs) are able to take suction on a vented water storage tank and provide\nmakeup water flow to a cooling water system. The pumps are capable of being cross-connected to\nprovide multiple configurations. In single pump alignment, each pump will supply 100 gpm at a\nsystem pressure of 1,200 psig.\nGiven the following information:\nCentrifugal Pumps\nDischarge pressure at shutoff head = 1,500 psig\nMaximum design pressure = 2,000 psig\nFlow rate with no backpressure = 180 gpm\nPositive Displacement Pumps\nMaximum design pressure = 2,000 psig\nWhich one of the following pump configurations will supply the highest initial flow rate to a cooling\nwater system that is drained and depressurized?\n-880-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. Two CPs in series",
-      "B. Two CPs in parallel",
-      "C. Two PDPs in parallel",
-      "D. One CP and one PDP in series (CP supplying PDP)"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "FLU1250",
-    "topic": "Fluid Statics and Dynamics",
-    "question": "Two identical single-speed centrifugal pumps (CPs) and two identical single-speed positive\ndisplacement pumps (PDPs) are able to take suction on a vented water storage tank and provide\nmakeup water flow to a cooling water system. The pumps are capable of being cross-connected to\nprovide multiple configurations. In single pump alignment, each pump will supply 100 gpm at a\nsystem pressure of 1,200 psig.\nGiven the following information:\nCentrifugal Pumps\nDischarge pressure at shutoff head = 1,500 psig\nMaximum design pressure = 2,000 psig\nFlow rate with no backpressure = 180 gpm\nPositive Displacement Pumps\nMaximum design pressure = 2,000 psig\nWhich one of the following pump configurations will supply the lowest initial flow rate of makeup\nwater to a cooling water system that is drained and depressurized?\n-881-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. Two CPs in series",
-      "B. Two CPs in parallel",
-      "C. Two PDPs in parallel",
-      "D. One CP and one PDP in series (CP supplying PDP)"
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "FLU1251",
-    "topic": "Fluid Statics and Dynamics",
-    "question": "Refer to the drawing of a main water header that splits into two parallel headers (see figure below).\nHeader A has a 2-inch diameter and header B has a 3-inch diameter. The velocity of the water in\nboth headers is the same.\nIf the main water header has a flow rate of 500 gpm, what is the approximate flow rate in each of the\nparallel headers?\nHeader A Header B\n(gpm) (gpm)\n-882-\nPWR Test Items",
-    "image": "page882_img1.jpeg",
-    "choices": [
-      "A. 125 375",
-      "B. 154 346",
-      "C. 200 300",
-      "D. 222 278"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "FLU1252",
-    "topic": "Fluid Statics and Dynamics",
-    "question": "A length of pipe in a cooling water system uses a reducer fitting to decrease the pipe diameter from 6\ninches to 4 inches. The flow rate in the 6-inch diameter section of pipe is 200 gpm. What is the\nflow rate in the 4-inch diameter section of pipe?",
-    "image": "",
-    "choices": [
-      "A. 133 gpm",
-      "B. 200 gpm",
-      "C. 300 gpm",
-      "D. 450 gpm"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "FLU1253",
-    "topic": "Fluid Statics and Dynamics",
-    "question": "A vented water storage tank contains 60 feet of water at 70\u00b0F. A cracked weld at the bottom of the\ntank results in a leak rate of 12 gpm. If makeup water flow rate is 5 gpm, at what water level will\nthe tank stabilize?\n-883-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. 38.7 feet",
-      "B. 25.0 feet",
-      "C. 10.4 feet",
-      "D. 0.0 feet"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "FLU1254",
-    "topic": "Fluid Statics and Dynamics",
-    "question": "A vented water storage tank contains 64 feet of water at 70\u00b0F. A cracked weld at the bottom of the\ntank results in a leak rate of 12 gpm. At what water level will the leak rate be 3 gpm?\n-884-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. 48 feet",
-      "B. 32 feet",
-      "C. 16 feet",
-      "D. 4 feet"
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "FLU1255",
-    "topic": "Fluid Statics and Dynamics",
-    "question": "An ideal positive displacement pump is operating in an open system with the following initial\nparameters:\nSuction pressure = 10 psig\nDischarge pressure = 25 psig\nFlow rate = 100 gpm\nIf the pump discharge pressure increases to 40 psig, the pump flow rate will...",
-    "image": "",
-    "choices": [
-      "A. remain constant.",
-      "B. decrease in direct proportion to the change in pump differential pressure.",
-      "C. decrease in direct proportion to the square of the change in pump differential pressure.",
-      "D. decrease in direct proportion to the square root of the change in pump differential pressure."
-    ],
+    "stem": " A 55 gpm leak to atmosphere has developed from a cooling water system that is operating at 100 psig. Which one of the following will be the approximate leak rate when system pressure has decreased to 50 psig?",
+    "choices": {
+      "A": "28 gpm",
+      "B": "32 gpm",
+      "C": "39 gpm",
+      "D": "45 gpm"
+    },
     "answer": "A"
   },
   {
-    "id": "FLU1256",
     "topic": "Fluid Statics and Dynamics",
-    "question": "A centrifugal pump is operating at a constant speed in a closed system with the following initial\nparameters:\nSuction pressure = 10 psig\nDischarge pressure = 25 psig\nPump flow rate = 500 gpm\nIf the pump discharge flow control valve is throttled such that the pump discharge pressure increases\nto 40 psig, the change in pump flow rate will be...\n-885-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. directly proportional to the square of the change in pump differential pressure.",
-      "B. directly proportional to the square root of the change in pump differential pressure.",
-      "C. inversely proportional to the square root of the change in pump differential pressure.",
-      "D. impossible to determine from the provided information."
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "FLU1257",
-    "topic": "Fluid Statics and Dynamics",
-    "question": "Which one of the following will increase the head loss occurring in an operating cooling water\nsystem?\npipe.\npipe.",
-    "image": "",
-    "choices": [
-      "A. Shifting two heat exchangers from parallel to series operation.",
-      "B. Increasing the flow rate in the system by throttling open a flow control valve.",
-      "C. Replacing a 20 foot section of 10-inch diameter pipe with a 10 foot section of 10-inch diameter",
-      "D. Replacing a 20 foot section of 10-inch diameter pipe with a 20 foot section of 12-inch diameter"
-    ],
+    "stem": " A 75 gpm leak to atmosphere has developed from a cooling water system that is operating at 80 psig. Which one of the following will be the approximate leak rate when system pressure has decreased to 40 psig? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "38 gpm",
+      "B": "44 gpm",
+      "C": "53 gpm",
+      "D": "59 gpm -850- PWR Test Items"
+    },
     "answer": "A"
   },
   {
-    "id": "FLU1258",
     "topic": "Fluid Statics and Dynamics",
-    "question": "Which one of the following changes to an operating cooling water system will decrease the head loss\noccurring in the system?\npipe.\npipe.\n-886-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. Positioning a flow control valve more open.",
-      "B. Shifting two heat exchangers from parallel to series operation.",
-      "C. Replacing a 10 foot length of 10-inch diameter pipe with a 20 foot length of 10-inch diameter",
-      "D. Replacing a 20 foot length of 12-inch diameter pipe with a 20 foot length of 10-inch diameter"
-    ],
+    "stem": " A 60 gpm leak to atmosphere has developed from a cooling water system that is operating at 150 psig. Which one of the following will be the approximate leak rate when system pressure has decreased to 75 psig?",
+    "choices": {
+      "A": "15 gpm",
+      "B": "30 gpm",
+      "C": "42 gpm",
+      "D": "53 gpm"
+    },
     "answer": "A"
   },
   {
-    "id": "FLU1259",
     "topic": "Fluid Statics and Dynamics",
-    "question": "Refer to the drawing of a main water header that splits into two parallel headers (see figure below).\nHeader A has a 2-inch diameter and header B has a 4-inch diameter. The velocity of the water in\nboth headers is the same.\nIf the main water header has a flow rate of 500 gpm, what is the approximate flow rate in each of the\nparallel headers?\nHeader A Header B\n(gpm) (gpm)\n-887-\nPWR Test Items",
-    "image": "page887_img1.jpeg",
-    "choices": [
-      "A. 100 400",
-      "B. 125 375",
-      "C. 167 333",
-      "D. 200 300"
-    ],
+    "stem": " A 100 gpm leak to atmosphere has developed from a cooling water system that is operating at 60 psig. Which one of the following will be the approximate leak rate when system pressure has decreased to 20 psig? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "33 gpm",
+      "B": "53 gpm",
+      "C": "58 gpm",
+      "D": "71 gpm -851- PWR Test Items"
+    },
     "answer": "A"
   },
   {
-    "id": "FLU1260",
     "topic": "Fluid Statics and Dynamics",
-    "question": "A vented water storage tank contains 30 feet of water at 70\u00b0F. A cracked weld at the bottom of the\ntank causes an initial leak rate of 12 gpm. If makeup water flow rate is 8 gpm, at what water level\nwill the tank stabilize?\n-888-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. 24.5 feet",
-      "B. 20.0 feet",
-      "C. 13.3 feet",
-      "D. 0.0 feet"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "FLU1261",
-    "topic": "Fluid Statics and Dynamics",
-    "question": "Refer to the drawing of an operating cooling water system (see figure below).\nWhich one of the following will increase the mass flow rate in the system with a corresponding\nincrease in the total system head loss?\npipe.\npipe.\n-889-\nPWR Test Items",
-    "image": "page889_img1.jpeg",
-    "choices": [
-      "A. Shifting operating pump A to a higher speed.",
-      "B. Positioning the flow control valve (FCV) more open.",
-      "C. Replacing a 20 foot length of 10-inch diameter pipe with a 10 foot length of 10-inch diameter",
-      "D. Replacing a 20 foot length of 10-inch diameter pipe with a 20 foot length of 12-inch diameter"
-    ],
+    "stem": " A 100 gpm leak to atmosphere has developed from a cooling water system that is operating at 45 psig. Which one of the following will be the approximate leak rate when system pressure has decreased to 30 psig?",
+    "choices": {
+      "A": "25 gpm",
+      "B": "50 gpm",
+      "C": "67 gpm",
+      "D": "82 gpm"
+    },
     "answer": "A"
   },
   {
-    "id": "FLU1262",
     "topic": "Fluid Statics and Dynamics",
-    "question": "Refer to the drawing of an operating cooling water system (see figure below).\nThe centrifugal pump is operating with the flow control valve (FCV) fully open. If the system flow\nrate is decreased by partially closing the FCV, the pump differential pressure will __________; and\nthe heat exchanger cooling water differential pressure will __________.\n-890-\nPWR Test Items",
-    "image": "page890_img1.jpeg",
-    "choices": [
-      "A. increase; increase",
-      "B. increase; decrease",
-      "C. decrease; increase",
-      "D. decrease; decrease"
-    ],
-    "answer": "B"
+    "stem": " A 47 gpm leak to atmosphere has developed from a cooling water system that is operating at 150 psig. Which one of the following will be the approximate leak rate when system pressure has decreased to 75 psig? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "24 gpm",
+      "B": "33 gpm",
+      "C": "39 gpm",
+      "D": "46 gpm -852- PWR Test Items"
+    },
+    "answer": "A"
   },
   {
-    "id": "FLU1263",
     "topic": "Fluid Statics and Dynamics",
-    "question": "An operating centrifugal water pump has a 26-inch diameter suction nozzle and a 24-inch diameter\ndischarge nozzle. For this pump, the discharge water velocity is __________ the suction water\nvelocity; and the discharge water volumetric flow rate is __________ the suction water volumetric\nflow rate. (Assume water is incompressible and the suction and discharge water temperatures are\nthe same.)\n-891-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. greater than; greater than",
-      "B. greater than; equal to",
-      "C. less than; greater than",
-      "D. less than; equal to"
-    ],
-    "answer": "B"
+    "stem": " An 80 gpm leak to atmosphere has developed from a cooling water system that is operating at 100 psig. Which one of the following will be the approximate leak rate when system pressure has decreased to 75 psig?",
+    "choices": {
+      "A": "69 gpm",
+      "B": "60 gpm",
+      "C": "51 gpm",
+      "D": "40 gpm"
+    },
+    "answer": "A"
   },
   {
-    "id": "FLU1264",
     "topic": "Fluid Statics and Dynamics",
-    "question": "Refer to the drawing of a cooling water system using 10-inch diameter pipe (see figure below). Only\ncentrifugal pump A is operating and the flow control valve (FCV) is 80 percent open.\nWhich one of the following actions will increase the total head loss in the system?\n-892-\nPWR Test Items",
-    "image": "page892_img1.jpeg",
-    "choices": [
-      "A. Increase the system flow rate by starting centrifugal pump B.",
-      "B. Increase the system flow rate by opening the flow control valve more.",
-      "C. Replace a 20 foot section of 10-inch diameter pipe with a 10 foot section of 10-inch diameter pipe.",
-      "D. Replace a 20 foot section of 10-inch diameter pipe with a 20 foot section of 12-inch diameter pipe."
-    ],
+    "stem": " A 60 gpm leak to atmosphere has developed from a cooling water system that is operating at 150 psig. Which one of the following will be the approximate leak rate when system pressure has decreased to 100 psig? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "27 gpm",
+      "B": "35 gpm",
+      "C": "40 gpm",
+      "D": "49 gpm -853- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Fluid Statics and Dynamics",
+    "stem": " An 80 gpm leak to atmosphere has developed from a cooling water system that is operating at 150 psig. Which one of the following will be the approximate leak rate when system pressure has decreased to 75 psig?",
+    "choices": {
+      "A": "20 gpm",
+      "B": "40 gpm",
+      "C": "49 gpm",
+      "D": "57 gpm"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Fluid Statics and Dynamics",
+    "stem": " An 80 gpm leak to atmosphere has developed from a cooling water system that is operating at 150 psig. Which one of the following will be the approximate leak rate when system pressure has decreased to 100 psig? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "36 gpm",
+      "B": "53 gpm",
+      "C": "56 gpm",
+      "D": "65 gpm -854- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Fluid Statics and Dynamics",
+    "stem": " A 75 gpm leak to atmosphere has developed from a cooling water system that is operating at 100 psig. Which one of the following will be the approximate leak rate when system pressure has decreased to 80 psig?",
+    "choices": {
+      "A": "26 gpm",
+      "B": "39 gpm",
+      "C": "56 gpm",
+      "D": "67 gpm"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Fluid Statics and Dynamics",
+    "stem": " A heat exchanger has the following initial cooling water inlet temperature and differential pressure (\u0394\u03a1) parameters: Inlet Temperature = 70\u00b0F Heat Exchanger \u0394\u03a1 = 10 psi Six hours later, the current heat exchanger cooling water parameters are: Inlet Temperature = 85\u00b0F Heat Exchanger \u0394\u03a1 = 10 psi In comparison to the initial cooling water mass flow rate, the current mass flow rate is... NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "lower, because the density of the cooling water has decreased.",
+      "B": "higher, because the velocity of the cooling water has increased.",
+      "C": "the same, because the changes in cooling water velocity and density offset.",
+      "D": "the same, because the heat exchanger cooling water \u0394\u03a1 is the same. -855- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Fluid Statics and Dynamics",
+    "stem": " An 80 gpm leak to atmosphere has developed from a cooling water system that is operating at 150 psig. Which one of the following will be the approximate leak rate when system pressure has decreased to 100 psig? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "70 gpm",
+      "B": "65 gpm",
+      "C": "53 gpm",
+      "D": "47 gpm -856- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Fluid Statics and Dynamics",
+    "stem": " Refer to the drawing of two lengths of 6-inch diameter pipe, each containing an identical automatic isolation valve. The actual pipe lengths are proportional to their symbols in the drawing Water at 65\u00b0F is flowing at 1,000 gpm through each pipe. If isolation valves A and B instantly close, the pressure spike experienced by valve A will be __________ the pressure spike experienced by valve B; and the pressure spike will dissipate faster in the __________ length of pipe. NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "equal to; shorter",
+      "B": "equal to; longer",
+      "C": "less than; shorter",
+      "D": "less than; longer -857- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Fluid Statics and Dynamics",
+    "stem": " Refer to the drawing of two lengths of 16-inch diameter pipe, each containing an identical automatic isolation valve. The actual pipe lengths are proportional to their symbols in the drawing. Water is flowing at 10,000 gpm through each pipe when both isolation valves instantly close. Consider two cases: Case 1: The water temperature upstream of both valves is 65\u00b0F. Case 2: The water temperature is 65\u00b0F upstream of valve A, and 85\u00b0F upstream of valve B. For which case(s), if any, will valve A experience a pressure spike that is greater than the pressure spike at valve B? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "Case 1 only",
+      "B": "Case 2 only",
+      "C": "Both cases",
+      "D": "Neither case -858- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Fluid Statics and Dynamics",
+    "stem": " A centrifugal water pump was returned to service after maintenance. However, the operator failed to vent the pump. Compared to normal pump operating conditions, after the pump is started the operator will see a __________ flow rate and a __________ discharge head. NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "higher; lower",
+      "B": "higher; higher",
+      "C": "lower; lower",
+      "D": "lower; higher -859- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Fluid Statics and Dynamics",
+    "stem": " Refer to the drawing of a cooling water system (see figure below). Centrifugal pump A is circulating water at 100\u00b0F. Which one of the following will cause the centrifugal pump to operate closer to a condition in which gas/vapor binding can occur? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "Surge tank level is raised by 5 percent.",
+      "B": "Service water flow rate is decreased by 5 percent.",
+      "C": "The pump discharge valve is repositioned to decrease cooling water system flow rate by 5 percent.",
+      "D": "Makeup water containing a high concentration of total dissolved solids is added to the cooling water system. -860- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Fluid Statics and Dynamics",
+    "stem": " If a valve closure suddenly stops fluid flow, the resulting piping system pressure transient is referred to as...",
+    "choices": {
+      "A": "cavitation.",
+      "B": "shutoff head.",
+      "C": "water hammer.",
+      "D": "valve chatter."
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Fluid Statics and Dynamics",
+    "stem": " The major concern with starting a main feedwater pump with downstream fluid in a saturated condition is... NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "cavitation.",
+      "B": "water hammer.",
+      "C": "thermal shock.",
+      "D": "positive reactivity addition. -861- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Fluid Statics and Dynamics",
+    "stem": " Which one of the following will increase the possibility of water hammer?",
+    "choices": {
+      "A": "Opening and closing system valves very slowly.",
+      "B": "Venting liquid systems only after initiating system flow.",
+      "C": "Starting centrifugal pumps with the discharge valve closed.",
+      "D": "Starting positive displacement pumps with the discharge valve open."
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Fluid Statics and Dynamics",
+    "stem": " The primary reason for slowly opening the discharge valve of a large motor-driven centrifugal cooling water pump after starting the pump is to minimize the... NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "net positive suction head requirements.",
+      "B": "potential for a water hammer.",
+      "C": "motor running current requirements.",
+      "D": "potential for pump cavitation. -862- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Fluid Statics and Dynamics",
+    "stem": " Cavitation in an operating pump can be caused by...",
+    "choices": {
+      "A": "lowering the pump suction temperature.",
+      "B": "throttling the pump suction valve.",
+      "C": "increasing the pump backpressure.",
+      "D": "increasing the pump suction pressure."
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Fluid Statics and Dynamics",
+    "stem": " Cavitation of a centrifugal pump in an open system is indicated by __________ discharge pressure and __________ flow rate. NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "low; low",
+      "B": "high; high",
+      "C": "low; high",
+      "D": "high; low -863- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Fluid Statics and Dynamics",
+    "stem": " Which one of the following is most likely to cause cavitation in an operating centrifugal pump?",
+    "choices": {
+      "A": "Lowering the suction temperature.",
+      "B": "Throttling the pump suction valve.",
+      "C": "Throttling the pump discharge valve.",
+      "D": "Decreasing the pump speed."
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Fluid Statics and Dynamics",
+    "stem": " While on surveillance rounds, an operator notices that a centrifugal pump is making a great deal of noise (like marbles rattling inside the pump casing) and the pump discharge pressure is fluctuating. This set of conditions indicates that the pump is experiencing... NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "runout.",
+      "B": "cavitation.",
+      "C": "bearing deterioration.",
+      "D": "packing deterioration. -864- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Fluid Statics and Dynamics",
+    "stem": " Indications of pump cavitation include abnormally _________ pump discharge pressure and abnormally _________ pump flow rate.",
+    "choices": {
+      "A": "low; low",
+      "B": "low; high",
+      "C": "high; low",
+      "D": "high; high"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Fluid Statics and Dynamics",
+    "stem": " Cavitation is the formation of vapor bubbles in the __________ of a pump; with the subsequent collapse of the vapor bubbles in the __________ of the pump. NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "impeller; casing",
+      "B": "impeller; discharge piping",
+      "C": "volute; casing",
+      "D": "volute; discharge piping -865- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Fluid Statics and Dynamics",
+    "stem": " Cavitation is the formation of vapor bubbles in the __________ pressure area of a pump followed by the __________ of these bubbles within the pump casing.",
+    "choices": {
+      "A": "low; expansion",
+      "B": "low; collapse",
+      "C": "high; expansion",
+      "D": "high; collapse"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Fluid Statics and Dynamics",
+    "stem": " Pump cavitation occurs when vapor bubbles are formed at the eye of a pump impeller... NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "because the localized flow velocity exceeds sonic velocity for the existing fluid temperature.",
+      "B": "because the localized pressure exceeds the vapor pressure for the existing fluid temperature.",
+      "C": "and enter a high pressure region of the pump where they collapse causing damaging pressure pulsations.",
+      "D": "and are discharged from the pump where they expand into larger bubbles causing damaging pressure pulsations. -866- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Fluid Statics and Dynamics",
+    "stem": " In an operating cooling water system with a constant water velocity, if water temperature decreases, system volumetric flow rate (gpm) will...",
+    "choices": {
+      "A": "remain the same, because the density of the water has not changed.",
+      "B": "increase, because the density of the water has increased.",
+      "C": "remain the same, because the water velocity has not changed.",
+      "D": "increase, because the viscosity of the water has increased."
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Fluid Statics and Dynamics",
+    "stem": " A cooling water system is supplying 1.0 x 106 lbm/hour of flow at 100\u00b0F. Assuming volumetric flow rate does not change, which one of the following will be the mass flow rate in the system if cooling water temperature increases to 140\u00b0F? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "7.5 x 105 lbm/hr",
+      "B": "8.3 x 105 lbm/hr",
+      "C": "9.0 x 105 lbm/hr",
+      "D": "9.9 x 105 lbm/hr -867- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Fluid Statics and Dynamics",
+    "stem": " A reactor coolant system is supplying 1.0 x 108 lbm/hour of coolant flow at a temperature of 100\u00b0F. Assuming volumetric flow rate does not change, which one of the following is the approximate mass flow rate that will be supplied by the system if cooling water temperature increases to 400\u00b0F?",
+    "choices": {
+      "A": "1.2 x 108 lbm/hr",
+      "B": "1.1 x 108 lbm/hr",
+      "C": "9.2 x 107 lbm/hr",
+      "D": "8.7 x 107 lbm/hr"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Fluid Statics and Dynamics",
+    "stem": " A reactor coolant system is supplying 1.0 x 108 lbm/hr of coolant flow at a temperature of 100\u00b0F. Assuming volumetric flow rate does not change, which one of the following is the approximate mass flow rate that will be supplied by the system if coolant temperature increases to 500\u00b0F? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "1.2 x 108 lbm/hr",
+      "B": "1.1 x 108 lbm/hr",
+      "C": "8.7 x 107 lbm/hr",
+      "D": "7.9 x 107 lbm/hr -868- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Fluid Statics and Dynamics",
+    "stem": " A cooling water system is supplying 2,000 lbm/min coolant flow at a temperature of 100\u00b0F. Assuming volumetric flow rate does not change, which one of the following is the approximate mass flow rate that will be supplied by the system if cooling water temperature increases to 140\u00b0F?",
+    "choices": {
+      "A": "1,964 lbm/min",
+      "B": "1,980 lbm/min",
+      "C": "2,020 lbm/min",
+      "D": "2,036 lbm/min"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Fluid Statics and Dynamics",
+    "stem": " The volumetric flow rate of cooling water entering a heat exchanger is 500 gpm. Given the following: \uf0b7 Cooling water pressure entering and leaving the heat exchanger is 10 psig. \uf0b7 Cooling water inlet temperature is 90\u00b0F. \uf0b7 Cooling water outlet temperature is 160\u00b0F. \uf0b7 Heat exchanger inlet and outlet piping have the same diameter. What is the approximate volumetric flow rate of the cooling water exiting the heat exchanger? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "496 gpm",
+      "B": "500 gpm",
+      "C": "504 gpm",
+      "D": "509 gpm -869- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Fluid Statics and Dynamics",
+    "stem": " Operating two pumps in parallel instead of operating a single pump will result in a...",
+    "choices": {
+      "A": "large increase in pump head and a small increase in pump flow rate.",
+      "B": "small increase in pump head and a small increase in pump flow rate.",
+      "C": "small increase in pump head and a large increase in pump flow rate.",
+      "D": "large increase in pump head and a large increase in pump flow rate."
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Fluid Statics and Dynamics",
+    "stem": " The major effect of starting a second centrifugal pump in parallel with an operating centrifugal pump in an open system is increased... NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "system pressure.",
+      "B": "system flow rate.",
+      "C": "pump discharge pressure.",
+      "D": "pump flow rate. -870- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Fluid Statics and Dynamics",
+    "stem": " To decrease the flow rate through an operating positive displacement pump, an operator should...",
+    "choices": {
+      "A": "throttle the pump discharge valve partially closed.",
+      "B": "throttle the pump suction valve partially closed.",
+      "C": "decrease the pump\u2019s available net positive suction head.",
+      "D": "decrease the pump\u2019s speed."
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Fluid Statics and Dynamics",
+    "stem": " Which one of the following will decrease the head loss occurring in an operating cooling water system? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "Starting a second pump in parallel with the operating pump.",
+      "B": "Shifting two heat exchangers from parallel to series operation.",
+      "C": "Replacing a 10 foot section of 10-inch diameter pipe with a 20 foot section of 10-inch diameter pipe.",
+      "D": "Replacing a 20 foot section of 10-inch diameter pipe with a 20 foot section of 12-inch diameter pipe. -871- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Fluid Statics and Dynamics",
+    "stem": " Two centrifugal pumps and two positive displacement pumps are able to be cross-connected to provide makeup water flow to a system. Each pump will produce 100 gpm at a system pressure of 1,000 psig. If system pressure is 1,200 psig, which one of the following combinations will produce the greatest flow rate to the system?",
+    "choices": {
+      "A": "Two positive displacement pumps in series",
+      "B": "Two positive displacement pumps in parallel",
+      "C": "Two centrifugal pumps in series",
+      "D": "Two centrifugal pumps in parallel"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Fluid Statics and Dynamics",
+    "stem": " Two centrifugal pumps and two positive displacement pumps are able to be cross-connected to provide makeup water flow to a system. Each pump will produce 100 gpm at a system pressure of 1,000 psig backpressure. If system pressure is 800 psig, which one of the following combinations will produce the greatest flow rate to the system? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "Two centrifugal pumps in parallel.",
+      "B": "Two centrifugal pumps in series.",
+      "C": "Two positive displacement pumps in parallel.",
+      "D": "Two positive displacement pumps in series. -872- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Fluid Statics and Dynamics",
+    "stem": " Two identical centrifugal pumps (CPs) and two identical positive displacement pumps (PDPs) are able to take suction on a vented water storage tank and provide makeup water flow to a cooling water system. The pumps are capable of being cross-connected to provide multiple configurations. In single pump alignment, each pump will supply 100 gpm at a system pressure of 1,000 psig. Given the following information: Centrifugal Pumps Shutoff head = 1,500 psig Maximum design pressure = 2,000 psig Flow rate with no backpressure = 180 gpm Positive Displacement Pumps Maximum design pressure = 2,000 psig Which one of the following pump configurations will supply the lowest makeup water flow rate to the system if system pressure is 1,700 psig? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "Two CPs in series",
+      "B": "Two CPs in parallel",
+      "C": "One PDP and one CP in series (CP supplying PDP)",
+      "D": "One PDP and one CP in parallel -873- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Fluid Statics and Dynamics",
+    "stem": " Two identical centrifugal pumps (CPs) and two identical positive displacement pumps (PDPs) are able to take suction on a vented water storage tank and provide makeup water flow to a cooling water system. The pumps are capable of being cross-connected to provide multiple configurations. In single pump alignment, each pump will supply 100 gpm at a system pressure of 1,000 psig. Given the following information: Centrifugal Pumps Shutoff head = 1,500 psig Maximum design pressure = 2,000 psig Flow rate with no backpressure = 180 gpm Positive Displacement Pumps Maximum design pressure = 2,000 psig Which one of the following pump configurations will supply the highest makeup flow rate to the system if system pressure is 800 psig? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "One PDP and one CP in series (CP supplying PDP)",
+      "B": "One PDP and one CP in parallel",
+      "C": "Two CPs in series",
+      "D": "Two CPs in parallel -874- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Fluid Statics and Dynamics",
+    "stem": " Water at 90\u00b0F and 50 psig is flowing through a 10-inch diameter pipe at 100 lbm/sec. The pipe then splits into two pipes, a 4-inch diameter pipe and an 8-inch diameter pipe. Disregarding any flow restrictions other than pipe size, which one of the following lists the approximate flow rates through the 4-inch and 8-inch diameter pipes? (Assume that water velocity is the same in each pipe.) 4-inch Pipe 8-inch Pipe (lbm/sec) (lbm/sec) NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "20 80",
+      "B": "25 75",
+      "C": "30 70",
+      "D": "33 67 -875- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Fluid Statics and Dynamics",
+    "stem": " Two identical centrifugal pumps (CPs) and two identical positive displacement pumps (PDPs) are able to take suction on a vented water storage tank and provide makeup water flow to a cooling water system. The pumps are capable of being cross-connected to provide multiple configurations. In single pump alignment, each pump will supply 100 gpm at a system pressure of 1,200 psig. Given the following information: Centrifugal Pumps Shutoff head = 1,500 psig Maximum design pressure = 2,000 psig Flow rate with no backpressure = 180 gpm Positive Displacement Pumps Maximum design pressure = 2,000 psig Which one of the following pump configurations will supply the highest makeup flow rate to the system if system pressure is 500 psig? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "Two CPs in series",
+      "B": "Two CPs in parallel",
+      "C": "Two PDPs in parallel",
+      "D": "One CP and one PDP in series (CP supplying PDP) -876- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Fluid Statics and Dynamics",
+    "stem": " Water at 90\u00b0F and 50 psig is flowing through a 10-inch diameter pipe at 100 lbm/sec. The pipe then splits into two pipes, a 3-inch diameter pipe and a 6-inch diameter pipe. Disregarding any flow restrictions other than pipe size, which one of the following lists the approximate flow rates through the 3-inch and 6-inch diameter pipes. (Assume that water velocity is the same in each pipe.) 3-inch Pipe 6-inch Pipe (lbm/sec) (lbm/sec) NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "10 90",
+      "B": "20 80",
+      "C": "25 75",
+      "D": "33 67 -877- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Fluid Statics and Dynamics",
+    "stem": " Water at 90\u00b0F and 50 psig is flowing through a 10-inch diameter pipe at 100 lbm/sec. The pipe then splits into two pipes, a 6-inch diameter pipe and an 8-inch diameter pipe. Disregarding any flow restrictions other than pipe size, which one of the following lists the approximate flow rates through the 6-inch and 8-inch diameter pipes? (Assume that water velocity is the same in each pipe.) 6-inch Pipe 8-inch Pipe (lbm/sec) (lbm/sec) NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "24 76",
+      "B": "32 68",
+      "C": "36 64",
+      "D": "40 60 -878- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Fluid Statics and Dynamics",
+    "stem": " Two identical centrifugal pumps (CPs) and two identical positive displacement pumps (PDPs) are able to take suction on a vented water storage tank and provide makeup water flow to a cooling water system. The pumps are capable of being cross-connected to provide multiple configurations. In single pump alignment, each pump will supply 100 gpm at a system pressure of 1,200 psig. Given the following information: Centrifugal Pumps Shutoff head = 1,500 psig Maximum design pressure = 2,000 psig Flow rate with no backpressure = 180 gpm Positive Displacement Pumps Maximum design pressure = 2,000 psig Which one of the following pump configurations will supply the highest makeup flow rate to the cooling water system if system pressure is 1,700 psig? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "Two CPs in series",
+      "B": "Two CPs in parallel",
+      "C": "Two PDPs in parallel",
+      "D": "One CP and one PDP in series (CP supplying PDP) -879- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Fluid Statics and Dynamics",
+    "stem": " Two identical single-speed centrifugal pumps (CPs) and two identical single-speed positive displacement pumps (PDPs) are able to take suction on a vented water storage tank and provide makeup water flow to a cooling water system. The pumps are capable of being cross-connected to provide multiple configurations. In single pump alignment, each pump will supply 100 gpm at a system pressure of 1,200 psig. Given the following information: Centrifugal Pumps Discharge pressure at shutoff head = 1,500 psig Maximum design pressure = 2,000 psig Flow rate with no backpressure = 180 gpm Positive Displacement Pumps Maximum design pressure = 2,000 psig Which one of the following pump configurations will supply the highest initial flow rate to a cooling water system that is drained and depressurized? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "Two CPs in series",
+      "B": "Two CPs in parallel",
+      "C": "Two PDPs in parallel",
+      "D": "One CP and one PDP in series (CP supplying PDP) -880- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Fluid Statics and Dynamics",
+    "stem": " Two identical single-speed centrifugal pumps (CPs) and two identical single-speed positive displacement pumps (PDPs) are able to take suction on a vented water storage tank and provide makeup water flow to a cooling water system. The pumps are capable of being cross-connected to provide multiple configurations. In single pump alignment, each pump will supply 100 gpm at a system pressure of 1,200 psig. Given the following information: Centrifugal Pumps Discharge pressure at shutoff head = 1,500 psig Maximum design pressure = 2,000 psig Flow rate with no backpressure = 180 gpm Positive Displacement Pumps Maximum design pressure = 2,000 psig Which one of the following pump configurations will supply the lowest initial flow rate of makeup water to a cooling water system that is drained and depressurized? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "Two CPs in series",
+      "B": "Two CPs in parallel",
+      "C": "Two PDPs in parallel",
+      "D": "One CP and one PDP in series (CP supplying PDP) -881- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Fluid Statics and Dynamics",
+    "stem": " Refer to the drawing of a main water header that splits into two parallel headers (see figure below). Header A has a 2-inch diameter and header B has a 3-inch diameter. The velocity of the water in both headers is the same. If the main water header has a flow rate of 500 gpm, what is the approximate flow rate in each of the parallel headers? Header A Header B (gpm) (gpm) NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "125 375",
+      "B": "154 346",
+      "C": "200 300",
+      "D": "222 278 -882- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Fluid Statics and Dynamics",
+    "stem": " A length of pipe in a cooling water system uses a reducer fitting to decrease the pipe diameter from 6 inches to 4 inches. The flow rate in the 6-inch diameter section of pipe is 200 gpm. What is the flow rate in the 4-inch diameter section of pipe?",
+    "choices": {
+      "A": "133 gpm",
+      "B": "200 gpm",
+      "C": "300 gpm",
+      "D": "450 gpm"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Fluid Statics and Dynamics",
+    "stem": " A vented water storage tank contains 60 feet of water at 70\u00b0F. A cracked weld at the bottom of the tank results in a leak rate of 12 gpm. If makeup water flow rate is 5 gpm, at what water level will the tank stabilize? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "38.7 feet",
+      "B": "25.0 feet",
+      "C": "10.4 feet",
+      "D": "0.0 feet -883- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Fluid Statics and Dynamics",
+    "stem": " A vented water storage tank contains 64 feet of water at 70\u00b0F. A cracked weld at the bottom of the tank results in a leak rate of 12 gpm. At what water level will the leak rate be 3 gpm? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "48 feet",
+      "B": "32 feet",
+      "C": "16 feet",
+      "D": "4 feet -884- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Fluid Statics and Dynamics",
+    "stem": " An ideal positive displacement pump is operating in an open system with the following initial parameters: Suction pressure = 10 psig Discharge pressure = 25 psig Flow rate = 100 gpm If the pump discharge pressure increases to 40 psig, the pump flow rate will...",
+    "choices": {
+      "A": "remain constant.",
+      "B": "decrease in direct proportion to the change in pump differential pressure.",
+      "C": "decrease in direct proportion to the square of the change in pump differential pressure.",
+      "D": "decrease in direct proportion to the square root of the change in pump differential pressure."
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Fluid Statics and Dynamics",
+    "stem": " A centrifugal pump is operating at a constant speed in a closed system with the following initial parameters: Suction pressure = 10 psig Discharge pressure = 25 psig Pump flow rate = 500 gpm If the pump discharge flow control valve is throttled such that the pump discharge pressure increases to 40 psig, the change in pump flow rate will be... NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "directly proportional to the square of the change in pump differential pressure.",
+      "B": "directly proportional to the square root of the change in pump differential pressure.",
+      "C": "inversely proportional to the square root of the change in pump differential pressure.",
+      "D": "impossible to determine from the provided information. -885- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Fluid Statics and Dynamics",
+    "stem": " Which one of the following will increase the head loss occurring in an operating cooling water system?",
+    "choices": {
+      "A": "Shifting two heat exchangers from parallel to series operation.",
+      "B": "Increasing the flow rate in the system by throttling open a flow control valve.",
+      "C": "Replacing a 20 foot section of 10-inch diameter pipe with a 10 foot section of 10-inch diameter pipe.",
+      "D": "Replacing a 20 foot section of 10-inch diameter pipe with a 20 foot section of 12-inch diameter pipe."
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Fluid Statics and Dynamics",
+    "stem": " Which one of the following changes to an operating cooling water system will decrease the head loss occurring in the system? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "Positioning a flow control valve more open.",
+      "B": "Shifting two heat exchangers from parallel to series operation.",
+      "C": "Replacing a 10 foot length of 10-inch diameter pipe with a 20 foot length of 10-inch diameter pipe.",
+      "D": "Replacing a 20 foot length of 12-inch diameter pipe with a 20 foot length of 10-inch diameter pipe. -886- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Fluid Statics and Dynamics",
+    "stem": " Refer to the drawing of a main water header that splits into two parallel headers (see figure below). Header A has a 2-inch diameter and header B has a 4-inch diameter. The velocity of the water in both headers is the same. If the main water header has a flow rate of 500 gpm, what is the approximate flow rate in each of the parallel headers? Header A Header B (gpm) (gpm) NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "100 400",
+      "B": "125 375",
+      "C": "167 333",
+      "D": "200 300 -887- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Fluid Statics and Dynamics",
+    "stem": " A vented water storage tank contains 30 feet of water at 70\u00b0F. A cracked weld at the bottom of the tank causes an initial leak rate of 12 gpm. If makeup water flow rate is 8 gpm, at what water level will the tank stabilize? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "24.5 feet",
+      "B": "20.0 feet",
+      "C": "13.3 feet",
+      "D": "0.0 feet -888- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Fluid Statics and Dynamics",
+    "stem": " Refer to the drawing of an operating cooling water system (see figure below). Which one of the following will increase the mass flow rate in the system with a corresponding increase in the total system head loss? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "Shifting operating pump A to a higher speed.",
+      "B": "Positioning the flow control valve (FCV) more open.",
+      "C": "Replacing a 20 foot length of 10-inch diameter pipe with a 10 foot length of 10-inch diameter pipe.",
+      "D": "Replacing a 20 foot length of 10-inch diameter pipe with a 20 foot length of 12-inch diameter pipe. -889- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Fluid Statics and Dynamics",
+    "stem": " Refer to the drawing of an operating cooling water system (see figure below). The centrifugal pump is operating with the flow control valve (FCV) fully open. If the system flow rate is decreased by partially closing the FCV, the pump differential pressure will __________; and the heat exchanger cooling water differential pressure will __________. NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "increase; increase",
+      "B": "increase; decrease",
+      "C": "decrease; increase",
+      "D": "decrease; decrease -890- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Fluid Statics and Dynamics",
+    "stem": " An operating centrifugal water pump has a 26-inch diameter suction nozzle and a 24-inch diameter discharge nozzle. For this pump, the discharge water velocity is __________ the suction water velocity; and the discharge water volumetric flow rate is __________ the suction water volumetric flow rate. (Assume water is incompressible and the suction and discharge water temperatures are the same.) NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "greater than; greater than",
+      "B": "greater than; equal to",
+      "C": "less than; greater than",
+      "D": "less than; equal to -891- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Fluid Statics and Dynamics",
+    "stem": " Refer to the drawing of a cooling water system using 10-inch diameter pipe (see figure below). Only centrifugal pump A is operating and the flow control valve (FCV) is 80 percent open. Which one of the following actions will increase the total head loss in the system? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "Increase the system flow rate by starting centrifugal pump B.",
+      "B": "Increase the system flow rate by opening the flow control valve more.",
+      "C": "Replace a 20 foot section of 10-inch diameter pipe with a 10 foot section of 10-inch diameter pipe.",
+      "D": "Replace a 20 foot section of 10-inch diameter pipe with a 20 foot section of 12-inch diameter pipe. -892- PWR Test Items"
+    },
     "answer": "A"
   }
 ]

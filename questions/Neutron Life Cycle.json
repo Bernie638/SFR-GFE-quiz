@@ -1,405 +1,343 @@
 [
   {
-    "id": "NEU907",
     "topic": "Neutron Life Cycle",
-    "question": "Initially, a reactor is subcritical with the effective multiplication factor (K ) equal to 0.998. After a\neff\nbrief withdrawal of control rods, K equals 1.002. The reactor is currently...\neff",
-    "image": "",
-    "choices": [
-      "A. prompt critical.",
-      "B. supercritical.",
-      "C. exactly critical.",
-      "D. subcritical."
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "NEU908",
-    "topic": "Neutron Life Cycle",
-    "question": "Which one of the following conditions describes a reactor that is exactly critical?\neff\neff\neff\neff\n-667-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. K = 0; \u0394K/K = 0",
-      "B. K = 0; \u0394K/K = 1",
-      "C. K = 1; \u0394K/K = 0",
-      "D. K = 1; \u0394K/K = 1"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "NEU909",
-    "topic": "Neutron Life Cycle",
-    "question": "The ratio of the number of neutrons in one generation to the number of neutrons in the previous\ngeneration is the...",
-    "image": "",
-    "choices": [
-      "A. effective multiplication factor.",
-      "B. fast fission factor.",
-      "C. nonleakage factor.",
-      "D. reproduction factor."
-    ],
+    "stem": " Initially, a reactor is subcritical with the effective multiplication factor (K ) equal to 0.998. After a eff brief withdrawal of control rods, K equals 1.002. The reactor is currently... eff",
+    "choices": {
+      "A": "prompt critical.",
+      "B": "supercritical.",
+      "C": "exactly critical.",
+      "D": "subcritical."
+    },
     "answer": "A"
   },
   {
-    "id": "NEU910",
     "topic": "Neutron Life Cycle",
-    "question": "The effective multiplication factor (K ) can be determined by dividing the number of neutrons in\neff\nthe third generation by the number of neutrons in the __________ generation.\n-668-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. first",
-      "B. second",
-      "C. third",
-      "D. fourth"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "NEU911",
-    "topic": "Neutron Life Cycle",
-    "question": "The effective multiplication factor (K ) describes the ratio of the number of fission neutrons at the\neff\nend of one generation to the number of fission neutrons at the __________ of the __________\ngeneration.",
-    "image": "",
-    "choices": [
-      "A. beginning; next",
-      "B. beginning; previous",
-      "C. end; next",
-      "D. end; previous"
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "NEU912",
-    "topic": "Neutron Life Cycle",
-    "question": "A thermal neutron is about to interact with a U-238 nucleus in an operating reactor. Which one of\nthe following describes the most likely interaction and its effect on K ?\neff\neff\neff\neff\neff\n-669-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. The neutron will be scattered, thereby leaving K unchanged.",
-      "B. The neutron will be absorbed and the nucleus will fission, thereby decreasing K .",
-      "C. The neutron will be absorbed and the nucleus will fission, thereby increasing K .",
-      "D. The neutron will be absorbed and the nucleus will decay to Pu-239, thereby increasing K ."
-    ],
+    "stem": " Which one of the following conditions describes a reactor that is exactly critical? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "K = 0; \u0394K/K = 0 eff",
+      "B": "K = 0; \u0394K/K = 1 eff",
+      "C": "K = 1; \u0394K/K = 0 eff",
+      "D": "K = 1; \u0394K/K = 1 eff -667- PWR Test Items"
+    },
     "answer": "A"
   },
   {
-    "id": "NEU913",
     "topic": "Neutron Life Cycle",
-    "question": "A nuclear power plant is currently operating at steady-state 80 percent power near the end of its fuel\ncycle. During the next 3 days of steady-state power operation, no operator action is taken.\nHow will K be affected during the 3-day period?\neff\neff\neff\neff eff\neff eff",
-    "image": "",
-    "choices": [
-      "A. K will gradually increase during the entire period.",
-      "B. K will gradually decrease during the entire period.",
-      "C. K will tend to increase, but inherent reactivity feedback will maintain K at 1.0.",
-      "D. K will tend to decrease, but inherent reactivity feedback will maintain K at 1.0."
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "NEU914",
-    "topic": "Neutron Life Cycle",
-    "question": "A 1.5 MeV neutron is about to interact with a U-238 nucleus in an operating reactor. Which one of\nthe following describes the most likely interaction and its effect on K ?\neff\neff\neff\neff\neff\n-670-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. The neutron will be scattered, thereby leaving K unchanged.",
-      "B. The neutron will be absorbed and the nucleus will fission, thereby decreasing K .",
-      "C. The neutron will be absorbed and the nucleus will fission, thereby increasing K .",
-      "D. The neutron will be absorbed and the nucleus will decay to Pu-239, thereby increasing K ."
-    ],
+    "stem": " The ratio of the number of neutrons in one generation to the number of neutrons in the previous generation is the...",
+    "choices": {
+      "A": "effective multiplication factor.",
+      "B": "fast fission factor.",
+      "C": "nonleakage factor.",
+      "D": "reproduction factor."
+    },
     "answer": "A"
   },
   {
-    "id": "NEU915",
     "topic": "Neutron Life Cycle",
-    "question": "Which one of the following defines K-excess?\neff\neff\neff eff\neff eff",
-    "image": "",
-    "choices": [
-      "A. K - 1",
-      "B. K + 1",
-      "C. (K - 1)/K",
-      "D. (1-K )/K"
-    ],
+    "stem": " The effective multiplication factor (K ) can be determined by dividing the number of neutrons in eff the third generation by the number of neutrons in the __________ generation. NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "first",
+      "B": "second",
+      "C": "third",
+      "D": "fourth -668- PWR Test Items"
+    },
     "answer": "A"
   },
   {
-    "id": "NEU916",
     "topic": "Neutron Life Cycle",
-    "question": "KNOWLEDGE: K1.09 [2.5/2.7]\nQID: P1246 (B2048)\nWhich one of the following is a reason for installing excess reactivity (K ) in a reactor?\nexcess\nincrease.\n-671-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. To compensate for the conversion of U-238 to Pu-239 during a fuel cycle.",
-      "B. To compensate for burnout of Xe-135 and Sm-149 during a power increase.",
-      "C. To ensure the fuel temperature coefficient remains negative during a fuel cycle.",
-      "D. To compensate for the negative reactivity added by the power coefficient during a power"
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "NEU917",
-    "topic": "Neutron Life Cycle",
-    "question": "A reactor is operating at full power at the beginning of a fuel cycle. A neutron has just been\nabsorbed by a U-238 nucleus at a resonance energy of 6.7 electron volts.\nWhich one of the following describes the most likely reaction for the newly formed U-239 nucleus\nand the effect of this reaction on K ?\nexcess\nexcess\nexcess\nexcess\nexcess",
-    "image": "",
-    "choices": [
-      "A. Decays over several days to Pu-239, which increases K .",
-      "B. Decays over several days to Pu-240, which increases K .",
-      "C. Immediately undergoes fast fission, which decreases K .",
-      "D. Immediately undergoes thermal fission, which decreases K ."
-    ],
+    "stem": " The effective multiplication factor (K ) describes the ratio of the number of fission neutrons at the eff end of one generation to the number of fission neutrons at the __________ of the __________ generation.",
+    "choices": {
+      "A": "beginning; next",
+      "B": "beginning; previous",
+      "C": "end; next",
+      "D": "end; previous"
+    },
     "answer": "A"
   },
   {
-    "id": "NEU918",
     "topic": "Neutron Life Cycle",
-    "question": "Which one of the following is a benefit of installing excess reactivity (K ) in a reactor?\nexcess\n-672-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. Ensures that sufficient control rod negative reactivity is available to shut down the reactor.",
-      "B. Ensures that the reactor can be made critical during a peak xenon condition after a reactor trip.",
-      "C. Ensures that positive reactivity additions result in controllable reactor power responses.",
-      "D. Ensures that the U-235 fuel enrichment is the same at the beginning and the end of a fuel cycle."
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "NEU919",
-    "topic": "Neutron Life Cycle",
-    "question": "KNOWLEDGE: K1.10 [3.2/3.6]\nQID: P245 (B248)\nThe shutdown margin determination for an operating reactor assumes the complete withdrawal of\u2026",
-    "image": "",
-    "choices": [
-      "A. a single control rod of high reactivity worth.",
-      "B. a symmetrical pair of control rods of high reactivity worth.",
-      "C. a single control rod of average reactivity worth.",
-      "D. a symmetrical pair of control rods of average reactivity worth."
-    ],
+    "stem": " A thermal neutron is about to interact with a U-238 nucleus in an operating reactor. Which one of the following describes the most likely interaction and its effect on K ? eff NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "The neutron will be scattered, thereby leaving K unchanged. eff",
+      "B": "The neutron will be absorbed and the nucleus will fission, thereby decreasing K . eff",
+      "C": "The neutron will be absorbed and the nucleus will fission, thereby increasing K . eff",
+      "D": "The neutron will be absorbed and the nucleus will decay to Pu-239, thereby increasing K . eff -669- PWR Test Items"
+    },
     "answer": "A"
   },
   {
-    "id": "NEU920",
     "topic": "Neutron Life Cycle",
-    "question": "A reactor is operating at steady-state 100 percent power with manual rod control about three months\nfrom the end of a fuel cycle. During the next two weeks of operation at 100 percent power, the\navailable shutdown margin will... (Assume no operator actions are taken.)\n-673-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. continuously increase.",
-      "B. continuously decrease.",
-      "C. initially increase, and then decrease.",
-      "D. initially decrease, and then increase."
-    ],
+    "stem": " A nuclear power plant is currently operating at steady-state 80 percent power near the end of its fuel cycle. During the next 3 days of steady-state power operation, no operator action is taken. How will K be affected during the 3-day period? eff",
+    "choices": {
+      "A": "K will gradually increase during the entire period. eff",
+      "B": "K will gradually decrease during the entire period. eff",
+      "C": "K will tend to increase, but inherent reactivity feedback will maintain K at 1.0. eff eff",
+      "D": "K will tend to decrease, but inherent reactivity feedback will maintain K at 1.0. eff eff"
+    },
     "answer": "A"
   },
   {
-    "id": "NEU921",
     "topic": "Neutron Life Cycle",
-    "question": "Reactivity is defined as the fractional change in...",
-    "image": "",
-    "choices": [
-      "A. reactor power per second.",
-      "B. neutron population per second.",
-      "C. reactor period from criticality.",
-      "D. the effective multiplication factor from criticality."
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "NEU922",
-    "topic": "Neutron Life Cycle",
-    "question": "Which term is described by the following?\n\"The fractional change of the effective multiplication factor from criticality.\"\neff\n-674-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. 1/M",
-      "B. K",
-      "C. Reactor period",
-      "D. Reactivity"
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "NEU923",
-    "topic": "Neutron Life Cycle",
-    "question": "With K equal to 0.985, how much reactivity must be added to make the reactor critical? (Round\neff\nanswer to the nearest 0.01 %\u0394K/K.)",
-    "image": "",
-    "choices": [
-      "A. 1.48 %\u0394K/K",
-      "B. 1.50 %\u0394K/K",
-      "C. 1.52 %\u0394K/K",
-      "D. 1.54 %\u0394K/K"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "NEU924",
-    "topic": "Neutron Life Cycle",
-    "question": "With K equal to 0.987, how much reactivity must be added to make the reactor critical? (Round\neff\nanswer to the nearest 0.01 %\u0394K/K.)\n-675-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. 1.01 %\u0394K/K",
-      "B. 1.03 %\u0394K/K",
-      "C. 1.30 %\u0394K/K",
-      "D. 1.32 %\u0394K/K"
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "NEU925",
-    "topic": "Neutron Life Cycle",
-    "question": "In a subcritical reactor, K was increased from 0.85 to 0.95 by rod withdrawal. Which one of the\neff\nfollowing is the approximate amount of reactivity that was added to the core?",
-    "image": "",
-    "choices": [
-      "A. 0.099 \u0394K/K",
-      "B. 0.124 \u0394K/K",
-      "C. 0.176 \u0394K/K",
-      "D. 0.229 \u0394K/K"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "NEU926",
-    "topic": "Neutron Life Cycle",
-    "question": "With K equal to 0.982, how much positive reactivity is required to make the reactor critical?\neff\n(Round answer to the nearest 0.01 %\u0394K/K.)\n-676-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. 1.72 %\u0394K/K",
-      "B. 1.77 %\u0394K/K",
-      "C. 1.80 %\u0394K/K",
-      "D. 1.83 %\u0394K/K"
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "NEU927",
-    "topic": "Neutron Life Cycle",
-    "question": "With K equal to 0.985, how much positive reactivity is required to make the reactor critical?\neff\n(Round answer to the nearest 0.01 %\u0394K/K.)",
-    "image": "",
-    "choices": [
-      "A. 1.49 %\u0394K/K",
-      "B. 1.50 %\u0394K/K",
-      "C. 1.52 %\u0394K/K",
-      "D. 1.55 %\u0394K/K"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "NEU928",
-    "topic": "Neutron Life Cycle",
-    "question": "With K equal to 0.983, how much positive reactivity must be added to make the reactor critical?\neff\n(Round answer to the nearest 0.01 %\u0394K/K.)\n-677-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. 1.70 %\u0394K/K",
-      "B. 1.73 %\u0394K/K",
-      "C. 3.40 %\u0394K/K",
-      "D. 3.43 %\u0394K/K"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "NEU929",
-    "topic": "Neutron Life Cycle",
-    "question": "Initially, a reactor was shutdown at a stable power level of 2.0 x 10-5 percent. After a small positive\nreactivity addition, the current stable power level is 3.0 x 10-5 percent. If the initial K was 0.982,\neff\nwhat is the current K ?\neff",
-    "image": "",
-    "choices": [
-      "A. 0.988",
-      "B. 0.992",
-      "C. 0.996",
-      "D. Cannot be determined without additional information."
-    ],
+    "stem": " A 1.5 MeV neutron is about to interact with a U-238 nucleus in an operating reactor. Which one of the following describes the most likely interaction and its effect on K ? eff NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "The neutron will be scattered, thereby leaving K unchanged. eff",
+      "B": "The neutron will be absorbed and the nucleus will fission, thereby decreasing K . eff",
+      "C": "The neutron will be absorbed and the nucleus will fission, thereby increasing K . eff",
+      "D": "The neutron will be absorbed and the nucleus will decay to Pu-239, thereby increasing K . eff -670- PWR Test Items"
+    },
     "answer": "A"
   },
   {
-    "id": "NEU930",
     "topic": "Neutron Life Cycle",
-    "question": "A reactor was operating at steady-state 100 percent power with all control rods fully withdrawn and\naverage coolant temperature (T ) at 588\u00b0F when a reactor trip occurred.\nave\nAfter the trip, T stabilized at the no-load temperature of 557\u00b0F and all control rods were verified to\nave\nbe fully inserted.\nGiven the following information, select the current value of core reactivity. (Assume no operator\nactions and disregard any reactivity effects of xenon.)\nPower coefficient = -0.015 %\u0394K/K/percent\nControl rod worth = -6.918 %\u0394K/K\nModerator temperature coefficient = -0.0012 %\u0394K/K/\u00b0F\n-678-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. -5.381 %\u0394K/K",
-      "B. -5.418 %\u0394K/K",
-      "C. -8.383 %\u0394K/K",
-      "D. -8.418 %\u0394K/K"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "NEU931",
-    "topic": "Neutron Life Cycle",
-    "question": "A reactor is operating at steady-state 90 percent power with all control rods fully withdrawn and\naverage coolant temperature (T ) at 580\u00b0F. A reactor trip occurs, after which T stabilizes at the\nave ave\nno-load temperature of 550\u00b0F and all control rods are verified to be fully inserted.\nGiven the following information, calculate the current value of core reactivity. (Assume no\noperator actions and disregard any reactivity effects of changes in xenon-135.)\nPower coefficient = -0.01 %\u0394K/K/percent\nControl rod worth = -6.918 %\u0394K/K\nModerator temperature coefficient = -0.01 %\u0394K/K/\u00b0F\n-679-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. -5.718 %\u0394K/K",
-      "B. -6.018 %\u0394K/K",
-      "C. -7.518 %\u0394K/K",
-      "D. -7.818 %\u0394K/K"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "NEU932",
-    "topic": "Neutron Life Cycle",
-    "question": "Reactors A and B are identical except that reactor A is operating at steady-state 80 percent power,\nwhile reactor B is operating at steady-state 100 percent power. Initial control rod positions are the\nsame for both reactors.\nHow will the shutdown margins (SDM) compare for the two reactors following a reactor trip?\n(Assume no post-trip operator actions are taken that would affect SDM.)\nequal.\nnormal post-trip conditions, the SDMs will be equal.\n-680-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. Immediately after the reactor trip, reactor A will have the greater SDM.",
-      "B. Immediately after the reactor trip, reactor B will have the greater SDM.",
-      "C. When sufficient time has passed to allow both cores to become xenon-free, the SDMs will be",
-      "D. Within a few minutes after the reactors have tripped, when all parameters have returned to"
-    ],
+    "stem": " Which one of the following defines K-excess?",
+    "choices": {
+      "A": "K - 1 eff",
+      "B": "K + 1 eff",
+      "C": "(K - 1)/K eff eff",
+      "D": "(1-K )/K eff eff"
+    },
     "answer": "A"
   },
   {
-    "id": "NEU933",
     "topic": "Neutron Life Cycle",
-    "question": "A reactor is initially operating at steady-state 60 percent power near the end of a fuel cycle when a\nfully withdrawn control rod suddenly inserts completely into the core. No operator action is taken\nand the plant control systems stabilize the reactor at a power level in the power range.\nCompared to the initial available shutdown margin (SDM), the current available SDM is\n__________; and compared to the initial core K , the current core K is __________.\neff eff",
-    "image": "",
-    "choices": [
-      "A. the same; smaller",
-      "B. the same; the same",
-      "C. less negative; smaller",
-      "D. less negative; the same"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "NEU934",
-    "topic": "Neutron Life Cycle",
-    "question": "Reactors A and B are identical except that reactor A is operating near the beginning of a fuel cycle\n(BOC) and reactor B is operating near the end of a fuel cycle (EOC). Both reactors are operating at\n100 percent power with all control rods fully withdrawn.\nIf the total reactivity worth of the control rods is the same for both reactors, which reactor will have\nthe smaller K five minutes after a reactor trip, and why?\neff\n-681-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. Reactor A, because the power coefficient is less negative near the BOC.",
-      "B. Reactor A, because the concentration of U-235 in the fuel rods is higher near the BOC.",
-      "C. Reactor B, because the power coefficient is more negative near the EOC.",
-      "D. Reactor B, because the concentration of U-235 in the fuel rods is lower near the EOC."
-    ],
+    "stem": " KNOWLEDGE: K1.09 [2.5/2.7] QID: P1246 (B2048) Which one of the following is a reason for installing excess reactivity (K ) in a reactor? excess NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "To compensate for the conversion of U-238 to Pu-239 during a fuel cycle.",
+      "B": "To compensate for burnout of Xe-135 and Sm-149 during a power increase.",
+      "C": "To ensure the fuel temperature coefficient remains negative during a fuel cycle.",
+      "D": "To compensate for the negative reactivity added by the power coefficient during a power increase. -671- PWR Test Items"
+    },
     "answer": "A"
   },
   {
-    "id": "NEU935",
     "topic": "Neutron Life Cycle",
-    "question": "Reactors A and B are identical except that reactor A is operating near the beginning of a fuel cycle\n(BOC) and reactor B is operating near the end of a fuel cycle (EOC). Both reactors are operating at\n100 percent power with all control rods fully withdrawn.\nIf the total reactivity worth of the control rods is the same for both reactors, which reactor will have\nthe greater K five minutes after a reactor trip, and why?\neff\n-682-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. Reactor A, because the pre-trip reactor coolant boron concentration is lower near the BOC.",
-      "B. Reactor A, because the power coefficient adds less positive reactivity after a trip near the BOC.",
-      "C. Reactor B, because the pre-trip reactor coolant boron concentration is higher near the EOC.",
-      "D. Reactor B, because the power coefficient adds more positive reactivity after a trip near the EOC."
-    ],
-    "answer": "D"
+    "stem": " A reactor is operating at full power at the beginning of a fuel cycle. A neutron has just been absorbed by a U-238 nucleus at a resonance energy of 6.7 electron volts. Which one of the following describes the most likely reaction for the newly formed U-239 nucleus and the effect of this reaction on K ? excess",
+    "choices": {
+      "A": "Decays over several days to Pu-239, which increases K . excess",
+      "B": "Decays over several days to Pu-240, which increases K . excess",
+      "C": "Immediately undergoes fast fission, which decreases K . excess",
+      "D": "Immediately undergoes thermal fission, which decreases K . excess"
+    },
+    "answer": "A"
   },
   {
-    "id": "NEU936",
     "topic": "Neutron Life Cycle",
-    "question": "KNOWLEDGE: K1.14 [3.8/3.9]\nQID: P7757\nA nuclear reactor is shut down with the reactor vessel head removed for refueling. The core is\ncovered by 23 feet of refueling water at 100oF. Source range count rate indicates 100 cps.\nHow will the source range count rate be affected if refueling water temperature increases to 120oF?\nthan offsets the negative effect of a smaller K .\neff\nthe positive effect of a greater K .\neff\nthan offsets the positive effect of a greater K .\neff\nto the negative effect of a smaller K .\neff\n-683-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. The count rate will increase, because the positive effect of increased core neutron leakage more",
-      "B. The count rate will increase, because the positive effect of increased core neutron leakage adds to",
-      "C. The count rate will decrease, because the negative effect of decreased core neutron leakage more",
-      "D. The count rate will decrease, because the negative effect of decreased core neutron leakage adds"
-    ],
-    "answer": "B"
+    "stem": " Which one of the following is a benefit of installing excess reactivity (K ) in a reactor? excess NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "Ensures that sufficient control rod negative reactivity is available to shut down the reactor.",
+      "B": "Ensures that the reactor can be made critical during a peak xenon condition after a reactor trip.",
+      "C": "Ensures that positive reactivity additions result in controllable reactor power responses.",
+      "D": "Ensures that the U-235 fuel enrichment is the same at the beginning and the end of a fuel cycle. -672- PWR Test Items"
+    },
+    "answer": "A"
   },
   {
-    "id": "NEU937",
     "topic": "Neutron Life Cycle",
-    "question": "A reactor is currently operating at steady-state 100 percent power near the beginning of a fuel cycle\n(BOC). When the same reactor is operating at steady-state 100 percent power near the end of a fuel\ncycle (EOC), how will the BOC and EOC shutdown margins compare? Assume the control rods\nare fully withdrawn, and the total reactivity worths of the control rods are the same at BOC and\nEOC.\nreactivity immediately after a reactor trip near the EOC.\nreactivity immediately after a reactor trip near the EOC.\nreactivity immediately after a reactor trip near the EOC.\nreactivity immediately after a reactor trip near the EOC.",
-    "image": "",
-    "choices": [
-      "A. The EOC shutdown margin will be more negative because the power defect will add less positive",
-      "B. The EOC shutdown margin will be less negative because the power defect will add more positive",
-      "C. The EOC shutdown margin will be more negative because xenon-135 will add more negative",
-      "D. The EOC shutdown margin will be less negative because xenon-135 will add less negative"
-    ],
-    "answer": "B"
+    "stem": " KNOWLEDGE: K1.10 [3.2/3.6] QID: P245 (B248) The shutdown margin determination for an operating reactor assumes the complete withdrawal of\u2026",
+    "choices": {
+      "A": "a single control rod of high reactivity worth.",
+      "B": "a symmetrical pair of control rods of high reactivity worth.",
+      "C": "a single control rod of average reactivity worth.",
+      "D": "a symmetrical pair of control rods of average reactivity worth."
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Neutron Life Cycle",
+    "stem": " A reactor is operating at steady-state 100 percent power with manual rod control about three months from the end of a fuel cycle. During the next two weeks of operation at 100 percent power, the available shutdown margin will... (Assume no operator actions are taken.) NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "continuously increase.",
+      "B": "continuously decrease.",
+      "C": "initially increase, and then decrease.",
+      "D": "initially decrease, and then increase. -673- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Neutron Life Cycle",
+    "stem": " Reactivity is defined as the fractional change in...",
+    "choices": {
+      "A": "reactor power per second.",
+      "B": "neutron population per second.",
+      "C": "reactor period from criticality.",
+      "D": "the effective multiplication factor from criticality."
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Neutron Life Cycle",
+    "stem": " Which term is described by the following? \"The fractional change of the effective multiplication factor from criticality.\" NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "1/M",
+      "B": "K eff",
+      "C": "Reactor period",
+      "D": "Reactivity -674- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Neutron Life Cycle",
+    "stem": " With K equal to 0.985, how much reactivity must be added to make the reactor critical? (Round eff answer to the nearest 0.01 %\u0394K/K.)",
+    "choices": {
+      "A": "1.48 %\u0394K/K",
+      "B": "1.50 %\u0394K/K",
+      "C": "1.52 %\u0394K/K",
+      "D": "1.54 %\u0394K/K"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Neutron Life Cycle",
+    "stem": " With K equal to 0.987, how much reactivity must be added to make the reactor critical? (Round eff answer to the nearest 0.01 %\u0394K/K.) NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "1.01 %\u0394K/K",
+      "B": "1.03 %\u0394K/K",
+      "C": "1.30 %\u0394K/K",
+      "D": "1.32 %\u0394K/K -675- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Neutron Life Cycle",
+    "stem": " In a subcritical reactor, K was increased from 0.85 to 0.95 by rod withdrawal. Which one of the eff following is the approximate amount of reactivity that was added to the core?",
+    "choices": {
+      "A": "0.099 \u0394K/K",
+      "B": "0.124 \u0394K/K",
+      "C": "0.176 \u0394K/K",
+      "D": "0.229 \u0394K/K"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Neutron Life Cycle",
+    "stem": " With K equal to 0.982, how much positive reactivity is required to make the reactor critical? eff (Round answer to the nearest 0.01 %\u0394K/K.) NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "1.72 %\u0394K/K",
+      "B": "1.77 %\u0394K/K",
+      "C": "1.80 %\u0394K/K",
+      "D": "1.83 %\u0394K/K -676- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Neutron Life Cycle",
+    "stem": " With K equal to 0.985, how much positive reactivity is required to make the reactor critical? eff (Round answer to the nearest 0.01 %\u0394K/K.)",
+    "choices": {
+      "A": "1.49 %\u0394K/K",
+      "B": "1.50 %\u0394K/K",
+      "C": "1.52 %\u0394K/K",
+      "D": "1.55 %\u0394K/K"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Neutron Life Cycle",
+    "stem": " With K equal to 0.983, how much positive reactivity must be added to make the reactor critical? eff (Round answer to the nearest 0.01 %\u0394K/K.) NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "1.70 %\u0394K/K",
+      "B": "1.73 %\u0394K/K",
+      "C": "3.40 %\u0394K/K",
+      "D": "3.43 %\u0394K/K -677- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Neutron Life Cycle",
+    "stem": " Initially, a reactor was shutdown at a stable power level of 2.0 x 10-5 percent. After a small positive reactivity addition, the current stable power level is 3.0 x 10-5 percent. If the initial K was 0.982, eff what is the current K ? eff",
+    "choices": {
+      "A": "0.988",
+      "B": "0.992",
+      "C": "0.996",
+      "D": "Cannot be determined without additional information."
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Neutron Life Cycle",
+    "stem": " A reactor was operating at steady-state 100 percent power with all control rods fully withdrawn and average coolant temperature (T ) at 588\u00b0F when a reactor trip occurred. ave After the trip, T stabilized at the no-load temperature of 557\u00b0F and all control rods were verified to ave be fully inserted. Given the following information, select the current value of core reactivity. (Assume no operator actions and disregard any reactivity effects of xenon.) Power coefficient = -0.015 %\u0394K/K/percent Control rod worth = -6.918 %\u0394K/K Moderator temperature coefficient = -0.0012 %\u0394K/K/\u00b0F NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "-5.381 %\u0394K/K",
+      "B": "-5.418 %\u0394K/K",
+      "C": "-8.383 %\u0394K/K",
+      "D": "-8.418 %\u0394K/K -678- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Neutron Life Cycle",
+    "stem": " A reactor is operating at steady-state 90 percent power with all control rods fully withdrawn and average coolant temperature (T ) at 580\u00b0F. A reactor trip occurs, after which T stabilizes at the ave ave no-load temperature of 550\u00b0F and all control rods are verified to be fully inserted. Given the following information, calculate the current value of core reactivity. (Assume no operator actions and disregard any reactivity effects of changes in xenon-135.) Power coefficient = -0.01 %\u0394K/K/percent Control rod worth = -6.918 %\u0394K/K Moderator temperature coefficient = -0.01 %\u0394K/K/\u00b0F NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "-5.718 %\u0394K/K",
+      "B": "-6.018 %\u0394K/K",
+      "C": "-7.518 %\u0394K/K",
+      "D": "-7.818 %\u0394K/K -679- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Neutron Life Cycle",
+    "stem": " Reactors A and B are identical except that reactor A is operating at steady-state 80 percent power, while reactor B is operating at steady-state 100 percent power. Initial control rod positions are the same for both reactors. How will the shutdown margins (SDM) compare for the two reactors following a reactor trip? (Assume no post-trip operator actions are taken that would affect SDM.) NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "Immediately after the reactor trip, reactor A will have the greater SDM.",
+      "B": "Immediately after the reactor trip, reactor B will have the greater SDM.",
+      "C": "When sufficient time has passed to allow both cores to become xenon-free, the SDMs will be equal.",
+      "D": "Within a few minutes after the reactors have tripped, when all parameters have returned to normal post-trip conditions, the SDMs will be equal. -680- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Neutron Life Cycle",
+    "stem": " A reactor is initially operating at steady-state 60 percent power near the end of a fuel cycle when a fully withdrawn control rod suddenly inserts completely into the core. No operator action is taken and the plant control systems stabilize the reactor at a power level in the power range. Compared to the initial available shutdown margin (SDM), the current available SDM is __________; and compared to the initial core K , the current core K is __________. eff eff",
+    "choices": {
+      "A": "the same; smaller",
+      "B": "the same; the same",
+      "C": "less negative; smaller",
+      "D": "less negative; the same"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Neutron Life Cycle",
+    "stem": " Reactors A and B are identical except that reactor A is operating near the beginning of a fuel cycle (BOC) and reactor B is operating near the end of a fuel cycle (EOC). Both reactors are operating at 100 percent power with all control rods fully withdrawn. If the total reactivity worth of the control rods is the same for both reactors, which reactor will have the smaller K five minutes after a reactor trip, and why? eff NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "Reactor A, because the power coefficient is less negative near the BOC.",
+      "B": "Reactor A, because the concentration of U-235 in the fuel rods is higher near the BOC.",
+      "C": "Reactor B, because the power coefficient is more negative near the EOC.",
+      "D": "Reactor B, because the concentration of U-235 in the fuel rods is lower near the EOC. -681- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Neutron Life Cycle",
+    "stem": " Reactors A and B are identical except that reactor A is operating near the beginning of a fuel cycle (BOC) and reactor B is operating near the end of a fuel cycle (EOC). Both reactors are operating at 100 percent power with all control rods fully withdrawn. If the total reactivity worth of the control rods is the same for both reactors, which reactor will have the greater K five minutes after a reactor trip, and why? eff NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "Reactor A, because the pre-trip reactor coolant boron concentration is lower near the BOC.",
+      "B": "Reactor A, because the power coefficient adds less positive reactivity after a trip near the BOC.",
+      "C": "Reactor B, because the pre-trip reactor coolant boron concentration is higher near the EOC.",
+      "D": "Reactor B, because the power coefficient adds more positive reactivity after a trip near the EOC. -682- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Neutron Life Cycle",
+    "stem": " KNOWLEDGE: K1.14 [3.8/3.9] QID: P7757 A nuclear reactor is shut down with the reactor vessel head removed for refueling. The core is covered by 23 feet of refueling water at 100oF. Source range count rate indicates 100 cps. How will the source range count rate be affected if refueling water temperature increases to 120oF? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "The count rate will increase, because the positive effect of increased core neutron leakage more than offsets the negative effect of a smaller K . eff",
+      "B": "The count rate will increase, because the positive effect of increased core neutron leakage adds to the positive effect of a greater K . eff",
+      "C": "The count rate will decrease, because the negative effect of decreased core neutron leakage more than offsets the positive effect of a greater K . eff",
+      "D": "The count rate will decrease, because the negative effect of decreased core neutron leakage adds to the negative effect of a smaller K . eff -683- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Neutron Life Cycle",
+    "stem": " A reactor is currently operating at steady-state 100 percent power near the beginning of a fuel cycle (BOC). When the same reactor is operating at steady-state 100 percent power near the end of a fuel cycle (EOC), how will the BOC and EOC shutdown margins compare? Assume the control rods are fully withdrawn, and the total reactivity worths of the control rods are the same at BOC and EOC.",
+    "choices": {
+      "A": "The EOC shutdown margin will be more negative because the power defect will add less positive reactivity immediately after a reactor trip near the EOC.",
+      "B": "The EOC shutdown margin will be less negative because the power defect will add more positive reactivity immediately after a reactor trip near the EOC.",
+      "C": "The EOC shutdown margin will be more negative because xenon-135 will add more negative reactivity immediately after a reactor trip near the EOC.",
+      "D": "The EOC shutdown margin will be less negative because xenon-135 will add less negative reactivity immediately after a reactor trip near the EOC."
+    },
+    "answer": "A"
   }
 ]

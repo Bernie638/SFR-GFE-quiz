@@ -1,314 +1,266 @@
 [
   {
-    "id": "THE1161",
     "topic": "Thermodynamic Units and Properties",
-    "question": "An atmospheric pressure of 15.0 psia is equivalent to...",
-    "image": "",
-    "choices": [
-      "A. 30.0 psig.",
-      "B. 29.4 psig.",
-      "C. 14.7 psig.",
-      "D. 0.0 psig."
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "THE1162",
-    "topic": "Thermodynamic Units and Properties",
-    "question": "A pressure gauge on a condenser reads 27.0 inches Hg vacuum. What is the absolute pressure\ncorresponding to this vacuum? (Assume a standard atmospheric pressure of 15.0 psia.)\n-821-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. 14.0 psia",
-      "B. 13.5 psia",
-      "C. 1.5 psia",
-      "D. 1.0 psia"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "THE1163",
-    "topic": "Thermodynamic Units and Properties",
-    "question": "Assuming a standard atmospheric pressure of 15.0 psia, 5.0 inches Hg vacuum is equivalent to...",
-    "image": "",
-    "choices": [
-      "A. 2.5 psia.",
-      "B. 5.0 psia.",
-      "C. 10.0 psia.",
-      "D. 12.5 psia."
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "THE1164",
-    "topic": "Thermodynamic Units and Properties",
-    "question": "If a pressure gauge reads 900 psig, what is the absolute pressure?\n-822-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. 870 psia",
-      "B. 885 psia",
-      "C. 915 psia",
-      "D. 930 psia"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "THE1165",
-    "topic": "Thermodynamic Units and Properties",
-    "question": "Which one of the following is equivalent to 5 psia?",
-    "image": "",
-    "choices": [
-      "A. 20 psig",
-      "B. 10 psig",
-      "C. 10 inches of mercury (Hg) vacuum",
-      "D. 20 inches of mercury (Hg) vacuum"
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "THE1166",
-    "topic": "Thermodynamic Units and Properties",
-    "question": "Which one of the following is arranged from the lowest pressure to the highest pressure?\n-823-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. 8 psia, 20 inches Hg absolute, 2 psig",
-      "B. 8 psia, 2 psig, 20 inches Hg absolute",
-      "C. 20 inches Hg absolute, 2 psig, 8 psia",
-      "D. 20 inches Hg absolute, 8 psia, 2 psig"
-    ],
+    "stem": " An atmospheric pressure of 15.0 psia is equivalent to...",
+    "choices": {
+      "A": "30.0 psig.",
+      "B": "29.4 psig.",
+      "C": "14.7 psig.",
+      "D": "0.0 psig."
+    },
     "answer": "A"
   },
   {
-    "id": "THE1167",
     "topic": "Thermodynamic Units and Properties",
-    "question": "Which one of the following is arranged from the highest pressure to the lowest pressure?",
-    "image": "",
-    "choices": [
-      "A. 2 psig, 20 inches Hg absolute, 8 psia",
-      "B. 2 psig, 8 psia, 20 inches Hg absolute",
-      "C. 8 psia, 20 inches Hg absolute, 2 psig",
-      "D. 8 psia, 2 psig, 20 inches Hg absolute"
-    ],
+    "stem": " A pressure gauge on a condenser reads 27.0 inches Hg vacuum. What is the absolute pressure corresponding to this vacuum? (Assume a standard atmospheric pressure of 15.0 psia.) NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "14.0 psia",
+      "B": "13.5 psia",
+      "C": "1.5 psia",
+      "D": "1.0 psia -821- PWR Test Items"
+    },
     "answer": "A"
   },
   {
-    "id": "THE1168",
     "topic": "Thermodynamic Units and Properties",
-    "question": "Which one of the following is approximately equivalent to 2 psig?\n-824-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. 11 psia",
-      "B. 13 psia",
-      "C. 15 psia",
-      "D. 17 psia"
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "THE1169",
-    "topic": "Thermodynamic Units and Properties",
-    "question": "Which one of the following is arranged from the lowest pressure to the highest pressure?",
-    "image": "",
-    "choices": [
-      "A. 2 psig, 12 inches Hg absolute, 8 psia",
-      "B. 2 psig, 18 inches Hg absolute, 8 psia",
-      "C. 12 psia, 20 inches Hg absolute, 2 psig",
-      "D. 12 psia, 30 inches Hg absolute, 2 psig"
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "THE1170",
-    "topic": "Thermodynamic Units and Properties",
-    "question": "Which one of the following is the approximate condenser vacuum when condenser pressure is 16\ninches Hg absolute?\n-825-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. 4 inches Hg vacuum",
-      "B. 8 inches Hg vacuum",
-      "C. 12 inches Hg vacuum",
-      "D. 14 inches Hg vacuum"
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "THE1171",
-    "topic": "Thermodynamic Units and Properties",
-    "question": "Which one of the following is arranged left-to-right from the highest pressure to the lowest pressure?\n-826-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. 2 psig, 12 inches Hg absolute, 8 psia",
-      "B. 2 psig, 18 inches Hg absolute, 8 psia",
-      "C. 12 psia, 20 inches Hg absolute, 2 psig",
-      "D. 12 psia, 30 inches Hg absolute, 2 psig"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "THE1172",
-    "topic": "Thermodynamic Units and Properties",
-    "question": "Refer to the drawing of two water storage tanks with four differential pressure (D/P) level detectors\n(see figure below).\nThe tanks are identical and are being maintained at the same constant water level with 17 psia gas\npressure above the water. The tanks are surrounded by standard atmospheric pressure. The\ntemperature of the water in the tanks and reference legs is 70\u00b0F.\nWhich one of the level detectors is sensing the greatest D/P?\n-827-\nPWR Test Items",
-    "image": "page827_img1.jpeg",
-    "choices": [
-      "A. No. 1",
-      "B. No. 2",
-      "C. No. 3",
-      "D. No. 4"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "THE1173",
-    "topic": "Thermodynamic Units and Properties",
-    "question": "A closed water tank is pressurized with nitrogen. A differential pressure detector is used to measure\nthe tank water level.\nTo achieve the most accurate water level measurement, the low pressure side of the detector should\nsense which one of the following?\n-828-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. The pressure at the midline of the tank.",
-      "B. The pressure of the atmosphere surrounding the tank.",
-      "C. The pressure of a column of water external to the tank.",
-      "D. The pressure of the gas space at the top of the tank."
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "THE1174",
-    "topic": "Thermodynamic Units and Properties",
-    "question": "Refer to the drawing of two water storage tanks with four differential pressure (D/P) level detectors\n(see figure below).\nThe tanks are identical and are being maintained at 17 psia gas pressure. The tanks are located in a\nbuilding that is currently at atmospheric pressure. All level detectors are producing level indications\nof 70 percent.\nIf a malfunction in the building ventilation system decreases the pressure surrounding the tanks, which\nlevel detectors will produce the lowest level indications?\n-829-\nPWR Test Items",
-    "image": "page829_img1.jpeg",
-    "choices": [
-      "A. 1 and 3",
-      "B. 1 and 4",
-      "C. 2 and 3",
-      "D. 2 and 4"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "THE1175",
-    "topic": "Thermodynamic Units and Properties",
-    "question": "Refer to the drawing of two water storage tanks with four differential pressure (D/P) level detectors\n(see figure below).\nThe tanks are identical and are being maintained at 2 psig overpressure, the same constant water\nlevel, and a temperature of 60\u00b0F. They are surrounded by atmospheric pressure.\nIf a leak in the top of each tank causes a complete loss of overpressure, which detector(s) will\nproduce a lower level indication?\n-830-\nPWR Test Items",
-    "image": "page830_img1.jpeg",
-    "choices": [
-      "A. No. 1 only",
-      "B. No. 2 only",
-      "C. No. 1 and 4",
-      "D. No. 2 and 3"
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "THE1176",
-    "topic": "Thermodynamic Units and Properties",
-    "question": "Refer to the drawing of a water-filled manometer (see figure below).\nThe manometer is installed across an orifice in a ventilation duct to determine the direction of\nairflow. With the manometer conditions as shown, the pressure at P1 is __________ than P2; and\nthe direction of airflow is __________.\n-831-\nPWR Test Items",
-    "image": "page831_img1.jpeg",
-    "choices": [
-      "A. greater; left to right",
-      "B. greater; right to left",
-      "C. less; left to right",
-      "D. less; right to left"
-    ],
+    "stem": " Assuming a standard atmospheric pressure of 15.0 psia, 5.0 inches Hg vacuum is equivalent to...",
+    "choices": {
+      "A": "2.5 psia.",
+      "B": "5.0 psia.",
+      "C": "10.0 psia.",
+      "D": "12.5 psia."
+    },
     "answer": "A"
   },
   {
-    "id": "THE1177",
     "topic": "Thermodynamic Units and Properties",
-    "question": "Refer to the drawing of two water storage tanks with four differential pressure (D/P) level detectors\n(see figure below).\nThe tanks are identical with equal water levels and 20 psia gas pressure above the water. The tanks\nare surrounded by standard atmospheric pressure. The temperature of the water in the tanks and\nreference legs is 70\u00b0F.\nIf each detector experiences a ruptured diaphragm, which detector(s) will produce a reduced level\nindication? (Assume that actual tank and reference leg water levels do not change.)\n-832-\nPWR Test Items",
-    "image": "page832_img1.jpeg",
-    "choices": [
-      "A. No. 1 only",
-      "B. No. 2 only",
-      "C. No. 1, 2, and 3",
-      "D. No. 2, 3, and 4"
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "THE1178",
-    "topic": "Thermodynamic Units and Properties",
-    "question": "Refer to the drawing of a water-filled manometer (see figure below).\nThe manometer is installed across an orifice in a ventilation duct to determine the direction of\nairflow. With the manometer conditions as shown, the pressure at P1 is __________ than P2; and\nthe direction of airflow is __________.\n-833-\nPWR Test Items",
-    "image": "page833_img1.jpeg",
-    "choices": [
-      "A. less; right to left",
-      "B. less; left to right",
-      "C. greater; right to left",
-      "D. greater; left to right"
-    ],
+    "stem": " If a pressure gauge reads 900 psig, what is the absolute pressure? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "870 psia",
+      "B": "885 psia",
+      "C": "915 psia",
+      "D": "930 psia -822- PWR Test Items"
+    },
     "answer": "A"
   },
   {
-    "id": "THE1179",
     "topic": "Thermodynamic Units and Properties",
-    "question": "A water storage tank is vented to atmosphere. The tank is located at sea level and contains 100,000\ngallons of 80\u00b0F water. A pressure gauge at the bottom of the tank reads 5.6 psig. What is the\napproximate water level in the tank?\n-834-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. 13 feet",
-      "B. 17 feet",
-      "C. 21 feet",
-      "D. 25 feet"
-    ],
+    "stem": " Which one of the following is equivalent to 5 psia?",
+    "choices": {
+      "A": "20 psig",
+      "B": "10 psig",
+      "C": "10 inches of mercury (Hg) vacuum",
+      "D": "20 inches of mercury (Hg) vacuum"
+    },
     "answer": "A"
   },
   {
-    "id": "THE1180",
     "topic": "Thermodynamic Units and Properties",
-    "question": "Refer to the drawing of a tank with a differential pressure (D/P) level detector (see figure below).\nIf the tank contains 30 feet of water at 60\u00b0F, what is the approximate D/P sensed by the detector?\n-835-\nPWR Test Items",
-    "image": "page835_img1.png",
-    "choices": [
-      "A. 7 psid",
-      "B. 13 psid",
-      "C. 20 psid",
-      "D. 28 psid"
-    ],
-    "answer": "B"
+    "stem": " Which one of the following is arranged from the lowest pressure to the highest pressure? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "8 psia, 20 inches Hg absolute, 2 psig",
+      "B": "8 psia, 2 psig, 20 inches Hg absolute",
+      "C": "20 inches Hg absolute, 2 psig, 8 psia",
+      "D": "20 inches Hg absolute, 8 psia, 2 psig -823- PWR Test Items"
+    },
+    "answer": "A"
   },
   {
-    "id": "THE1181",
     "topic": "Thermodynamic Units and Properties",
-    "question": "A water storage tank is vented to atmosphere. The tank is located at sea level and contains 100,000\ngallons of water at 80\u00b0F. A pressure gauge at the bottom of the tank reads 7.3 psig. What is the\napproximate water level in the tank?",
-    "image": "",
-    "choices": [
-      "A. 13 feet",
-      "B. 17 feet",
-      "C. 21 feet",
-      "D. 25 feet"
-    ],
-    "answer": "B"
+    "stem": " Which one of the following is arranged from the highest pressure to the lowest pressure?",
+    "choices": {
+      "A": "2 psig, 20 inches Hg absolute, 8 psia",
+      "B": "2 psig, 8 psia, 20 inches Hg absolute",
+      "C": "8 psia, 20 inches Hg absolute, 2 psig",
+      "D": "8 psia, 2 psig, 20 inches Hg absolute"
+    },
+    "answer": "A"
   },
   {
-    "id": "THE1182",
     "topic": "Thermodynamic Units and Properties",
-    "question": "A water storage tank is vented to atmosphere. The tank is located at sea level and contains 100,000\ngallons of water at 80\u00b0F. A pressure gauge at the bottom of the tank reads 9.0 psig. What is the\napproximate water level in the tank?\n-836-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. 13 feet",
-      "B. 17 feet",
-      "C. 21 feet",
-      "D. 25 feet"
-    ],
-    "answer": "C"
+    "stem": " Which one of the following is approximately equivalent to 2 psig? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "11 psia",
+      "B": "13 psia",
+      "C": "15 psia",
+      "D": "17 psia -824- PWR Test Items"
+    },
+    "answer": "A"
   },
   {
-    "id": "THE1183",
     "topic": "Thermodynamic Units and Properties",
-    "question": "Refer to the drawing of two water storage tanks with four differential pressure (D/P) level detectors\n(see figure below).\nThe tanks are identical and are being maintained at 2 psig overpressure, the same constant water\nlevel, and a temperature of 60\u00b0F. The tanks are surrounded by atmospheric pressure. All level\ndetectors have been calibrated and are producing the same level indication.\nIf a leak in the top of each tank causes a complete loss of overpressure in both tanks, which\ndetector(s) will produce the highest level indication(s)?\n-837-\nPWR Test Items",
-    "image": "page837_img1.jpeg",
-    "choices": [
-      "A. No. 1 only",
-      "B. No. 2 only",
-      "C. No. 1 and 4",
-      "D. No. 2 and 3"
-    ],
-    "answer": "C"
+    "stem": " Which one of the following is arranged from the lowest pressure to the highest pressure?",
+    "choices": {
+      "A": "2 psig, 12 inches Hg absolute, 8 psia",
+      "B": "2 psig, 18 inches Hg absolute, 8 psia",
+      "C": "12 psia, 20 inches Hg absolute, 2 psig",
+      "D": "12 psia, 30 inches Hg absolute, 2 psig"
+    },
+    "answer": "A"
   },
   {
-    "id": "THE1184",
     "topic": "Thermodynamic Units and Properties",
-    "question": "Refer to the drawing of an open water storage tank with a differential pressure (D/P) level indicator\nthat is vented to atmosphere (see figure below). Both the tank and the level indicator are\nsurrounded by standard atmospheric pressure. Tank water temperature is 70\u00b0F.\nThe D/P level indicator is sensing a differential pressure of 4.0 psi. What is the water level in the\ntank above the instrument penetration?\n-838-\nPWR Test Items",
-    "image": "page838_img1.jpeg",
-    "choices": [
-      "A. 9.2 feet",
-      "B. 16.7 feet",
-      "C. 24.7 feet",
-      "D. 43.2 feet"
-    ],
+    "stem": " Which one of the following is the approximate condenser vacuum when condenser pressure is 16 inches Hg absolute? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "4 inches Hg vacuum",
+      "B": "8 inches Hg vacuum",
+      "C": "12 inches Hg vacuum",
+      "D": "14 inches Hg vacuum -825- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Thermodynamic Units and Properties",
+    "stem": " Which one of the following is arranged left-to-right from the highest pressure to the lowest pressure? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "2 psig, 12 inches Hg absolute, 8 psia",
+      "B": "2 psig, 18 inches Hg absolute, 8 psia",
+      "C": "12 psia, 20 inches Hg absolute, 2 psig",
+      "D": "12 psia, 30 inches Hg absolute, 2 psig -826- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Thermodynamic Units and Properties",
+    "stem": " Refer to the drawing of two water storage tanks with four differential pressure (D/P) level detectors (see figure below). The tanks are identical and are being maintained at the same constant water level with 17 psia gas pressure above the water. The tanks are surrounded by standard atmospheric pressure. The temperature of the water in the tanks and reference legs is 70\u00b0F. Which one of the level detectors is sensing the greatest D/P? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "No. 1",
+      "B": "No. 2",
+      "C": "No. 3",
+      "D": "No. 4 -827- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Thermodynamic Units and Properties",
+    "stem": " A closed water tank is pressurized with nitrogen. A differential pressure detector is used to measure the tank water level. To achieve the most accurate water level measurement, the low pressure side of the detector should sense which one of the following? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "The pressure at the midline of the tank.",
+      "B": "The pressure of the atmosphere surrounding the tank.",
+      "C": "The pressure of a column of water external to the tank.",
+      "D": "The pressure of the gas space at the top of the tank. -828- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Thermodynamic Units and Properties",
+    "stem": " Refer to the drawing of two water storage tanks with four differential pressure (D/P) level detectors (see figure below). The tanks are identical and are being maintained at 17 psia gas pressure. The tanks are located in a building that is currently at atmospheric pressure. All level detectors are producing level indications of 70 percent. If a malfunction in the building ventilation system decreases the pressure surrounding the tanks, which level detectors will produce the lowest level indications? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "1 and 3",
+      "B": "1 and 4",
+      "C": "2 and 3",
+      "D": "2 and 4 -829- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Thermodynamic Units and Properties",
+    "stem": " Refer to the drawing of two water storage tanks with four differential pressure (D/P) level detectors (see figure below). The tanks are identical and are being maintained at 2 psig overpressure, the same constant water level, and a temperature of 60\u00b0F. They are surrounded by atmospheric pressure. If a leak in the top of each tank causes a complete loss of overpressure, which detector(s) will produce a lower level indication? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "No. 1 only",
+      "B": "No. 2 only",
+      "C": "No. 1 and 4",
+      "D": "No. 2 and 3 -830- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Thermodynamic Units and Properties",
+    "stem": " Refer to the drawing of a water-filled manometer (see figure below). The manometer is installed across an orifice in a ventilation duct to determine the direction of airflow. With the manometer conditions as shown, the pressure at P1 is __________ than P2; and the direction of airflow is __________. NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "greater; left to right",
+      "B": "greater; right to left",
+      "C": "less; left to right",
+      "D": "less; right to left -831- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Thermodynamic Units and Properties",
+    "stem": " Refer to the drawing of two water storage tanks with four differential pressure (D/P) level detectors (see figure below). The tanks are identical with equal water levels and 20 psia gas pressure above the water. The tanks are surrounded by standard atmospheric pressure. The temperature of the water in the tanks and reference legs is 70\u00b0F. If each detector experiences a ruptured diaphragm, which detector(s) will produce a reduced level indication? (Assume that actual tank and reference leg water levels do not change.) NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "No. 1 only",
+      "B": "No. 2 only",
+      "C": "No. 1, 2, and 3",
+      "D": "No. 2, 3, and 4 -832- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Thermodynamic Units and Properties",
+    "stem": " Refer to the drawing of a water-filled manometer (see figure below). The manometer is installed across an orifice in a ventilation duct to determine the direction of airflow. With the manometer conditions as shown, the pressure at P1 is __________ than P2; and the direction of airflow is __________. NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "less; right to left",
+      "B": "less; left to right",
+      "C": "greater; right to left",
+      "D": "greater; left to right -833- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Thermodynamic Units and Properties",
+    "stem": " A water storage tank is vented to atmosphere. The tank is located at sea level and contains 100,000 gallons of 80\u00b0F water. A pressure gauge at the bottom of the tank reads 5.6 psig. What is the approximate water level in the tank? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "13 feet",
+      "B": "17 feet",
+      "C": "21 feet",
+      "D": "25 feet -834- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Thermodynamic Units and Properties",
+    "stem": " Refer to the drawing of a tank with a differential pressure (D/P) level detector (see figure below). If the tank contains 30 feet of water at 60\u00b0F, what is the approximate D/P sensed by the detector? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "7 psid",
+      "B": "13 psid",
+      "C": "20 psid",
+      "D": "28 psid -835- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Thermodynamic Units and Properties",
+    "stem": " A water storage tank is vented to atmosphere. The tank is located at sea level and contains 100,000 gallons of water at 80\u00b0F. A pressure gauge at the bottom of the tank reads 7.3 psig. What is the approximate water level in the tank?",
+    "choices": {
+      "A": "13 feet",
+      "B": "17 feet",
+      "C": "21 feet",
+      "D": "25 feet"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Thermodynamic Units and Properties",
+    "stem": " A water storage tank is vented to atmosphere. The tank is located at sea level and contains 100,000 gallons of water at 80\u00b0F. A pressure gauge at the bottom of the tank reads 9.0 psig. What is the approximate water level in the tank? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "13 feet",
+      "B": "17 feet",
+      "C": "21 feet",
+      "D": "25 feet -836- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Thermodynamic Units and Properties",
+    "stem": " Refer to the drawing of two water storage tanks with four differential pressure (D/P) level detectors (see figure below). The tanks are identical and are being maintained at 2 psig overpressure, the same constant water level, and a temperature of 60\u00b0F. The tanks are surrounded by atmospheric pressure. All level detectors have been calibrated and are producing the same level indication. If a leak in the top of each tank causes a complete loss of overpressure in both tanks, which detector(s) will produce the highest level indication(s)? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "No. 1 only",
+      "B": "No. 2 only",
+      "C": "No. 1 and 4",
+      "D": "No. 2 and 3 -837- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Thermodynamic Units and Properties",
+    "stem": " Refer to the drawing of an open water storage tank with a differential pressure (D/P) level indicator that is vented to atmosphere (see figure below). Both the tank and the level indicator are surrounded by standard atmospheric pressure. Tank water temperature is 70\u00b0F. The D/P level indicator is sensing a differential pressure of 4.0 psi. What is the water level in the tank above the instrument penetration? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "9.2 feet",
+      "B": "16.7 feet",
+      "C": "24.7 feet",
+      "D": "43.2 feet -838- PWR Test Items"
+    },
     "answer": "A"
   }
 ]

@@ -1,249 +1,200 @@
 [
   {
-    "id": "COR1305",
     "topic": "Core Thermal Limits",
-    "question": "A PWR core consists of 50,000 fuel rods; each fuel rod has an active length of 12 feet. The core is\nproducing 1,800 MW of thermal power. If the total heat flux hot channel factor (also called the\ntotal core peaking factor) is 2.0, what is the maximum linear power density being produced in the\ncore?",
-    "image": "",
-    "choices": [
-      "A. 4.5 kW/ft",
-      "B. 6.0 kW/ft",
-      "C. 9.0 kW/ft",
-      "D. 12.0 kW/ft"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "COR1306",
-    "topic": "Core Thermal Limits",
-    "question": "A PWR core consists of 50,000 fuel rods; each fuel rod has an active length of 12 feet. The core is\nproducing 1,800 MW of thermal power. If the total heat flux hot channel factor (also called the\ntotal core peaking factor) is 1.5, what is the maximum linear power density being produced in the\ncore?\n-918-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. 4.5 kW/ft",
-      "B. 6.0 kW/ft",
-      "C. 9.0 kW/ft",
-      "D. 12.0 kW/ft"
-    ],
+    "stem": " A PWR core consists of 50,000 fuel rods; each fuel rod has an active length of 12 feet. The core is producing 1,800 MW of thermal power. If the total heat flux hot channel factor (also called the total core peaking factor) is 2.0, what is the maximum linear power density being produced in the core?",
+    "choices": {
+      "A": "4.5 kW/ft",
+      "B": "6.0 kW/ft",
+      "C": "9.0 kW/ft",
+      "D": "12.0 kW/ft"
+    },
     "answer": "A"
   },
   {
-    "id": "COR1307",
     "topic": "Core Thermal Limits",
-    "question": "A PWR core consists of 50,000 fuel rods; each fuel rod has an active length of 12 feet. The core is\nproducing 1,800 MW of thermal power. If the total heat flux hot channel factor (also called the\ntotal core peaking factor) is 3.0, what is the maximum linear power density being produced in the\ncore?\n-919-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. 4.5 kW/ft",
-      "B. 6.0 kW/ft",
-      "C. 9.0 kW/ft",
-      "D. 12.0 kW/ft"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "COR1308",
-    "topic": "Core Thermal Limits",
-    "question": "A reactor is operating at 3,400 MW thermal power. The core linear power density limit is 12.2\nkW/ft.\nGiven:\n\uf0b7 The reactor core contains 198 fuel assemblies.\n\uf0b7 Each fuel assembly contains 262 fuel rods, each with an active length of 12 feet.\n\uf0b7 The highest total peaking factors measured in the core are as follows:\nLocation A: 2.5\nLocation B: 2.4\nLocation C: 2.3\nLocation D: 2.2\nWhich one of the following describes the operating conditions in the core relative to the linear power\ndensity limit?\nbelow the limit.\noperating below the limit.\nbelow the limit.\n-920-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. All locations in the core are operating below the linear power density limit.",
-      "B. Location A has exceeded the linear power density limit while locations B, C, and D are operating",
-      "C. Locations A and B have exceeded the linear power density limit while locations C and D are",
-      "D. Locations A, B, and C have exceeded the linear power density limit while location D is operating"
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "COR1309",
-    "topic": "Core Thermal Limits",
-    "question": "A reactor is operating at 3,300 MW thermal power. The core linear power density limit is 12.4\nkW/ft.\nGiven:\n\uf0b7 The reactor core contains 198 fuel assemblies.\n\uf0b7 Each fuel assembly contains 262 fuel rods, each with an active length of 12 feet.\n\uf0b7 The highest total peaking factors measured in the core are as follows:\nLocation A: 2.5\nLocation B: 2.4\nLocation C: 2.3\nLocation D: 2.2\nWhich one of the following describes the operating conditions in the core relative to the linear power\ndensity limit?\nbelow the limit.\noperating below the limit.\nbelow the limit.\n-921-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. All locations in the core are operating below the linear power density limit.",
-      "B. Location A has exceeded the linear power density limit while locations B, C, and D are operating",
-      "C. Locations A and B have exceeded the linear power density limit while locations C and D are",
-      "D. Locations A, B, and C have exceeded the linear power density limit while location D is operating"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "COR1310",
-    "topic": "Core Thermal Limits",
-    "question": "What is the basis for the limit on maximum linear power density (kW/ft)?",
-    "image": "",
-    "choices": [
-      "A. To provide assurance of fuel integrity.",
-      "B. To prevent xenon-135 oscillations.",
-      "C. To allow for fuel pellet manufacturing tolerances.",
-      "D. To prevent nucleate boiling."
-    ],
+    "stem": " A PWR core consists of 50,000 fuel rods; each fuel rod has an active length of 12 feet. The core is producing 1,800 MW of thermal power. If the total heat flux hot channel factor (also called the total core peaking factor) is 1.5, what is the maximum linear power density being produced in the core? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "4.5 kW/ft",
+      "B": "6.0 kW/ft",
+      "C": "9.0 kW/ft",
+      "D": "12.0 kW/ft -918- PWR Test Items"
+    },
     "answer": "A"
   },
   {
-    "id": "COR1311",
     "topic": "Core Thermal Limits",
-    "question": "If a reactor is operated within the core thermal limits, then...\n-922-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. plant thermal efficiency is optimized.",
-      "B. fuel cladding integrity is ensured.",
-      "C. pressurized thermal shock will be prevented.",
-      "D. reactor vessel thermal stresses will be minimized."
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "COR1312",
-    "topic": "Core Thermal Limits",
-    "question": "During normal operation, fuel cladding integrity is ensured by...",
-    "image": "",
-    "choices": [
-      "A. the primary system relief valves.",
-      "B. core bypass flow restrictions.",
-      "C. the secondary system relief valves.",
-      "D. operating within core thermal limits."
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "COR1313",
-    "topic": "Core Thermal Limits",
-    "question": "Maximum fuel cladding integrity is maintained by...\n-923-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. always operating below 110 percent of reactor coolant system design pressure.",
-      "B. actuation of the reactor protection system upon a reactor accident.",
-      "C. ensuring that actual heat flux is always less than critical heat flux.",
-      "D. ensuring operation above the critical heat flux during all operating conditions."
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "COR1314",
-    "topic": "Core Thermal Limits",
-    "question": "Peaking (or hot channel) factors are used to establish a maximum reactor power level such that fuel\ncladding temperature is limited to prevent __________ of the fuel cladding during most analyzed\ntransients and abnormal conditions.\n-924-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. melting",
-      "B. excessive oxidation",
-      "C. excessive chemical interaction",
-      "D. excessive mechanical interaction"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "COR1315",
-    "topic": "Core Thermal Limits",
-    "question": "Reactor thermal limits are established to...",
-    "image": "",
-    "choices": [
-      "A. ensure the integrity of the reactor fuel.",
-      "B. prevent exceeding reactor vessel mechanical limitations.",
-      "C. minimize the coolant temperature rise across the core.",
-      "D. establish control rod insertion limits."
-    ],
+    "stem": " A PWR core consists of 50,000 fuel rods; each fuel rod has an active length of 12 feet. The core is producing 1,800 MW of thermal power. If the total heat flux hot channel factor (also called the total core peaking factor) is 3.0, what is the maximum linear power density being produced in the core? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "4.5 kW/ft",
+      "B": "6.0 kW/ft",
+      "C": "9.0 kW/ft",
+      "D": "12.0 kW/ft -919- PWR Test Items"
+    },
     "answer": "A"
   },
   {
-    "id": "COR1316",
     "topic": "Core Thermal Limits",
-    "question": "Thermal limits are established to protect the reactor, and thereby protect the public during nuclear\npower plant operations, which include...\n-925-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. normal operations only.",
-      "B. normal and abnormal operations only.",
-      "C. normal, abnormal, and postulated accident operations only.",
-      "D. normal, abnormal, postulated and unpostulated accident operations."
-    ],
-    "answer": "C"
+    "stem": " A reactor is operating at 3,400 MW thermal power. The core linear power density limit is 12.2 kW/ft. Given: \uf0b7 The reactor core contains 198 fuel assemblies. \uf0b7 Each fuel assembly contains 262 fuel rods, each with an active length of 12 feet. \uf0b7 The highest total peaking factors measured in the core are as follows: Location A: 2.5 Location B: 2.4 Location C: 2.3 Location D: 2.2 Which one of the following describes the operating conditions in the core relative to the linear power density limit? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "All locations in the core are operating below the linear power density limit.",
+      "B": "Location A has exceeded the linear power density limit while locations B, C, and D are operating below the limit.",
+      "C": "Locations A and B have exceeded the linear power density limit while locations C and D are operating below the limit.",
+      "D": "Locations A, B, and C have exceeded the linear power density limit while location D is operating below the limit. -920- PWR Test Items"
+    },
+    "answer": "A"
   },
   {
-    "id": "COR1317",
     "topic": "Core Thermal Limits",
-    "question": "Which one of the following describes the basis for the 2,200\u00b0F maximum fuel cladding temperature\nlimit?\nindicates that the critical heat flux has been exceeded.\n-926-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. 2,200\u00b0F is approximately 500\u00b0F below the fuel cladding melting temperature.",
-      "B. The material strength of cladding decreases rapidly at temperatures above 2,200\u00b0F.",
-      "C. The rate of the cladding reaction increases significantly at temperatures above 2,200\u00b0F.",
-      "D. At the normal operating pressure of the reactor vessel, a cladding temperature above 2,200\u00b0F"
-    ],
-    "answer": "C"
+    "stem": " A reactor is operating at 3,300 MW thermal power. The core linear power density limit is 12.4 kW/ft. Given: \uf0b7 The reactor core contains 198 fuel assemblies. \uf0b7 Each fuel assembly contains 262 fuel rods, each with an active length of 12 feet. \uf0b7 The highest total peaking factors measured in the core are as follows: Location A: 2.5 Location B: 2.4 Location C: 2.3 Location D: 2.2 Which one of the following describes the operating conditions in the core relative to the linear power density limit? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "All locations in the core are operating below the linear power density limit.",
+      "B": "Location A has exceeded the linear power density limit while locations B, C, and D are operating below the limit.",
+      "C": "Locations A and B have exceeded the linear power density limit while locations C and D are operating below the limit.",
+      "D": "Locations A, B, and C have exceeded the linear power density limit while location D is operating below the limit. -921- PWR Test Items"
+    },
+    "answer": "A"
   },
   {
-    "id": "COR1318",
     "topic": "Core Thermal Limits",
-    "question": "Which one of the following describes the basis for the 2,200\u00b0F maximum fuel cladding temperature\nlimit?\ntemperatures greater than 2,200\u00b0F.\n-927-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. 2,200\u00b0F is approximately 500\u00b0F below the fuel cladding melting temperature.",
-      "B. The rate of the cladding reaction increases significantly above 2,200\u00b0F.",
-      "C. If fuel cladding temperature reaches 2,200\u00b0F, the onset of transition boiling is imminent.",
-      "D. The differential expansion between the fuel pellets and the fuel cladding becomes excessive at"
-    ],
-    "answer": "B"
+    "stem": " What is the basis for the limit on maximum linear power density (kW/ft)?",
+    "choices": {
+      "A": "To provide assurance of fuel integrity.",
+      "B": "To prevent xenon-135 oscillations.",
+      "C": "To allow for fuel pellet manufacturing tolerances.",
+      "D": "To prevent nucleate boiling."
+    },
+    "answer": "A"
   },
   {
-    "id": "COR1319",
     "topic": "Core Thermal Limits",
-    "question": "The pellet-to-cladding gap in fuel rod construction is designed to...\n-928-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. decrease fuel pellet densification and elongation.",
-      "B. reduce fission product gas pressure buildup.",
-      "C. increase heat transfer rate.",
-      "D. reduce internal cladding strain."
-    ],
-    "answer": "D"
+    "stem": " If a reactor is operated within the core thermal limits, then... NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "plant thermal efficiency is optimized.",
+      "B": "fuel cladding integrity is ensured.",
+      "C": "pressurized thermal shock will be prevented.",
+      "D": "reactor vessel thermal stresses will be minimized. -922- PWR Test Items"
+    },
+    "answer": "A"
   },
   {
-    "id": "COR1320",
     "topic": "Core Thermal Limits",
-    "question": "A reactor is operating at steady-state 80 percent power with all control rods fully withdrawn and in\nmanual control. Compared to a 50 percent insertion of one control rod, a 50 percent insertion of a\ngroup (or bank) of control rods will cause a __________ increase in the maximum axial peaking\nfactor and a __________ increase in the maximum radial peaking factor. (Assume reactor power\nremains constant.)\n-929-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. smaller; smaller",
-      "B. smaller; larger",
-      "C. larger; smaller",
-      "D. larger; larger"
-    ],
-    "answer": "C"
+    "stem": " During normal operation, fuel cladding integrity is ensured by...",
+    "choices": {
+      "A": "the primary system relief valves.",
+      "B": "core bypass flow restrictions.",
+      "C": "the secondary system relief valves.",
+      "D": "operating within core thermal limits."
+    },
+    "answer": "A"
   },
   {
-    "id": "COR1321",
     "topic": "Core Thermal Limits",
-    "question": "A reactor is operating at 80 percent power with all control rods fully withdrawn. Compared to a 50\npercent insertion of a group (or bank) of control rods, a 50 percent insertion of a single control rod\nwill cause a __________ increase in the maximum axial peaking factor; and a __________ increase\nin the maximum radial peaking factor. (Assume reactor power remains constant.)",
-    "image": "",
-    "choices": [
-      "A. larger; larger",
-      "B. larger; smaller",
-      "C. smaller; larger",
-      "D. smaller; smaller"
-    ],
-    "answer": "C"
+    "stem": " Maximum fuel cladding integrity is maintained by... NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "always operating below 110 percent of reactor coolant system design pressure.",
+      "B": "actuation of the reactor protection system upon a reactor accident.",
+      "C": "ensuring that actual heat flux is always less than critical heat flux.",
+      "D": "ensuring operation above the critical heat flux during all operating conditions. -923- PWR Test Items"
+    },
+    "answer": "A"
   },
   {
-    "id": "COR1322",
     "topic": "Core Thermal Limits",
-    "question": "Which one of the following describes the fuel-to-coolant thermal conductivity for a fuel rod at the\nend of a fuel cycle (EOC) when compared to the beginning of the same fuel cycle (BOC)?\n-930-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. Smaller at EOC, due to fuel pellet densification.",
-      "B. Smaller at EOC, due to contamination of fill gas with fission product gases.",
-      "C. Larger at EOC, due to reduction in gap between the fuel pellets and cladding.",
-      "D. Larger at EOC, due to a greater temperature difference between the fuel pellets and coolant."
-    ],
-    "answer": "C"
+    "stem": " Peaking (or hot channel) factors are used to establish a maximum reactor power level such that fuel cladding temperature is limited to prevent __________ of the fuel cladding during most analyzed transients and abnormal conditions. NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "melting",
+      "B": "excessive oxidation",
+      "C": "excessive chemical interaction",
+      "D": "excessive mechanical interaction -924- PWR Test Items"
+    },
+    "answer": "A"
   },
   {
-    "id": "COR1323",
     "topic": "Core Thermal Limits",
-    "question": "Which one of the following describes the fuel-to-coolant thermal conductivity for a fuel rod at the\nbeginning of a fuel cycle (BOC) compared to the end of a fuel cycle (EOC)?\n-931-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. Greater at BOC, due to a higher fuel pellet density.",
-      "B. Greater at BOC, due to lower contamination of fuel rod fill gas with fission product gases.",
-      "C. Smaller at BOC, due to a larger gap between the fuel pellets and cladding.",
-      "D. Smaller at BOC, due to a smaller corrosion film on the surface of the fuel rods."
-    ],
-    "answer": "C"
+    "stem": " Reactor thermal limits are established to...",
+    "choices": {
+      "A": "ensure the integrity of the reactor fuel.",
+      "B": "prevent exceeding reactor vessel mechanical limitations.",
+      "C": "minimize the coolant temperature rise across the core.",
+      "D": "establish control rod insertion limits."
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Core Thermal Limits",
+    "stem": " Thermal limits are established to protect the reactor, and thereby protect the public during nuclear power plant operations, which include... NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "normal operations only.",
+      "B": "normal and abnormal operations only.",
+      "C": "normal, abnormal, and postulated accident operations only.",
+      "D": "normal, abnormal, postulated and unpostulated accident operations. -925- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Core Thermal Limits",
+    "stem": " Which one of the following describes the basis for the 2,200\u00b0F maximum fuel cladding temperature limit? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "2,200\u00b0F is approximately 500\u00b0F below the fuel cladding melting temperature.",
+      "B": "The material strength of cladding decreases rapidly at temperatures above 2,200\u00b0F.",
+      "C": "The rate of the cladding reaction increases significantly at temperatures above 2,200\u00b0F.",
+      "D": "At the normal operating pressure of the reactor vessel, a cladding temperature above 2,200\u00b0F indicates that the critical heat flux has been exceeded. -926- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Core Thermal Limits",
+    "stem": " Which one of the following describes the basis for the 2,200\u00b0F maximum fuel cladding temperature limit? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "2,200\u00b0F is approximately 500\u00b0F below the fuel cladding melting temperature.",
+      "B": "The rate of the cladding reaction increases significantly above 2,200\u00b0F.",
+      "C": "If fuel cladding temperature reaches 2,200\u00b0F, the onset of transition boiling is imminent.",
+      "D": "The differential expansion between the fuel pellets and the fuel cladding becomes excessive at temperatures greater than 2,200\u00b0F. -927- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Core Thermal Limits",
+    "stem": " The pellet-to-cladding gap in fuel rod construction is designed to... NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "decrease fuel pellet densification and elongation.",
+      "B": "reduce fission product gas pressure buildup.",
+      "C": "increase heat transfer rate.",
+      "D": "reduce internal cladding strain. -928- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Core Thermal Limits",
+    "stem": " A reactor is operating at steady-state 80 percent power with all control rods fully withdrawn and in manual control. Compared to a 50 percent insertion of one control rod, a 50 percent insertion of a group (or bank) of control rods will cause a __________ increase in the maximum axial peaking factor and a __________ increase in the maximum radial peaking factor. (Assume reactor power remains constant.) NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "smaller; smaller",
+      "B": "smaller; larger",
+      "C": "larger; smaller",
+      "D": "larger; larger -929- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Core Thermal Limits",
+    "stem": " A reactor is operating at 80 percent power with all control rods fully withdrawn. Compared to a 50 percent insertion of a group (or bank) of control rods, a 50 percent insertion of a single control rod will cause a __________ increase in the maximum axial peaking factor; and a __________ increase in the maximum radial peaking factor. (Assume reactor power remains constant.)",
+    "choices": {
+      "A": "larger; larger",
+      "B": "larger; smaller",
+      "C": "smaller; larger",
+      "D": "smaller; smaller"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Core Thermal Limits",
+    "stem": " Which one of the following describes the fuel-to-coolant thermal conductivity for a fuel rod at the end of a fuel cycle (EOC) when compared to the beginning of the same fuel cycle (BOC)? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "Smaller at EOC, due to fuel pellet densification.",
+      "B": "Smaller at EOC, due to contamination of fill gas with fission product gases.",
+      "C": "Larger at EOC, due to reduction in gap between the fuel pellets and cladding.",
+      "D": "Larger at EOC, due to a greater temperature difference between the fuel pellets and coolant. -930- PWR Test Items"
+    },
+    "answer": "A"
   }
 ]

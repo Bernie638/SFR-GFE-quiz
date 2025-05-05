@@ -1,28 +1,24 @@
 [
   {
-    "id": "THE1187",
     "topic": "Thermodynamic Processes",
-    "question": "Which one of the following is essentially a constant enthalpy process?\n-841-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. Steam flowing through an ideal convergent nozzle.",
-      "B. Condensation of turbine exhaust in a main condenser.",
-      "C. Expansion of main steam through the stages of an ideal turbine.",
-      "D. Throttling of main steam through a main turbine steam inlet valve."
-    ],
-    "answer": "D"
+    "stem": " Which one of the following is essentially a constant enthalpy process? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "Steam flowing through an ideal convergent nozzle.",
+      "B": "Condensation of turbine exhaust in a main condenser.",
+      "C": "Expansion of main steam through the stages of an ideal turbine.",
+      "D": "Throttling of main steam through a main turbine steam inlet valve. -841- PWR Test Items"
+    },
+    "answer": "A"
   },
   {
-    "id": "THE1188",
     "topic": "Thermodynamic Processes",
-    "question": "Refer to the drawing of two 1,000 ft3 pressure vessels with installed relief valves (see figure below).\nBoth vessels are in saturated conditions at 281\u00b0F and approximately 35 psig. Vessel X is\ncompletely filled with saturated water. Vessel Y contains one-half saturated steam (100 percent\nquality) and one-half saturated water (0 percent quality) by volume. Both vessels are protected by\nidentical relief valves.\nIf both relief valves begin to leak at a rate of 0.1 percent of design flow, the higher temperature fluid\nwill initially be leaving the relief valve of vessel _____. And, if 100 lbm of fluid is released\nthrough both relief valves, the larger pressure decrease will occur in vessel _____.\n-842-\nPWR Test Items",
-    "image": "page842_img1.jpeg",
-    "choices": [
-      "A. X; X",
-      "B. X; Y",
-      "C. Y; X",
-      "D. Y; Y"
-    ],
-    "answer": "D"
+    "stem": " Refer to the drawing of two 1,000 ft3 pressure vessels with installed relief valves (see figure below). Both vessels are in saturated conditions at 281\u00b0F and approximately 35 psig. Vessel X is completely filled with saturated water. Vessel Y contains one-half saturated steam (100 percent quality) and one-half saturated water (0 percent quality) by volume. Both vessels are protected by identical relief valves. If both relief valves begin to leak at a rate of 0.1 percent of design flow, the higher temperature fluid will initially be leaving the relief valve of vessel _____. And, if 100 lbm of fluid is released through both relief valves, the larger pressure decrease will occur in vessel _____. NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "X; X",
+      "B": "X; Y",
+      "C": "Y; X",
+      "D": "Y; Y -842- PWR Test Items"
+    },
+    "answer": "A"
   }
 ]

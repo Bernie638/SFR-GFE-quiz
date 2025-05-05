@@ -1,41 +1,35 @@
 [
   {
-    "id": "THE1189",
     "topic": "Thermodynamic Cycles",
-    "question": "If the moisture content of the steam supplied to a turbine decreases, the steam cycle thermal\nefficiency will increase because the...",
-    "image": "",
-    "choices": [
-      "A. enthalpy of the steam supplied to the turbine has increased.",
-      "B. mass flow rate of the steam through the turbine has increased.",
-      "C. reheat capacity of the turbine extraction steam has increased.",
-      "D. the operating temperature of the turbine blades has increased."
-    ],
+    "stem": " If the moisture content of the steam supplied to a turbine decreases, the steam cycle thermal efficiency will increase because the...",
+    "choices": {
+      "A": "enthalpy of the steam supplied to the turbine has increased.",
+      "B": "mass flow rate of the steam through the turbine has increased.",
+      "C": "reheat capacity of the turbine extraction steam has increased.",
+      "D": "the operating temperature of the turbine blades has increased."
+    },
     "answer": "A"
   },
   {
-    "id": "THE1190",
     "topic": "Thermodynamic Cycles",
-    "question": "Initially, a main turbine is being supplied with inlet steam containing 0.25 percent moisture content.\nIf the inlet steam moisture content increases to 0.5 percent at the same pressure and mass flow rate,\nthe main turbine work output will\u2026\nblading.\nblading.\n-843-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. increase, due to the increased enthalpy of the inlet steam.",
-      "B. increase, due to the increased momentum transfer from water droplets impacting the turbine",
-      "C. decrease, due to the decreased temperature of the inlet steam.",
-      "D. decrease, due to the increased braking action from water droplets impacting the turbine"
-    ],
-    "answer": "D"
+    "stem": " Initially, a main turbine is being supplied with inlet steam containing 0.25 percent moisture content. If the inlet steam moisture content increases to 0.5 percent at the same pressure and mass flow rate, the main turbine work output will\u2026 NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "increase, due to the increased enthalpy of the inlet steam.",
+      "B": "increase, due to the increased momentum transfer from water droplets impacting the turbine blading.",
+      "C": "decrease, due to the decreased temperature of the inlet steam.",
+      "D": "decrease, due to the increased braking action from water droplets impacting the turbine blading. -843- PWR Test Items"
+    },
+    "answer": "A"
   },
   {
-    "id": "THE1191",
     "topic": "Thermodynamic Cycles",
-    "question": "Initially, a main turbine is being supplied with inlet steam containing 0.5 percent moisture content.\nIf the inlet steam moisture content decreases to 0.25 percent at the same pressure and mass flow rate,\nthe main turbine work output will\u2026\nblading.\n-844-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. increase, due to the increased temperature of the inlet steam.",
-      "B. increase, due to the decreased braking action from water droplets impacting the turbine blading.",
-      "C. decrease, due to the decreased enthalpy of the inlet steam.",
-      "D. decrease, due to the decreased momentum transfer from water droplets impacting the turbine"
-    ],
-    "answer": "B"
+    "stem": " Initially, a main turbine is being supplied with inlet steam containing 0.5 percent moisture content. If the inlet steam moisture content decreases to 0.25 percent at the same pressure and mass flow rate, the main turbine work output will\u2026 NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "increase, due to the increased temperature of the inlet steam.",
+      "B": "increase, due to the decreased braking action from water droplets impacting the turbine blading.",
+      "C": "decrease, due to the decreased enthalpy of the inlet steam.",
+      "D": "decrease, due to the decreased momentum transfer from water droplets impacting the turbine blading. -844- PWR Test Items"
+    },
+    "answer": "A"
   }
 ]

@@ -1,301 +1,255 @@
 [
   {
-    "id": "REA1004",
     "topic": "Reactivity Coefficients",
-    "question": "The coolant temperature coefficient describes the change in reactivity per degree change in...\n-724-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. fuel temperature.",
-      "B. fuel cladding temperature.",
-      "C. reactor vessel temperature.",
-      "D. reactor coolant temperature."
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "REA1005",
-    "topic": "Reactivity Coefficients",
-    "question": "Which one of the following contains two isotopes that add significant negative reactivity when fuel\ntemperature increases near the end of a fuel cycle?",
-    "image": "",
-    "choices": [
-      "A. U-235 and Pu-239",
-      "B. U-235 and Pu-240",
-      "C. U-238 and Pu-239",
-      "D. U-238 and Pu-240"
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "REA1006",
-    "topic": "Reactivity Coefficients",
-    "question": "Why does the fuel temperature coefficient becomes less negative at higher fuel temperatures?\n-725-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. As reactor power increases, the rate of increase in the fuel temperature diminishes.",
-      "B. Neutrons penetrate deeper into the fuel, resulting in an increase in the fast fission factor.",
-      "C. The amount of self-shielding increases, resulting in less neutron absorption by the inner fuel.",
-      "D. The amount of Doppler broadening per degree change in fuel temperature diminishes."
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "REA1007",
-    "topic": "Reactivity Coefficients",
-    "question": "Which one of the following will cause the Doppler power coefficient to become more negative?",
-    "image": "",
-    "choices": [
-      "A. Increased clad creep",
-      "B. Increased pellet swell",
-      "C. Lower power level",
-      "D. Higher coolant poison concentration"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "REA1008",
-    "topic": "Reactivity Coefficients",
-    "question": "A reactor is operating continuously at steady-state 100 percent power. As core burnup increases,\nthe fuel temperature coefficient becomes __________ negative because the average fuel temperature\n__________.\n-726-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. more; decreases",
-      "B. more; increases",
-      "C. less; decreases",
-      "D. less; increases"
-    ],
+    "stem": " The coolant temperature coefficient describes the change in reactivity per degree change in... NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "fuel temperature.",
+      "B": "fuel cladding temperature.",
+      "C": "reactor vessel temperature.",
+      "D": "reactor coolant temperature. -724- PWR Test Items"
+    },
     "answer": "A"
   },
   {
-    "id": "REA1009",
     "topic": "Reactivity Coefficients",
-    "question": "Which one of the following pairs of nuclides is responsible for most of the negative reactivity\nassociated with a fuel temperature increase near the end of a fuel cycle?",
-    "image": "",
-    "choices": [
-      "A. U-235 and Pu-239",
-      "B. U-235 and Pu-240",
-      "C. U-238 and Pu-239",
-      "D. U-238 and Pu-240"
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "REA1010",
-    "topic": "Reactivity Coefficients",
-    "question": "Compared to operation at a low power level, the fuel temperature coefficient of reactivity at a high\npower level is __________ negative due to __________.\n-727-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. less; improved pellet-to-clad heat transfer",
-      "B. more; buildup of fission product poisons",
-      "C. less; higher fuel temperature",
-      "D. more; increased neutron flux"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "REA1011",
-    "topic": "Reactivity Coefficients",
-    "question": "Refer to the curve of microscopic cross section for absorption versus neutron energy for a resonance\npeak in U-238 (see figure below).\nIf fuel temperature increases, the area under the curve will __________; and negative reactivity will\nbe added to the core because __________.\n-728-\nPWR Test Items",
-    "image": "page728_img1.jpeg",
-    "choices": [
-      "A. increase; neutrons of a wider range of energies will be absorbed by U-238",
-      "B. increase; more neutrons will be absorbed by U-238 at the resonance neutron energy",
-      "C. remain the same; neutrons of a wider range of energies will be absorbed by U-238",
-      "D. remain the same; more neutrons will be absorbed by U-238 at the resonance neutron energy"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "REA1012",
-    "topic": "Reactivity Coefficients",
-    "question": "Which one of the following describes how the magnitude of the fuel temperature coefficient of\nreactivity is affected as the core ages?\ndue to fuel depletion.",
-    "image": "",
-    "choices": [
-      "A. It remains essentially constant over core life.",
-      "B. It becomes more negative, due to the buildup of Pu-240.",
-      "C. It becomes less negative, due to the decrease in RCS boron concentration.",
-      "D. It becomes more negative initially due to buildup of fissions product poisons, then less negative"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "REA1013",
-    "topic": "Reactivity Coefficients",
-    "question": "In a comparison of the fuel temperature coefficient at the beginning and end of a fuel cycle, the fuel\ntemperature coefficient is more negative at the __________ of a fuel cycle because __________.\n(Assume the same initial fuel temperature throughout the fuel cycle.)\n-729-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. end; more Pu-240 is in the core",
-      "B. end; more fission product poisons are in the core",
-      "C. beginning; more U-238 is in the core",
-      "D. beginning; less fission product poisons are in the core"
-    ],
+    "stem": " Which one of the following contains two isotopes that add significant negative reactivity when fuel temperature increases near the end of a fuel cycle?",
+    "choices": {
+      "A": "U-235 and Pu-239",
+      "B": "U-235 and Pu-240",
+      "C": "U-238 and Pu-239",
+      "D": "U-238 and Pu-240"
+    },
     "answer": "A"
   },
   {
-    "id": "REA1014",
     "topic": "Reactivity Coefficients",
-    "question": "Refer to the curve of microscopic cross section for absorption versus neutron energy for a 6.7\nelectron volt (eV) resonance peak in U-238 for a reactor operating at 50 percent power (see figure\nbelow).\nIf fuel temperature decreases by 50\u00b0F, the area under the curve will __________; and positive\nreactivity will be added to the core because __________.\n-730-\nPWR Test Items",
-    "image": "page730_img1.jpeg",
-    "choices": [
-      "A. decrease; fewer neutrons will be absorbed by U-238 overall",
-      "B. decrease; fewer 6.7 eV neutrons will be absorbed by U-238 at the resonance energy",
-      "C. remain the same; fewer neutrons will be absorbed by U-238 overall",
-      "D. remain the same; fewer 6.7 eV neutrons will be absorbed by U-238 at the resonance energy"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "REA1015",
-    "topic": "Reactivity Coefficients",
-    "question": "Refer to the curve of microscopic cross section for absorption versus neutron energy for a resonance\npeak in U-238 in a reactor operating at 80 percent power (see figure below).\nIf reactor power is increased to 100 percent, the height of the curve will __________; and the area\nunder the curve will __________.\n-731-\nPWR Test Items",
-    "image": "page731_img1.jpeg",
-    "choices": [
-      "A. increase; increase",
-      "B. increase; remain the same",
-      "C. decrease; decrease",
-      "D. decrease; remain the same"
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "REA1016",
-    "topic": "Reactivity Coefficients",
-    "question": "Refer to the drawing of a curve showing the neutron absorption characteristics of a typical U-238\nnucleus at a resonance neutron energy (see figure below). The associated reactor is currently\noperating at steady-state 80 percent power.\nDuring a subsequent reactor power decrease to 70 percent, the curve will become __________; and\nthe percentage of the core neutron population lost to resonance capture by U-238 will __________.\n-732-\nPWR Test Items",
-    "image": "page732_img1.jpeg",
-    "choices": [
-      "A. shorter and broader; increase",
-      "B. shorter and broader; decrease",
-      "C. taller and more narrow; increase",
-      "D. taller and more narrow; decrease"
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "REA1017",
-    "topic": "Reactivity Coefficients",
-    "question": "Refer to the curve of microscopic cross section for absorption versus neutron energy for a resonance\npeak in U-238 in a reactor operating at 80 percent power (see figure below).\nIf reactor power is decreased to 60 percent, the height of the curve will __________; and the area\nunder the curve will __________.\n-733-\nPWR Test Items",
-    "image": "page733_img1.jpeg",
-    "choices": [
-      "A. increase; increase",
-      "B. increase; remain the same",
-      "C. decrease; decrease",
-      "D. decrease; remain the same"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "REA1018",
-    "topic": "Reactivity Coefficients",
-    "question": "If the average temperature of a fuel pellet decreases by 50\u00b0F, the microscopic cross-section for\nabsorption of neutrons at a resonance energy of U-238 will __________; and the microscopic cross-\nsections for absorption of neutrons at energies that are slightly higher or lower than a U-238\nresonance energy will __________.",
-    "image": "",
-    "choices": [
-      "A. increase; increase",
-      "B. increase; decrease",
-      "C. decrease; increase",
-      "D. decrease; decrease"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "REA1019",
-    "topic": "Reactivity Coefficients",
-    "question": "If the average temperature of a fuel pellet increases by 50\u00b0F, the microscopic cross-section for\nabsorption of neutrons at a resonance energy of U-238 will __________; and the microscopic cross-\nsections for absorption of neutrons at energies that are slightly higher or lower than a U-238\nresonance energy will __________.\n-734-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. increase; increase",
-      "B. increase; decrease",
-      "C. decrease; increase",
-      "D. decrease; decrease"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "REA1020",
-    "topic": "Reactivity Coefficients",
-    "question": "Refer to the drawing of a curve showing the neutron absorption cross-section for U-238 at a\nresonance energy (see figure below). The reactor associated with the curve is operating at 80\npercent power.\nIf reactor power is increased to 90 percent over the next few hours, the curve will become ________;\nand the percentage of the core neutron population lost to resonance capture by U-238 will ________.\n-735-\nPWR Test Items",
-    "image": "page735_img1.jpeg",
-    "choices": [
-      "A. shorter and broader; increase",
-      "B. shorter and broader; decrease",
-      "C. taller and more narrow; increase",
-      "D. taller and more narrow; decrease"
-    ],
+    "stem": " Why does the fuel temperature coefficient becomes less negative at higher fuel temperatures? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "As reactor power increases, the rate of increase in the fuel temperature diminishes.",
+      "B": "Neutrons penetrate deeper into the fuel, resulting in an increase in the fast fission factor.",
+      "C": "The amount of self-shielding increases, resulting in less neutron absorption by the inner fuel.",
+      "D": "The amount of Doppler broadening per degree change in fuel temperature diminishes. -725- PWR Test Items"
+    },
     "answer": "A"
   },
   {
-    "id": "REA1021",
     "topic": "Reactivity Coefficients",
-    "question": "A reactivity coefficient measures a/an __________ change in reactivity, while a reactivity defect\nmeasures a __________ change in reactivity.\n-736-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. integrated; total",
-      "B. integrated; differential",
-      "C. unit; total",
-      "D. unit; differential"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "REA1022",
-    "topic": "Reactivity Coefficients",
-    "question": "Ignoring the effects of changes in fission product poisons, which one of the following power changes\nrequires the greatest amount of positive reactivity addition?",
-    "image": "",
-    "choices": [
-      "A. 3 percent to 5 percent",
-      "B. 5 percent to 15 percent",
-      "C. 15 percent to 30 percent",
-      "D. 30 percent to 60 percent"
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "REA1023",
-    "topic": "Reactivity Coefficients",
-    "question": "Ignoring the effects of changes in fission product poisons, which one of the following power changes\nrequires the smallest amount of positive reactivity addition?\n-737-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. 2 percent to 5 percent",
-      "B. 5 percent to 15 percent",
-      "C. 15 percent to 30 percent",
-      "D. 30 percent to 50 percent"
-    ],
+    "stem": " Which one of the following will cause the Doppler power coefficient to become more negative?",
+    "choices": {
+      "A": "Increased clad creep",
+      "B": "Increased pellet swell",
+      "C": "Lower power level",
+      "D": "Higher coolant poison concentration"
+    },
     "answer": "A"
   },
   {
-    "id": "REA1024",
     "topic": "Reactivity Coefficients",
-    "question": "Ignoring the effects of changes in fission product poisons, which one of the following power changes\nrequires the greatest amount of positive reactivity addition?",
-    "image": "",
-    "choices": [
-      "A. 3 percent to 10 percent",
-      "B. 10 percent to 25 percent",
-      "C. 25 percent to 60 percent",
-      "D. 60 percent to 100 percent"
-    ],
-    "answer": "D"
+    "stem": " A reactor is operating continuously at steady-state 100 percent power. As core burnup increases, the fuel temperature coefficient becomes __________ negative because the average fuel temperature __________. NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "more; decreases",
+      "B": "more; increases",
+      "C": "less; decreases",
+      "D": "less; increases -726- PWR Test Items"
+    },
+    "answer": "A"
   },
   {
-    "id": "REA1025",
     "topic": "Reactivity Coefficients",
-    "question": "Ignoring the effects of changes in fission product poisons, which one of the following reactor power\nchanges requires the greatest amount of positive reactivity addition?\n-738-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. 3 percent to 10 percent",
-      "B. 10 percent to 25 percent",
-      "C. 25 percent to 65 percent",
-      "D. 65 percent to 100 percent"
-    ],
-    "answer": "C"
+    "stem": " Which one of the following pairs of nuclides is responsible for most of the negative reactivity associated with a fuel temperature increase near the end of a fuel cycle?",
+    "choices": {
+      "A": "U-235 and Pu-239",
+      "B": "U-235 and Pu-240",
+      "C": "U-238 and Pu-239",
+      "D": "U-238 and Pu-240"
+    },
+    "answer": "A"
   },
   {
-    "id": "REA1026",
     "topic": "Reactivity Coefficients",
-    "question": "Ignoring the effects of changes in fission product poisons, which one of the following power changes\nrequires the smallest amount of positive reactivity addition?",
-    "image": "",
-    "choices": [
-      "A. 3 percent to 10 percent",
-      "B. 10 percent to 15 percent",
-      "C. 15 percent to 30 percent",
-      "D. 30 percent to 40 percent"
-    ],
-    "answer": "B"
+    "stem": " Compared to operation at a low power level, the fuel temperature coefficient of reactivity at a high power level is __________ negative due to __________. NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "less; improved pellet-to-clad heat transfer",
+      "B": "more; buildup of fission product poisons",
+      "C": "less; higher fuel temperature",
+      "D": "more; increased neutron flux -727- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Reactivity Coefficients",
+    "stem": " Refer to the curve of microscopic cross section for absorption versus neutron energy for a resonance peak in U-238 (see figure below). If fuel temperature increases, the area under the curve will __________; and negative reactivity will be added to the core because __________. NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "increase; neutrons of a wider range of energies will be absorbed by U-238",
+      "B": "increase; more neutrons will be absorbed by U-238 at the resonance neutron energy",
+      "C": "remain the same; neutrons of a wider range of energies will be absorbed by U-238",
+      "D": "remain the same; more neutrons will be absorbed by U-238 at the resonance neutron energy -728- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Reactivity Coefficients",
+    "stem": " Which one of the following describes how the magnitude of the fuel temperature coefficient of reactivity is affected as the core ages?",
+    "choices": {
+      "A": "It remains essentially constant over core life.",
+      "B": "It becomes more negative, due to the buildup of Pu-240.",
+      "C": "It becomes less negative, due to the decrease in RCS boron concentration.",
+      "D": "It becomes more negative initially due to buildup of fissions product poisons, then less negative due to fuel depletion."
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Reactivity Coefficients",
+    "stem": " In a comparison of the fuel temperature coefficient at the beginning and end of a fuel cycle, the fuel temperature coefficient is more negative at the __________ of a fuel cycle because __________. (Assume the same initial fuel temperature throughout the fuel cycle.) NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "end; more Pu-240 is in the core",
+      "B": "end; more fission product poisons are in the core",
+      "C": "beginning; more U-238 is in the core",
+      "D": "beginning; less fission product poisons are in the core -729- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Reactivity Coefficients",
+    "stem": " Refer to the curve of microscopic cross section for absorption versus neutron energy for a 6.7 electron volt (eV) resonance peak in U-238 for a reactor operating at 50 percent power (see figure below). If fuel temperature decreases by 50\u00b0F, the area under the curve will __________; and positive reactivity will be added to the core because __________. NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "decrease; fewer neutrons will be absorbed by U-238 overall",
+      "B": "decrease; fewer 6.7 eV neutrons will be absorbed by U-238 at the resonance energy",
+      "C": "remain the same; fewer neutrons will be absorbed by U-238 overall",
+      "D": "remain the same; fewer 6.7 eV neutrons will be absorbed by U-238 at the resonance energy -730- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Reactivity Coefficients",
+    "stem": " Refer to the curve of microscopic cross section for absorption versus neutron energy for a resonance peak in U-238 in a reactor operating at 80 percent power (see figure below). If reactor power is increased to 100 percent, the height of the curve will __________; and the area under the curve will __________. NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "increase; increase",
+      "B": "increase; remain the same",
+      "C": "decrease; decrease",
+      "D": "decrease; remain the same -731- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Reactivity Coefficients",
+    "stem": " Refer to the drawing of a curve showing the neutron absorption characteristics of a typical U-238 nucleus at a resonance neutron energy (see figure below). The associated reactor is currently operating at steady-state 80 percent power. During a subsequent reactor power decrease to 70 percent, the curve will become __________; and the percentage of the core neutron population lost to resonance capture by U-238 will __________. NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "shorter and broader; increase",
+      "B": "shorter and broader; decrease",
+      "C": "taller and more narrow; increase",
+      "D": "taller and more narrow; decrease -732- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Reactivity Coefficients",
+    "stem": " Refer to the curve of microscopic cross section for absorption versus neutron energy for a resonance peak in U-238 in a reactor operating at 80 percent power (see figure below). If reactor power is decreased to 60 percent, the height of the curve will __________; and the area under the curve will __________. NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "increase; increase",
+      "B": "increase; remain the same",
+      "C": "decrease; decrease",
+      "D": "decrease; remain the same -733- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Reactivity Coefficients",
+    "stem": " If the average temperature of a fuel pellet decreases by 50\u00b0F, the microscopic cross-section for absorption of neutrons at a resonance energy of U-238 will __________; and the microscopic cross- sections for absorption of neutrons at energies that are slightly higher or lower than a U-238 resonance energy will __________.",
+    "choices": {
+      "A": "increase; increase",
+      "B": "increase; decrease",
+      "C": "decrease; increase",
+      "D": "decrease; decrease"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Reactivity Coefficients",
+    "stem": " If the average temperature of a fuel pellet increases by 50\u00b0F, the microscopic cross-section for absorption of neutrons at a resonance energy of U-238 will __________; and the microscopic cross- sections for absorption of neutrons at energies that are slightly higher or lower than a U-238 resonance energy will __________. NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "increase; increase",
+      "B": "increase; decrease",
+      "C": "decrease; increase",
+      "D": "decrease; decrease -734- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Reactivity Coefficients",
+    "stem": " Refer to the drawing of a curve showing the neutron absorption cross-section for U-238 at a resonance energy (see figure below). The reactor associated with the curve is operating at 80 percent power. If reactor power is increased to 90 percent over the next few hours, the curve will become ________; and the percentage of the core neutron population lost to resonance capture by U-238 will ________. NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "shorter and broader; increase",
+      "B": "shorter and broader; decrease",
+      "C": "taller and more narrow; increase",
+      "D": "taller and more narrow; decrease -735- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Reactivity Coefficients",
+    "stem": " A reactivity coefficient measures a/an __________ change in reactivity, while a reactivity defect measures a __________ change in reactivity. NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "integrated; total",
+      "B": "integrated; differential",
+      "C": "unit; total",
+      "D": "unit; differential -736- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Reactivity Coefficients",
+    "stem": " Ignoring the effects of changes in fission product poisons, which one of the following power changes requires the greatest amount of positive reactivity addition?",
+    "choices": {
+      "A": "3 percent to 5 percent",
+      "B": "5 percent to 15 percent",
+      "C": "15 percent to 30 percent",
+      "D": "30 percent to 60 percent"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Reactivity Coefficients",
+    "stem": " Ignoring the effects of changes in fission product poisons, which one of the following power changes requires the smallest amount of positive reactivity addition? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "2 percent to 5 percent",
+      "B": "5 percent to 15 percent",
+      "C": "15 percent to 30 percent",
+      "D": "30 percent to 50 percent -737- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Reactivity Coefficients",
+    "stem": " Ignoring the effects of changes in fission product poisons, which one of the following power changes requires the greatest amount of positive reactivity addition?",
+    "choices": {
+      "A": "3 percent to 10 percent",
+      "B": "10 percent to 25 percent",
+      "C": "25 percent to 60 percent",
+      "D": "60 percent to 100 percent"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Reactivity Coefficients",
+    "stem": " Ignoring the effects of changes in fission product poisons, which one of the following reactor power changes requires the greatest amount of positive reactivity addition? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "3 percent to 10 percent",
+      "B": "10 percent to 25 percent",
+      "C": "25 percent to 65 percent",
+      "D": "65 percent to 100 percent -738- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Reactivity Coefficients",
+    "stem": " Ignoring the effects of changes in fission product poisons, which one of the following power changes requires the smallest amount of positive reactivity addition?",
+    "choices": {
+      "A": "3 percent to 10 percent",
+      "B": "10 percent to 15 percent",
+      "C": "15 percent to 30 percent",
+      "D": "30 percent to 40 percent"
+    },
+    "answer": "A"
   }
 ]

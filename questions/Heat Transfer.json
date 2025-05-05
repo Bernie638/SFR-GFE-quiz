@@ -1,158 +1,134 @@
 [
   {
-    "id": "HEA1265",
     "topic": "Heat Transfer",
-    "question": "The transfer of heat from the reactor fuel pellets to the fuel cladding during normal plant operation is\nprimarily accomplished via __________ heat transfer.\n-893-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. conduction",
-      "B. convection",
-      "C. radiant",
-      "D. two-phase"
-    ],
+    "stem": " The transfer of heat from the reactor fuel pellets to the fuel cladding during normal plant operation is primarily accomplished via __________ heat transfer. NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "conduction",
+      "B": "convection",
+      "C": "radiant",
+      "D": "two-phase -893- PWR Test Items"
+    },
     "answer": "A"
   },
   {
-    "id": "HEA1266",
     "topic": "Heat Transfer",
-    "question": "During a loss-of-coolant accident, which one of the following heat transfer methods provides the\nmost core cooling when fuel rods are not in contact with the coolant?",
-    "image": "",
-    "choices": [
-      "A. Radiation",
-      "B. Emission",
-      "C. Convection",
-      "D. Conduction"
-    ],
+    "stem": " During a loss-of-coolant accident, which one of the following heat transfer methods provides the most core cooling when fuel rods are not in contact with the coolant?",
+    "choices": {
+      "A": "Radiation",
+      "B": "Emission",
+      "C": "Convection",
+      "D": "Conduction"
+    },
     "answer": "A"
   },
   {
-    "id": "HEA1267",
     "topic": "Heat Transfer",
-    "question": "Reactor fuel rods are normally charged with __________ gas; which improves heat transfer by\n__________.\n-894-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. helium; convection",
-      "B. helium; conduction",
-      "C. nitrogen; convection",
-      "D. nitrogen; conduction"
-    ],
-    "answer": "B"
+    "stem": " Reactor fuel rods are normally charged with __________ gas; which improves heat transfer by __________. NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "helium; convection",
+      "B": "helium; conduction",
+      "C": "nitrogen; convection",
+      "D": "nitrogen; conduction -894- PWR Test Items"
+    },
+    "answer": "A"
   },
   {
-    "id": "HEA1268",
     "topic": "Heat Transfer",
-    "question": "If excessive amounts of air are entrained/dissolved in the cooling water passing through a heat\nexchanger, the overall heat transfer coefficient of the heat exchanger will decrease because the...",
-    "image": "",
-    "choices": [
-      "A. laminar layer thickness will decrease.",
-      "B. laminar layer thickness will increase.",
-      "C. thermal conductivity of the cooling fluid will decrease.",
-      "D. thermal conductivity of the cooling fluid will increase."
-    ],
-    "answer": "C"
+    "stem": " If excessive amounts of air are entrained/dissolved in the cooling water passing through a heat exchanger, the overall heat transfer coefficient of the heat exchanger will decrease because the...",
+    "choices": {
+      "A": "laminar layer thickness will decrease.",
+      "B": "laminar layer thickness will increase.",
+      "C": "thermal conductivity of the cooling fluid will decrease.",
+      "D": "thermal conductivity of the cooling fluid will increase."
+    },
+    "answer": "A"
   },
   {
-    "id": "HEA1269",
     "topic": "Heat Transfer",
-    "question": "Why is bulk boiling in the tubes of a single-phase heat exchanger undesirable?\n-895-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. The bubble formation will break up the laminar layer in the heat exchanger tubes.",
-      "B. The thermal conductivity of the heat exchanger tubes will decrease.",
-      "C. The differential temperature across the tubes will decrease through the heat exchanger.",
-      "D. The turbulence will restrict fluid flow through the heat exchanger tubes."
-    ],
-    "answer": "D"
+    "stem": " Why is bulk boiling in the tubes of a single-phase heat exchanger undesirable? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "The bubble formation will break up the laminar layer in the heat exchanger tubes.",
+      "B": "The thermal conductivity of the heat exchanger tubes will decrease.",
+      "C": "The differential temperature across the tubes will decrease through the heat exchanger.",
+      "D": "The turbulence will restrict fluid flow through the heat exchanger tubes. -895- PWR Test Items"
+    },
+    "answer": "A"
   },
   {
-    "id": "HEA1270",
     "topic": "Heat Transfer",
-    "question": "Which one of the following pairs of fluids undergoing heat transfer in identical heat exchangers will\nyield the greatest heat exchanger overall heat transfer coefficient?",
-    "image": "",
-    "choices": [
-      "A. Oil to water.",
-      "B. Air to water.",
-      "C. Steam to water.",
-      "D. Water to water."
-    ],
-    "answer": "C"
+    "stem": " Which one of the following pairs of fluids undergoing heat transfer in identical heat exchangers will yield the greatest heat exchanger overall heat transfer coefficient?",
+    "choices": {
+      "A": "Oil to water.",
+      "B": "Air to water.",
+      "C": "Steam to water.",
+      "D": "Water to water."
+    },
+    "answer": "A"
   },
   {
-    "id": "HEA1271",
     "topic": "Heat Transfer",
-    "question": "Which one of the following pairs of fluids undergoing heat transfer in identical heat exchangers will\nyield the smallest heat exchanger overall heat transfer coefficient?\n-896-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. Oil to water.",
-      "B. Air to water.",
-      "C. Steam to water.",
-      "D. Water to water."
-    ],
-    "answer": "B"
+    "stem": " Which one of the following pairs of fluids undergoing heat transfer in identical heat exchangers will yield the smallest heat exchanger overall heat transfer coefficient? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "Oil to water.",
+      "B": "Air to water.",
+      "C": "Steam to water.",
+      "D": "Water to water. -896- PWR Test Items"
+    },
+    "answer": "A"
   },
   {
-    "id": "HEA1272",
     "topic": "Heat Transfer",
-    "question": "Which one of the following pairs of fluids undergoing heat transfer in identical heat exchangers will\nyield the greatest heat exchanger overall heat transfer coefficient?",
-    "image": "",
-    "choices": [
-      "A. Oil to water.",
-      "B. Steam to water.",
-      "C. Air to water.",
-      "D. Water to water."
-    ],
-    "answer": "B"
+    "stem": " Which one of the following pairs of fluids undergoing heat transfer in identical heat exchangers will yield the greatest heat exchanger overall heat transfer coefficient?",
+    "choices": {
+      "A": "Oil to water.",
+      "B": "Steam to water.",
+      "C": "Air to water.",
+      "D": "Water to water."
+    },
+    "answer": "A"
   },
   {
-    "id": "HEA1273",
     "topic": "Heat Transfer",
-    "question": "A reactor is currently producing 200 MW of core thermal power. Reactor coolant pumps are adding\nan additional 10 MW of thermal power to the reactor coolant system. The core is rated at 1,330\nMW.\nWhich one of the following is the current core thermal power output in percent?\n-897-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. 14.0 percent",
-      "B. 14.3 percent",
-      "C. 15.0 percent",
-      "D. 15.8 percent"
-    ],
-    "answer": "C"
+    "stem": " A reactor is currently producing 200 MW of core thermal power. Reactor coolant pumps are adding an additional 10 MW of thermal power to the reactor coolant system. The core is rated at 1,330 MW. Which one of the following is the current core thermal power output in percent? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "14.0 percent",
+      "B": "14.3 percent",
+      "C": "15.0 percent",
+      "D": "15.8 percent -897- PWR Test Items"
+    },
+    "answer": "A"
   },
   {
-    "id": "HEA1274",
     "topic": "Heat Transfer",
-    "question": "A reactor is operating with the following parameters:\nReactor power = 100 percent\nCore \u0394T = 42\u00b0F\nReactor coolant system flow rate = 100 percent\nAverage reactor coolant temperature = 587\u00b0F\nA station blackout occurs and natural circulation is established with the following stable parameters:\nDecay heat rate = 2 percent\nCore \u0394T = 28\u00b0F\nAverage reactor coolant temperature = 572\u00b0F\nWhat is the core mass flow rate in percent?",
-    "image": "",
-    "choices": [
-      "A. 2.0 percent",
-      "B. 2.5 percent",
-      "C. 3.0 percent",
-      "D. 4.0 percent"
-    ],
-    "answer": "C"
+    "stem": " A reactor is operating with the following parameters: Reactor power = 100 percent Core \u0394T = 42\u00b0F Reactor coolant system flow rate = 100 percent Average reactor coolant temperature = 587\u00b0F A station blackout occurs and natural circulation is established with the following stable parameters: Decay heat rate = 2 percent Core \u0394T = 28\u00b0F Average reactor coolant temperature = 572\u00b0F What is the core mass flow rate in percent?",
+    "choices": {
+      "A": "2.0 percent",
+      "B": "2.5 percent",
+      "C": "3.0 percent",
+      "D": "4.0 percent"
+    },
+    "answer": "A"
   },
   {
-    "id": "HEA1275",
     "topic": "Heat Transfer",
-    "question": "A nuclear power plant is initially operating at 80 percent power with a core \u0394T of 48\u00b0F when a\nstation blackout occurs. Natural circulation is established and core \u0394T stabilizes at 40\u00b0F. If reactor\ncoolant mass flow rate is 3 percent, which one of the following is the current core decay heat level?\n-898-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. 1 percent",
-      "B. 2 percent",
-      "C. 3 percent",
-      "D. 4 percent"
-    ],
-    "answer": "B"
+    "stem": " A nuclear power plant is initially operating at 80 percent power with a core \u0394T of 48\u00b0F when a station blackout occurs. Natural circulation is established and core \u0394T stabilizes at 40\u00b0F. If reactor coolant mass flow rate is 3 percent, which one of the following is the current core decay heat level? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "1 percent",
+      "B": "2 percent",
+      "C": "3 percent",
+      "D": "4 percent -898- PWR Test Items"
+    },
+    "answer": "A"
   },
   {
-    "id": "HEA1276",
     "topic": "Heat Transfer",
-    "question": "A nuclear power plant is operating with the following parameters:\nReactor power = 100 percent\nCore \u0394T = 60\u00b0F\nReactor coolant system flow rate = 100 percent\nAverage coolant temperature = 587\u00b0F\nA station blackout occurs and natural circulation is established with the following stable parameters:\nDecay heat = 1 percent\nCore \u0394T = 30\u00b0F\nAverage coolant temperature = 572\u00b0F\nWhat is the core mass flow rate in percent?\n-899-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. 2.0 percent",
-      "B. 2.5 percent",
-      "C. 3.0 percent",
-      "D. 4.0 percent"
-    ],
+    "stem": " A nuclear power plant is operating with the following parameters: Reactor power = 100 percent Core \u0394T = 60\u00b0F Reactor coolant system flow rate = 100 percent Average coolant temperature = 587\u00b0F A station blackout occurs and natural circulation is established with the following stable parameters: Decay heat = 1 percent Core \u0394T = 30\u00b0F Average coolant temperature = 572\u00b0F What is the core mass flow rate in percent? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "2.0 percent",
+      "B": "2.5 percent",
+      "C": "3.0 percent",
+      "D": "4.0 percent -899- PWR Test Items"
+    },
     "answer": "A"
   }
 ]

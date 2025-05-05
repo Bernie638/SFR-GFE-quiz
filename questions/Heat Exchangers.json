@@ -1,795 +1,673 @@
 [
   {
-    "id": "HEA669",
     "topic": "Heat Exchangers",
-    "question": "The rate of heat transfer between two liquids in a heat exchanger will increase if the\u2026 (Assume\nsingle-phase conditions and a constant specific heat for both liquids.)\n-485-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. inlet temperature of the hotter liquid decreases by 20\u00b0F.",
-      "B. inlet temperature of the colder liquid increases by 20\u00b0F.",
-      "C. flow rates of both liquids decrease by 10 percent.",
-      "D. flow rates of both liquids increase by 10 percent."
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "HEA670",
-    "topic": "Heat Exchangers",
-    "question": "Refer to the drawing of an operating lube oil heat exchanger (see figure below).\nGiven the following information:\nc = 1.1 Btu/lbm-\u00b0F\np-oil\nc = 1.0 Btu/lbm-\u00b0F\np-water\nT = 174\u00b0F\noil in\nT = 114\u00b0F\noil-out\nT = 85\u00b0F\nwater-in\nT = 115\u00b0F\nwater-out\nm\u0307 = 4.0 x 104 lbm/hr\noil\nm\u0307 = ?\nwater\nWhat is the approximate mass flow rate of the cooling water?\n-486-\nPWR Test Items",
-    "image": "page486_img1.jpeg",
-    "choices": [
-      "A. 8.8 x 104 lbm/hr",
-      "B. 7.3 x 104 lbm/hr",
-      "C. 2.2 x 104 lbm/hr",
-      "D. 1.8 x 104 lbm/hr"
-    ],
+    "stem": " The rate of heat transfer between two liquids in a heat exchanger will increase if the\u2026 (Assume single-phase conditions and a constant specific heat for both liquids.) NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "inlet temperature of the hotter liquid decreases by 20\u00b0F.",
+      "B": "inlet temperature of the colder liquid increases by 20\u00b0F.",
+      "C": "flow rates of both liquids decrease by 10 percent.",
+      "D": "flow rates of both liquids increase by 10 percent. -485- PWR Test Items"
+    },
     "answer": "A"
   },
   {
-    "id": "HEA671",
     "topic": "Heat Exchangers",
-    "question": "The rate of heat transfer between two liquids in a single-phase heat exchanger will decrease if the...\n(Assume constant specific heat capacities.)\n-487-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. inlet temperatures of both liquids decrease by 20\u00b0F.",
-      "B. inlet temperatures of both liquids increase by 20\u00b0F.",
-      "C. flow rate of the colder liquid decreases by 10 percent.",
-      "D. flow rate of the hotter liquid increases by 10 percent."
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "HEA672",
-    "topic": "Heat Exchangers",
-    "question": "Refer to the drawing of an operating lube oil heat exchanger (see figure below).\nGiven the following information:\nm\u0307 = 2.0 x 104 lbm/hr\noil\nm\u0307 = 3.0 x 104 lbm/hr\nwater\nc = 1.1 Btu/lbm-\u00b0F\np-oil\nc = 1.0 Btu/lbm-\u00b0F\np-water\nT = 92\u00b0F\ncw-in\nT = 125\u00b0F\ncw-out\nT = 180\u00b0F\noil-in\nT = ?\noil-out\nWhich one of the following is the approximate temperature of the lube oil exiting the heat exchanger\n(T )?\noil-out\n-488-\nPWR Test Items",
-    "image": "page488_img1.jpeg",
-    "choices": [
-      "A. 126\u00b0F",
-      "B. 135\u00b0F",
-      "C. 147\u00b0F",
-      "D. 150\u00b0F"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "HEA673",
-    "topic": "Heat Exchangers",
-    "question": "Which one of the following will reduce the heat transfer rate between two liquids in a heat\nexchanger? (Assume single-phase conditions and a constant specific heat for both liquids.)\n-489-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. The inlet temperatures of both liquids decrease by 20\u00b0F.",
-      "B. The inlet temperatures of both liquids increase by 20\u00b0F.",
-      "C. The inlet temperature of the hotter liquid increases by 20\u00b0F.",
-      "D. The inlet temperature of the colder liquid increases by 20\u00b0F."
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "HEA674",
-    "topic": "Heat Exchangers",
-    "question": "Refer to the drawing of an operating heat exchanger (see figure below). Assume the overall heat\nexchanger heat transfer coefficient does not change.\nThe rate of heat transfer between the two liquids will increase if the\u2026\n-490-\nPWR Test Items",
-    "image": "page490_img1.jpeg",
-    "choices": [
-      "A. inlet temperatures of both liquids increase by 20\u00b0F.",
-      "B. inlet temperatures of both liquids decrease by 20\u00b0F.",
-      "C. mass flow rate of the hotter liquid increases by 10 percent.",
-      "D. mass flow rate of the colder liquid decreases by 10 percent."
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "HEA675",
-    "topic": "Heat Exchangers",
-    "question": "Refer to the drawing of an operating lube oil heat exchanger (see figure below).\nGiven the following information:\nm\u0307 = 1.5 x 104 lbm/hr\noil\nm\u0307 = 2.5 x 104 lbm/hr\nwater\nc = 1.1 Btu/lbm-\u00b0F\np-oil\nc = 1.0 Btu/lbm-\u00b0F\np-water\nT = 92\u00b0F\ncw-in\nT = 125\u00b0F\ncw-out\nT = 160\u00b0F\noil-in\nT = ?\noil-out\nWhich one of the following is the approximate temperature of the lube oil exiting the heat exchanger\n(T )?\noil-out\n-491-\nPWR Test Items",
-    "image": "page491_img1.jpeg",
-    "choices": [
-      "A. 110\u00b0F",
-      "B. 127\u00b0F",
-      "C. 135\u00b0F",
-      "D. 147\u00b0F"
-    ],
+    "stem": " Refer to the drawing of an operating lube oil heat exchanger (see figure below). Given the following information: c = 1.1 Btu/lbm-\u00b0F p-oil c = 1.0 Btu/lbm-\u00b0F p-water T = 174\u00b0F oil in T = 114\u00b0F oil-out T = 85\u00b0F water-in T = 115\u00b0F water-out m\u0307 = 4.0 x 104 lbm/hr oil m\u0307 = ? water What is the approximate mass flow rate of the cooling water? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "8.8 x 104 lbm/hr",
+      "B": "7.3 x 104 lbm/hr",
+      "C": "2.2 x 104 lbm/hr",
+      "D": "1.8 x 104 lbm/hr -486- PWR Test Items"
+    },
     "answer": "A"
   },
   {
-    "id": "HEA676",
     "topic": "Heat Exchangers",
-    "question": "Refer to the drawing of an operating lube oil heat exchanger (see figure below).\nGiven the following information:\nc = 1.1 Btu/lbm-\u00b0F\np-oil\nc = 1.0 Btu/lbm-\u00b0F\np-water\n\u1e41 = 1.2 x 104 lbm/hr\noil\n\u1e41 = 1.61 x 104 lbm/hr\nwater\nT = 170\u00b0F\noil in\nT = 120\u00b0F\noil out\nT = 110\u00b0F\nwater out\nT = ?\nwater in\nWhich one of the following is the approximate cooling water inlet temperature (T ) for the heat\nwater in\nexchanger?\n-492-\nPWR Test Items",
-    "image": "page492_img1.jpeg",
-    "choices": [
-      "A. 65\u00b0F",
-      "B. 69\u00b0F",
-      "C. 73\u00b0F",
-      "D. 77\u00b0F"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "HEA677",
-    "topic": "Heat Exchangers",
-    "question": "Refer to the drawing of an operating lube oil heat exchanger (see figure below).\nGiven the following information:\nm\u0307 = 1.8 x 104 lbm/hr\noil\nm\u0307 = 3.3 x 104 lbm/hr\nwater\nc = 1.1 Btu/lbm-\u00b0F\np-oil\nc = 1.0 Btu/lbm-\u00b0F\np-water\nT = 90\u00b0F\ncw-in\nT = 120\u00b0F\ncw-out\nT = 190\u00b0F\noil-in\nT = ?\noil-out\nWhat is the approximate temperature of the lube oil exiting the heat exchanger (T )?\noil-out\n-493-\nPWR Test Items",
-    "image": "page493_img1.jpeg",
-    "choices": [
-      "A. 110\u00b0F",
-      "B. 120\u00b0F",
-      "C. 130\u00b0F",
-      "D. 140\u00b0F"
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "HEA678",
-    "topic": "Heat Exchangers",
-    "question": "Refer to the drawing of an operating lube oil heat exchanger (see figure below).\nGiven the following information:\nm\u0307 = 1.5 x 104 lbm/hr\noil\nm\u0307 = 2.5 x 104 lbm/hr\nwater\nc = 1.1 Btu/lbm-\u00b0F\np-oil\nc = 1.0 Btu/lbm-\u00b0F\np-water\nT = 160\u00b0F\noil-in\nT = 110\u00b0F\noil-out\nT = 92\u00b0F\ncw-in\nT = ?\ncw-out\nWhich one of the following is the approximate temperature of the cooling water exiting the heat\nexchanger (T )?\ncw-out\n-494-\nPWR Test Items",
-    "image": "page494_img1.jpeg",
-    "choices": [
-      "A. 110\u00b0F",
-      "B. 115\u00b0F",
-      "C. 120\u00b0F",
-      "D. 125\u00b0F"
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "HEA679",
-    "topic": "Heat Exchangers",
-    "question": "The rate of heat transfer between two liquids in a heat exchanger will decrease if the: (Assume\nsingle-phase conditions and a constant specific heat for both liquids.)\n-495-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. inlet temperature of the hotter liquid increases by 20\u00b0F.",
-      "B. inlet temperature of the colder liquid decreases by 20\u00b0F.",
-      "C. flow rates of both liquids decrease by 10 percent.",
-      "D. flow rates of both liquids increase by 10 percent."
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "HEA680",
-    "topic": "Heat Exchangers",
-    "question": "Refer to the drawing of a lube oil heat exchanger (see figure below).\nGiven the following heat exchanger parameters:\n\uf0b7 Lube oil flow rate is 200 lbm/min.\n\uf0b7 Lube oil enters the heat exchanger at 140\u00b0F.\n\uf0b7 Lube oil leaves the heat exchanger at 100\u00b0F.\n\uf0b7 Specific heat of the lube oil is 0.8 Btu/lbm-\u00b0F.\n\uf0b7 Cooling water flow rate is 400 lbm/min.\n\uf0b7 Cooling water enters the lube oil heat exchanger at 60\u00b0F.\n\uf0b7 Specific heat of the cooling water is 1.0 Btu/lbm-\u00b0F.\nWhat is the approximate temperature of the cooling water leaving the lube oil heat exchanger?\n-496-\nPWR Test Items",
-    "image": "page496_img1.jpeg",
-    "choices": [
-      "A. 76\u00b0F",
-      "B. 85\u00b0F",
-      "C. 92\u00b0F",
-      "D. 124\u00b0F"
-    ],
+    "stem": " The rate of heat transfer between two liquids in a single-phase heat exchanger will decrease if the... (Assume constant specific heat capacities.) NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "inlet temperatures of both liquids decrease by 20\u00b0F.",
+      "B": "inlet temperatures of both liquids increase by 20\u00b0F.",
+      "C": "flow rate of the colder liquid decreases by 10 percent.",
+      "D": "flow rate of the hotter liquid increases by 10 percent. -487- PWR Test Items"
+    },
     "answer": "A"
   },
   {
-    "id": "HEA681",
     "topic": "Heat Exchangers",
-    "question": "Refer to the drawing of an operating lube oil heat exchanger (see figure below).\nGiven the following information:\nQ\u0307 = 1.0 x 107 Btu/hr\noil\nT = 170\u00b0F\noil in\nT = 134\u00b0F\noil out\nT = 85\u00b0F\nwater in\nT = 112\u00b0F\nwater out\nc = 1.1 Btu/lbm-\u00b0F\np-oil\nc = 1.0 Btu/lbm-\u00b0F\np-water\n\u1e41 = ?\nwater\nWhich one of the following is the approximate mass flow rate of the cooling water?\n-497-\nPWR Test Items",
-    "image": "page497_img1.jpeg",
-    "choices": [
-      "A. 4.5 x 105 lbm/hr",
-      "B. 3.7 x 105 lbm/hr",
-      "C. 2.5 x 105 lbm/hr",
-      "D. 1.2 x 105 lbm/hr"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "HEA682",
-    "topic": "Heat Exchangers",
-    "question": "Refer to the drawing of an operating lube oil heat exchanger (see figure below).\nGiven the following information:\nm\u0307 = 1.8 x 104 lbm/hr\noil\nm\u0307 = 3.3 x 104 lbm/hr\nwater\nc = 1.1 Btu/lbm-\u00b0F\np-oil\nc = 1.0 Btu/lbm-\u00b0F\np-water\nT = 90\u00b0F\ncw-in\nT = 120\u00b0F\ncw-out\nT = 170\u00b0F\noil-in\nT = ?\noil-out\nWhat is the approximate temperature of the lube oil exiting the heat exchanger (T )?\noil-out\n-498-\nPWR Test Items",
-    "image": "page498_img1.jpeg",
-    "choices": [
-      "A. 110\u00b0F",
-      "B. 120\u00b0F",
-      "C. 130\u00b0F",
-      "D. 140\u00b0F"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "HEA683",
-    "topic": "Heat Exchangers",
-    "question": "Refer to the drawing of an operating water cleanup system (see figure below).\nIf cooling water flow rate is 1.0 x 106 lbm/hr, what is the approximate water flow rate in the cleanup\nsystem?\n-499-\nPWR Test Items",
-    "image": "page499_img1.jpeg",
-    "choices": [
-      "A. 2.2 x 105 lbm/hr",
-      "B. 3.2 x 105 lbm/hr",
-      "C. 2.2 x 106 lbm/hr",
-      "D. 3.2 x 106 lbm/hr"
-    ],
+    "stem": " Refer to the drawing of an operating lube oil heat exchanger (see figure below). Given the following information: m\u0307 = 2.0 x 104 lbm/hr oil m\u0307 = 3.0 x 104 lbm/hr water c = 1.1 Btu/lbm-\u00b0F p-oil c = 1.0 Btu/lbm-\u00b0F p-water T = 92\u00b0F cw-in T = 125\u00b0F cw-out T = 180\u00b0F oil-in T = ? oil-out Which one of the following is the approximate temperature of the lube oil exiting the heat exchanger (T )? oil-out NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "126\u00b0F",
+      "B": "135\u00b0F",
+      "C": "147\u00b0F",
+      "D": "150\u00b0F -488- PWR Test Items"
+    },
     "answer": "A"
   },
   {
-    "id": "HEA684",
     "topic": "Heat Exchangers",
-    "question": "A main turbine-generator was operating at 80 percent load with the following initial steady-state\nlube oil and cooling water temperatures for the main turbine lube oil heat exchanger:\nT = 174\u00b0F\noil in\nT = 114\u00b0F\noil out\nT = 85\u00b0F\nwater in\nT = 115\u00b0F\nwater out\nSix months later, the following current steady-state heat exchanger temperatures are observed:\nT = 177\u00b0F\noil in\nT = 111\u00b0F\noil out\nT = 85\u00b0F\nwater in\nT = 115\u00b0F\nwater out\nAssume the lube oil system is a closed system. Also, assume the following did not change:\n\uf0b7 Cooling water mass flow rate\n\uf0b7 Cooling water and lube oil specific heats\n\uf0b7 Heat exchanger heat transfer coefficient\nWhich one of the following could be responsible for the differences between the initial and current\nsteady-state heat exchanger temperatures?\n-500-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. The current main turbine-generator load is lower than the initial load.",
-      "B. The current main turbine-generator load is higher than the initial load.",
-      "C. The current main turbine lube oil mass flow rate is less than the initial flow rate.",
-      "D. The current main turbine lube oil mass flow rate is greater than the initial flow rate."
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "HEA685",
-    "topic": "Heat Exchangers",
-    "question": "A main turbine-generator was operating at 80 percent load with the following initial steady-state\nlube oil and cooling water temperatures for the main turbine lube oil heat exchanger:\nT = 174\u00b0F\noil in\nT = 114\u00b0F\noil out\nT = 85\u00b0F\nwater in\nT = 115\u00b0F\nwater out\nSix months later, the current steady-state heat exchanger temperatures are:\nT = 174\u00b0F\noil in\nT = 120\u00b0F\noil out\nT = 85\u00b0F\nwater in\nT = 120\u00b0F\nwater out\nAssume that the lube oil mass flow rate does not change, and that the specific heat values for the\ncooling water and lube oil do not change. Also assume that the main turbine lube oil system is a\nclosed system.\nThe differences between the initial and current steady-state heat exchanger temperatures could be\ncaused by the current main turbine-generator load being __________ with the current heat\nexchanger cooling water mass flow rate being __________.\n-501-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. higher; lower",
-      "B. higher; higher",
-      "C. lower; lower",
-      "D. lower; higher"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "HEA686",
-    "topic": "Heat Exchangers",
-    "question": "Refer to the drawing of an operating parallel-flow lube oil heat exchanger (see figure below).\nAssume that lube oil (LO) inlet temperature is greater than cooling water (CW) inlet temperature.\nUnlike a counter-flow heat exchanger, in a parallel-flow heat exchanger the __________\ntemperature can never be greater than the __________ temperature.\n-502-\nPWR Test Items",
-    "image": "page502_img1.jpeg",
-    "choices": [
-      "A. LO outlet; CW inlet",
-      "B. LO outlet; CW outlet",
-      "C. CW outlet; LO inlet",
-      "D. CW outlet; LO outlet"
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "HEA687",
-    "topic": "Heat Exchangers",
-    "question": "Refer to the drawing of an operating process water cleanup system (see figure below).\nAssume there is no heat loss from the process water cleanup system to the surroundings and the\nprocess water flow rate does not change. If valve D closes fully, what will be the final steady-state\ntemperature of the process water flowing through the filter?\n-503-\nPWR Test Items",
-    "image": "page503_img1.jpeg",
-    "choices": [
-      "A. 212\u00b0F",
-      "B. 302\u00b0F",
-      "C. 450\u00b0F",
-      "D. 540\u00b0F"
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "HEA688",
-    "topic": "Heat Exchangers",
-    "question": "A counter-flow heat exchanger is being used to cool the lube oil for a main turbine and generator.\nThe main turbine and generator was initially operating at 100 percent load with the following stable\nheat exchanger conditions:\nT = 174\u00b0F\noil in\nT = 114\u00b0F\noil out\nT = 85\u00b0F\nwater in\nT = 115\u00b0F\nwater out\nMain turbine and generator load was reduced, and the heat exchanger cooling water mass flow rate\nwas decreased to one-half of its initial value, resulting in the following stable current conditions:\nT = 178\u00b0F\noil in\nT = 138\u00b0F\noil out\nT = 85\u00b0F\nwater in\nT = ?\nwater out\nAssume that the lube oil mass flow rate and the specific heats of both fluids did not change.\nWhich one of the following is the current cooling water outlet temperature?\n-504-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. 115\u00b0F",
-      "B. 125\u00b0F",
-      "C. 135\u00b0F",
-      "D. 145\u00b0F"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "HEA689",
-    "topic": "Heat Exchangers",
-    "question": "Given the following parameter values for a feedwater heater:\nFeedwater inlet temperature = 320\u00b0F\nFeedwater inlet pressure = 1,000 psia\nFeedwater mass flow rate = 1.0 x 106 lbm/hr\nExtraction steam pressure = 500 psia\nAssume that the extraction steam enters the heater as a dry saturated vapor and leaves the heater as a\nsaturated liquid at 500 psia.\nWhich one of the following is the approximate mass flow rate of extraction steam required to\nincrease feedwater temperature to 380\u00b0F?\n-505-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. 5.2 x 104 lbm/hr",
-      "B. 7.9 x 104 lbm/hr",
-      "C. 8.4 x 104 lbm/hr",
-      "D. 8.9 x 104 lbm/hr"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "HEA690",
-    "topic": "Heat Exchangers",
-    "question": "Refer to the drawing of an operating parallel-flow lube oil heat exchanger (see figure below).\nUnlike a counter-flow heat exchanger, in the parallel-flow heat exchanger the __________\ntemperature will always be greater than the __________ temperature.\n-506-\nPWR Test Items",
-    "image": "page506_img1.jpeg",
-    "choices": [
-      "A. CW outlet; LO inlet",
-      "B. CW outlet; LO outlet",
-      "C. LO outlet; CW inlet",
-      "D. LO outlet; CW outlet"
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "HEA691",
-    "topic": "Heat Exchangers",
-    "question": "Given the following parameters for an operating lube oil heat exchanger:\nLube oil inlet temperature = 150\u00b0F\nLube oil outlet temperature = 105\u00b0F\nCooling water inlet temperature = 60\u00b0F\nCooling water outlet temperature = 110\u00b0F\nConsidering only counter-flow and parallel-flow heat exchanger designs, the lube oil heat exchanger\ndescribed above must be\u2026\ntemperature.\ntemperature.\ntemperature.\ntemperature.\n-507-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. counter-flow, because the lube oil outlet temperature is less than the cooling water outlet",
-      "B. counter-flow, because the change in lube oil temperature is less than the change in cooling water",
-      "C. parallel-flow, because the lube oil outlet temperature is less than the cooling water outlet",
-      "D. parallel-flow, because the change in lube oil temperature is less than the change in cooling water"
-    ],
+    "stem": " Which one of the following will reduce the heat transfer rate between two liquids in a heat exchanger? (Assume single-phase conditions and a constant specific heat for both liquids.) NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "The inlet temperatures of both liquids decrease by 20\u00b0F.",
+      "B": "The inlet temperatures of both liquids increase by 20\u00b0F.",
+      "C": "The inlet temperature of the hotter liquid increases by 20\u00b0F.",
+      "D": "The inlet temperature of the colder liquid increases by 20\u00b0F. -489- PWR Test Items"
+    },
     "answer": "A"
   },
   {
-    "id": "HEA692",
     "topic": "Heat Exchangers",
-    "question": "The manufacturers of shell and U-tube heat exchangers recommend a maximum tube fluid velocity to\nlimit the __________ of the tubes; and a minimum tube fluid velocity to limit the __________ of the\ntubes.\n-508-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. erosion; fouling",
-      "B. erosion; thermal contraction",
-      "C. thermal expansion; fouling",
-      "D. thermal expansion; thermal contraction"
-    ],
+    "stem": " Refer to the drawing of an operating heat exchanger (see figure below). Assume the overall heat exchanger heat transfer coefficient does not change. The rate of heat transfer between the two liquids will increase if the\u2026 NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "inlet temperatures of both liquids increase by 20\u00b0F.",
+      "B": "inlet temperatures of both liquids decrease by 20\u00b0F.",
+      "C": "mass flow rate of the hotter liquid increases by 10 percent.",
+      "D": "mass flow rate of the colder liquid decreases by 10 percent. -490- PWR Test Items"
+    },
     "answer": "A"
   },
   {
-    "id": "HEA693",
     "topic": "Heat Exchangers",
-    "question": "Refer to the drawing of an operating lube oil heat exchanger (see figure below).\nGiven:\n\uf0b7 The cooling water inlet temperature is constant.\n\uf0b7 The lube oil inlet temperature is constant.\n\uf0b7 The lube oil mass flow rate is constant.\nIf the cooling water mass flow rate increases, the lube oil outlet temperature will __________; and\nthe cooling water outlet temperature will __________.\n-509-\nPWR Test Items",
-    "image": "page509_img1.jpeg",
-    "choices": [
-      "A. increase; increase",
-      "B. increase; decrease",
-      "C. decrease; increase",
-      "D. decrease; decrease"
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "HEA694",
-    "topic": "Heat Exchangers",
-    "question": "Which one of the following will increase the heat transfer rate between two liquids in a heat\nexchanger? (Assume single-phase conditions and a constant specific heat for both liquids.)\n-510-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. The mass flow rate of the hotter liquid decreases by 10 percent.",
-      "B. The mass flow rate of the colder liquid decreases by 10 percent.",
-      "C. The inlet temperature of the hotter liquid increases by 20\u00b0F.",
-      "D. The inlet temperature of the colder liquid increases by 20\u00b0F."
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "HEA695",
-    "topic": "Heat Exchangers",
-    "question": "Refer to the drawing of an operating lube oil heat exchanger (see figure below).\nThe rate of heat transfer between the lube oil and cooling water will increase if the cooling water inlet\ntemperature __________; or if the cooling water mass flow rate __________.\n-511-\nPWR Test Items",
-    "image": "page511_img1.jpeg",
-    "choices": [
-      "A. decreases; decreases",
-      "B. decreases; increases",
-      "C. increases; decreases",
-      "D. increases; increases"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "HEA696",
-    "topic": "Heat Exchangers",
-    "question": "Refer to the drawing of an operating water cleanup system (see figure below) in which valves A, B,\nC, and D are fully open. Currently, the centrifugal pump is providing a cleanup water flow rate of\n120 gpm.\nIf valve C is throttled to 50 percent, how will the temperatures at points 3 and 6 be affected?\nPoint 3 Point 6\n-512-\nPWR Test Items",
-    "image": "page512_img1.jpeg",
-    "choices": [
-      "A. Decrease Decrease",
-      "B. Decrease Increase",
-      "C. Increase Decrease",
-      "D. Increase Increase"
-    ],
+    "stem": " Refer to the drawing of an operating lube oil heat exchanger (see figure below). Given the following information: m\u0307 = 1.5 x 104 lbm/hr oil m\u0307 = 2.5 x 104 lbm/hr water c = 1.1 Btu/lbm-\u00b0F p-oil c = 1.0 Btu/lbm-\u00b0F p-water T = 92\u00b0F cw-in T = 125\u00b0F cw-out T = 160\u00b0F oil-in T = ? oil-out Which one of the following is the approximate temperature of the lube oil exiting the heat exchanger (T )? oil-out NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "110\u00b0F",
+      "B": "127\u00b0F",
+      "C": "135\u00b0F",
+      "D": "147\u00b0F -491- PWR Test Items"
+    },
     "answer": "A"
   },
   {
-    "id": "HEA697",
     "topic": "Heat Exchangers",
-    "question": "Refer to the drawing of an operating water cleanup system (see figure below).\nAll valves are identical and are initially 50 percent open. To lower the temperature at point 7, the\noperator can adjust valve __________ in the open direction.\n-513-\nPWR Test Items",
-    "image": "page513_img1.jpeg",
-    "choices": [
-      "A. A",
-      "B. B",
-      "C. C",
-      "D. D"
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "HEA698",
-    "topic": "Heat Exchangers",
-    "question": "Refer to the drawing of an operating lube oil heat exchanger (see figure below).\nIncreasing the oil flow rate through the heat exchanger will cause the oil outlet temperature to\n__________ and the cooling water outlet temperature to __________.\n-514-\nPWR Test Items",
-    "image": "page514_img1.jpeg",
-    "choices": [
-      "A. increase; increase",
-      "B. increase; decrease",
-      "C. decrease; increase",
-      "D. decrease; decrease"
-    ],
+    "stem": " Refer to the drawing of an operating lube oil heat exchanger (see figure below). Given the following information: c = 1.1 Btu/lbm-\u00b0F p-oil c = 1.0 Btu/lbm-\u00b0F p-water \u1e41 = 1.2 x 104 lbm/hr oil \u1e41 = 1.61 x 104 lbm/hr water T = 170\u00b0F oil in T = 120\u00b0F oil out T = 110\u00b0F water out T = ? water in Which one of the following is the approximate cooling water inlet temperature (T ) for the heat water in exchanger? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "65\u00b0F",
+      "B": "69\u00b0F",
+      "C": "73\u00b0F",
+      "D": "77\u00b0F -492- PWR Test Items"
+    },
     "answer": "A"
   },
   {
-    "id": "HEA699",
     "topic": "Heat Exchangers",
-    "question": "Refer to the drawing of an operating lube oil heat exchanger (see figure below).\nAssume that the inlet lube oil and inlet cooling water temperatures are constant and cooling water\nflow rate remains the same. Decreasing the oil flow rate through the heat exchanger will cause the\nlube oil outlet temperature to __________ and the cooling water outlet temperature to __________.\n-515-\nPWR Test Items",
-    "image": "page515_img1.jpeg",
-    "choices": [
-      "A. increase, increase",
-      "B. increase, decrease",
-      "C. decrease, increase",
-      "D. decrease, decrease"
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "HEA700",
-    "topic": "Heat Exchangers",
-    "question": "Refer to the drawing of an operating water cleanup system (see figure below).\nValves A, B, and C are fully open. Valve D is 80 percent open. If valve D is throttled to 50\npercent, the temperature at point...\n-516-\nPWR Test Items",
-    "image": "page516_img1.jpeg",
-    "choices": [
-      "A. 3 will decrease.",
-      "B. 4 will increase.",
-      "C. 5 will increase.",
-      "D. 6 will decrease."
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "HEA701",
-    "topic": "Heat Exchangers",
-    "question": "Refer to the drawing of an operating water cleanup system (see figure below).\nValves A, B, and C are fully open. Valve D is 20 percent open. If valve D is opened to 100\npercent, the temperature at point...\n-517-\nPWR Test Items",
-    "image": "page517_img1.jpeg",
-    "choices": [
-      "A. 3 will increase.",
-      "B. 4 will decrease.",
-      "C. 5 will decrease.",
-      "D. 7 will increase."
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "HEA702",
-    "topic": "Heat Exchangers",
-    "question": "Refer to the drawing of an operating water cleanup system (see figure below).\nAll valves are identical and are initially 50 percent open. To lower the temperature at point 4, the\noperator can adjust valve __________ in the __________ direction.\n-518-\nPWR Test Items",
-    "image": "page518_img1.jpeg",
-    "choices": [
-      "A. A; open",
-      "B. B; close",
-      "C. C; open",
-      "D. D; close"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "HEA703",
-    "topic": "Heat Exchangers",
-    "question": "Refer to the drawing of a lube oil heat exchanger (see figure below).\nThe lube oil heat exchanger is in service with the following inlet temperatures:\nLube oil inlet temperature = 120\u00b0F\nCooling water inlet temperature = 60\u00b0F\nAssuming that cooling water flow rate is greater than lube oil flow rate, which one of the following\npairs of heat exchanger outlet temperatures is possible? (Assume both fluids have the same specific\nheat.)\nLube Oil Cooling Water\nOutlet Temp Outlet Temp\n-519-\nPWR Test Items",
-    "image": "page519_img1.jpeg",
-    "choices": [
-      "A. 100\u00b0F 100\u00b0F",
-      "B. 90\u00b0F 90\u00b0F",
-      "C. 80\u00b0F 80\u00b0F",
-      "D. 80\u00b0F 100\u00b0F"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "HEA704",
-    "topic": "Heat Exchangers",
-    "question": "Refer to the drawing of a lube oil heat exchanger (see figure below).\nThe lube oil heat exchanger is in service with the following inlet temperatures:\nLube oil inlet temperature = 130\u00b0F\nCooling water inlet temperature = 70\u00b0F\nAssuming that cooling water flow rate is greater than lube oil flow rate, which one of the following\npairs of heat exchanger outlet temperatures is possible? (Assume both fluids have the same specific\nheat.)\nLube Oil Cooling Water\nOutlet Temp Outlet Temp\n-520-\nPWR Test Items",
-    "image": "page520_img1.jpeg",
-    "choices": [
-      "A. 90\u00b0F 100\u00b0F",
-      "B. 90\u00b0F 110\u00b0F",
-      "C. 100\u00b0F 100\u00b0F",
-      "D. 100\u00b0F 110\u00b0F"
-    ],
+    "stem": " Refer to the drawing of an operating lube oil heat exchanger (see figure below). Given the following information: m\u0307 = 1.8 x 104 lbm/hr oil m\u0307 = 3.3 x 104 lbm/hr water c = 1.1 Btu/lbm-\u00b0F p-oil c = 1.0 Btu/lbm-\u00b0F p-water T = 90\u00b0F cw-in T = 120\u00b0F cw-out T = 190\u00b0F oil-in T = ? oil-out What is the approximate temperature of the lube oil exiting the heat exchanger (T )? oil-out NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "110\u00b0F",
+      "B": "120\u00b0F",
+      "C": "130\u00b0F",
+      "D": "140\u00b0F -493- PWR Test Items"
+    },
     "answer": "A"
   },
   {
-    "id": "HEA705",
     "topic": "Heat Exchangers",
-    "question": "Refer to the drawing of a lube oil heat exchanger (see figure below).\nThe lube oil heat exchanger is in service with the following inlet temperatures:\nLube oil inlet temperature = 110\u00b0F\nCooling water inlet temperature = 75\u00b0F\nAssuming that cooling water flow rate is greater than lube oil flow rate, which one of the following\npairs of heat exchanger outlet temperatures is possible? (Assume both fluids have the same specific\nheat.)\nLube Oil Cooling Water\nOutlet Temp Outlet Temp\n-521-\nPWR Test Items",
-    "image": "page521_img1.jpeg",
-    "choices": [
-      "A. 100\u00b0F 100\u00b0F",
-      "B. 100\u00b0F 90\u00b0F",
-      "C. 90\u00b0F 100\u00b0F",
-      "D. 90\u00b0F 90\u00b0F"
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "HEA706",
-    "topic": "Heat Exchangers",
-    "question": "Refer to the drawing of an operating water cleanup system (see figure below).\nAll valves are identical and are initially 50 percent open. To raise the temperature at point 4, the\noperator can adjust valve __________ in the __________ direction.\n-522-\nPWR Test Items",
-    "image": "page522_img1.jpeg",
-    "choices": [
-      "A. A; shut",
-      "B. B; shut",
-      "C. C; open",
-      "D. D; open"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "HEA707",
-    "topic": "Heat Exchangers",
-    "question": "Refer to the drawing of a lube oil heat exchanger (see figure below).\nThe lube oil heat exchanger is in service with the following inlet temperatures:\nLube oil inlet temperature = 130\u00b0F\nCooling water inlet temperature = 70\u00b0F\nAssuming that cooling water flow rate is greater than lube oil flow rate, which one of the following\npairs of heat exchanger outlet temperatures is not possible? (Assume both fluids have the same\nspecific heat.)\nLube Oil Cooling Water\nOutlet Temp Outlet Temp\n-523-\nPWR Test Items",
-    "image": "page523_img1.jpeg",
-    "choices": [
-      "A. 90\u00b0F 86\u00b0F",
-      "B. 100\u00b0F 85\u00b0F",
-      "C. 110\u00b0F 84\u00b0F",
-      "D. 120\u00b0F 83\u00b0F"
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "HEA708",
-    "topic": "Heat Exchangers",
-    "question": "Refer to the drawing of a lube oil heat exchanger (see figure below).\nThe lube oil heat exchanger is in service with the following inlet temperatures:\nLube oil inlet temperature = 130\u00b0F\nCooling water inlet temperature = 70\u00b0F\nAssuming the cooling water flow rate exceeds the lube oil flow rate, which one of the following\npairs of heat exchanger outlet temperatures is possible? (Assume both fluids have the same specific\nheat.)\nLube Oil Cooling Water\nOutlet Temp Outlet Temp\n-524-\nPWR Test Items",
-    "image": "page524_img1.jpeg",
-    "choices": [
-      "A. 100\u00b0F 90\u00b0F",
-      "B. 100\u00b0F 100\u00b0F",
-      "C. 110\u00b0F 90\u00b0F",
-      "D. 110\u00b0F 100\u00b0F"
-    ],
+    "stem": " Refer to the drawing of an operating lube oil heat exchanger (see figure below). Given the following information: m\u0307 = 1.5 x 104 lbm/hr oil m\u0307 = 2.5 x 104 lbm/hr water c = 1.1 Btu/lbm-\u00b0F p-oil c = 1.0 Btu/lbm-\u00b0F p-water T = 160\u00b0F oil-in T = 110\u00b0F oil-out T = 92\u00b0F cw-in T = ? cw-out Which one of the following is the approximate temperature of the cooling water exiting the heat exchanger (T )? cw-out NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "110\u00b0F",
+      "B": "115\u00b0F",
+      "C": "120\u00b0F",
+      "D": "125\u00b0F -494- PWR Test Items"
+    },
     "answer": "A"
   },
   {
-    "id": "HEA709",
     "topic": "Heat Exchangers",
-    "question": "Refer to the drawing of an operating water cleanup system (see figure below).\nValves A, B, and D are fully open and valve C is 50 percent open. If valve C is opened to 100\npercent, how will the temperatures at points 3 and 6 be affected?\nPoint 3 Point 6\n-525-\nPWR Test Items",
-    "image": "page525_img1.jpeg",
-    "choices": [
-      "A. Decrease Decrease",
-      "B. Decrease Increase",
-      "C. Increase Decrease",
-      "D. Increase Increase"
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "HEA710",
-    "topic": "Heat Exchangers",
-    "question": "Refer to the drawing of an operating water cleanup system (see figure below). All valves are\nidentical and are initially 50 percent open.\nTo raise the temperature at point 7, the operator can adjust valve _____ in the close direction.\n-526-\nPWR Test Items",
-    "image": "page526_img1.jpeg",
-    "choices": [
-      "A. A",
-      "B. B",
-      "C. C",
-      "D. D"
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "HEA711",
-    "topic": "Heat Exchangers",
-    "question": "Refer to the drawing of a lube oil heat exchanger (see figure below).\nThe lube oil heat exchanger is in service with the following inlet temperatures:\nLube oil inlet temperature = 130\u00b0F\nCooling water inlet temperature = 70\u00b0F\nAssume that cooling water mass flow rate is less than lube oil mass flow rate, and that both fluids\nhave the same specific heat. Which one of the following pairs of heat exchanger outlet\ntemperatures is not possible?\nLube Oil Cooling Water\nOutlet Temp Outlet Temp\n-527-\nPWR Test Items",
-    "image": "page527_img1.jpeg",
-    "choices": [
-      "A. 100\u00b0F 105\u00b0F",
-      "B. 105\u00b0F 105\u00b0F",
-      "C. 110\u00b0F 90\u00b0F",
-      "D. 115\u00b0F 90\u00b0F"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "HEA712",
-    "topic": "Heat Exchangers",
-    "question": "Refer to the drawing of a lube oil heat exchanger (see figure below).\nThe lube oil heat exchanger is in service with the following inlet temperatures:\nLube oil inlet temperature = 120\u00b0F\nCooling water inlet temperature = 60\u00b0F\nAssuming that cooling water flow rate is greater than lube oil flow rate, which one of the following\npairs of heat exchanger outlet temperatures is possible? (Assume both fluids have the same specific\nheat.)\nLube Oil Cooling Water\nOutlet Temp Outlet Temp\n-528-\nPWR Test Items",
-    "image": "page528_img1.jpeg",
-    "choices": [
-      "A. 90\u00b0F 100\u00b0F",
-      "B. 90\u00b0F 85\u00b0F",
-      "C. 95\u00b0F 100\u00b0F",
-      "D. 95\u00b0F 85\u00b0F"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "HEA713",
-    "topic": "Heat Exchangers",
-    "question": "Refer to the drawing of a lube oil heat exchanger (see figure below).\nThe lube oil heat exchanger is in service with the following inlet temperatures:\nLube oil inlet temperature = 130\u00b0F\nCooling water inlet temperature = 70\u00b0F\nGiven that cooling water mass flow rate is greater than lube oil mass flow rate, which one of the\nfollowing pairs of heat exchanger outlet temperatures is not possible? (Assume both fluids have the\nsame specific heat.)\nLube Oil Cooling Water\nOutlet Temp Outlet Temp\n-529-\nPWR Test Items",
-    "image": "page529_img1.jpeg",
-    "choices": [
-      "A. 90\u00b0F 105\u00b0F",
-      "B. 90\u00b0F 100\u00b0F",
-      "C. 110\u00b0F 95\u00b0F",
-      "D. 110\u00b0F 85\u00b0F"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "HEA714",
-    "topic": "Heat Exchangers",
-    "question": "Refer to the drawing of a heat exchanger (see figure below).\nThe heat exchanger is in service with the following inlet temperatures:\nService water inlet temperature = 130\u00b0F\nCooling water inlet temperature = 70\u00b0F\nAssume that both fluids have the same specific heat, and that service water mass flow rate is greater\nthan cooling water mass flow rate. Which one of the following pairs of heat exchanger outlet\ntemperatures is possible?\nService Water Cooling Water\nOutlet Temp. Outlet Temp.\n-530-\nPWR Test Items",
-    "image": "page530_img1.jpeg",
-    "choices": [
-      "A. 120\u00b0F 82\u00b0F",
-      "B. 110\u00b0F 90\u00b0F",
-      "C. 100\u00b0F 98\u00b0F",
-      "D. 90\u00b0F 106\u00b0F"
-    ],
+    "stem": " The rate of heat transfer between two liquids in a heat exchanger will decrease if the: (Assume single-phase conditions and a constant specific heat for both liquids.) NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "inlet temperature of the hotter liquid increases by 20\u00b0F.",
+      "B": "inlet temperature of the colder liquid decreases by 20\u00b0F.",
+      "C": "flow rates of both liquids decrease by 10 percent.",
+      "D": "flow rates of both liquids increase by 10 percent. -495- PWR Test Items"
+    },
     "answer": "A"
   },
   {
-    "id": "HEA715",
     "topic": "Heat Exchangers",
-    "question": "Refer to the drawing of a heat exchanger (see figure below).\nThe heat exchanger is in service with the following inlet temperatures:\nCooling water inlet temperature = 70\u00b0F\nService water inlet temperature = 130\u00b0F\nAssume that both fluids have the same specific heat, and that cooling water mass flow rate is greater\nthan service water mass flow rate. Which one of the following pairs of heat exchanger outlet\ntemperatures is not possible?\nCooling Water Service Water\nOutlet Temp. Outlet Temp.\n-531-\nPWR Test Items",
-    "image": "page531_img1.jpeg",
-    "choices": [
-      "A. 78\u00b0F 120\u00b0F",
-      "B. 90\u00b0F 110\u00b0F",
-      "C. 98\u00b0F 100\u00b0F",
-      "D. 100\u00b0F 90\u00b0F"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "HEA716",
-    "topic": "Heat Exchangers",
-    "question": "Refer to the drawing of a heat exchanger (see figure below).\nThe heat exchanger is in service with the following inlet temperatures:\nService water inlet temperature = 130\u00b0F\nCooling water inlet temperature = 70\u00b0F\nAssume that both fluids have the same specific heat, and that cooling water mass flow rate is greater\nthan service water mass flow rate. Which one of the following pairs of heat exchanger outlet\ntemperatures is possible?\nService Water Cooling Water\nOutlet Temp. Outlet Temp.\n-532-\nPWR Test Items",
-    "image": "page532_img1.jpeg",
-    "choices": [
-      "A. 120\u00b0F 90\u00b0F",
-      "B. 110\u00b0F 95\u00b0F",
-      "C. 100\u00b0F 100\u00b0F",
-      "D. 90\u00b0F 105\u00b0F"
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "HEA717",
-    "topic": "Heat Exchangers",
-    "question": "Severe stress in a mechanical component, induced by a sudden, unequally distributed temperature\nreduction is a description of...",
-    "image": "",
-    "choices": [
-      "A. fracture stress.",
-      "B. brittle fracture.",
-      "C. thermal shock.",
-      "D. pressurized thermal shock."
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "HEA718",
-    "topic": "Heat Exchangers",
-    "question": "The major thermodynamic concern resulting from rapidly cooling a reactor vessel is...\n-533-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. thermal shock.",
-      "B. stress corrosion.",
-      "C. loss of shutdown margin.",
-      "D. loss of subcooling margin."
-    ],
+    "stem": " Refer to the drawing of a lube oil heat exchanger (see figure below). Given the following heat exchanger parameters: \uf0b7 Lube oil flow rate is 200 lbm/min. \uf0b7 Lube oil enters the heat exchanger at 140\u00b0F. \uf0b7 Lube oil leaves the heat exchanger at 100\u00b0F. \uf0b7 Specific heat of the lube oil is 0.8 Btu/lbm-\u00b0F. \uf0b7 Cooling water flow rate is 400 lbm/min. \uf0b7 Cooling water enters the lube oil heat exchanger at 60\u00b0F. \uf0b7 Specific heat of the cooling water is 1.0 Btu/lbm-\u00b0F. What is the approximate temperature of the cooling water leaving the lube oil heat exchanger? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "76\u00b0F",
+      "B": "85\u00b0F",
+      "C": "92\u00b0F",
+      "D": "124\u00b0F -496- PWR Test Items"
+    },
     "answer": "A"
   },
   {
-    "id": "HEA719",
     "topic": "Heat Exchangers",
-    "question": "Refer to the drawing of an operating lube oil heat exchanger (see figure below).\nIf scaling occurs inside the cooling water tubes, cooling water outlet temperature will __________;\nand lube oil outlet temperature will __________. (Assume the lube oil and cooling water flow rates\ndo not change.)\n-534-\nPWR Test Items",
-    "image": "page534_img1.jpeg",
-    "choices": [
-      "A. decrease; decrease",
-      "B. decrease; increase",
-      "C. increase; decrease",
-      "D. increase; increase"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": "HEA720",
-    "topic": "Heat Exchangers",
-    "question": "Which one of the following will occur to reduce the heat transfer rate in a parallel-flow heat\nexchanger as scaling increases on the exterior surface of the tubes?\n-535-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. Flow rate through the tubes will decrease.",
-      "B. Surface area of the tubes will decrease.",
-      "C. Thermal conductivity of the tubes will decrease.",
-      "D. Delta-T across the tubes will decrease."
-    ],
-    "answer": "C"
-  },
-  {
-    "id": "HEA721",
-    "topic": "Heat Exchangers",
-    "question": "Refer to the drawing of an operating lube oil heat exchanger (see figure below).\nIf mineral deposits accumulate on the outside of the cooling water tubes, the cooling water outlet\ntemperature will __________; and the lube oil outlet temperature will __________. (Assume the\nlube oil and cooling water inlet temperatures and mass flow rates do not change.)\n-536-\nPWR Test Items",
-    "image": "page536_img1.jpeg",
-    "choices": [
-      "A. decrease; increase",
-      "B. decrease; decrease",
-      "C. increase; increase",
-      "D. increase; decrease"
-    ],
+    "stem": " Refer to the drawing of an operating lube oil heat exchanger (see figure below). Given the following information: Q\u0307 = 1.0 x 107 Btu/hr oil T = 170\u00b0F oil in T = 134\u00b0F oil out T = 85\u00b0F water in T = 112\u00b0F water out c = 1.1 Btu/lbm-\u00b0F p-oil c = 1.0 Btu/lbm-\u00b0F p-water \u1e41 = ? water Which one of the following is the approximate mass flow rate of the cooling water? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "4.5 x 105 lbm/hr",
+      "B": "3.7 x 105 lbm/hr",
+      "C": "2.5 x 105 lbm/hr",
+      "D": "1.2 x 105 lbm/hr -497- PWR Test Items"
+    },
     "answer": "A"
   },
   {
-    "id": "HEA722",
     "topic": "Heat Exchangers",
-    "question": "A main turbine-generator is operating at 80 percent load with the following initial steady-state\ntemperatures for the main turbine lube oil heat exchanger:\nT = 174\u00b0F\noil in\nT = 114\u00b0F\noil out\nT = 85\u00b0F\nwater in\nT = 115\u00b0F\nwater out\nAfter six months of main turbine-generator operation, the following final steady-state lube oil heat\nexchanger temperatures are observed:\nT = 179\u00b0F\noil in\nT = 119\u00b0F\noil out\nT = 85\u00b0F\nwater in\nT = 115\u00b0F\nwater out\nAssume the final cooling water and lube oil flow rates are the same as the initial flow rates, and the\nspecific heat values for the cooling water and lube oil do not change.\nWhich one of the following could be responsible for the differences between the initial and final heat\nexchanger steady-state temperatures?\n-537-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. The heat exchanger tubes have become fouled with scale.",
-      "B. The temperature of the cooling water source has increased.",
-      "C. The final main turbine-generator load is higher than the initial load.",
-      "D. The final main turbine-generator load is lower than the initial load."
-    ],
+    "stem": " Refer to the drawing of an operating lube oil heat exchanger (see figure below). Given the following information: m\u0307 = 1.8 x 104 lbm/hr oil m\u0307 = 3.3 x 104 lbm/hr water c = 1.1 Btu/lbm-\u00b0F p-oil c = 1.0 Btu/lbm-\u00b0F p-water T = 90\u00b0F cw-in T = 120\u00b0F cw-out T = 170\u00b0F oil-in T = ? oil-out What is the approximate temperature of the lube oil exiting the heat exchanger (T )? oil-out NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "110\u00b0F",
+      "B": "120\u00b0F",
+      "C": "130\u00b0F",
+      "D": "140\u00b0F -498- PWR Test Items"
+    },
     "answer": "A"
   },
   {
-    "id": "HEA723",
     "topic": "Heat Exchangers",
-    "question": "Refer to the drawing of an operating lube oil heat exchanger (see figure below).\nIf mineral deposits accumulate on the inside of the cooling water tubes, cooling water outlet\ntemperature will __________; and lube oil outlet temperature will __________. (Assume the lube\noil and cooling water inlet temperatures and flow rates do not change.)\n-538-\nPWR Test Items",
-    "image": "page538_img1.jpeg",
-    "choices": [
-      "A. increase; decrease",
-      "B. increase; increase",
-      "C. decrease; decrease",
-      "D. decrease; increase"
-    ],
-    "answer": "D"
-  },
-  {
-    "id": "HEA724",
-    "topic": "Heat Exchangers",
-    "question": "Refer to the drawing of an operating lube oil heat exchanger (see figure below).\nThe heat exchanger was initially placed in continuous service 6 months ago. During the 6-month\nperiod of operation, mineral deposits have accumulated inside the heat exchanger tubes.\nThe following parameters are currently stable at their initial values:\n\uf0b7 Lube oil mass flow rate\n\uf0b7 Lube oil inlet temperature\n\uf0b7 Lube oil outlet temperature\n\uf0b7 Cooling water inlet temperature\nCompared to their initial values, the current cooling water outlet temperature is __________; and the\ncurrent cooling water mass flow rate is __________.\n-539-\nPWR Test Items",
-    "image": "page539_img1.jpeg",
-    "choices": [
-      "A. lower; greater",
-      "B. lower; smaller",
-      "C. higher; greater",
-      "D. higher; smaller"
-    ],
+    "stem": " Refer to the drawing of an operating water cleanup system (see figure below). If cooling water flow rate is 1.0 x 106 lbm/hr, what is the approximate water flow rate in the cleanup system? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "2.2 x 105 lbm/hr",
+      "B": "3.2 x 105 lbm/hr",
+      "C": "2.2 x 106 lbm/hr",
+      "D": "3.2 x 106 lbm/hr -499- PWR Test Items"
+    },
     "answer": "A"
   },
   {
-    "id": "HEA725",
     "topic": "Heat Exchangers",
-    "question": "Refer to the drawing of an operating lube oil heat exchanger (see figure below).\nThe heat exchanger was initially placed in continuous service 6 months ago. During the 6-month\nperiod of operation, mineral deposits have accumulated inside the heat exchanger tubes.\nThe following parameters are currently stable at their initial values:\n\uf0b7 Cooling water mass flow rate\n\uf0b7 Cooling water inlet temperature\n\uf0b7 Cooling water outlet temperature\n\uf0b7 Lube oil mass flow rate\nCompared to their initial values, the current lube oil inlet temperature is __________; and the current\nlube oil outlet temperature is __________.\n-540-\nPWR Test Items",
-    "image": "page540_img1.jpeg",
-    "choices": [
-      "A. lower; lower",
-      "B. lower; higher",
-      "C. higher; lower",
-      "D. higher; higher"
-    ],
-    "answer": "D"
+    "stem": " A main turbine-generator was operating at 80 percent load with the following initial steady-state lube oil and cooling water temperatures for the main turbine lube oil heat exchanger: T = 174\u00b0F oil in T = 114\u00b0F oil out T = 85\u00b0F water in T = 115\u00b0F water out Six months later, the following current steady-state heat exchanger temperatures are observed: T = 177\u00b0F oil in T = 111\u00b0F oil out T = 85\u00b0F water in T = 115\u00b0F water out Assume the lube oil system is a closed system. Also, assume the following did not change: \uf0b7 Cooling water mass flow rate \uf0b7 Cooling water and lube oil specific heats \uf0b7 Heat exchanger heat transfer coefficient Which one of the following could be responsible for the differences between the initial and current steady-state heat exchanger temperatures? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "The current main turbine-generator load is lower than the initial load.",
+      "B": "The current main turbine-generator load is higher than the initial load.",
+      "C": "The current main turbine lube oil mass flow rate is less than the initial flow rate.",
+      "D": "The current main turbine lube oil mass flow rate is greater than the initial flow rate. -500- PWR Test Items"
+    },
+    "answer": "A"
   },
   {
-    "id": "HEA726",
     "topic": "Heat Exchangers",
-    "question": "Chemically treated water is flowing through the tubes of a heat exchanger being cooled by fresh\nwater. The shell side pressure is less than tube side pressure. What will occur as a result of a tube\nfailure?\n-541-\nPWR Test Items",
-    "image": "",
-    "choices": [
-      "A. Shell side pressure will increase and the chemically treated water system will be diluted.",
-      "B. Shell side pressure will decrease and the chemically treated water inventory will be depleted.",
-      "C. Shell side pressure will increase and the chemically treated water inventory will be depleted.",
-      "D. Shell side pressure will decrease and the chemically treated water system will be diluted."
-    ],
-    "answer": "C"
+    "stem": " A main turbine-generator was operating at 80 percent load with the following initial steady-state lube oil and cooling water temperatures for the main turbine lube oil heat exchanger: T = 174\u00b0F oil in T = 114\u00b0F oil out T = 85\u00b0F water in T = 115\u00b0F water out Six months later, the current steady-state heat exchanger temperatures are: T = 174\u00b0F oil in T = 120\u00b0F oil out T = 85\u00b0F water in T = 120\u00b0F water out Assume that the lube oil mass flow rate does not change, and that the specific heat values for the cooling water and lube oil do not change. Also assume that the main turbine lube oil system is a closed system. The differences between the initial and current steady-state heat exchanger temperatures could be caused by the current main turbine-generator load being __________ with the current heat exchanger cooling water mass flow rate being __________. NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "higher; lower",
+      "B": "higher; higher",
+      "C": "lower; lower",
+      "D": "lower; higher -501- PWR Test Items"
+    },
+    "answer": "A"
   },
   {
-    "id": "HEA727",
     "topic": "Heat Exchangers",
-    "question": "Refer to the drawing of an operating cooling water system (see figure below).\nWhich one of the following effects will occur because of the failed tube in the heat exchanger?\n-542-\nPWR Test Items",
-    "image": "page542_img1.jpeg",
-    "choices": [
-      "A. Level in the surge tank will increase.",
-      "B. Flow in the low pressure (LP) system will reverse.",
-      "C. Pressure in the low pressure (LP) system will decrease.",
-      "D. Low pressure (LP) fluid heat exchanger outlet temperature will decrease."
-    ],
-    "answer": "D"
+    "stem": " Refer to the drawing of an operating parallel-flow lube oil heat exchanger (see figure below). Assume that lube oil (LO) inlet temperature is greater than cooling water (CW) inlet temperature. Unlike a counter-flow heat exchanger, in a parallel-flow heat exchanger the __________ temperature can never be greater than the __________ temperature. NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "LO outlet; CW inlet",
+      "B": "LO outlet; CW outlet",
+      "C": "CW outlet; LO inlet",
+      "D": "CW outlet; LO outlet -502- PWR Test Items"
+    },
+    "answer": "A"
   },
   {
-    "id": "HEA728",
     "topic": "Heat Exchangers",
-    "question": "Refer to the drawing of an operating cooling water system (see figure below).\nWhich one of the following will occur as a result of the indicated tube failure in the heat exchanger?\n(HP = high pressure; LP = low pressure)\n-543-\nPWR Test Items",
-    "image": "page543_img1.jpeg",
-    "choices": [
-      "A. HP fluid inventory will increase.",
-      "B. Level in the surge tank will decrease.",
-      "C. Pressure in the LP system will decrease.",
-      "D. Temperature in the LP system will increase."
-    ],
-    "answer": "B"
+    "stem": " Refer to the drawing of an operating process water cleanup system (see figure below). Assume there is no heat loss from the process water cleanup system to the surroundings and the process water flow rate does not change. If valve D closes fully, what will be the final steady-state temperature of the process water flowing through the filter? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "212\u00b0F",
+      "B": "302\u00b0F",
+      "C": "450\u00b0F",
+      "D": "540\u00b0F -503- PWR Test Items"
+    },
+    "answer": "A"
   },
   {
-    "id": "HEA729",
     "topic": "Heat Exchangers",
-    "question": "Refer to the drawing of an operating lube oil heat exchanger (see figure below).\nThe heat exchanger was operating with the following initial parameters:\nCooling water inlet temperature (T ) = 71\u00b0F\ncw-in\nCooling water outlet temperature (T ) = 91\u00b0F\ncw-out\nOil inlet temperature (T ) = 175\u00b0F\noil-in\nOil outlet temperature (T ) = 125\u00b0F\noil-out\nThe heat exchanger was vented, resulting in the following current parameters:\nCooling water inlet temperature (T ) = 71\u00b0F\ncw-in\nCooling water outlet temperature (T ) = 95\u00b0F\ncw-out\nOil inlet temperature (T ) = 175\u00b0F\noil-in\nOil outlet temperature (T ) = ?\noil-out\nAssume that the mass flow rates and specific heats of both fluids were unchanged.\nWhich one of the following is the current lube oil outlet temperature (T )?\noil-out\n-544-\nPWR Test Items",
-    "image": "page544_img1.jpeg",
-    "choices": [
-      "A. 115\u00b0F",
-      "B. 120\u00b0F",
-      "C. 130\u00b0F",
-      "D. 135\u00b0F"
-    ],
+    "stem": " A counter-flow heat exchanger is being used to cool the lube oil for a main turbine and generator. The main turbine and generator was initially operating at 100 percent load with the following stable heat exchanger conditions: T = 174\u00b0F oil in T = 114\u00b0F oil out T = 85\u00b0F water in T = 115\u00b0F water out Main turbine and generator load was reduced, and the heat exchanger cooling water mass flow rate was decreased to one-half of its initial value, resulting in the following stable current conditions: T = 178\u00b0F oil in T = 138\u00b0F oil out T = 85\u00b0F water in T = ? water out Assume that the lube oil mass flow rate and the specific heats of both fluids did not change. Which one of the following is the current cooling water outlet temperature? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "115\u00b0F",
+      "B": "125\u00b0F",
+      "C": "135\u00b0F",
+      "D": "145\u00b0F -504- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Heat Exchangers",
+    "stem": " Given the following parameter values for a feedwater heater: Feedwater inlet temperature = 320\u00b0F Feedwater inlet pressure = 1,000 psia Feedwater mass flow rate = 1.0 x 106 lbm/hr Extraction steam pressure = 500 psia Assume that the extraction steam enters the heater as a dry saturated vapor and leaves the heater as a saturated liquid at 500 psia. Which one of the following is the approximate mass flow rate of extraction steam required to increase feedwater temperature to 380\u00b0F? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "5.2 x 104 lbm/hr",
+      "B": "7.9 x 104 lbm/hr",
+      "C": "8.4 x 104 lbm/hr",
+      "D": "8.9 x 104 lbm/hr -505- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Heat Exchangers",
+    "stem": " Refer to the drawing of an operating parallel-flow lube oil heat exchanger (see figure below). Unlike a counter-flow heat exchanger, in the parallel-flow heat exchanger the __________ temperature will always be greater than the __________ temperature. NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "CW outlet; LO inlet",
+      "B": "CW outlet; LO outlet",
+      "C": "LO outlet; CW inlet",
+      "D": "LO outlet; CW outlet -506- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Heat Exchangers",
+    "stem": " Given the following parameters for an operating lube oil heat exchanger: Lube oil inlet temperature = 150\u00b0F Lube oil outlet temperature = 105\u00b0F Cooling water inlet temperature = 60\u00b0F Cooling water outlet temperature = 110\u00b0F Considering only counter-flow and parallel-flow heat exchanger designs, the lube oil heat exchanger described above must be\u2026 NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "counter-flow, because the lube oil outlet temperature is less than the cooling water outlet temperature.",
+      "B": "counter-flow, because the change in lube oil temperature is less than the change in cooling water temperature.",
+      "C": "parallel-flow, because the lube oil outlet temperature is less than the cooling water outlet temperature.",
+      "D": "parallel-flow, because the change in lube oil temperature is less than the change in cooling water temperature. -507- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Heat Exchangers",
+    "stem": " The manufacturers of shell and U-tube heat exchangers recommend a maximum tube fluid velocity to limit the __________ of the tubes; and a minimum tube fluid velocity to limit the __________ of the tubes. NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "erosion; fouling",
+      "B": "erosion; thermal contraction",
+      "C": "thermal expansion; fouling",
+      "D": "thermal expansion; thermal contraction -508- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Heat Exchangers",
+    "stem": " Refer to the drawing of an operating lube oil heat exchanger (see figure below). Given: \uf0b7 The cooling water inlet temperature is constant. \uf0b7 The lube oil inlet temperature is constant. \uf0b7 The lube oil mass flow rate is constant. If the cooling water mass flow rate increases, the lube oil outlet temperature will __________; and the cooling water outlet temperature will __________. NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "increase; increase",
+      "B": "increase; decrease",
+      "C": "decrease; increase",
+      "D": "decrease; decrease -509- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Heat Exchangers",
+    "stem": " Which one of the following will increase the heat transfer rate between two liquids in a heat exchanger? (Assume single-phase conditions and a constant specific heat for both liquids.) NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "The mass flow rate of the hotter liquid decreases by 10 percent.",
+      "B": "The mass flow rate of the colder liquid decreases by 10 percent.",
+      "C": "The inlet temperature of the hotter liquid increases by 20\u00b0F.",
+      "D": "The inlet temperature of the colder liquid increases by 20\u00b0F. -510- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Heat Exchangers",
+    "stem": " Refer to the drawing of an operating lube oil heat exchanger (see figure below). The rate of heat transfer between the lube oil and cooling water will increase if the cooling water inlet temperature __________; or if the cooling water mass flow rate __________. NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "decreases; decreases",
+      "B": "decreases; increases",
+      "C": "increases; decreases",
+      "D": "increases; increases -511- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Heat Exchangers",
+    "stem": " Refer to the drawing of an operating water cleanup system (see figure below) in which valves A, B, C, and D are fully open. Currently, the centrifugal pump is providing a cleanup water flow rate of 120 gpm. If valve C is throttled to 50 percent, how will the temperatures at points 3 and 6 be affected? Point 3 Point 6 NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "Decrease Decrease",
+      "B": "Decrease Increase",
+      "C": "Increase Decrease",
+      "D": "Increase Increase -512- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Heat Exchangers",
+    "stem": " Refer to the drawing of an operating water cleanup system (see figure below). All valves are identical and are initially 50 percent open. To lower the temperature at point 7, the operator can adjust valve __________ in the open direction. NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D -513- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Heat Exchangers",
+    "stem": " Refer to the drawing of an operating lube oil heat exchanger (see figure below). Increasing the oil flow rate through the heat exchanger will cause the oil outlet temperature to __________ and the cooling water outlet temperature to __________. NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "increase; increase",
+      "B": "increase; decrease",
+      "C": "decrease; increase",
+      "D": "decrease; decrease -514- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Heat Exchangers",
+    "stem": " Refer to the drawing of an operating lube oil heat exchanger (see figure below). Assume that the inlet lube oil and inlet cooling water temperatures are constant and cooling water flow rate remains the same. Decreasing the oil flow rate through the heat exchanger will cause the lube oil outlet temperature to __________ and the cooling water outlet temperature to __________. NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "increase, increase",
+      "B": "increase, decrease",
+      "C": "decrease, increase",
+      "D": "decrease, decrease -515- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Heat Exchangers",
+    "stem": " Refer to the drawing of an operating water cleanup system (see figure below). Valves A, B, and C are fully open. Valve D is 80 percent open. If valve D is throttled to 50 percent, the temperature at point... NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "3 will decrease.",
+      "B": "4 will increase.",
+      "C": "5 will increase.",
+      "D": "6 will decrease. -516- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Heat Exchangers",
+    "stem": " Refer to the drawing of an operating water cleanup system (see figure below). Valves A, B, and C are fully open. Valve D is 20 percent open. If valve D is opened to 100 percent, the temperature at point... NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "3 will increase.",
+      "B": "4 will decrease.",
+      "C": "5 will decrease.",
+      "D": "7 will increase. -517- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Heat Exchangers",
+    "stem": " Refer to the drawing of an operating water cleanup system (see figure below). All valves are identical and are initially 50 percent open. To lower the temperature at point 4, the operator can adjust valve __________ in the __________ direction. NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "A; open",
+      "B": "B; close",
+      "C": "C; open",
+      "D": "D; close -518- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Heat Exchangers",
+    "stem": " Refer to the drawing of a lube oil heat exchanger (see figure below). The lube oil heat exchanger is in service with the following inlet temperatures: Lube oil inlet temperature = 120\u00b0F Cooling water inlet temperature = 60\u00b0F Assuming that cooling water flow rate is greater than lube oil flow rate, which one of the following pairs of heat exchanger outlet temperatures is possible? (Assume both fluids have the same specific heat.) Lube Oil Cooling Water Outlet Temp Outlet Temp NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "100\u00b0F 100\u00b0F",
+      "B": "90\u00b0F 90\u00b0F",
+      "C": "80\u00b0F 80\u00b0F",
+      "D": "80\u00b0F 100\u00b0F -519- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Heat Exchangers",
+    "stem": " Refer to the drawing of a lube oil heat exchanger (see figure below). The lube oil heat exchanger is in service with the following inlet temperatures: Lube oil inlet temperature = 130\u00b0F Cooling water inlet temperature = 70\u00b0F Assuming that cooling water flow rate is greater than lube oil flow rate, which one of the following pairs of heat exchanger outlet temperatures is possible? (Assume both fluids have the same specific heat.) Lube Oil Cooling Water Outlet Temp Outlet Temp NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "90\u00b0F 100\u00b0F",
+      "B": "90\u00b0F 110\u00b0F",
+      "C": "100\u00b0F 100\u00b0F",
+      "D": "100\u00b0F 110\u00b0F -520- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Heat Exchangers",
+    "stem": " Refer to the drawing of a lube oil heat exchanger (see figure below). The lube oil heat exchanger is in service with the following inlet temperatures: Lube oil inlet temperature = 110\u00b0F Cooling water inlet temperature = 75\u00b0F Assuming that cooling water flow rate is greater than lube oil flow rate, which one of the following pairs of heat exchanger outlet temperatures is possible? (Assume both fluids have the same specific heat.) Lube Oil Cooling Water Outlet Temp Outlet Temp NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "100\u00b0F 100\u00b0F",
+      "B": "100\u00b0F 90\u00b0F",
+      "C": "90\u00b0F 100\u00b0F",
+      "D": "90\u00b0F 90\u00b0F -521- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Heat Exchangers",
+    "stem": " Refer to the drawing of an operating water cleanup system (see figure below). All valves are identical and are initially 50 percent open. To raise the temperature at point 4, the operator can adjust valve __________ in the __________ direction. NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "A; shut",
+      "B": "B; shut",
+      "C": "C; open",
+      "D": "D; open -522- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Heat Exchangers",
+    "stem": " Refer to the drawing of a lube oil heat exchanger (see figure below). The lube oil heat exchanger is in service with the following inlet temperatures: Lube oil inlet temperature = 130\u00b0F Cooling water inlet temperature = 70\u00b0F Assuming that cooling water flow rate is greater than lube oil flow rate, which one of the following pairs of heat exchanger outlet temperatures is not possible? (Assume both fluids have the same specific heat.) Lube Oil Cooling Water Outlet Temp Outlet Temp NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "90\u00b0F 86\u00b0F",
+      "B": "100\u00b0F 85\u00b0F",
+      "C": "110\u00b0F 84\u00b0F",
+      "D": "120\u00b0F 83\u00b0F -523- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Heat Exchangers",
+    "stem": " Refer to the drawing of a lube oil heat exchanger (see figure below). The lube oil heat exchanger is in service with the following inlet temperatures: Lube oil inlet temperature = 130\u00b0F Cooling water inlet temperature = 70\u00b0F Assuming the cooling water flow rate exceeds the lube oil flow rate, which one of the following pairs of heat exchanger outlet temperatures is possible? (Assume both fluids have the same specific heat.) Lube Oil Cooling Water Outlet Temp Outlet Temp NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "100\u00b0F 90\u00b0F",
+      "B": "100\u00b0F 100\u00b0F",
+      "C": "110\u00b0F 90\u00b0F",
+      "D": "110\u00b0F 100\u00b0F -524- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Heat Exchangers",
+    "stem": " Refer to the drawing of an operating water cleanup system (see figure below). Valves A, B, and D are fully open and valve C is 50 percent open. If valve C is opened to 100 percent, how will the temperatures at points 3 and 6 be affected? Point 3 Point 6 NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "Decrease Decrease",
+      "B": "Decrease Increase",
+      "C": "Increase Decrease",
+      "D": "Increase Increase -525- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Heat Exchangers",
+    "stem": " Refer to the drawing of an operating water cleanup system (see figure below). All valves are identical and are initially 50 percent open. To raise the temperature at point 7, the operator can adjust valve _____ in the close direction. NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D -526- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Heat Exchangers",
+    "stem": " Refer to the drawing of a lube oil heat exchanger (see figure below). The lube oil heat exchanger is in service with the following inlet temperatures: Lube oil inlet temperature = 130\u00b0F Cooling water inlet temperature = 70\u00b0F Assume that cooling water mass flow rate is less than lube oil mass flow rate, and that both fluids have the same specific heat. Which one of the following pairs of heat exchanger outlet temperatures is not possible? Lube Oil Cooling Water Outlet Temp Outlet Temp NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "100\u00b0F 105\u00b0F",
+      "B": "105\u00b0F 105\u00b0F",
+      "C": "110\u00b0F 90\u00b0F",
+      "D": "115\u00b0F 90\u00b0F -527- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Heat Exchangers",
+    "stem": " Refer to the drawing of a lube oil heat exchanger (see figure below). The lube oil heat exchanger is in service with the following inlet temperatures: Lube oil inlet temperature = 120\u00b0F Cooling water inlet temperature = 60\u00b0F Assuming that cooling water flow rate is greater than lube oil flow rate, which one of the following pairs of heat exchanger outlet temperatures is possible? (Assume both fluids have the same specific heat.) Lube Oil Cooling Water Outlet Temp Outlet Temp NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "90\u00b0F 100\u00b0F",
+      "B": "90\u00b0F 85\u00b0F",
+      "C": "95\u00b0F 100\u00b0F",
+      "D": "95\u00b0F 85\u00b0F -528- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Heat Exchangers",
+    "stem": " Refer to the drawing of a lube oil heat exchanger (see figure below). The lube oil heat exchanger is in service with the following inlet temperatures: Lube oil inlet temperature = 130\u00b0F Cooling water inlet temperature = 70\u00b0F Given that cooling water mass flow rate is greater than lube oil mass flow rate, which one of the following pairs of heat exchanger outlet temperatures is not possible? (Assume both fluids have the same specific heat.) Lube Oil Cooling Water Outlet Temp Outlet Temp NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "90\u00b0F 105\u00b0F",
+      "B": "90\u00b0F 100\u00b0F",
+      "C": "110\u00b0F 95\u00b0F",
+      "D": "110\u00b0F 85\u00b0F -529- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Heat Exchangers",
+    "stem": " Refer to the drawing of a heat exchanger (see figure below). The heat exchanger is in service with the following inlet temperatures: Service water inlet temperature = 130\u00b0F Cooling water inlet temperature = 70\u00b0F Assume that both fluids have the same specific heat, and that service water mass flow rate is greater than cooling water mass flow rate. Which one of the following pairs of heat exchanger outlet temperatures is possible? Service Water Cooling Water Outlet Temp. Outlet Temp. NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "120\u00b0F 82\u00b0F",
+      "B": "110\u00b0F 90\u00b0F",
+      "C": "100\u00b0F 98\u00b0F",
+      "D": "90\u00b0F 106\u00b0F -530- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Heat Exchangers",
+    "stem": " Refer to the drawing of a heat exchanger (see figure below). The heat exchanger is in service with the following inlet temperatures: Cooling water inlet temperature = 70\u00b0F Service water inlet temperature = 130\u00b0F Assume that both fluids have the same specific heat, and that cooling water mass flow rate is greater than service water mass flow rate. Which one of the following pairs of heat exchanger outlet temperatures is not possible? Cooling Water Service Water Outlet Temp. Outlet Temp. NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "78\u00b0F 120\u00b0F",
+      "B": "90\u00b0F 110\u00b0F",
+      "C": "98\u00b0F 100\u00b0F",
+      "D": "100\u00b0F 90\u00b0F -531- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Heat Exchangers",
+    "stem": " Refer to the drawing of a heat exchanger (see figure below). The heat exchanger is in service with the following inlet temperatures: Service water inlet temperature = 130\u00b0F Cooling water inlet temperature = 70\u00b0F Assume that both fluids have the same specific heat, and that cooling water mass flow rate is greater than service water mass flow rate. Which one of the following pairs of heat exchanger outlet temperatures is possible? Service Water Cooling Water Outlet Temp. Outlet Temp. NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "120\u00b0F 90\u00b0F",
+      "B": "110\u00b0F 95\u00b0F",
+      "C": "100\u00b0F 100\u00b0F",
+      "D": "90\u00b0F 105\u00b0F -532- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Heat Exchangers",
+    "stem": " Severe stress in a mechanical component, induced by a sudden, unequally distributed temperature reduction is a description of...",
+    "choices": {
+      "A": "fracture stress.",
+      "B": "brittle fracture.",
+      "C": "thermal shock.",
+      "D": "pressurized thermal shock."
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Heat Exchangers",
+    "stem": " The major thermodynamic concern resulting from rapidly cooling a reactor vessel is... NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "thermal shock.",
+      "B": "stress corrosion.",
+      "C": "loss of shutdown margin.",
+      "D": "loss of subcooling margin. -533- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Heat Exchangers",
+    "stem": " Refer to the drawing of an operating lube oil heat exchanger (see figure below). If scaling occurs inside the cooling water tubes, cooling water outlet temperature will __________; and lube oil outlet temperature will __________. (Assume the lube oil and cooling water flow rates do not change.) NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "decrease; decrease",
+      "B": "decrease; increase",
+      "C": "increase; decrease",
+      "D": "increase; increase -534- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Heat Exchangers",
+    "stem": " Which one of the following will occur to reduce the heat transfer rate in a parallel-flow heat exchanger as scaling increases on the exterior surface of the tubes? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "Flow rate through the tubes will decrease.",
+      "B": "Surface area of the tubes will decrease.",
+      "C": "Thermal conductivity of the tubes will decrease.",
+      "D": "Delta-T across the tubes will decrease. -535- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Heat Exchangers",
+    "stem": " Refer to the drawing of an operating lube oil heat exchanger (see figure below). If mineral deposits accumulate on the outside of the cooling water tubes, the cooling water outlet temperature will __________; and the lube oil outlet temperature will __________. (Assume the lube oil and cooling water inlet temperatures and mass flow rates do not change.) NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "decrease; increase",
+      "B": "decrease; decrease",
+      "C": "increase; increase",
+      "D": "increase; decrease -536- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Heat Exchangers",
+    "stem": " A main turbine-generator is operating at 80 percent load with the following initial steady-state temperatures for the main turbine lube oil heat exchanger: T = 174\u00b0F oil in T = 114\u00b0F oil out T = 85\u00b0F water in T = 115\u00b0F water out After six months of main turbine-generator operation, the following final steady-state lube oil heat exchanger temperatures are observed: T = 179\u00b0F oil in T = 119\u00b0F oil out T = 85\u00b0F water in T = 115\u00b0F water out Assume the final cooling water and lube oil flow rates are the same as the initial flow rates, and the specific heat values for the cooling water and lube oil do not change. Which one of the following could be responsible for the differences between the initial and final heat exchanger steady-state temperatures? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "The heat exchanger tubes have become fouled with scale.",
+      "B": "The temperature of the cooling water source has increased.",
+      "C": "The final main turbine-generator load is higher than the initial load.",
+      "D": "The final main turbine-generator load is lower than the initial load. -537- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Heat Exchangers",
+    "stem": " Refer to the drawing of an operating lube oil heat exchanger (see figure below). If mineral deposits accumulate on the inside of the cooling water tubes, cooling water outlet temperature will __________; and lube oil outlet temperature will __________. (Assume the lube oil and cooling water inlet temperatures and flow rates do not change.) NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "increase; decrease",
+      "B": "increase; increase",
+      "C": "decrease; decrease",
+      "D": "decrease; increase -538- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Heat Exchangers",
+    "stem": " Refer to the drawing of an operating lube oil heat exchanger (see figure below). The heat exchanger was initially placed in continuous service 6 months ago. During the 6-month period of operation, mineral deposits have accumulated inside the heat exchanger tubes. The following parameters are currently stable at their initial values: \uf0b7 Lube oil mass flow rate \uf0b7 Lube oil inlet temperature \uf0b7 Lube oil outlet temperature \uf0b7 Cooling water inlet temperature Compared to their initial values, the current cooling water outlet temperature is __________; and the current cooling water mass flow rate is __________. NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "lower; greater",
+      "B": "lower; smaller",
+      "C": "higher; greater",
+      "D": "higher; smaller -539- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Heat Exchangers",
+    "stem": " Refer to the drawing of an operating lube oil heat exchanger (see figure below). The heat exchanger was initially placed in continuous service 6 months ago. During the 6-month period of operation, mineral deposits have accumulated inside the heat exchanger tubes. The following parameters are currently stable at their initial values: \uf0b7 Cooling water mass flow rate \uf0b7 Cooling water inlet temperature \uf0b7 Cooling water outlet temperature \uf0b7 Lube oil mass flow rate Compared to their initial values, the current lube oil inlet temperature is __________; and the current lube oil outlet temperature is __________. NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "lower; lower",
+      "B": "lower; higher",
+      "C": "higher; lower",
+      "D": "higher; higher -540- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Heat Exchangers",
+    "stem": " Chemically treated water is flowing through the tubes of a heat exchanger being cooled by fresh water. The shell side pressure is less than tube side pressure. What will occur as a result of a tube failure? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "Shell side pressure will increase and the chemically treated water system will be diluted.",
+      "B": "Shell side pressure will decrease and the chemically treated water inventory will be depleted.",
+      "C": "Shell side pressure will increase and the chemically treated water inventory will be depleted.",
+      "D": "Shell side pressure will decrease and the chemically treated water system will be diluted. -541- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Heat Exchangers",
+    "stem": " Refer to the drawing of an operating cooling water system (see figure below). Which one of the following effects will occur because of the failed tube in the heat exchanger? NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "Level in the surge tank will increase.",
+      "B": "Flow in the low pressure (LP) system will reverse.",
+      "C": "Pressure in the low pressure (LP) system will decrease.",
+      "D": "Low pressure (LP) fluid heat exchanger outlet temperature will decrease. -542- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Heat Exchangers",
+    "stem": " Refer to the drawing of an operating cooling water system (see figure below). Which one of the following will occur as a result of the indicated tube failure in the heat exchanger? (HP = high pressure; LP = low pressure) NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "HP fluid inventory will increase.",
+      "B": "Level in the surge tank will decrease.",
+      "C": "Pressure in the LP system will decrease.",
+      "D": "Temperature in the LP system will increase. -543- PWR Test Items"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Heat Exchangers",
+    "stem": " Refer to the drawing of an operating lube oil heat exchanger (see figure below). The heat exchanger was operating with the following initial parameters: Cooling water inlet temperature (T ) = 71\u00b0F cw-in Cooling water outlet temperature (T ) = 91\u00b0F cw-out Oil inlet temperature (T ) = 175\u00b0F oil-in Oil outlet temperature (T ) = 125\u00b0F oil-out The heat exchanger was vented, resulting in the following current parameters: Cooling water inlet temperature (T ) = 71\u00b0F cw-in Cooling water outlet temperature (T ) = 95\u00b0F cw-out Oil inlet temperature (T ) = 175\u00b0F oil-in Oil outlet temperature (T ) = ? oil-out Assume that the mass flow rates and specific heats of both fluids were unchanged. Which one of the following is the current lube oil outlet temperature (T )? oil-out NRC Generic Fundamentals Examination Question Bank--PWR November 2020",
+    "choices": {
+      "A": "115\u00b0F",
+      "B": "120\u00b0F",
+      "C": "130\u00b0F",
+      "D": "135\u00b0F -544- PWR Test Items"
+    },
     "answer": "A"
   }
 ]
